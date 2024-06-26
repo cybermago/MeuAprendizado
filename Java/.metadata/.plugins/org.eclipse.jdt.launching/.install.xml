@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/jvm/java-17-openjdk-amd64" stamp="1715000711695"/>
+    <entry loc="/home/cybermago/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.11.v20240426-1830/jre" stamp="1714947627745"/>
+    <entry loc="/usr/lib/jvm/jdk-22-oracle-x64" stamp="1715445414067"/>
+    <entry loc="/home/cybermago/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.11.v20240426-1830" stamp="1714947627745"/>
+    <entry loc="/usr/lib/jvm/jdk-21-oracle-x64" stamp="1715444511981"/>
+</dirs>
