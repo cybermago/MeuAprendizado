@@ -1,7 +1,0 @@
-INDEX VERSION 1.134+/home/cybermago/PROGRAM/JAVA/LearnJava3/.metadata/.plugins/org.eclipse.jdt.core
-1143721315.index
-3684360429.index
-761119937.index
-1781884843.index
-1865797976.index
-367520736.index
