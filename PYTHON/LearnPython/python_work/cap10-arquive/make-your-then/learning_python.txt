@@ -1,0 +1,14 @@
+No Python, podemos usar-ló em uma ampla gama de ideias e projetos.
+É uma linguagem interpretada, poo, imperativa multiplataforma 
+e com tipagem dinamica. Eu aprendi variaveis tipos simples e primitivos, operadores,
+conversão de variaveis, manipulação de strings,
+listas e manilulação de listas, dicionários e manipulação, 
+loops, entradas, funções, classes, orientação a objetos,
+e agora estou aprendendo a trabalhar com arquivos.
+
+Portanto sua aplicação se estende em todas as áreas da tecnologia,
+sendo seu ponto forte e nótorio entre os programadores, 
+inteligência artificial, ciência de dados, analise de dados,
+aprendizado de máquina, cálculos estatísticos,
+e de grande complexidade computacional por isso esse motivo,
+foi criada com o objetivo de ser fácil e acessível para todos.

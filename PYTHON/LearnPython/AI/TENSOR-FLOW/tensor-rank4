@@ -1,0 +1,23 @@
+import tensorflow as tf
+import matplotlib.pyplot as plt
+
+# Criando um tensor de exemplo com rank 4 usando TensorFlow
+tensor = tf.random.normal([5, 5, 3, 3])  # Tensor 5x5x3x3 com números aleatórios
+
+# Extraindo os valores do tensor
+tensor_valores = tensor.numpy()
+
+# Criando o gráfico com Matplotlib
+plt.figure(figsize=(12, 8))
+
+# Plotando cada "fatia" do tensor
+for i in range(tensor_valores.shape[2]):
+    for j in range(tensor_valores.shape[3]):
+        plt.subplot(tensor_valores.shape[2], tensor_valores.shape[3], i * tensor_valores.shape[3] + j + 1)
+        plt.imshow(tensor_valores[:, :, i, j], cmap='viridis')  # cmap='viridis' para cores amarelas a roxas
+        plt.colorbar()
+        plt.title(f"Slice {i},{j}")
+        plt.axis('off')
+
+plt.suptitle('Tensor Aleatório (5x5x3x3)')
+plt.show()

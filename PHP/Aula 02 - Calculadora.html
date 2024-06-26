@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head><title>Testando JavaScript</title>
+
+<meta charset="utf-8">
+</head>
+
+<body>
+
+<h1>Testando o Java Script</h1>
+
+<script type="text/javascript">
+
+alert("Ola Mundo");
+
+var titulo = '<h3>Exemplo de Funções </h3>';
+
+function subtrair(n1,n2) {
+	var resultado;
+	if(n1>n2){
+    resultado = n1-n2;
+	}
+	else{
+	resultado = n2-n1;
+	}
+	return resultado;
+}
+
+document.write(titulo);
+</script>
+
+Número 01: <input type="text" size="5" id="n1" />
+Número 02: <input type="text" size="5" id="n2" />
+<br>
+<input type="button" onclick="alert(subtrair(n1.value,n2.value));" value="subtrair" />
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package cap02;
+
+/**
+ * 
+ */
+public class CastDemo {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double x, y;
+		byte b;
+		int i;
+		char ch;
+		x = 10.0;
+		y = 3.0;
+		i = (int)
+	}
+
+}

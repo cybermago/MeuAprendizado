@@ -1,0 +1,1001 @@
+id,idade,saldo,risco_emprestimo
+1,50,Dollar,baixo
+2,24,Peso,baixo
+3,34,Franc,alto
+4,42,Rupiah,baixo
+5,67,Yuan Renminbi,baixo
+6,31,Rand,baixo
+7,96,Naira,alto
+8,20,Yuan Renminbi,médio
+9,64,Euro,alto
+10,100,Franc,alto
+11,83,Yuan Renminbi,baixo
+12,93,Dram,médio
+13,42,Yuan Renminbi,baixo
+14,46,Rupiah,alto
+15,49,Lev,baixo
+16,50,Baht,alto
+17,63,Yuan Renminbi,médio
+18,70,Krona,baixo
+19,43,Dollar,baixo
+20,40,Real,baixo
+21,25,Rupiah,baixo
+22,90,Euro,baixo
+23,22,Yuan Renminbi,médio
+24,70,Dollar,baixo
+25,73,Krona,alto
+26,46,Dollar,alto
+27,44,Peso,alto
+28,73,Dirham,alto
+29,34,Euro,médio
+30,96,Yuan Renminbi,baixo
+31,71,Rupiah,médio
+32,23,Peso,médio
+33,66,Yuan Renminbi,alto
+34,20,Yuan Renminbi,baixo
+35,84,Zloty,alto
+36,51,Peso,baixo
+37,45,Birr,baixo
+38,74,Naira,alto
+39,86,Zloty,alto
+40,63,Pound,alto
+41,25,Dollar,alto
+42,39,Ruble,médio
+43,98,Yuan Renminbi,médio
+44,71,Franc,médio
+45,44,Euro,baixo
+46,58,Zloty,médio
+47,37,Zloty,baixo
+48,23,Rupiah,alto
+49,93,Euro,baixo
+50,19,Rupiah,médio
+51,38,Dollar,médio
+52,47,Euro,baixo
+53,94,Yuan Renminbi,alto
+54,78,Euro,baixo
+55,60,Dollar,médio
+56,64,Euro,baixo
+57,44,Cordoba,médio
+58,25,Yuan Renminbi,alto
+59,49,Yen,médio
+60,35,Euro,alto
+61,56,Dollar,alto
+62,36,Kuna,alto
+63,37,Rupiah,baixo
+64,59,Yuan Renminbi,alto
+65,31,Shilling,médio
+66,98,Yuan Renminbi,alto
+67,89,Ruble,alto
+68,81,Euro,médio
+69,94,Denar,médio
+70,98,Yuan Renminbi,baixo
+71,65,Euro,médio
+72,70,Rupiah,médio
+73,23,Zloty,baixo
+74,50,Rial,baixo
+75,67,Yuan Renminbi,baixo
+76,21,Yuan Renminbi,médio
+77,28,Yuan Renminbi,médio
+78,60,Yuan Renminbi,baixo
+79,86,Krone,médio
+80,19,Franc,médio
+81,89,Dollar,médio
+82,93,Rupiah,alto
+83,77,Peso,alto
+84,60,Yuan Renminbi,baixo
+85,18,Shilling,médio
+86,74,Dollar,baixo
+87,52,Balboa,baixo
+88,43,Ruble,médio
+89,98,Peso,baixo
+90,46,Euro,alto
+91,88,Yuan Renminbi,baixo
+92,43,Hryvnia,baixo
+93,54,Peso,alto
+94,47,Koruna,alto
+95,64,Koruna,médio
+96,71,Rupiah,alto
+97,58,Zloty,baixo
+98,57,Rupiah,médio
+99,87,Ruble,alto
+100,77,Shilling,baixo
+101,43,Dinar,alto
+102,45,Rupiah,baixo
+103,51,Peso,alto
+104,95,Hryvnia,baixo
+105,53,Euro,alto
+106,40,Peso,baixo
+107,50,Lev,alto
+108,80,Rupiah,baixo
+109,47,Yuan Renminbi,baixo
+110,23,Yuan Renminbi,alto
+111,24,Colon,baixo
+112,73,Yuan Renminbi,médio
+113,94,Rupiah,médio
+114,56,Rupiah,médio
+115,100,Yen,médio
+116,62,Yuan Renminbi,baixo
+117,49,Yuan Renminbi,alto
+118,96,Ruble,baixo
+119,72,Euro,médio
+120,77,Krona,baixo
+121,37,Yuan Renminbi,médio
+122,80,Zloty,alto
+123,92,Euro,alto
+124,87,Ruble,alto
+125,78,Dinar,baixo
+126,63,Ruble,baixo
+127,21,Real,baixo
+128,80,Ruble,baixo
+129,21,Zloty,alto
+130,28,Dinar,baixo
+131,84,Baht,baixo
+132,94,Yuan Renminbi,alto
+133,71,Shilling,alto
+134,69,Ruble,alto
+135,66,Yuan Renminbi,alto
+136,42,Rupiah,alto
+137,38,Shilling,alto
+138,66,Baht,baixo
+139,31,Real,alto
+140,28,Real,médio
+141,73,Dollar,baixo
+142,97,Yuan Renminbi,alto
+143,28,Lari,médio
+144,45,Peso,médio
+145,64,Euro,alto
+146,24,Koruna,alto
+147,34,Dollar,médio
+148,88,Euro,médio
+149,39,Yuan Renminbi,baixo
+150,68,Euro,baixo
+151,99,Ruble,alto
+152,86,Hryvnia,médio
+153,29,Peso,médio
+154,55,Peso,alto
+155,82,Ruble,baixo
+156,30,Ruble,baixo
+157,84,Peso,médio
+158,41,Ruble,médio
+159,74,Rupiah,alto
+160,35,Krona,baixo
+161,55,Naira,médio
+162,69,Ruble,médio
+163,46,Euro,baixo
+164,91,Ringgit,alto
+165,67,Euro,alto
+166,80,Shekel,baixo
+167,56,Real,baixo
+168,95,Yuan Renminbi,baixo
+169,50,Euro,médio
+170,38,Dollar,médio
+171,36,Krona,baixo
+172,38,Rupiah,baixo
+173,71,Peso,baixo
+174,93,Yuan Renminbi,médio
+175,54,Ringgit,médio
+176,76,Bolivar,baixo
+177,53,Euro,médio
+178,68,Baht,médio
+179,51,Rupiah,baixo
+180,41,Euro,alto
+181,42,Yuan Renminbi,alto
+182,65,Dollar,baixo
+183,69,Dinar,médio
+184,21,Lempira,alto
+185,38,Yen,alto
+186,21,Yen,médio
+187,47,Real,baixo
+188,18,Rupiah,médio
+189,48,Yuan Renminbi,médio
+190,94,Koruna,baixo
+191,39,Koruna,alto
+192,94,Yuan Renminbi,médio
+193,35,Euro,baixo
+194,68,Real,baixo
+195,29,Ruble,médio
+196,82,Yuan Renminbi,baixo
+197,57,Yuan Renminbi,médio
+198,97,Sol,médio
+199,81,Yuan Renminbi,médio
+200,95,Dirham,médio
+201,18,Yuan Renminbi,médio
+202,23,Franc,baixo
+203,96,Ruble,baixo
+204,74,Euro,baixo
+205,20,Peso,baixo
+206,53,Yuan Renminbi,baixo
+207,76,Yuan Renminbi,alto
+208,80,Euro,alto
+209,90,Rupiah,baixo
+210,24,Yuan Renminbi,médio
+211,62,Dollar,alto
+212,54,Yuan Renminbi,alto
+213,19,Euro,médio
+214,95,Yuan Renminbi,baixo
+215,100,Yuan Renminbi,baixo
+216,49,Euro,médio
+217,77,Dollar,baixo
+218,72,Euro,baixo
+219,56,Yuan Renminbi,baixo
+220,30,Euro,alto
+221,71,Yuan Renminbi,alto
+222,98,Koruna,alto
+223,63,Real,baixo
+224,40,Rupee,baixo
+225,66,Dirham,alto
+226,74,Dinar,baixo
+227,48,Peso,baixo
+228,93,Yuan Renminbi,médio
+229,27,Dollar,alto
+230,35,Euro,médio
+231,55,Real,baixo
+232,97,Euro,alto
+233,50,Dollar,médio
+234,74,Peso,alto
+235,18,Baht,médio
+236,97,Ruble,baixo
+237,19,Peso,alto
+238,32,Euro,alto
+239,43,Krona,alto
+240,99,Quetzal,baixo
+241,77,Rupiah,alto
+242,62,Euro,alto
+243,47,Real,alto
+244,25,Baht,alto
+245,59,Sol,baixo
+246,98,Bolivar,médio
+247,57,Marka,baixo
+248,78,Tugrik,médio
+249,62,Euro,alto
+250,40,Kyat,alto
+251,99,Peso,alto
+252,57,Euro,baixo
+253,18,Yuan Renminbi,alto
+254,57,Rupiah,baixo
+255,70,Rupiah,alto
+256,20,Peso,alto
+257,35,Krona,médio
+258,88,Rupiah,alto
+259,22,Peso,alto
+260,58,Yuan Renminbi,alto
+261,46,Rupee,médio
+262,81,Leone,alto
+263,40,Yuan Renminbi,médio
+264,64,Peso,alto
+265,90,Rupiah,médio
+266,32,Euro,alto
+267,80,Lilangeni,alto
+268,41,Ruble,alto
+269,51,Yuan Renminbi,baixo
+270,84,Rupiah,alto
+271,45,Hryvnia,baixo
+272,65,Ruble,médio
+273,41,Real,alto
+274,53,Ringgit,baixo
+275,21,Rupiah,baixo
+276,66,Rupiah,baixo
+277,62,Rupiah,baixo
+278,89,Peso,alto
+279,80,Yuan Renminbi,médio
+280,79,Peso,alto
+281,63,Rupiah,alto
+282,44,Euro,baixo
+283,93,Euro,baixo
+284,47,Rupiah,baixo
+285,47,Yuan Renminbi,baixo
+286,92,Dollar,baixo
+287,84,Yuan Renminbi,baixo
+288,98,Ruble,alto
+289,68,Rupiah,médio
+290,92,Real,baixo
+291,60,Tenge,alto
+292,50,Euro,alto
+293,42,Ruble,médio
+294,23,Euro,baixo
+295,66,Dram,baixo
+296,86,Euro,alto
+297,83,Yuan Renminbi,alto
+298,44,Dollar,alto
+299,74,Rupiah,baixo
+300,72,Rupiah,alto
+301,34,Euro,médio
+302,83,Peso,médio
+303,82,Peso,baixo
+304,86,Yuan Renminbi,alto
+305,85,Shilling,baixo
+306,99,Zloty,alto
+307,83,Krona,alto
+308,86,Rupiah,médio
+309,21,Ruble,alto
+310,37,Peso,baixo
+311,32,Yen,alto
+312,96,Yuan Renminbi,alto
+313,67,Rupiah,baixo
+314,95,Peso,médio
+315,21,Yuan Renminbi,alto
+316,76,Won,baixo
+317,46,Kwacha,médio
+318,42,Yuan Renminbi,médio
+319,49,Real,alto
+320,93,Ruble,alto
+321,28,Yen,médio
+322,40,Ruble,alto
+323,64,Yuan Renminbi,alto
+324,35,Dollar,médio
+325,39,Dong,baixo
+326,32,Tugrik,baixo
+327,88,Rupiah,médio
+328,74,Ruble,alto
+329,23,Ruble,alto
+330,86,Real,alto
+331,38,Naira,médio
+332,88,Baht,médio
+333,57,Dollar,baixo
+334,20,Bolivar,baixo
+335,69,Litas,médio
+336,35,Rupiah,alto
+337,19,Real,alto
+338,72,Euro,baixo
+339,25,Manat,médio
+340,20,Yuan Renminbi,médio
+341,59,Pound,baixo
+342,37,Ruble,médio
+343,25,Peso,médio
+344,21,Rupiah,baixo
+345,77,Rand,baixo
+346,85,Ruble,médio
+347,78,Dong,baixo
+348,77,Pound,baixo
+349,42,Rupiah,alto
+350,64,Rand,médio
+351,24,Rupiah,médio
+352,28,Ariary,baixo
+353,50,Ruble,alto
+354,61,Ruble,alto
+355,86,Yuan Renminbi,alto
+356,43,Euro,baixo
+357,78,Ruble,baixo
+358,49,Zloty,alto
+359,26,Rupiah,médio
+360,44,Euro,alto
+361,31,Yuan Renminbi,baixo
+362,78,Real,médio
+363,36,Koruna,médio
+364,28,Ruble,médio
+365,43,Koruna,médio
+366,54,Ruble,baixo
+367,33,Dollar,médio
+368,91,Krona,baixo
+369,20,Yuan Renminbi,médio
+370,40,Hryvnia,médio
+371,99,Hryvnia,médio
+372,41,Yuan Renminbi,baixo
+373,70,Kuna,alto
+374,50,Zloty,alto
+375,26,Lek,médio
+376,71,Rupiah,baixo
+377,68,Tugrik,alto
+378,49,Dollar,médio
+379,95,Naira,baixo
+380,99,Hryvnia,baixo
+381,47,Peso,médio
+382,19,Real,médio
+383,74,Rupiah,baixo
+384,53,Peso,médio
+385,82,Sol,alto
+386,66,Dinar,baixo
+387,52,Rupiah,baixo
+388,89,Shekel,alto
+389,40,Yuan Renminbi,baixo
+390,100,Sol,baixo
+391,42,Zloty,médio
+392,64,Yuan Renminbi,médio
+393,40,Euro,alto
+394,32,Real,alto
+395,67,Real,alto
+396,20,Yuan Renminbi,alto
+397,91,Yuan Renminbi,baixo
+398,29,Yen,baixo
+399,55,Koruna,alto
+400,49,Real,alto
+401,38,Koruna,médio
+402,85,Real,médio
+403,36,Rupiah,baixo
+404,71,Yuan Renminbi,alto
+405,78,Rupee,alto
+406,64,Euro,alto
+407,92,Rand,alto
+408,65,Zloty,médio
+409,46,Euro,baixo
+410,45,Rupiah,baixo
+411,26,Dong,médio
+412,76,Dollar,alto
+413,49,Euro,alto
+414,30,Rand,baixo
+415,88,Koruna,alto
+416,100,Euro,alto
+417,73,Yuan Renminbi,médio
+418,77,Yuan Renminbi,alto
+419,41,Pula,médio
+420,33,Franc,baixo
+421,88,Peso,médio
+422,77,Peso,baixo
+423,48,Baht,médio
+424,65,Rupiah,alto
+425,47,Baht,baixo
+426,64,Yuan Renminbi,alto
+427,99,Euro,alto
+428,58,Yuan Renminbi,alto
+429,92,Zloty,baixo
+430,19,Euro,baixo
+431,80,Euro,alto
+432,31,Euro,baixo
+433,34,Peso,baixo
+434,24,Yen,alto
+435,21,Yuan Renminbi,médio
+436,29,Peso,alto
+437,88,Zloty,médio
+438,89,Ruble,alto
+439,31,Euro,alto
+440,86,Dollar,médio
+441,93,Dram,alto
+442,52,Peso,baixo
+443,34,Peso,baixo
+444,42,Yuan Renminbi,baixo
+445,76,Baht,alto
+446,58,Zloty,baixo
+447,88,Ruble,médio
+448,55,Yuan Renminbi,baixo
+449,75,Euro,baixo
+450,81,Rupiah,alto
+451,75,Rupiah,médio
+452,77,Euro,médio
+453,92,Koruna,médio
+454,51,Yuan Renminbi,médio
+455,91,Peso,alto
+456,65,Lek,médio
+457,65,Yen,baixo
+458,18,Rupiah,alto
+459,52,Krona,médio
+460,83,Rupiah,médio
+461,93,Ruble,alto
+462,82,Peso,alto
+463,66,Colon,baixo
+464,25,Rupiah,baixo
+465,19,Franc,baixo
+466,60,Metical,baixo
+467,38,Shekel,alto
+468,95,Som,alto
+469,29,Real,baixo
+470,62,Yuan Renminbi,alto
+471,42,Rupiah,baixo
+472,89,Dollar,alto
+473,67,Real,baixo
+474,95,Ruble,alto
+475,75,Yuan Renminbi,baixo
+476,94,Franc,alto
+477,62,Yuan Renminbi,médio
+478,80,Yuan Renminbi,baixo
+479,38,Peso,alto
+480,37,Ariary,médio
+481,67,Lempira,alto
+482,84,Yuan Renminbi,alto
+483,43,Dollar,alto
+484,80,Peso,alto
+485,68,Pound,alto
+486,20,Real,baixo
+487,74,Yuan Renminbi,alto
+488,64,Euro,médio
+489,24,Zloty,alto
+490,62,Ruble,baixo
+491,97,Yuan Renminbi,médio
+492,74,Zloty,baixo
+493,74,Yuan Renminbi,médio
+494,36,Dinar,médio
+495,89,Dollar,baixo
+496,63,Yuan Renminbi,médio
+497,88,Euro,baixo
+498,75,Rupiah,médio
+499,34,Baht,médio
+500,38,Peso,baixo
+501,32,Koruna,médio
+502,57,Ruble,alto
+503,94,Euro,alto
+504,41,Yen,baixo
+505,79,Ruble,baixo
+506,86,Peso,alto
+507,73,Rupiah,médio
+508,76,Pound,alto
+509,41,Krone,alto
+510,25,Euro,baixo
+511,91,Pound,alto
+512,55,Euro,baixo
+513,49,Hryvnia,baixo
+514,18,Yuan Renminbi,alto
+515,40,Dollar,baixo
+516,58,Dinar,baixo
+517,48,Pa'anga,baixo
+518,29,Ruble,médio
+519,72,Peso,médio
+520,65,Yuan Renminbi,médio
+521,39,Rupiah,médio
+522,37,Yuan Renminbi,baixo
+523,31,Ruble,alto
+524,57,Euro,baixo
+525,99,Rupiah,médio
+526,75,Dollar,alto
+527,48,Pound,alto
+528,31,Zloty,médio
+529,33,Rupiah,médio
+530,18,Yen,médio
+531,47,Rupiah,baixo
+532,60,Yuan Renminbi,baixo
+533,53,Kyat,alto
+534,49,Peso,médio
+535,18,Yuan Renminbi,médio
+536,57,Ruble,alto
+537,82,Peso,baixo
+538,25,Hryvnia,médio
+539,52,Lek,baixo
+540,78,Rand,baixo
+541,78,Baht,alto
+542,29,Ruble,baixo
+543,26,Zloty,alto
+544,32,Rupiah,alto
+545,68,Yuan Renminbi,médio
+546,19,Birr,médio
+547,69,Ruble,baixo
+548,82,Yuan Renminbi,alto
+549,90,Rupiah,alto
+550,60,Dollar,médio
+551,39,Krona,médio
+552,98,Peso,médio
+553,70,Koruna,médio
+554,18,Peso,alto
+555,66,Peso,médio
+556,78,Krona,baixo
+557,68,Rupiah,alto
+558,42,Baht,médio
+559,63,Euro,baixo
+560,68,Peso,médio
+561,82,Sol,baixo
+562,41,Naira,alto
+563,75,Real,alto
+564,98,Yuan Renminbi,alto
+565,61,Ruble,alto
+566,54,Sol,baixo
+567,41,Koruna,alto
+568,85,Lempira,baixo
+569,76,Yuan Renminbi,médio
+570,87,Yen,baixo
+571,81,Rupiah,baixo
+572,98,Rupiah,alto
+573,73,Ruble,médio
+574,87,Krona,médio
+575,93,Kuna,médio
+576,48,Krone,médio
+577,57,Won,médio
+578,72,Dong,médio
+579,50,Leu,alto
+580,53,Euro,médio
+581,39,Kuna,médio
+582,19,Peso,alto
+583,87,Koruna,alto
+584,47,Franc,médio
+585,49,Franc,alto
+586,43,Kuna,alto
+587,97,Koruna,alto
+588,20,Rial,médio
+589,39,Rupee,alto
+590,67,Real,baixo
+591,88,Dollar,baixo
+592,94,Dollar,médio
+593,96,Krona,médio
+594,51,Dinar,médio
+595,58,Euro,médio
+596,32,Ruble,baixo
+597,74,Rand,baixo
+598,59,Rupiah,médio
+599,69,Yuan Renminbi,médio
+600,75,Sol,alto
+601,20,Krone,baixo
+602,29,Ruble,alto
+603,100,Naira,baixo
+604,78,Pound,baixo
+605,80,Yuan Renminbi,médio
+606,59,Yuan Renminbi,alto
+607,22,Franc,médio
+608,24,Euro,médio
+609,49,Yuan Renminbi,baixo
+610,89,Dirham,médio
+611,46,Peso,baixo
+612,80,Yuan Renminbi,alto
+613,100,Yuan Renminbi,baixo
+614,97,Yuan Renminbi,médio
+615,23,Peso,alto
+616,40,Rupiah,médio
+617,23,Real,baixo
+618,89,Peso,alto
+619,94,Rupiah,médio
+620,97,Zloty,alto
+621,41,Real,alto
+622,26,Yuan Renminbi,baixo
+623,81,Rupee,alto
+624,83,Rupiah,médio
+625,36,Yen,alto
+626,60,Lev,médio
+627,24,Lek,médio
+628,94,Euro,médio
+629,53,Real,alto
+630,97,Yuan Renminbi,médio
+631,84,Peso,baixo
+632,60,Franc,médio
+633,36,Rupiah,médio
+634,49,Yuan Renminbi,médio
+635,43,Yuan Renminbi,médio
+636,21,Peso,alto
+637,26,Franc,médio
+638,62,Ruble,médio
+639,62,Rial,médio
+640,98,Euro,baixo
+641,99,Peso,alto
+642,30,Peso,baixo
+643,30,Euro,baixo
+644,57,Yuan Renminbi,médio
+645,71,Lev,médio
+646,76,Pound,baixo
+647,61,Rupee,médio
+648,70,Kyat,médio
+649,98,Euro,alto
+650,54,Afghani,médio
+651,34,Dollar,médio
+652,81,Ruble,baixo
+653,96,Ruble,alto
+654,27,Guarani,baixo
+655,72,Euro,alto
+656,63,Ruble,baixo
+657,53,Yuan Renminbi,médio
+658,39,Yuan Renminbi,alto
+659,89,Yuan Renminbi,alto
+660,55,Dirham,médio
+661,43,Rufiyaa,alto
+662,71,Naira,médio
+663,61,Koruna,médio
+664,58,Peso,baixo
+665,19,Peso,baixo
+666,46,Real,médio
+667,43,Euro,alto
+668,72,Euro,médio
+669,48,Naira,médio
+670,81,Rupiah,alto
+671,37,Ruble,baixo
+672,63,Yuan Renminbi,baixo
+673,59,Yuan Renminbi,alto
+674,71,Ringgit,médio
+675,20,Ruble,baixo
+676,36,Euro,médio
+677,57,Naira,baixo
+678,58,Euro,alto
+679,70,Yuan Renminbi,alto
+680,64,Taka,baixo
+681,94,Yuan Renminbi,alto
+682,38,Ruble,baixo
+683,84,Dollar,alto
+684,97,Rupiah,baixo
+685,64,Ruble,médio
+686,26,Euro,baixo
+687,69,Rupiah,médio
+688,24,Euro,baixo
+689,59,Franc,baixo
+690,25,Pound,alto
+691,65,Litas,alto
+692,88,Euro,médio
+693,25,Zloty,alto
+694,91,Real,alto
+695,54,Dong,baixo
+696,41,Yuan Renminbi,alto
+697,94,Peso,baixo
+698,26,Real,médio
+699,58,Euro,baixo
+700,96,Ruble,baixo
+701,69,Real,alto
+702,67,Euro,baixo
+703,37,Real,médio
+704,19,Real,baixo
+705,58,Euro,médio
+706,74,Euro,médio
+707,72,Euro,alto
+708,65,Peso,alto
+709,46,Real,baixo
+710,31,Peso,alto
+711,40,Euro,baixo
+712,24,Peso,alto
+713,75,Rupiah,baixo
+714,74,Shekel,médio
+715,70,Euro,alto
+716,25,Euro,baixo
+717,98,Ruble,alto
+718,54,Euro,baixo
+719,90,Euro,médio
+720,66,Yuan Renminbi,médio
+721,100,Peso,alto
+722,34,Dong,alto
+723,70,Peso,baixo
+724,93,Real,médio
+725,50,Dollar,alto
+726,86,Won,baixo
+727,73,Euro,alto
+728,34,Rupiah,médio
+729,25,Yuan Renminbi,alto
+730,31,Yen,médio
+731,46,Yuan Renminbi,médio
+732,33,Euro,alto
+733,80,Rupiah,médio
+734,18,Dollar,baixo
+735,88,Birr,baixo
+736,84,Peso,baixo
+737,57,Euro,médio
+738,77,Real,médio
+739,85,Sol,médio
+740,42,Rupiah,alto
+741,38,Marka,médio
+742,20,Koruna,médio
+743,91,Ruble,alto
+744,31,Rupiah,alto
+745,90,Dinar,alto
+746,20,Rupiah,médio
+747,26,Ruble,alto
+748,26,Yuan Renminbi,médio
+749,95,Yuan Renminbi,alto
+750,43,Rupiah,baixo
+751,40,Quetzal,baixo
+752,97,Ruble,baixo
+753,24,Yuan Renminbi,médio
+754,48,Yuan Renminbi,baixo
+755,30,Ruble,alto
+756,24,Dollar,baixo
+757,96,Krona,baixo
+758,21,Ruble,alto
+759,53,Yuan Renminbi,médio
+760,20,Dinar,baixo
+761,43,Rupiah,médio
+762,76,Peso,alto
+763,84,Yuan Renminbi,alto
+764,84,Real,alto
+765,61,Krona,médio
+766,48,Yuan Renminbi,médio
+767,74,Tenge,baixo
+768,97,Dollar,baixo
+769,74,Zloty,alto
+770,45,Sol,médio
+771,47,Peso,médio
+772,77,Sol,médio
+773,37,Dollar,médio
+774,50,Yuan Renminbi,alto
+775,64,Yuan Renminbi,médio
+776,22,Lempira,alto
+777,100,Baht,médio
+778,70,Rupiah,alto
+779,37,Yen,alto
+780,55,Euro,baixo
+781,96,Euro,alto
+782,45,Yuan Renminbi,médio
+783,92,Yuan Renminbi,alto
+784,89,Ruble,médio
+785,95,Euro,alto
+786,85,Tugrik,baixo
+787,99,Zloty,médio
+788,74,Rupiah,baixo
+789,19,Euro,baixo
+790,46,Rupiah,médio
+791,64,Ruble,baixo
+792,87,Lek,baixo
+793,20,Krona,baixo
+794,24,Rupiah,alto
+795,63,Zloty,médio
+796,99,Yuan Renminbi,alto
+797,53,Krone,alto
+798,71,Litas,alto
+799,79,Somoni,baixo
+800,97,Dong,baixo
+801,77,Rand,médio
+802,57,Yuan Renminbi,alto
+803,33,Naira,médio
+804,35,Yuan Renminbi,baixo
+805,48,Yuan Renminbi,médio
+806,90,Real,baixo
+807,97,Baht,médio
+808,20,Zloty,alto
+809,89,Yen,baixo
+810,19,Peso,médio
+811,82,Yuan Renminbi,médio
+812,67,Peso,médio
+813,40,Birr,alto
+814,42,Rupiah,alto
+815,80,Euro,alto
+816,59,Naira,médio
+817,68,Yen,alto
+818,66,Peso,alto
+819,46,Franc,baixo
+820,59,Peso,baixo
+821,100,Rupiah,alto
+822,56,Yen,médio
+823,51,Yuan Renminbi,médio
+824,53,Pound,médio
+825,74,Zloty,médio
+826,31,Franc,alto
+827,42,Rand,baixo
+828,92,Franc,alto
+829,24,Euro,alto
+830,64,Dong,alto
+831,62,Dong,baixo
+832,37,Euro,baixo
+833,46,Yuan Renminbi,alto
+834,60,Franc,baixo
+835,59,Yuan Renminbi,alto
+836,64,Peso,alto
+837,64,Yuan Renminbi,alto
+838,62,Ruble,médio
+839,47,Yuan Renminbi,alto
+840,95,Ruble,alto
+841,93,Dollar,baixo
+842,49,Peso,alto
+843,28,Rupiah,baixo
+844,49,Real,alto
+845,81,Hryvnia,médio
+846,18,Euro,alto
+847,56,Pound,médio
+848,62,Dollar,alto
+849,40,Dollar,alto
+850,36,Yuan Renminbi,alto
+851,48,Krona,médio
+852,80,Rupiah,alto
+853,47,Baht,médio
+854,27,Rupiah,médio
+855,23,Franc,alto
+856,98,Yuan Renminbi,alto
+857,48,Sol,baixo
+858,99,Dollar,médio
+859,63,Krona,baixo
+860,79,Peso,baixo
+861,95,Ruble,alto
+862,58,Zloty,alto
+863,59,Ruble,médio
+864,25,Yuan Renminbi,baixo
+865,31,Dollar,baixo
+866,38,Dollar,baixo
+867,95,Denar,médio
+868,29,Yuan Renminbi,alto
+869,38,Yuan Renminbi,baixo
+870,72,Yuan Renminbi,baixo
+871,63,Yuan Renminbi,alto
+872,85,Dram,médio
+873,43,Rupee,alto
+874,73,Yuan Renminbi,alto
+875,91,Euro,baixo
+876,75,Euro,médio
+877,46,Ruble,alto
+878,60,Yuan Renminbi,baixo
+879,21,Dollar,médio
+880,31,Yuan Renminbi,alto
+881,61,Peso,alto
+882,76,Dollar,baixo
+883,86,Pound,baixo
+884,95,Franc,médio
+885,20,Dollar,alto
+886,32,Zloty,baixo
+887,87,Sol,alto
+888,71,Real,médio
+889,88,Euro,alto
+890,19,Yuan Renminbi,baixo
+891,69,Yuan Renminbi,médio
+892,86,Ruble,baixo
+893,67,Ruble,alto
+894,99,Shilling,médio
+895,41,Baht,alto
+896,53,Euro,baixo
+897,57,Yuan Renminbi,baixo
+898,63,Zloty,médio
+899,27,Rupiah,baixo
+900,55,Baht,baixo
+901,65,Krona,médio
+902,76,Ruble,alto
+903,66,Yuan Renminbi,alto
+904,53,Yuan Renminbi,alto
+905,38,Euro,baixo
+906,87,Koruna,alto
+907,76,Peso,médio
+908,55,Peso,médio
+909,20,Rand,alto
+910,65,Rupiah,alto
+911,18,Shekel,médio
+912,86,Krone,baixo
+913,67,Yuan Renminbi,médio
+914,37,Dollar,médio
+915,52,Rupiah,alto
+916,21,Ruble,médio
+917,87,Yuan Renminbi,médio
+918,66,Pound,baixo
+919,46,Colon,médio
+920,97,Real,alto
+921,100,Yuan Renminbi,baixo
+922,38,Somoni,alto
+923,96,Ruble,baixo
+924,26,Manat,médio
+925,45,Rial,médio
+926,22,Peso,alto
+927,55,Ruble,médio
+928,48,Peso,baixo
+929,44,Rupiah,alto
+930,29,Real,médio
+931,24,Yuan Renminbi,baixo
+932,100,Yen,alto
+933,33,Peso,baixo
+934,100,Yuan Renminbi,baixo
+935,81,Euro,alto
+936,89,Euro,médio
+937,24,Peso,médio
+938,55,Euro,alto
+939,31,Real,alto
+940,35,Peso,baixo
+941,26,Yuan Renminbi,médio
+942,22,Shekel,alto
+943,34,Ruble,baixo
+944,42,Yuan Renminbi,baixo
+945,100,Bolivar,alto
+946,23,Ruble,baixo
+947,28,Rupiah,baixo
+948,46,Ruble,alto
+949,50,Real,alto
+950,87,Yuan Renminbi,baixo
+951,74,Ruble,baixo
+952,47,Krona,médio
+953,99,Rupiah,médio
+954,43,Zloty,baixo
+955,45,Sol,baixo
+956,66,Baht,baixo
+957,48,Euro,alto
+958,60,Yuan Renminbi,baixo
+959,52,Ruble,alto
+960,69,Peso,alto
+961,46,Zloty,baixo
+962,36,Yuan Renminbi,alto
+963,18,Ouguiya,médio
+964,66,Tenge,alto
+965,79,Yen,alto
+966,65,Ruble,baixo
+967,85,Baht,baixo
+968,39,Rupiah,médio
+969,24,Yuan Renminbi,alto
+970,47,Rupiah,baixo
+971,56,Peso,médio
+972,80,Peso,alto
+973,38,Franc,médio
+974,53,Yuan Renminbi,médio
+975,95,Yuan Renminbi,médio
+976,93,Yuan Renminbi,alto
+977,40,Real,baixo
+978,44,Rupiah,médio
+979,73,Peso,alto
+980,53,Pound,baixo
+981,32,Marka,médio
+982,88,Koruna,alto
+983,48,Euro,médio
+984,93,Hryvnia,alto
+985,43,Yuan Renminbi,baixo
+986,37,Sol,médio
+987,78,Euro,alto
+988,82,Rupiah,médio
+989,73,Peso,alto
+990,56,Yuan Renminbi,alto
+991,27,Euro,médio
+992,27,Yuan Renminbi,médio
+993,45,Real,baixo
+994,76,Peso,baixo
+995,30,Rupiah,baixo
+996,63,Peso,médio
+997,30,Baht,baixo
+998,23,Peso,médio
+999,58,Yuan Renminbi,baixo
+1000,59,Yuan Renminbi,médio

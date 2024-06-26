@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package niotest;
+import java.nio.file.*;
+/**
+ * 
+ */
+public class cursojava2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Path p1 = Paths.get("/home/cybermago/PROGRAM/JAVA/LearnJava3/Curse/src/file.txt");
+
+	}
+
+}

@@ -1,0 +1,7 @@
+<?php
+global $aluno1= 'marcos';
+function escola($aluno1,$aluno2){
+$aluno2= 'joao';
+echo "alunos: $aluno1";
+}
+?>

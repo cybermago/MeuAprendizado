@@ -1,0 +1,1002 @@
+id,nome,marca,modelo,os,device_date,barcode,estoque,preço,preço_mercado,data,credit_card,code,moeda
+1,Ali Brann,Samsung,Samsung P510,Feature phone,2004,65703-5044,"H&E Equipment Services, Inc.",$0.63,$679.83M,1/5/2021,3535306026782796,CNY,Yuan Renminbi
+2,Loren Heinrici,alcatel,alcatel OT 511,Feature phone,2001,0067-0129,"Summit Hotel Properties, Inc.",$3.10,n/a,2/3/2023,30445184112572,GHS,Cedi
+3,Inesita Maden,Spice,Spice Mi-422 Smartflo Pace,Android 4.0,2013,63629-4719,"Under Armour, Inc.",$3.26,$8.67B,10/1/2021,3582976943818436,CNY,Yuan Renminbi
+4,Adorne Bold,Samsung,Samsung U960 Rogue,Feature phone,2009,69231-003,iPath US Treasury 5-year Bull ETN,$3.37,$4.9M,2/26/2024,3568305265518408,EUR,Euro
+5,Alfred Durston,Motorola,Motorola A780,Linux,2004,57664-508,W.R. Berkley Corporation,$9.73,$8.51B,9/24/2022,3569709401201531,EUR,Euro
+6,Mary Gorke,Oppo,Oppo F11,"Android 9.0, ColorOS 6",2019,43269-726,Moelis & Company,$4.99,$1.01B,9/5/2021,4903877944545608,IDR,Rupiah
+7,Hannie Revely,Coolpad,Coolpad Defiant,Android 7.0,2017,63629-2816,"America Movil, S.A.B. de C.V.",$6.96,$51.95B,10/14/2022,5480495671579332,IQD,Dinar
+8,Alfonse Yegorshin,Samsung,Samsung Rugby Smart I847,Android 2.3.6,2012,0093-7472,Frontline Ltd.,$9.58,$920.37M,1/4/2021,3570178446093856,IDR,Rupiah
+9,Morey Bjorkan,Micromax,Micromax Q3,Feature phone,2009,48951-8135,Cemtrex Inc.,$0.93,n/a,12/26/2021,3531714214880039,IDR,Rupiah
+10,Billi Andrzejczak,Nokia,Nokia 3660,"Symbian 6.1, Series 60 v1.0 UI",2003,40042-025,"Entergy Louisiana, Inc.",$5.20,n/a,3/2/2024,6387876263174040,CNY,Yuan Renminbi
+11,Emery Linzey,Huawei,Huawei Y7p,"Android 9.0, EMUI 9, no Google Play Services",2020,54868-4093,Brookfield Global Listed Infrastructure Income Fund,$7.58,$188.64M,2/3/2024,5401330053247065,CNY,Yuan Renminbi
+12,Moreen Harnell,Philips,Philips D833,Android 4.0,2013,30142-906,"Hologic, Inc.",$1.17,$12.41B,3/10/2022,560222407464691510,AFN,Afghani
+13,Derby Belcher,Philips,Philips Fisio 620,Feature phone,2002,49693-1501,"World Point Terminals, LP",$7.60,$603.44M,4/4/2020,6382209696240185,IDR,Rupiah
+14,Jamal Corrington,alcatel,alcatel OT-E159,Feature phone,2005,10812-415,"James River Group Holdings, Ltd.",$8.79,$1.18B,3/19/2021,5610311307245102,RUB,Ruble
+15,Leann Flight,Lava,Lava Iris 460,Android 4.4.2,2014,49288-0728,"Dunkin' Brands Group, Inc.",$2.00,$5.17B,11/30/2021,3558650805216852,BRL,Real
+16,Smitty Jakobsson,Samsung,Samsung Galaxy On5 (2016),Android 6.0.1,0,52125-896,First Trust Managed Municipal ETF,$7.57,$137.93M,12/2/2023,3563181326727642,CNY,Yuan Renminbi
+17,Brianna Mardle,Wiko,Wiko Jerry,Android 6.0,2016,49035-098,Altisource Portfolio Solutions S.A.,$2.55,$403.3M,9/23/2020,5038042050408365,HRK,Kuna
+18,Rafaela Tollow,QMobile,QMobile Noir i10,Android 4.4.2,2014,0054-0392,Infinity Property and Casualty Corporation,$1.71,$1.05B,3/4/2021,3566671484886088,BWP,Pula
+19,Latashia Josskowitz,Samsung,Samsung R351 Freeform,Feature phone,2009,64987-0296,Gabelli Utility Trust (The),$7.59,$296.84M,8/22/2023,30121090222124,CNY,Yuan Renminbi
+20,Gillie Baynes,Motorola,Motorola CHARM,Android 2.1,2010,57525-002,Baxter International Inc.,$7.99,$31.49B,3/9/2023,5419361124461963,IDR,Rupiah
+21,Leese Mustchin,iNQ,iNQ Cloud Q,Android 2.2,0,55154-5439,Horizon Bancorp (IN),$5.20,$580.2M,8/29/2022,3566377642449849,UAH,Hryvnia
+22,Herman Kingaby,Archos,Archos 55 Graphite,Android 7.0,2017,0615-7666,First Trust Developed Markets ex-US Small Cap AlphaDEX Fund,$7.92,$7.7M,12/23/2022,6377457735660064,SEK,Krona
+23,Dalston Broseman,Samsung,Samsung D780,Feature phone,2008,47593-483,iShares S&P/Citigroup 1-3 Year International Treasury Bond Fun,$1.67,$76.92M,1/6/2022,3554660556478266,CNY,Yuan Renminbi
+24,Trudie Orsi,Xiaomi,Xiaomi Mi 10i 5G,"Android 10, MIUI 12",2021,58411-188,"Westmoreland Resource Partners, LP",$0.38,$4.11M,7/5/2020,3531306214847728,RUB,Ruble
+25,Gaynor Yukhtin,Micromax,Micromax Q2,Feature phone,2009,14783-256,"Catalent, Inc.",$5.74,$4.61B,2/13/2023,3546534349858327,CNY,Yuan Renminbi
+26,Katie Weston,alcatel,alcatel Go Flip V,KaiOS 2.5,2019,42213-370,Mercury General Corporation,$3.12,$3.11B,6/1/2022,4041590426104371,ALL,Lek
+27,Gayla Morehall,Huawei,Huawei G3621L,Feature phone,2013,42681-0512,"Herman Miller, Inc.",$8.58,$1.85B,12/14/2022,5100132669014226,VND,Dong
+28,Charis Plumb,Unnecto,Unnecto Edge,Feature phone,2011,58988-0018,KKR Financial Holdings LLC,$2.18,n/a,1/24/2020,201796575669924,CNY,Yuan Renminbi
+29,King Marchbank,Sony,Sony Ericsson Xperia PLAY,Android 2.3.4,2011,37808-511,"Alliance HealthCare Services, Inc.",$1.01,$143.51M,11/12/2021,4936425614379275973,USD,Dollar
+30,Victoria Filip,ZTE,ZTE Maven,Android 5.1,2015,35000-868,Fox Factory Holding Corp.,$2.00,$1.22B,11/27/2022,3577633533663741,BYR,Ruble
+31,Hamid Filkov,Meizu,Meizu MX5e,"Android 5.1, Flyme 5",2016,63629-2626,"Cable One, Inc.",$9.93,$4.14B,4/13/2021,4026005098621197,GTQ,Quetzal
+32,Waldo Gregg,Samsung,Samsung R200,Feature phone,2001,16571-657,PowerShares International Dividend Achievers Portfolio,$1.98,$802.72M,3/20/2022,3564451349871464,HNL,Lempira
+33,Hilary Fripps,Huawei,Huawei MatePad T 10s,"Android 10, EMUI 10.1",2020,65162-218,"Forterra, Inc.",$3.79,$411.13M,10/31/2023,3551701862493343,JPY,Yen
+34,Amalle Lyburn,Pantech,Pantech PG-6200,Feature phone,2006,49349-856,Centrais Electricas Brasileiras S.A.- Eletrobras,$4.22,n/a,6/9/2021,676766025447219237,KRW,Won
+35,Gerrilee Crassweller,Nokia,Nokia C5,"Symbian 9.3, Series 60 rel. 3.2",2010,50844-352,Ashford Hospitality Trust Inc,$4.46,n/a,11/4/2020,5132247968798238,COP,Peso
+36,Darill Haspineall,Micromax,Micromax A92,Android 4.1.2,2013,0338-0054,Wells Fargo & Company,$2.75,n/a,3/10/2022,3567431533366478,VND,Dong
+37,Dominique Jewar,Nokia,Nokia 1.4,"Android 10, planned upgrade to Android 11",2021,76509-151,US Foods Holding Corp.,$7.47,$6.33B,7/18/2023,30500260287043,AUD,Dollar
+38,Sonnnie Luety,XOLO,XOLO Q1000s plus,Android 4.2,2014,51079-191,"IF Bancorp, Inc.",$7.88,$77.63M,12/11/2023,3536254480217215,BRL,Real
+39,Giusto Jimpson,Asus,Asus J502,Feature phone,2007,0268-7000,FIRST REPUBLIC BANK,$5.77,n/a,12/4/2022,67097211130913086,JPY,Yen
+40,Pascal Moar,Asus,Asus Transformer Book Trio,Android 4.2,2013,64942-1281,Big 5 Sporting Goods Corporation,$5.05,$316.8M,6/30/2020,3564117580267866,PEN,Sol
+41,Rex Hamly,HTC,HTC Tattoo,"Android 1.6, Sense UI",2009,59899-006,"First Solar, Inc.",$3.64,$3.74B,3/10/2021,6759241669449343751,MYR,Ringgit
+42,Jackie Mantle,Samsung,Samsung Galaxy S9 Active,Android 8.0,0,53808-0922,Bio-Techne Corp,$9.16,$4.17B,7/30/2021,490391132008387178,CNY,Yuan Renminbi
+43,Pablo Sapson,Celkon,Celkon C1,Feature phone,2011,60512-8010,Pegasystems Inc.,$5.56,$4.6B,8/3/2021,56022116015603319,RUB,Ruble
+44,Ciro Gheraldi,LG,LG K22,Android 10,2020,63824-340,Guggenheim Credit Allocation Fund,$3.64,$161.51M,1/15/2023,372806306501198,PLN,Zloty
+45,Tanitansy Farney,Celkon,Celkon C5,Feature phone,2011,55154-3575,Horizon Technology Finance Corporation,$9.57,$129.45M,10/19/2020,5010124547586912,SEK,Krona
+46,Shirl Morse,vivo,vivo Z1 Lite,"Android 8.1, Funtouch 4",2018,0641-6068,"Minerva Neurosciences, Inc",$6.30,$356.04M,3/23/2022,3545669347221820,CNY,Yuan Renminbi
+47,Kali Chicotti,Vertu,Vertu Constellation Quest,Symbian OS,2010,42291-595,Regions Financial Corporation,$5.22,$17.26B,7/9/2021,3528412312862463,USD,Dollar
+48,Augustina Reims,Samsung,Samsung Galaxy Pocket Duos S5302,Android 2.3,2012,36987-2480,OFG Bancorp,$9.40,n/a,1/20/2023,3568010232108156,CNY,Yuan Renminbi
+49,Myron Nealon,Nokia,Nokia 105,Feature phone,2013,64893-902,"Gardner Denver Holdings, Inc.",$7.32,$4.54B,10/16/2022,4508318831772350,JPY,Yen
+50,Isaak Yea,Philips,Philips W920,Android 2.2,2011,60432-671,Nuveen Multi-Market Income Fund,$4.70,$71.11M,4/11/2023,3564975328473967,CNY,Yuan Renminbi
+51,Verene Emloch,alcatel,alcatel Fierce XL (Windows),Microsoft Windows 10,2016,65862-246,"SCYNEXIS, Inc.",$2.77,$42.31M,3/24/2021,4917370805048452,KGS,Som
+52,Bree Riteley,Samsung,Samsung C3782 Evan,Feature phone,2012,21749-607,FlexShares US Quality Large Cap Index Fund,$1.73,$23.84M,5/29/2023,3556213574200086,NGN,Naira
+53,Hortense Dewing,LeEco,LeEco Le Max,Android 5.1,2016,0904-5525,"Vermillion, Inc.",$3.88,$95.91M,3/14/2021,5554776820375263,EUR,Euro
+54,Armin Sawkin,Maxwest,Maxwest Nitro 5M,Android 6.0,2016,42361-008,Western Alliance Bancorporation,$3.55,n/a,11/17/2020,490524615481977879,COP,Peso
+55,Carey Sarjeant,Ulefone,Ulefone Watch GPS,Proprietary OS,2020,59667-0059,"Prestige Brand Holdings, Inc.",$3.06,$2.79B,1/14/2021,4917315919542940,EUR,Euro
+56,Sidonnie Lammers,Intex,Intex Aqua Craze,Android 5.1,2016,37808-405,PowerShares Dividend Achievers Portfolio,$5.72,$317.19M,2/24/2024,490388146881816314,CNY,Yuan Renminbi
+57,Sally Roseborough,ZTE,ZTE Blade V8,"Android 7.0, MiFavor 4.2",2017,54868-3059,Liberty Media Corporation,$8.64,$13.88B,12/6/2023,3555152730254036,CNY,Yuan Renminbi
+58,Lynelle McKevany,Gionee,Gionee K6,Android 7.1,2020,63505-158,"Merrill Lynch & Co., Inc.",$3.11,n/a,8/15/2020,342091094605025,PHP,Peso
+59,Kelby Fullilove,Samsung,Samsung Galaxy A Quantum,"Android 10, One UI 2",2020,54505-101,Jupai Holdings Limited,$3.21,$258.29M,2/13/2023,4026800805052011,VEF,Bolivar
+60,Paton Bugby,Dell,Dell XCD28,Android 2.1,2010,0944-0490,VictoryShares US 500 Enhanced Volatility Wtd ETF,$3.75,$30.92M,1/24/2021,5602226994819060,UAH,Hryvnia
+61,Heather Hasling,Sony,Sony CM-DX 1000,Feature phone,1997,68927-3490,"Five Point Holdings, LLC",$8.62,$887.55M,7/5/2021,3585075361555070,CNY,Yuan Renminbi
+62,Binnie Hugo,Vodafone,Vodafone 227,Feature phone,2007,0485-0171,"Cidara Therapeutics, Inc.",$8.36,$115.12M,11/17/2021,3563699933789200,CNY,Yuan Renminbi
+63,Aldwin Bullier,vivo,vivo Z1x,"Android 9.0, up to Android 10, Funtouch 10",2019,51079-932,"Blackrock MuniYield California Fund, Inc.",$3.24,$326.9M,11/8/2020,3546130015895139,CNY,Yuan Renminbi
+64,Georgianne MacMakin,ZTE,ZTE Blade V10,"Android 9.0, MiFavor 9.0",2019,63629-1446,Kayne Anderson MLP Investment Company,$0.97,n/a,10/13/2020,5462801151555902,PKR,Rupee
+65,Doti Malthouse,Samsung,Samsung Galaxy Prevail,Android 2.2,2011,50007-1000,TPG Pace Energy Holdings Corp.,$2.91,n/a,9/11/2022,3585383457087622,JPY,Yen
+66,Marilee Bladen,Pantech,Pantech GB100,Feature phone,2004,11673-009,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,$9.18,$327.09M,4/20/2023,3541369325095478,BRL,Real
+67,Sue Kalinowsky,Lenovo,Lenovo A850,Android 4.2.2,2013,0517-8571,"Reata Pharmaceuticals, Inc.",$7.63,n/a,1/21/2024,3563424543898808,PHP,Peso
+68,Leontyne Newman,Sagem,Sagem MY V-75,Feature phone,2004,67938-0826,J P Morgan Chase & Co,$8.10,n/a,10/28/2021,3575150863443893,IDR,Rupiah
+69,Gilberto Mirrlees,Micromax,Micromax Vdeo 1,Android 6.0,2016,36800-070,Dominion Diamond Corporation,$3.15,$1.03B,2/22/2020,201912683669744,IDR,Rupiah
+70,Raoul Pratley,Allview,Allview Viva H8 LTE,Android 4.4.4,2014,0054-0120,Rent-A-Center Inc.,$1.73,$633.57M,4/27/2020,4844475963863192,COP,Peso
+71,Ives Trobe,Prestigio,Prestigio MultiPhone 3400 Duo,Android 4.2,2013,60505-3132,AC Immune SA,$5.56,$484.41M,5/7/2022,6386092190973154,CAD,Dollar
+72,Polly Bisson,Huawei,Huawei MediaPad M5 Lite 8,"Android 9.0, EMUI 9.0",2019,51346-118,Alamos Gold Inc.,$5.18,$2.12B,9/22/2020,3532097331308970,TTD,Dollar
+73,Heidi Bernette,Samsung,Samsung Galaxy M21,"Android 10, up to Android 11, One UI 3.1 Core",2020,0456-0400,"Meridian Bancorp, Inc.",$9.10,$895.77M,12/9/2021,4844786465770903,USD,Dollar
+74,Isis Shimony,HTC,HTC 10 evo,Android 7.0,2016,50436-0262,"HV Bancorp, Inc.",$0.86,$31.4M,1/28/2023,3550743369783827,IRR,Rial
+75,Arlina Blackway,NEC,NEC N908,Feature phone,2006,16129-003,ProShares UltraShort Nasdaq Biotechnology,$3.93,$52.03M,8/9/2023,5385337529048456,CNY,Yuan Renminbi
+76,Kerrie Weed,LG,LG GM730 Eigen,Microsoft Windows Mobile 6.1 Professional,2009,12546-191,"Innophos Holdings, Inc.",$7.03,$854.42M,3/17/2022,30374689332214,PHP,Peso
+77,Dyann Gauthorpp,Telit,Telit t130,Feature phone,2006,75983-003,The GDL Fund,$9.79,$186.14M,9/22/2023,3589100417965416,CAD,Dollar
+78,Kriste Meharry,ZTE,ZTE Blade V9 Vita,Android 8.1,2018,35356-702,First Trust NASDAQ-100- Technology Index Fund,$1.59,$2.14B,8/12/2022,0604801838485211844,JPY,Yen
+79,Harriett Oldfield,Innostream,Innostream INNO 55,Feature phone,2004,0440-1866,Fifth Third Bancorp,$7.54,$19.11B,4/8/2023,3535558854538282,IDR,Rupiah
+80,Erasmus Hemmingway,Gionee,Gionee S6,"Android 5.1.1, Amigo 3.1",2015,54868-6239,Kayne Anderson MLP Investment Company,$6.32,n/a,6/12/2022,5602223534587581106,CNY,Yuan Renminbi
+81,Marney Hrus,Celkon,Celkon A87,Android 2.3.6,2013,49035-515,"FibroGen, Inc",$8.21,$2.08B,7/7/2022,3560267415285346,BRL,Real
+82,Pierette Newsham,Samsung,Samsung Galaxy Tab 7.7 LTE I815,Android 3.2,2012,57955-0011,"Simpson Manufacturing Company, Inc.",$7.69,$2.08B,7/12/2022,337941241931632,JPY,Yen
+83,Gaye Pipet,Apple,Apple Watch Edition Series 5,"watchOS 6.0, up to 7.6",2019,36987-2979,"Charles River Laboratories International, Inc.",$4.91,$4.56B,4/26/2021,3546649575762124,CNY,Yuan Renminbi
+84,Oralie Geal,Sony,Sony Ericsson K500,Feature phone,2004,0944-2960,"Gabelli Equity Trust, Inc. (The)",$8.61,n/a,5/28/2021,337941713275302,CNY,Yuan Renminbi
+85,Clemente Starsmore,HP,HP iPAQ h6315,Microsoft Windows Mobile 2003 Poc&hellip;,2004,49999-328,"First Interstate BancSystem, Inc.",$6.55,$2.13B,9/24/2021,5245957116235677,PHP,Peso
+86,Doe Lisett,Lenovo,Lenovo A269i,Android 2.3,2013,62756-310,Western Asset Investment Grade Defined Opportunity Trust Inc.,$0.71,$225.71M,1/11/2020,5552106411110865,CAD,Dollar
+87,Kleon Duddy,Sagem,Sagem MY X-4,Feature phone,2004,58118-5767,"ConforMIS, Inc.",$8.95,$180.66M,9/4/2021,6759519641184550,PHP,Peso
+88,Malcolm Wellbelove,alcatel,alcatel OT-993,Android 4.0,2012,53808-0942,"China Natural Resources, Inc.",$2.37,$51.07M,5/2/2021,3587636958341303,PLN,Zloty
+89,Jeramie Readhead,Wiko,Wiko Highway Pure 4G,Android 4.4.4,2015,54868-5953,Dover Downs Gaming & Entertainment Inc,$8.92,$36.8M,1/6/2020,6304193373382253514,IRR,Rial
+90,Eustacia Galbreth,Honor,Honor 3C 4G,"Android 4.4.2, EMUI 2.3",2014,10888-7136,"Syndax Pharmaceuticals, Inc.",$4.61,$204.47M,9/9/2020,3528077905843293,IDR,Rupiah
+91,Gilligan Matthias,Sony,Sony Ericsson Mix Walkman,Feature phone,2011,0009-0013,"CYS Investments, Inc.",$6.80,n/a,8/23/2020,374622915210958,PLN,Zloty
+92,Elliot Aarons,alcatel,alcatel Pop C1,Android 4.2,2014,68479-700,Diebold Nixdorf Incorporated,$7.51,$2.01B,9/30/2021,50184548489456120,CNY,Yuan Renminbi
+93,Adora Rieflin,Realme,Realme 6,"Android 10, Realme UI",2020,63629-1470,Heritage Commerce Corp,$3.16,$520.01M,3/30/2023,5893019136687992,CNY,Yuan Renminbi
+94,Gayel Bullene,Allview,Allview X3 Soul mini,Android 5.1,2016,0264-3205,"Amplify Snack Brands, inc.",$3.40,$686.2M,8/30/2023,30227035208787,PHP,Peso
+95,Obadias Trobridge,verykool,verykool i605,Feature phone,2012,42787-101,"Aviat Networks, Inc.",$9.51,$93.71M,6/20/2022,201851747864851,RUB,Ruble
+96,Aeriela Rosenstock,Huawei,Huawei Ascend P1,"Android 4.0, up to 4.2",2012,68151-1021,VictoryShares US Small Cap Volatility Wtd ETF,$7.31,$2.17B,4/12/2020,6387738022994409,IDR,Rupiah
+97,Blanche Stoffels,vivo,vivo Y50,"Android 10, Funtouch 10.0",2020,21695-034,Intellipharmaceutics International Inc.,$2.26,$64.12M,3/30/2023,3580137160279701,BRL,Real
+98,Bibby Sparkwell,Nokia,Nokia 2600,Feature phone,2004,49288-0283,"XG Technology, Inc",$3.44,$21.96M,6/10/2022,349908311553873,IDR,Rupiah
+99,Adella Wooffitt,Prestigio,Prestigio MultiPad 8.0 HD,Android 4.2,2013,44911-0080,"Commerce Bancshares, Inc.",$2.06,$2.4B,10/26/2022,5602219920202030,CZK,Koruna
+100,Johan Matthewson,Samsung,Samsung T429,Feature phone,2007,49893-100,Long Island Iced Tea Corp.,$5.66,$48.2M,7/14/2023,3537605864766839,ILS,Shekel
+101,Tarrance Waddingham,Samsung,Samsung Galaxy S6 Duos,"Android 5.0.2, up to Android 8.0, TouchWiz UI",2015,55154-5462,"American Renal Associates Holdings, Inc",$5.96,$569.45M,3/10/2020,374622451463714,USD,Dollar
+102,Britt Curran,Sewon,Sewon SGD-102,Feature phone,2004,54868-3559,Mitel Networks Corporation,$0.47,$905.69M,10/3/2023,6709910901462786243,IDR,Rupiah
+103,Hadlee Obey,Toshiba,Toshiba Excite Pro,"Android 4.2.1, upgrad&#1072;ble to 4.3",2013,30142-704,Invesco Senior Income Trust,$5.39,$822.77M,5/11/2021,201672797712000,IDR,Rupiah
+104,Adriaens Matokhnin,LG,LG G Watch W100,Android Wear OS,2014,0404-0400,"Patterson-UTI Energy, Inc.",$7.51,$4.33B,11/23/2022,3572272795337002,CNY,Yuan Renminbi
+105,Lea Lyne,BLU,BLU Touch Book 7.0 Plus,Android 4.0,2012,0264-1101,"Customers Bancorp, Inc",$9.19,n/a,8/27/2020,3533031866833291,IDR,Rupiah
+106,Shurlock Kristufek,ZTE,ZTE PF 100,Android 4.0,0,60505-0833,"Summer Infant, Inc.",$6.75,$34.46M,3/4/2024,3562044938340108,USD,Dollar
+107,Standford Dublin,ZTE,ZTE Reef,Android 4.1,2013,76472-1161,CNB Financial Corporation,$3.43,$357.95M,11/17/2022,3584202627435639,CNY,Yuan Renminbi
+108,Sascha Neising,NEC,NEC N750,Feature phone,2005,61589-6011,BP p.l.c.,$3.02,$117.99B,6/12/2022,3581441544770800,SEK,Krona
+109,Tawsha Checkley,Micromax,Micromax Canvas Juice 2 AQ5001,Android 5.0,2015,10956-618,"Financial Institutions, Inc.",$3.37,$443.54M,7/19/2020,5602239212680669,EUR,Euro
+110,Monte Tandey,Sony,Sony Ericsson Aino,Feature phone,2009,53329-981,Appian Corporation,$1.68,$1.07B,6/27/2022,201587794424195,CRC,Colon
+111,Erinn McCarrell,Sony,Sony Ericsson T200,Feature phone,2002,45963-305,STRATS Trust,$7.01,n/a,4/1/2024,3553632066568572,PYG,Guarani
+112,Ilsa Villa,BlackBerry,BlackBerry Torch 9860,BlackBerry OS 7,2011,0597-0046,"NextEra Energy, Inc.",$2.65,n/a,3/26/2021,4844766022829558,CNY,Yuan Renminbi
+113,Cathyleen Bonett,Micromax,Micromax Canvas Tab P470,Android 4.4.2,2015,65162-571,"CorEnergy Infrastructure Trust, Inc.",$3.08,n/a,9/2/2020,5610913726295111,JPY,Yen
+114,Hermione Bruneau,Acer,Acer Liquid Gallant Duo,Android 4.0.3,2012,48951-2037,TravelCenters of America LLC,$0.73,n/a,10/7/2021,36059290142599,CNY,Yuan Renminbi
+115,Pete Idiens,Samsung,Samsung Galaxy Tab Pro 8.4 3G/LTE,"Android 4.4, TouchWiz UI",2014,65162-302,Tecogen Inc.,$2.57,$65.74M,10/4/2021,5595906282920931,CNY,Yuan Renminbi
+116,Mayor Stoacley,Acer,Acer Liquid Z320,Android 5.1,2015,54868-4021,"Cisco Systems, Inc.",$9.24,$158.15B,12/12/2022,337941728758961,BGN,Lev
+117,Zulema Linstead,Motorola,Motorola A1200,Linux,2005,59050-331,Monroe Capital Corporation,$3.73,$253.51M,3/6/2024,3567248378178267,EUR,Euro
+118,Aymer Boatswain,alcatel,alcatel Pop 8,Android 4.2,2014,16590-984,Manulife Financial Corp,$7.94,$36.08B,12/1/2021,30503914282634,EUR,Euro
+119,Prisca Treleven,verykool,verykool R800,Android 2.2,2012,0019-9451,"Raymond James Financial, Inc.",$0.67,$11.3B,7/7/2021,3535987873449512,EUR,Euro
+120,Cherri Siddon,alcatel,alcatel Mandarina Duck,Feature phone,2007,46122-032,VOXX International Corporation,$0.74,$169.12M,10/22/2020,3575742689918965,NGN,Naira
+121,Bennie Gadie,Wiko,Wiko Tommy3 Plus,Android 8.1,2019,54575-350,WisdomTree Japan Hedged SmallCap Equity Fund,$7.43,$134.47M,11/16/2022,343386433528964,PAB,Balboa
+122,Sanford McAuslan,BLU,BLU Vivo 4.8 HD,Android 4.2,2014,42507-405,Teekay Corporation,$8.05,$475.29M,8/31/2020,3557803656833108,PLN,Zloty
+123,Quent Bevens,HTC,HTC Desire 626G+,Android 4.4.2,2015,53389-561,Saban Capital Acquisition Corp.,$8.01,n/a,2/24/2022,374283304429996,BRL,Real
+124,Georges Readmire,Apple,Apple iPhone,"iOS, up to iOS 3.1.3",2007,0574-2103,Preferred Bank,$5.83,$741.96M,5/3/2022,3530012012406458,RUB,Ruble
+125,Ambros Bagley,Honor,Honor 9X,"Android 9.0, EMUI 9.1",2019,36987-2573,"REV Group, Inc.",$4.23,$1.92B,1/1/2024,3573757205635408,SEK,Krona
+126,Byrle Prettyjohn,ZTE,ZTE Blade V7 Lite,Android 6.0,2016,68462-500,"Telephone and Data Systems, Inc.",$1.94,$3.1B,5/23/2022,50180352321221717,IDR,Rupiah
+127,Angelina Hayter,ZTE,ZTE nubia X,"Android 8.1, Nubia UI 6",2018,52544-152,"Lands' End, Inc.",$6.79,$520.48M,7/29/2021,4508201647578387,IDR,Rupiah
+128,Keene Beetlestone,Sony,Sony Ericsson Z550,Feature phone,2006,11822-0543,PowerShares BuyBack Achievers Portfolio,$9.77,$1.33B,11/19/2020,3528453959901156,IDR,Rupiah
+129,Winna Maliphant,Philips,Philips 162,Feature phone,2005,0904-6052,"CDK Global, Inc.",$6.59,$8.96B,6/1/2023,201527622450517,EUR,Euro
+130,Merlina Deniso,Spice,Spice M-5390 Boss Double XL,Feature phone,2012,41163-346,Shopify Inc.,$8.13,$7.35B,2/5/2024,3582663259329659,CNY,Yuan Renminbi
+131,Dolores Morphew,ZTE,ZTE FTV Phone,Android 2.2,2011,35356-751,Paragon Commercial Corporation,$8.66,$293.53M,4/28/2023,4917725242847271,UAH,Hryvnia
+132,Drud Twinbrow,BQ,BQ Aquaris X2,"Android 8.1, Android One",2018,57344-120,Ares Commercial Real Estate Corporation,$2.26,$394.2M,10/22/2023,561026791626047810,BRL,Real
+133,Pace Mayworth,QMobile,QMobile King Kong Max,Android 6.0,2017,44397-020,"Novus Therapeutics, Inc.",$8.80,$1.54M,12/19/2021,201950551323101,EUR,Euro
+134,Gene Stichall,LG,LG X power,Android 6.0.1,2016,48102-111,BlackRock Municipal Income Trust,$4.76,$638.92M,3/25/2022,676737553067012901,IDR,Rupiah
+135,Marketa Shakle,Sony,Sony Ericsson T230,Feature phone,2003,61543-1774,Vanguard Russell 3000 ETF,$3.76,$333.23M,10/6/2022,4913604608668361,CNY,Yuan Renminbi
+136,Karel Sincock,HTC,HTC Pure,Microsoft Windows Mobile 6.5 Professional,2009,76237-191,ObsEva SA,$0.92,$161.49M,2/23/2021,201628184179922,VEF,Bolivar
+137,Shay Siddons,ZTE,ZTE Blade,"Android 2.1, up to 2.2",2010,68428-723,"Adverum Biotechnologies, Inc.",$5.09,$117.89M,3/22/2021,3572456180383099,RUB,Ruble
+138,Floris Maginot,Philips,Philips X815,Feature phone,2011,42507-333,"Coffee Holding Co., Inc.",$1.62,$25.61M,2/26/2023,3541801975328783,CNY,Yuan Renminbi
+139,Clywd Mumby,Xiaomi,Xiaomi Mi Pad 4,"Android 8.1, MIUI 9",2018,75878-002,"CYS Investments, Inc.",$9.43,$1.35B,8/11/2021,3566309028734221,DOP,Peso
+140,Joell Tart,Spice,Spice M-5350,Feature phone,2011,76119-5305,E.W. Scripps Company (The),$2.33,$1.53B,7/18/2020,374283289823528,UAH,Hryvnia
+141,Nikola Vant,Celkon,Celkon A83,Android 2.3,2012,41520-289,"New America High Income Fund, Inc. (The)",$2.69,$224.11M,7/4/2022,4508826137850233,MYR,Ringgit
+142,Leia Greenshields,HTC,HTC One VX,"Android 4.0, Sense UI 4",2012,63629-4971,Protective Life Corporation,$8.43,n/a,9/19/2021,6771246521810039,CNY,Yuan Renminbi
+143,Cindi Kisby,Motorola,Motorola Droid Maxx 2,"Android 5.1.1, up to 7.0",2015,0456-2612,Mattersight Corporation,$2.65,$84.98M,11/17/2020,3572717088239893,THB,Baht
+144,Andy Crees,Samsung,Samsung Galaxy Core Prime,"Android 4.4.4, up to 5.1.1",2014,43742-0304,BioShares Biotechnology Products Fund,$1.74,$37.14M,6/11/2023,30382507392534,CNY,Yuan Renminbi
+145,Bobbi Farrimond,Samsung,Samsung Galaxy A6+ (2018),"Android 8.0, up to Android 9.0, One UI",2018,0280-2610,"Amber Road, Inc.",$2.36,$217.53M,1/18/2022,3544851503457205,ZWL,Dollar
+146,Sydelle Roderigo,Razer,Razer Phone 2,"Android 8.1, up to Android 9.0",2018,50580-296,Fifth Street Finance Corp.,$8.36,n/a,3/1/2023,5196896391470998,IDR,Rupiah
+147,Claire Siegertsz,Nokia,Nokia 6510,Feature phone,2002,42507-111,Arrow Financial Corporation,$5.83,$442.96M,8/29/2020,30299679793804,CNY,Yuan Renminbi
+148,Alysa Coyle,Huawei,Huawei Nexus 6P,"Android 6.0, up to Android 8.0",2015,49035-490,The Providence Service Corporation,$2.83,$631.2M,2/22/2024,3561224256965394,AMD,Dram
+149,Carolan Kneeshaw,Sewon,Sewon SGD-1000,Feature phone,2004,51346-167,Matthews International Corporation,$1.89,$2.08B,1/7/2023,0604575284532380,PHP,Peso
+150,Evangeline Tear,Icemobile,Icemobile G7,Android OS,2013,36987-2120,"MS Income Securities, Inc.",$3.75,$163.76M,8/31/2023,3562673805008230,PHP,Peso
+151,Rosina Pidgin,Sony,Sony Xperia M4 Aqua Dual,"Android 5.0, up to 6.0",2015,58118-3750,"Winnebago Industries, Inc.",$1.23,$914.42M,11/3/2021,4911609492183593316,IDR,Rupiah
+152,Nowell Juniper,Amoi,Amoi A869,Feature phone,2006,67345-0515,"NextEra Energy, Inc.",$2.62,n/a,9/4/2022,3567632188935141,BRL,Real
+153,Albie Gofforth,Philips,Philips D833,Android 4.0,2013,47335-343,"Medidata Solutions, Inc.",$1.48,$4.42B,10/26/2022,4917614129439495,NGN,Naira
+154,Jedidiah Domerq,Motorola,Motorola DROID 4 XT894,"Android 2.3, up to 4.0",2012,57520-0062,TCF Financial Corporation,$4.14,n/a,2/10/2020,4903220968162500303,IDR,Rupiah
+155,Florry Dingivan,Xiaomi,Xiaomi Redmi 5,"Android 7.1.2, MIUI 11",2017,76461-021,"Gibraltar Industries, Inc.",$7.78,$1.1B,8/21/2023,3576854353619677,IDR,Rupiah
+156,Emilio Anstead,Allview,Allview P6 Energy Mini,Android 6.0,2017,44567-804,Pioneer Floating Rate Trust,$4.75,$293.39M,7/13/2022,4017952422996,RUB,Ruble
+157,Oran Treske,Oppo,Oppo R11s,"Android 7.1.1, ColorOS 3.2",2017,59779-129,Panera Bread Company,$3.16,$7.15B,1/14/2024,5602238035305884,RUB,Ruble
+158,Nissa Illes,LG,LG Optimus 4G LTE P935,"Android 2.3, up to 4.0",2011,0942-6499,National Retail Properties,$2.62,$5.87B,2/8/2023,201416430873948,CNY,Yuan Renminbi
+159,Karyn Kehir,Acer,Acer Iconia B1-721,Android 4.2,2014,63629-4914,"Endologix, Inc.",$1.04,$385M,11/29/2020,3567710400841816,PLN,Zloty
+160,Odella Durber,vivo,vivo S1,"Android 9.0, Funtouch 9",2019,67046-086,"Brown & Brown, Inc.",$4.92,$6.22B,9/11/2020,3528355776767548,USD,Dollar
+161,Jocelyne Connerry,BenQ,BenQ M315,Feature phone,2005,0268-0835,Sears Holdings Corporation,$1.54,n/a,12/27/2021,3534621757628807,PLN,Zloty
+162,Andriana O'Cannan,Pantech,Pantech G800,Feature phone,2004,49349-516,Gladstone Commercial Corporation,$5.16,$25.74M,9/6/2021,6333235377561797,EUR,Euro
+163,Hallsy Batchelour,Lenovo,Lenovo LePad S2005,Android 2.3,2011,10544-576,Green Plains Partners LP,$5.07,$591.49M,5/23/2021,5274268952021567,ILS,Shekel
+164,Nikolas Ripping,Vodafone,Vodafone 360 M1,Linux-based LiMo R2.0.1,2009,58118-0268,"PS Business Parks, Inc.",$6.15,n/a,10/20/2020,3543498434570648,CNY,Yuan Renminbi
+165,Vallie Deller,Nokia,Nokia 5100,Feature phone,2003,60951-937,"Korea Equity Fund, Inc.",$7.70,$93.02M,1/16/2021,4405453120216001,JPY,Yen
+166,Eirena Goby,Lava,Lava Iris 349S,Android 2.3,2013,76335-007,News Corporation,$3.21,$8.23B,5/24/2023,6759588401479088,RUB,Ruble
+167,Hart Hodgins,Asus,Asus Memo,Android 4.0.1,2012,67046-462,"Cellectar Biosciences, Inc.",$9.01,n/a,8/25/2022,3578993411911714,IDR,Rupiah
+168,Ceciley Hemphrey,Huawei,Huawei U8687 Cronos,Android 4.0,2013,25021-163,"Fuwei Films (Holdings) Co., Ltd.",$6.08,$10.06M,8/8/2022,30306353915510,MZN,Metical
+169,Gaelan Vossing,BlackBerry,BlackBerry 8830 World Edition,BlackBerry OS,2007,47335-938,Advance Auto Parts Inc,$8.12,$9.61B,9/23/2022,3578051169170577,PLN,Zloty
+170,Essie Maisey,O2,O2 XDA Argon,Microsoft Windows Mobile 5.0 PocketPC,2007,0378-8172,"DSP Group, Inc.",$4.14,$258.27M,6/28/2021,201936738183260,CNY,Yuan Renminbi
+171,Marion Kitteman,LG,LG K4 (2017),Android 6.0.1,2017,0409-5921,Microbot Medical Inc. ,$7.65,$54.29M,5/26/2021,30045635476475,RUB,Ruble
+172,Colene Ealles,Motorola,Motorola XOOM 2 Media Edition MZ607,"Android 3.2, up to 4.0.4",2011,0007-4892,Brasilagro Cia Brasileira De Propriedades Agricolas,$0.25,$218.35M,4/10/2021,3567485701262620,PHP,Peso
+173,Romeo Garnson,LG,LG F60,Android 4.4.2,2014,42291-686,Alphabet Inc.,$6.64,$650.09B,5/15/2020,3560521175278325,CNY,Yuan Renminbi
+174,Kalle Storkes,Lenovo,Lenovo A536,Android 4.4.2,2014,49288-0050,Raytheon Company,$0.24,$47.32B,4/15/2023,374288653409473,EUR,Euro
+175,Parke MacTeague,Acer,Acer Iconia Tab A101,Android 3.2,2011,58232-0027,"Great Western Bancorp, Inc.",$2.28,$2.34B,7/22/2023,3555975074797586,RUB,Ruble
+176,Harper Powelee,BLU,BLU Studio G3,Android 7.0,2017,43846-0023,"Verisk Analytics, Inc.",$5.31,$13.75B,7/20/2023,3534332022785188,EUR,Euro
+177,Orrin Winterton,Sagem,Sagem MY X-2,Feature phone,2003,68016-080,Quanex Building Products Corporation,$0.27,$733.65M,3/15/2023,36298594415802,CNY,Yuan Renminbi
+178,Collie Headon,Samsung,Samsung Galaxy A01 Core,Android 10,2020,53808-0233,TransUnion,$1.23,$7.93B,1/29/2021,3538396789977540,UGX,Shilling
+179,Donelle Blewitt,Huawei,Huawei MediaPad 7 Vogue,"Android 4.1, EMUI 1.5",2013,11819-365,United Technologies Corporation,$9.71,$96.49B,6/15/2022,3572027977058333,SEK,Krona
+180,Horton Tetlow,Orange,Orange Hiro,Android 4.1,2013,57525-015,"NETGEAR, Inc.",$0.25,$1.41B,11/10/2023,5237864380254626,VND,Dong
+181,Diane Swanton,Oppo,Oppo F17 Pro,"Android 10, ColorOS 7.2",2020,0904-6285,Aflac Incorporated,$1.06,n/a,7/14/2022,5602245772406700,PLN,Zloty
+182,Howard Male,Micromax,Micromax Bharat 2 Q402,Android 6.0,2017,0067-8118,Fidelity Southern Corporation,$7.55,$610.37M,2/14/2023,3567780292337025,EUR,Euro
+183,Rosalyn Good,Samsung,Samsung A877 Impression,Feature phone,2009,11673-224,Kemper Corporation,$7.03,n/a,9/23/2022,56022529868336300,EUR,Euro
+184,Flinn Giaomozzo,Huawei,Huawei Mate 30 Pro,"Android 10, EMUI 11, no Google Play Services",2019,63481-674,First Trust Enhanced Short Maturity ETF,$0.53,$966.47M,4/12/2022,4913866095986560,EUR,Euro
+185,Jillene Duffy,BLU,BLU Diamond M,Android 6.0,2016,75997-025,"McDermott International, Inc.",$8.92,$1.78B,9/20/2022,3573640087110668,RUB,Ruble
+186,Chariot Costigan,Micromax,Micromax X288,Feature phone,2012,65483-116,"American National Bankshares, Inc.",$3.18,$330M,4/10/2021,3555430700216106,IDR,Rupiah
+187,Katharyn Hazley,Archos,Archos 55 Cobalt Plus,Android 5.1.1,2016,54868-5576,"I.D. Systems, Inc.",$8.70,$87.7M,6/2/2020,561050039658908627,CAD,Dollar
+188,Agace Oldfield,LG,LG L20,Android 4.4.2,2014,54569-2095,Intuit Inc.,$2.62,$35.74B,5/15/2023,374622664183430,CNY,Yuan Renminbi
+189,Ava Ingarfield,NEC,NEC N500,Feature phone,2004,0054-0278,"Morgan Stanley Emerging Markets Debt Fund, Inc.",$2.92,$213.38M,12/10/2021,3536528778420536,RUB,Ruble
+190,Eleanor Meiklem,BlackBerry,BlackBerry Curve 9350,BlackBerry OS 7.0,2011,55910-559,Capital One Financial Corporation,$2.18,n/a,6/16/2021,30250639694590,IDR,Rupiah
+191,Sylvester Tredger,Philips,Philips Xenium 9@9e,Feature phone,2005,0093-0658,"Hercules Capital, Inc.",$3.89,n/a,8/24/2021,3557460646043130,SEK,Krona
+192,Nathanial Deboo,Samsung,Samsung Galaxy Star 2,Android 4.4.2,2014,60691-123,Invesco Municipal Opportunity Trust,$8.99,$885.83M,6/8/2022,5602222248697220,AUD,Dollar
+193,Winnifred Beresfore,alcatel,alcatel OT-S920,Feature phone,2008,49643-300,US Foods Holding Corp.,$7.76,$6.33B,3/17/2022,3571774177615054,NZD,Dollar
+194,Julissa Skoyles,HTC,HTC DROID DNA,"Android 4.1, up to 4.2, Sense UI 4+",2012,60512-8031,"Assurant, Inc.",$1.50,$5.72B,6/8/2023,3557302146071932,CNY,Yuan Renminbi
+195,Der Gomar,i-mobile,i-mobile TV 535,Feature phone,2009,63629-1260,Nevro Corp.,$3.55,$2.16B,1/29/2024,3569330528723628,CNY,Yuan Renminbi
+196,Elly Wilmore,Wiko,Wiko Y60,Android 9.0 Pie,2020,41167-4255,Global X Health & Wellness Thematic ETF,$5.46,n/a,11/28/2020,3575094113697959,CNY,Yuan Renminbi
+197,Karol Skill,Xiaomi,Xiaomi Redmi K20 Pro Premium,"Android 10, MIUI 11",2019,0378-0334,"Tremor Video, Inc.",$0.47,$118.79M,3/31/2021,3543267176038878,BTN,Ngultrum
+198,Ava Lorentz,Micromax,Micromax Funbook 3G P600,Android 4.0.4,2013,58809-501,Nuveen North Carolina Quality Municipal Income Fd,$7.45,$220.34M,4/17/2020,3541067690101026,RUB,Ruble
+199,Maure Paroni,BenQ-Siemens,BenQ-Siemens A58,Feature phone,0,13913-004,"Consumer Portfolio Services, Inc.",$8.23,$101.59M,11/22/2022,3538880570992784,GBP,Pound
+200,Kerianne Wyld,alcatel,alcatel A3 XL,Android 7.0,2017,54575-197,"Sinovac Biotech, Ltd.",$10.00,$307.3M,3/12/2022,3557628686195131,SEK,Krona
+201,Whitby Mahaffey,Samsung,Samsung Galaxy A70s,"Android 9.0, up to Android 11, One UI 3.1",2019,76270-150,Nustar Energy L.P.,$1.44,$4.21B,9/22/2020,3550583255568464,CNY,Yuan Renminbi
+202,Toby Beardshaw,OnePlus,OnePlus Nord,"Android 10, up to 11, OxygenOS 11.1.4.4",2020,64942-1059,Seneca Foods Corp.,$7.12,$304.81M,7/6/2023,5552761911704490,GHS,Cedi
+203,Gualterio Le Grand,Allview,Allview X1 Xtreme,Android 4.2.2,2014,0054-8486,"Transcontinental Realty Investors, Inc.",$5.31,$230.24M,9/11/2022,201520735604708,COP,Peso
+204,Gardy Bleas,Tecno,Tecno Spark CM,Android 7.0,2017,57627-130,"West Marine, Inc.",$5.10,$245.88M,7/29/2022,5380160422088329,EUR,Euro
+205,Jerrie Yukhnin,Samsung,Samsung Galaxy Tab S4 10.5,"Android 8.1, up to Android 10, One UI 2.0",2018,60512-8030,Consolidated Water Co. Ltd.,$1.28,$184.63M,12/25/2023,4041593373379244,IDR,Rupiah
+206,Langsdon Ericsson,alcatel,alcatel Pop Star,Android 5.0,2015,63941-641,Reading International Inc,$5.17,$367M,1/18/2022,3565329418675751,IDR,Rupiah
+207,Dedie Pepperell,Samsung,Samsung A767 Propel,Feature phone,2008,0245-0220,Leju Holdings Limited,$8.86,$346.48M,4/6/2020,36330507809720,COP,Peso
+208,Rosalie Sandeland,Icemobile,Icemobile Cenior,Feature phone,2012,0185-0118,"Cloudera, Inc.",$8.76,$2.28B,11/16/2020,3579634653117425,EUR,Euro
+209,Giacinta Caswell,Huawei,Huawei Mate 30 5G,"Android 10, EMUI 10, no Google Play Services",2019,64942-1231,Lexington Realty Trust,$3.98,$2.46B,7/24/2021,5369846263628679,SEK,Krona
+210,Coreen Linke,BLU,BLU Magic,Android 2.2,2011,50436-7056,First Horizon National Corporation,$9.35,n/a,1/12/2024,3563678379372788,IDR,Rupiah
+211,Orrin Inskipp,Samsung,Samsung Galaxy Axiom R830,Android 4.0.4,2012,65121-993,"Inovio Pharmaceuticals, Inc.",$5.88,$585.08M,7/25/2022,5602234376380355107,IDR,Rupiah
+212,Teirtza Menham,Samsung,Samsung A500,Feature phone,2002,0093-5414,"Imprimis Pharmaceuticals, Inc.",$0.73,$60.4M,1/20/2021,5602245125180945,SEK,Krona
+213,Annadiane Dwelly,VK,VK Mobile VK540,Feature phone,2004,59762-0030,"PowerShares QQQ Trust, Series 1",$6.37,$50.09B,3/11/2020,3586219941328157,PHP,Peso
+214,Enrika Durtnall,Oppo,Oppo Reno4 Pro 5G,"Android 10, ColorOS 7.2",2020,0378-5521,"BioLife Solutions, Inc.",$0.90,$29.72M,5/18/2021,3579384515283201,GHS,Cedi
+215,Grenville Ybarra,verykool,verykool sl5029 Bolt Pro LTE,Android 7.0,2017,43269-760,Carlisle Companies Incorporated,$4.48,$6.19B,8/27/2021,5602237493371123,PEN,Sol
+216,Adey Ruby,Siemens,Siemens ME45,Feature phone,2001,61941-0224,PowerShares LadderRite 0-5 Year Corporate Bond Portfolio,$4.31,$22.51M,2/28/2023,5602239366192024,RUB,Ruble
+217,Vida Junes,Oppo,Oppo R9s,Android 6.0.1,2016,41520-440,Visteon Corporation,$7.91,$2.93B,5/6/2021,3564972055174876,CNY,Yuan Renminbi
+218,Prudy Chapleo,Sony,Sony CM-DX 1000,Feature phone,1997,51660-491,CABCO Series 2004-101 Trust,$2.64,n/a,3/9/2020,372301029649649,PYG,Guarani
+219,Danila Edden,alcatel,alcatel OT-E205,Feature phone,2006,50988-198,"BankUnited, Inc.",$5.53,$3.65B,7/24/2023,3580486522287112,THB,Baht
+220,Shaylyn Egentan,LG,LG GS390 Prime,Feature phone,2010,58668-1521,"Clovis Oncology, Inc.",$0.88,$2.69B,1/15/2021,3531183577256098,CNY,Yuan Renminbi
+221,Darline Tyers,Amazon,Amazon Fire 7 (2017),"Customized Android 5.1, Fire 5.4",2017,58281-561,First Horizon National Corporation,$3.99,n/a,5/18/2020,4041590557914,BOB,Boliviano
+222,Zenia Rudham,Meizu,Meizu 15,"Android 7.1.2, Flyme 7.3",2018,67046-720,ProAssurance Corporation,$5.07,$3.28B,1/12/2021,3588548463445157,CNY,Yuan Renminbi
+223,Legra Holdforth,BLU,BLU Dash Music JR,Android 4.4.2,2014,21695-600,TCF Financial Corporation,$0.16,n/a,5/18/2021,374288244264700,IDR,Rupiah
+224,Osmond Beardsall,Nokia,Nokia Lumia 505,Microsoft Windows Phone 7.8,2013,63739-478,"ARMOUR Residential REIT, Inc.",$4.00,n/a,7/31/2020,6763686078674662071,IDR,Rupiah
+225,Claudius Rowsel,Infinix,Infinix Zero 6,Android 8.0,2019,68151-5230,Quantum Corporation,$0.58,$246.49M,1/28/2022,5893235493018146883,EUR,Euro
+226,Emelita Gamlyn,Samsung,Samsung V100,Feature phone,2002,60429-094,Qwest Corporation,$2.93,n/a,1/28/2024,4769222185080,KRW,Won
+227,Cheslie Aickin,vivo,vivo Y97,"Android 8.1, Funtouch 4.5",2018,49981-020,"Lands' End, Inc.",$6.00,$520.48M,3/12/2020,3528668005248431,IDR,Rupiah
+228,Gabriela Wrettum,LG,LG X mach,Android 6.0.1,2016,48951-9028,"XO Group, Inc.",$6.33,$431.87M,10/5/2020,343939666355248,EUR,Euro
+229,Micky Ridgway,HTC,HTC Wildfire E1,Android 9.0,2019,59746-348,First Trust Indxx Global Agriculture ETF,$5.62,$7.52M,1/20/2020,3589901149890347,CNY,Yuan Renminbi
+230,Ferris Holtaway,Lenovo,Lenovo LePad S2010,"Android 2.3, up to 4.0",2012,68084-391,Capitala Finance Corp.,$6.79,n/a,11/5/2021,3548669446352051,PHP,Peso
+231,Jessa Androlli,Allview,Allview X2 Soul Style,Android 5.1,2015,36987-2406,"SB Financial Group, Inc.",$7.07,n/a,2/12/2021,5020155620575727,IDR,Rupiah
+232,Crista Odlin,Acer,Acer Iconia One 7 B1-730,"Android 4.2.2, up to 4.4.2",2014,50268-522,Welltower Inc.,$3.06,n/a,2/23/2023,3559776248617403,PHP,Peso
+233,Lovell Liversidge,ZTE,ZTE Blade Max View,"Android 7.1.1, up to Android 8.1",2019,64380-735,Pacific Special Acquisition Corp.,$3.40,n/a,12/18/2021,3554294473819582,IQD,Dinar
+234,Stanton Nuccii,Celkon,Celkon Xion s CT695,Android 4.4.2,2014,43063-458,"Forrester Research, Inc.",$9.48,$700.65M,1/4/2023,4026473456424754,RUB,Ruble
+235,Arabela Burges,ZTE,ZTE nubia Prague S,"Android 5.2, nubia UI 3",2016,46122-157,"Airgain, Inc.",$6.26,$136.04M,10/21/2021,6763608747868839738,JPY,Yen
+236,Helyn Wackly,Microsoft,Microsoft Lumia 640 XL Dual SIM,Microsoft Windows Phone 8.1,2015,32819-1001,"Retrophin, Inc.",$2.45,$690.93M,5/17/2021,3535856588868615,BDT,Taka
+237,Josefina Janicijevic,Vertu,Vertu Constellation Quest,Symbian OS,2010,68788-9917,"SigmaTron International, Inc.",$6.35,$27.63M,5/14/2022,5100149508062232,IDR,Rupiah
+238,Renado Elsey,Samsung,Samsung Galaxy Pocket 2,Android 4.4.2,2014,55150-129,West Corporation,$6.77,$1.9B,5/18/2022,4844479556431912,DKK,Krone
+239,Brooks Cooch,Plum,Plum Genius,Feature phone,2011,60429-109,"Maui Land & Pineapple Company, Inc.",$4.97,$386.9M,11/23/2020,3549777145438292,THB,Baht
+240,Helaine Macourek,NEC,NEC N750,Feature phone,2005,68703-072,Astronics Corporation,$1.18,$883.27M,3/28/2021,5641822742144104097,USD,Dollar
+241,Shela Elsegood,Amoi,Amoi A102,Feature phone,2007,0316-2055,"eHealth, Inc.",$7.56,$347.43M,3/27/2022,675935693170327838,IRR,Rial
+242,Daven O'Crevy,LG,LG W11,Android 10,0,60429-304,"Agilent Technologies, Inc.",$8.03,$19.12B,9/19/2020,5007663893710514,GTQ,Quetzal
+243,Rosalind Durrett,Celkon,Celkon CT 9,Android 4.0,2012,54569-5906,Gramercy Property Trust Inc.,$6.22,n/a,12/19/2021,3584984983499750,SEK,Krona
+244,Etienne Lundbech,Allview,Allview X2 Soul Pro,Android 5.0,2015,61924-208,"bebe stores, inc.",$8.59,$40.31M,6/17/2020,50183563190259839,ZAR,Rand
+245,Collie Walmsley,verykool,verykool R80,Feature phone,2011,56136-009,StoneCastle Financial Corp,$5.21,$130.19M,9/24/2023,6706976023715688,IDR,Rupiah
+246,Bernardina Dowall,Huawei,Huawei U1250,Feature phone,2009,57955-5077,Capital Product Partners L.P.,$0.87,$414.27M,4/3/2022,3528937726630627,EUR,Euro
+247,Hervey Czaple,LG,LG Optimus LTE Tag,"Android 2.3, up to 4.0",2012,65954-560,First Trust Capital Strength ETF,$2.78,$431.69M,8/26/2021,3564831787693100,CZK,Koruna
+248,Arabele Spradbery,Vodafone,Vodafone 546,Feature phone,2010,76237-167,Michael Kors Holdings Limited,$0.06,$5.39B,2/29/2020,4017959427815170,CAD,Dollar
+249,Jule Tooke,Nokia,Nokia 225 4G,Feature phone,2020,67938-1094,"Salisbury Bancorp, Inc.",$9.11,$110.06M,3/27/2021,5100148953893588,IDR,Rupiah
+250,Chadwick Bouts,ZTE,ZTE Blade G,Android 4.4.2,2015,0378-0078,"NexPoint Residential Trust, Inc.",$1.55,$536.19M,12/3/2020,6394885079944802,PHP,Peso
+251,Angelita McKevin,Motorola,Motorola V620,Feature phone,2004,51978-1001,"Barrett Business Services, Inc.",$4.60,$417.92M,1/21/2024,676738516472675124,BDT,Taka
+252,Darill Boecke,Eten,Eten glofiish M810,Microsoft Windows Mobile 6.0 Professional,2008,55111-208,ICICI Bank Limited,$0.60,$28.43B,3/5/2023,4026723189790750,CZK,Koruna
+253,Cristal Gay,Samsung,Samsung Galaxy Discover S730M,Android 4.0.4,2012,67512-224,"Roadrunner Transportation Systems, Inc",$9.09,$264.55M,8/4/2023,374283896619749,KZT,Tenge
+254,Adrianne Gabe,Icemobile,Icemobile Charm II,Feature phone,2014,54868-1425,KKR & Co. L.P.,$7.51,$8.43B,2/17/2022,060478476374620770,CNY,Yuan Renminbi
+255,Galven Gellan,Sony,Sony Xperia 5 Plus,Android 10,0,59667-0011,"Schmitt Industries, Inc.",$1.87,$5.69M,4/3/2020,3538325710098183,LSL,Loti
+256,Calvin Verna,Sony,Sony Ericsson V600,Feature phone,2005,41190-871,Aralez Pharmaceuticals Inc.,$4.94,$79.48M,3/24/2020,67633939547802952,COP,Peso
+257,Em Cordeau,Vodafone,Vodafone 150,Feature phone,2010,55111-695,"Tarena International, Inc.",$1.51,$1.03B,6/22/2021,3543772072692298,EUR,Euro
+258,Dallas Havenhand,Lenovo,Lenovo Z5 Pro,"Android 8.1, ZUI 10",2018,52959-838,Costco Wholesale Corporation,$5.75,$73.29B,6/13/2021,6759706077781719760,IDR,Rupiah
+259,Trista Lodge,Samsung,Samsung Galaxy Ace Style,"Android 4.4.2, TouchWiz Essence UI",2014,35356-886,"Xenia Hotels & Resorts, Inc.",$7.12,$2.14B,12/27/2023,3581067906528674,CNY,Yuan Renminbi
+260,Loren Dennistoun,Motorola,Motorola Moto E4 Plus (USA),Android 7.1,2017,10812-397,First Financial Corporation Indiana,$6.16,$587.96M,12/18/2022,5156986598073238,CNY,Yuan Renminbi
+261,Meade Haydon,Samsung,Samsung S5500 Eco,Feature phone,2010,64536-3851,Cypress Semiconductor Corporation,$8.45,$4.33B,5/29/2020,3582798689163318,YER,Rial
+262,Franky Dunsford,Ericsson,Ericsson A1018s,Feature phone,1999,43526-001,"Safety Insurance Group, Inc.",$9.62,$1.06B,6/17/2022,6706079457319948075,IDR,Rupiah
+263,Ellen Cotherill,Coolpad,Coolpad Cool1 dual,"Android 6.0, eUI 5.6",2016,0941-0409,"Helmerich & Payne, Inc.",$9.03,$5.97B,4/28/2021,58933363675754321,CZK,Koruna
+264,Gabriellia Burrells,Celkon,Celkon C404,Feature phone,2011,36987-2261,Ford Motor Company,$0.73,$44.68B,3/13/2020,3550822747714629,CNY,Yuan Renminbi
+265,Tersina Yarnell,Nokia,Nokia 2330 classic,Feature phone,2009,21749-967,"Sangamo Therapeutics, Inc.",$2.76,$535.95M,9/11/2023,3568219102006099,NZD,Dollar
+266,Shayne Keen,Samsung,Samsung X450,Feature phone,2003,36800-271,Alibaba Group Holding Limited,$9.83,$341.22B,9/8/2020,3564907271219055,IDR,Rupiah
+267,Isabeau Loram,BLU,BLU G80,Android 10,2020,49884-668,"TerraVia Holdings, Inc.",$7.29,$29.17M,4/1/2022,56022413082290876,EUR,Euro
+268,Yuma Lyokhin,Samsung,Samsung Galaxy Xcover FieldPro,Android 8.0,2020,68151-5048,"Immunomedics, Inc.",$4.37,$825.03M,2/10/2020,201678046646428,USD,Dollar
+269,Mabel Viel,BLU,BLU Vivo XL,"Android 5.1, up to 6.0",2016,11673-836,Five Oaks Investment Corp.,$7.40,n/a,11/18/2023,370449222914252,CNY,Yuan Renminbi
+270,Sindee Kirwin,Motorola,Motorola V66,Feature phone,2001,59762-3080,First Trust Nasdaq Oil & Gas ETF,$6.22,$1.8M,2/15/2020,3585997094625476,CNY,Yuan Renminbi
+271,Clementia Sandal,Orange,Orange Hiro,Android 4.1,2013,61715-100,"Digiliti Money Group, Inc.",$7.25,$31.11M,8/11/2021,3529716742288076,IDR,Rupiah
+272,Fleming Fust,Celkon,Celkon C5055,Feature phone,2014,0440-8110,"USA Technologies, Inc.",$4.89,$203.67M,12/26/2021,67620220866419578,RUB,Ruble
+273,Hailee Beadnall,alcatel,alcatel 1, Android 8.1 Oreo,2018,37000-754,"Bridgeline Digital, Inc.",$2.25,$12.16M,2/13/2024,3551291537826333,IDR,Rupiah
+274,Burt Aikett,Huawei,Huawei Ascend G600,Android 4.0.4,2012,57520-0990,SL Green Realty Corporation,$6.08,n/a,7/15/2021,3582003695089684,EUR,Euro
+275,Clayton Landes,vivo,vivo iQOO,"Android 9.0, Funtouch 9",2019,21695-823,Seagate Technology PLC,$1.71,$12.47B,8/5/2021,5146199747830937,UAH,Hryvnia
+276,Gracie Chupin,Yota,Yota YotaPhone 2,"Android 4.4.3, up to 6.0",2014,55289-928,"Colony NorthStar, Inc.",$1.01,n/a,12/28/2022,3563005588076127,PHP,Peso
+277,Yurik Ridger,XOLO,XOLO LT900,Android 4.2,2013,41190-648,International Paper Company,$2.39,$23.33B,2/27/2020,6379399309901292,IQD,Dinar
+278,Nilson Hartfield,Samsung,Samsung I9100G Galaxy S II,"Android 2.3.4, 4.0.4, up to 4.1.2",2011,64679-763,"Discovery Communications, Inc.",$4.50,$9.85B,11/9/2021,3579232434697953,BAM,Marka
+279,Leonerd Gland,Siemens,Siemens SX1,"Symbian 6.1, Series 60 v1.0 UI",2003,50563-144,CBS Corporation,$2.81,$25.26B,5/21/2021,6331105563798903,EUR,Euro
+280,Reider Loachhead,i-mobile,i-mobile TV 523,Feature phone,2008,49349-119,Liberty Media Corporation,$3.50,n/a,8/20/2022,3570431962645462,RUB,Ruble
+281,Christabel Brosoli,Xiaomi,Xiaomi Redmi Note 9S,"Android 10, up to Android 11, MIUI 12",2020,43063-374,"Albany Molecular Research, Inc.",$2.61,$929.63M,2/13/2024,5048374166864308,PEN,Sol
+282,Vina Raitt,Microsoft,Microsoft Lumia 640 XL Dual SIM,Microsoft Windows Phone 8.1,2015,50845-0136,"Harley-Davidson, Inc.",$2.20,$9.71B,11/26/2020,3558712415949965,RUB,Ruble
+283,Patrice Shellum,Huawei,Huawei nova 5z,"Android 9.0, EMUI 9.1",2019,0025-1942,Double Eagle Acquisition Corp.,$2.02,$628.13M,6/11/2021,4936421557190674,CNY,Yuan Renminbi
+284,Ali MacDearmid,Asus,Asus Zenfone 7 Pro,"Android 10, up to Android 11, ZenUI 8",2020,30142-925,"Nicholas Financial, Inc.",$2.70,$61M,9/25/2020,060476163835539797,USD,Dollar
+285,Toddy Sapsford,LG,LG L60 Dual,Android 4.4.2,2014,0173-0859,"Rand Logistics, Inc.",$8.84,$6.7M,4/30/2020,6771808687396702688,CNY,Yuan Renminbi
+286,Katrinka Wainer,Philips,Philips F610,Feature phone,2010,76472-1125,PowerShares Variable Rate Investment Grade Portfolio,$9.57,$69.29M,1/18/2021,4844042116990262,UAH,Hryvnia
+287,Terrye Kordt,Spice,Spice M-5170,Feature phone,2010,53808-0348,VictoryShares US 500 Volatility Wtd ETF,$9.42,$8.83M,6/6/2022,4508989253361987,CNY,Yuan Renminbi
+288,Gil Hemms,BLU,BLU Studio G4,Android 8.1 Oreo,2018,62750-039,"Myriad Genetics, Inc.",$2.34,$1.63B,2/8/2023,3556453810275563,CNY,Yuan Renminbi
+289,Genia Lonsdale,Motorola,Motorola Defy Mini XT321,Android 2.3.6,2012,49348-306,The Goodyear Tire & Rubber Company,$0.22,$8.44B,5/7/2020,5602218046308630,BGN,Lev
+290,Mozelle McCurry,Karbonn,Karbonn Titanium S99,Android 4.4,2014,55154-5464,"TJX Companies, Inc. (The)",$4.14,$46.6B,2/25/2022,5007667302812860,EUR,Euro
+291,Alta Fardon,Celkon,Celkon C44,Feature phone,2011,30142-357,Hoegh LNG Partners LP,$0.85,$628.6M,3/13/2021,5100132421824219,PEN,Sol
+292,Boy Krishtopaittis,Meizu,Meizu 16s,"Android 9.0, Flyme 7.3",2019,45802-133,John Bean Technologies Corporation,$1.67,$2.89B,3/4/2020,3578274630546155,ZAR,Rand
+293,Rudolph Naisey,HTC,HTC Wildfire X,Android 9,2019,0615-1384,Xerox Corporation,$0.88,$1.81B,8/7/2023,30249529597491,CAD,Dollar
+294,Emelia Ofer,Pantech,Pantech Impact,Feature phone,2009,76271-003,Virtus Global Multi-Sector Income Fund,$2.60,$194.72M,2/18/2020,6763441653674475280,IDR,Rupiah
+295,Ev Larvin,Motorola,Motorola MC55,Microsoft Windows Mobile 6.1 Professional,2009,65923-046,"First Industrial Realty Trust, Inc.",$7.03,$3.47B,10/24/2023,4041377342621,XOF,Franc
+296,Brock Edgson,ZTE,ZTE Warp,Android 2.3,2011,53808-0910,"Becton, Dickinson and Company",$6.22,n/a,8/15/2022,4508372991793334,CNY,Yuan Renminbi
+297,Clemente Callaby,Icemobile,Icemobile Prime 4.0,Android 4.2.2,2014,0338-0351,"The Bancorp, Inc.",$5.18,$400.41M,6/1/2021,3574546587953573,CZK,Koruna
+298,Angelico Jarry,Samsung,Samsung Galaxy M40,"Android 9.0, up to Android 11, One UI 3.1",2019,60429-262,Oasmia Pharmaceutical AB,$2.24,$38.24M,12/9/2023,6304101554464772,RUB,Ruble
+299,Aleece Ander,Infinix,Infinix Hot 5 Lite,Android 7.0,2017,10191-1461,RPM International Inc.,$7.72,$7.43B,12/15/2021,3546638101734806,CZK,Koruna
+300,Darlene Durnan,Nokia,Nokia 7370,Feature phone,2005,0591-3206,"Sigma Labs, Inc.",$0.84,$11.29M,10/19/2023,56022243841046651,VND,Dong
+301,Remy Eisold,Nokia,Nokia 100,Feature phone,2011,49288-0359,Transportadora De Gas Sa Ord B,$1.70,$2.53B,3/8/2020,56103028968382878,CNY,Yuan Renminbi
+302,Easter Glasser,Motorola,Motorola V180,Feature phone,2004,49349-438,"Colony NorthStar, Inc.",$4.47,n/a,6/30/2022,3571869826363948,PLN,Zloty
+303,Jessi Greenrde,Sharp,Sharp 923SH,Feature phone,2008,68788-9924,Bank Of New York Mellon Corporation (The),$8.43,$51.88B,7/2/2022,3574804510073518,ZAR,Rand
+304,Kristos McGauhy,Asus,Asus P525,Microsoft Windows Mobile 5.0 PocketPC,2006,41520-605,"Novan, Inc.",$3.16,$62.92M,2/27/2023,3544111500597630,CNY,Yuan Renminbi
+305,Randy Grunbaum,Energizer,Energizer Energy E12,Feature phone,2019,65517-2018,"Uranium Resources, Inc.",$4.43,$34.59M,12/9/2022,6334661603272403757,PHP,Peso
+306,Annnora Dorney,Samsung,Samsung Continuum I400,"Android 2.1, up to 2.2",2010,36987-1525,Baxter International Inc.,$4.30,$31.49B,1/20/2021,3582773787547548,EUR,Euro
+307,Mac Cardon,i-mate,i-mate SP3i,Microsoft Windows Mobile 2003 SE Smartphone,2004,42254-093,Canadian Imperial Bank of Commerce,$5.77,$32.39B,3/27/2022,3582014060631554,BDT,Taka
+308,Haily Gagin,LG,LG Fathom VS750,Microsoft Windows Mobile 6.5 Professional,2010,54102-000,"J.C. Penney Company, Inc. Holding Company",$8.28,$1.56B,12/27/2021,3574502960588023,NGN,Naira
+309,Rebekah Scholey,QMobile,QMobile Noir X400,Android 4.4.2,2014,56062-337,Nicolet Bankshares Inc.,$3.84,$479.19M,8/13/2022,3568426211934885,EUR,Euro
+310,Randi Meddick,Samsung,Samsung Galaxy S21+ 5G,"Android 11, One UI 3.1",2021,46122-166,United Therapeutics Corporation,$6.57,$5.85B,4/20/2021,201775117446371,MYR,Ringgit
+311,Lawton Keddie,Celkon,Celkon C360,Feature phone,2012,49873-018,Leju Holdings Limited,$3.30,$346.48M,3/27/2023,3530948160815745,BRL,Real
+312,Jacklyn Fuente,OnePlus,OnePlus 5T,"Android 7.1.1, up to 10, OxygenOS 10.0.0",2017,0904-5315,"Donnelley Financial Solutions, Inc.",$6.09,$758.66M,8/16/2020,5020807603128453825,RUB,Ruble
+313,Petrina Gricewood,Gigabyte,Gigabyte Barbie,Feature phone,2005,24236-584,"Revolution Lighting Technologies, Inc.",$5.84,$146.86M,11/9/2021,3541424402897880,PLN,Zloty
+314,Cheslie D'Abbot-Doyle,BLU,BLU Studio 7.0 LTE,Android 5.1,2015,65162-812,"Flexion Therapeutics, Inc.",$8.06,$546.87M,6/7/2022,3537977994304314,CNY,Yuan Renminbi
+315,Raina Pauel,HTC,HTC One (M8) dual sim,"Android 4.4.2, up to 4.4.4, Sense UI 6",2014,63868-144,Merus N.V.,$2.81,$276.34M,10/27/2020,6334704351473450,CNY,Yuan Renminbi
+316,Nancie Valance,Acer,Acer beTouch T500,Android-based OPhone 1.5,2010,60512-1031,"AmTrust Financial Services, Inc.",$0.50,$2.76B,8/11/2021,4026069389807675,ZAR,Rand
+317,Anabella Habron,Gionee,Gionee S6s,"Android 6.0, up to 7.0, Amigo 3.2",2016,68788-9138,"Safeguard Scientifics, Inc.",$5.37,$228.02M,7/19/2023,3561050154289318,IDR,Rupiah
+318,Jonell Creggan,Motorola,Motorola Moto E4 Plus (USA),Android 7.1,2017,59279-530,"ONEOK Partners, L.P.",$1.92,$14.31B,12/29/2021,4844288954968189,NGN,Naira
+319,Kinsley Robbins,Huawei,Huawei MediaPad T1 8.0,"Android 4.3, EMUI 1.6",2014,49349-937,ABM Industries Incorporated,$4.20,$2.33B,7/2/2023,3537658045066298,CNY,Yuan Renminbi
+320,Foss Huc,Huawei,Huawei Y5 Prime (2018),"Android 8.1, EMUI 8",2018,66116-223,Artisan Partners Asset Management Inc.,$8.60,$2.24B,8/12/2021,3556769700000757,EUR,Euro
+321,Ardelia Kleyn,Amazon,Amazon Fire HDX 8.9 (2014),"Android 4.4, Fire 4",2014,53942-871,"Dynex Capital, Inc.",$9.36,$354.27M,5/23/2021,3529627891466183,PHP,Peso
+322,Geoff Beazer,Lava,Lava V2 s,Android 5.1.1,2016,51523-004,PartnerRe Ltd.,$4.05,n/a,1/4/2024,5354686324249744,BRL,Real
+323,Micaela Hedan,Huawei,Huawei Ascend Y540,Android 4.4,2015,0268-6108,EchoStar Corporation,$0.92,$5.8B,8/30/2020,4041598026700035,IDR,Rupiah
+324,Barthel Eckhard,QMobile,QMobile Power3,Feature phone,2015,65841-667,"AMTEK, Inc.",$5.75,$14.34B,7/26/2020,4041374635646328,MXN,Peso
+325,Flo Burden,Realme,Realme X2 Pro,"Android 9.0, up to Android 11, Realme UI 2.0",2019,36987-2713,Dawson Geophysical Company,$6.58,$88.03M,5/12/2022,5602216457926643,VND,Dong
+326,Thaxter Gullane,Modu,Modu Phone,Feature phone,2009,12546-115,"Affiliated Managers Group, Inc.",$7.34,$9.3B,8/11/2022,4917487376114735,EUR,Euro
+327,Fremont Charlin,BLU,BLU Zoey,Feature phone,2013,62191-009,Nuveen Select Tax Free Income Portfolio II,$6.43,$246.04M,10/4/2020,3577531446195068,SEK,Krona
+328,Marillin Danis,XOLO,XOLO Black 1X,"Android 5.1, up to 6.0, HIVE Atlas UI",2015,67877-225,Aramark,$0.91,$9.97B,8/10/2023,372301959964836,ARS,Peso
+329,Violette Dyas,Micromax,Micromax Canvas Spark 4G Q4201,Android 6.0,2016,63629-3786,Noah Holdings Ltd.,$5.07,$1.51B,11/16/2023,4009821332852,EUR,Euro
+330,Louella Coulthard,Philips,Philips Xenium K600,Feature phone,2010,54458-916,Luminex Corporation,$4.40,$911.47M,12/19/2020,4917004495903946,PEN,Sol
+331,Lombard Plumptre,Micromax,Micromax Bolt A35,Android 2.3,2013,0615-7569,"Duff & Phelps Utilities Tax-Free Income, Inc.",$2.86,$125.91M,7/17/2023,3585202555374494,CNY,Yuan Renminbi
+332,Broderick Bucktrout,Nokia,Nokia E61,"Symbian OS 9.1, Series 60 UI",2005,68462-332,"ProPhase Labs, Inc.",$2.00,$32.94M,6/30/2022,6385158734966516,PHP,Peso
+333,Sophey Spybey,Sony,Sony Ericsson Xperia Arc,"Android 2.3, up to 4.0",2011,58232-0755,Huntington Bancshares Incorporated,$5.31,n/a,3/28/2024,5018855255466321679,EUR,Euro
+334,Terrill Rosenblath,Oppo,Oppo Neo 3,Android 4.2.1,2014,0603-6345,Vanda Pharmaceuticals Inc.,$8.69,$612.59M,5/26/2021,3569846888627729,CNY,Yuan Renminbi
+335,Robyn Oswal,alcatel,alcatel 3T 8,Android 8.1,2018,98132-2131,"Altimmune, Inc.",$1.52,$2.44M,6/8/2021,3560516190941634,USD,Dollar
+336,Miran Alejo,LG,LG GW820 eXpo,Microsoft Windows Mobile 6.5 Professional,2009,52125-212,Vodafone Group Plc,$0.49,$76.73B,1/3/2024,3542525774356468,MYR,Ringgit
+337,Averil Wyldbore,Amoi,Amoi H801,Feature phone,2006,55301-527,"Monarch Casino & Resort, Inc.",$4.66,$531.09M,7/3/2021,3571211972947663,EUR,Euro
+338,Jody Swyne,Allview,Allview X4 Soul Infinity N,Android 7.0,2017,52343-063,Astrazeneca PLC,$7.80,$87.46B,5/16/2020,67098576569578645,IDR,Rupiah
+339,Natasha Axelbee,Philips,Philips X116,Feature phone,2010,59011-445,"MOCON, Inc.",$6.93,$176.6M,10/28/2020,3544346089351906,RUB,Ruble
+340,Marlie Kyston,Philips,Philips Xenium X830,Feature phone,2009,0187-0146,PowerShares Global Gold & Precious Metals Portfolio,$8.05,$36.8M,1/26/2024,5428072229235876,UAH,Hryvnia
+341,Ernest Lackey,T-Mobile,T-Mobile Comet,Android 2.2,2010,60505-0565,Assured Guaranty Ltd.,$4.87,n/a,9/15/2022,3573893162516867,HTG,Gourde
+342,Brenden Shave,Ulefone,Ulefone Note 8,Android 10,2020,55319-153,Bright Horizons Family Solutions Inc.,$4.40,$4.61B,3/13/2020,6383404312210931,BAM,Marka
+343,Nate Rothwell,Huawei,Huawei U5510,Feature phone,2011,13925-114,"Vectrus, Inc.",$7.35,$340.82M,7/20/2023,5602253334605553,CNY,Yuan Renminbi
+344,Barbette Liptrod,T-Mobile,T-Mobile Wing,Microsoft Windows Mobile 6 Professional,2006,34690-6001,"AquaBounty Technologies, Inc.",$7.34,$69.92M,10/15/2021,4913985086540838,CNY,Yuan Renminbi
+345,Osmond Forgan,Samsung,Samsung S5611,Feature phone,2014,68788-9852,Cumulus Media Inc.,$9.73,$14.07M,1/26/2024,5602227336752825920,ALL,Lek
+346,Halie Hay,Samsung,Samsung Galaxy Tab 3 Lite 7.0 VE,Android 4.4.4,2015,16590-339,Glen Burnie Bancorp,$0.81,$30.69M,3/12/2024,3545456056005309,PHP,Peso
+347,Mohandis Dreng,Sagem,Sagem my220x,Feature phone,2008,63824-478,"Mohawk Industries, Inc.",$0.71,$17.98B,12/30/2023,3564017638535688,RUB,Ruble
+348,Kaila Parell,Lava,Lava Z60s,Android 8.1 Oreo,2018,37000-366,OGE Energy Corporation,$9.74,$7.28B,12/18/2023,4508594823955571,CUP,Peso
+349,Thebault O'Luby,Plum,Plum Sync 4.0b,Android 4.4,2015,48433-328,Glu Mobile Inc.,$8.40,$332.81M,3/3/2021,6377858123485222,IDR,Rupiah
+350,Barbabas Pietzke,Celkon,Celkon A9,Feature phone,2012,0615-4519,"Home Depot, Inc. (The)",$2.33,$187.27B,10/26/2023,6304381094070467,CNY,Yuan Renminbi
+351,Merissa Donovin,alcatel,alcatel Pixi 3 (5.5),Android 5.0,2015,21695-598,Walt Disney Company (The),$3.62,$165.11B,10/2/2021,490503982158432819,BAM,Marka
+352,Natassia Eslinger,Samsung,Samsung i500,Palm 5.2,0,61715-131,Waters Corporation,$4.44,$14.74B,2/7/2020,3572660401061117,HTG,Gourde
+353,Barbee Paprotny,Siemens,Siemens CXT65,Feature phone,2004,68387-208,"Group 1 Automotive, Inc.",$7.58,$1.28B,8/29/2023,3557981180257190,CZK,Koruna
+354,Courtnay Shakshaft,Samsung,Samsung Galaxy J7 Pro,"Android 7.0, up to Android 9.0, One UI",2017,59779-704,"Maiden Holdings, Ltd.",$7.81,$982.38M,5/25/2023,5436710672176689,IRR,Rial
+355,Noe Bumpus,Samsung,Samsung J750,Feature phone,2008,0074-3165,"American National Bankshares, Inc.",$0.94,$330M,10/3/2020,30485864927626,KZT,Tenge
+356,Kandace Pinson,Samsung,Samsung Galaxy M01s,"Android 9.0, up to Android 10, One UI 2.1",2020,49349-367,"Colony NorthStar, Inc.",$0.22,n/a,8/15/2023,3541063367154984,PHP,Peso
+357,Neall Ablewhite,Gionee,Gionee Elife S Plus,"Android 5.1.1, Amigo OS 3.1",2015,42508-150,Murphy Oil Corporation,$7.01,$4.38B,1/19/2020,30110097616081,HNL,Lempira
+358,Hobie Weal,BLU,BLU Grand 5.5 HD II,Android 7.0,2017,63304-588,BlackRock New York Investment Quality Municipal Trust Inc. (Th,$8.84,$191.02M,4/2/2023,3563170523300071,RUB,Ruble
+359,Amber Couser,Honor,Honor 9,"Android 7.0, up to Android 9.0, EMUI 9.1",2017,0615-1376,"Amicus Therapeutics, Inc.",$5.16,$1.35B,3/20/2020,3534755928809191,CNY,Yuan Renminbi
+360,Paige Tanguy,vivo,vivo V11 (V11 Pro),"Android 8.1, up to Android 9.0, Funtouch 6.1",2018,65862-224,Jacobs Engineering Group Inc.,$8.50,$6.48B,4/20/2021,3553790916952576,BRL,Real
+361,Odie Carlet,vivo,vivo S5,"Android 9.0, Funtouch 9.2",2019,13811-646,Teva Pharmaceutical Industries Limited,$3.16,$31.41B,2/11/2023,3576386381344408,CNY,Yuan Renminbi
+362,Vikki Buxcy,Samsung,Samsung E2252,Feature phone,2012,49852-166,Smart,$2.78,$666.23M,1/16/2021,4405091060685759,CZK,Koruna
+363,Cornie Nuttall,ZTE,ZTE Quartz,Android Wear OS 2.1,2017,0003-6337,Pacific Drilling S.A.,$8.06,$37.67M,3/8/2021,5602215219899304,CNY,Yuan Renminbi
+364,Annadiane Leheude,Lenovo,Lenovo IdeaTab S6000,Android 4.2.2,2013,68084-497,1st Source Corporation,$1.42,$1.27B,8/3/2021,5602227132062498,IDR,Rupiah
+365,Natalina Tommasetti,Huawei,Huawei MatePad Pro 10.8 5G (2019),"Android 10, EMUI 10, no Google Play Services",2020,54868-4242,Nuveen AMT-Free Municipal Value Fund,$8.04,$2.09B,10/19/2020,3530887605546657,IDR,Rupiah
+366,Amity Prys,Huawei,Huawei nova 4,"Android 9.0, EMUI 9",2018,13811-630,"Community Bank System, Inc.",$8.31,$2.89B,3/7/2022,3531071087457480,CNY,Yuan Renminbi
+367,Fernande Cockill,ZTE,ZTE nubia Red Magic Mars,"Android 9.0, Redmagic 1.0",2018,0268-0815,"Nike, Inc.",$2.43,$84.35B,4/17/2022,4026582767903437,USD,Dollar
+368,Lucita Booth,Samsung,Samsung Galaxy A20e,"Android 9.0, up to Android 10, One UI 2.0",2019,0955-1046,Wells Fargo & Company,$8.33,n/a,11/25/2023,3575403362801438,UAH,Hryvnia
+369,Annora Belward,Samsung,Samsung T509,Feature phone,2006,67510-1501,Nuveen Massachusetts Municipal Income Fund,$1.36,$128.91M,10/30/2022,56106144741666938,BRL,Real
+370,Lebbie O' Cloney,Sony,Sony Ericsson Z555,Feature phone,2008,54569-0117,"Merrill Lynch & Co., Inc.",$6.27,n/a,3/29/2021,201454810777934,CNY,Yuan Renminbi
+371,Tedi Hetterich,ZTE,ZTE Blade L3 Plus,Android 4.4.2,2015,59579-002,Barington/Hilco Acquisition Corp.,$8.11,n/a,11/8/2022,3539119512949597,EUR,Euro
+372,Farrel Kinneir,i-mate,i-mate Ultimate 7150,Microsoft Windows Mobile 6.0 Professional,0,24236-123,"Chegg, Inc.",$0.21,$1.1B,10/1/2020,564182130161043948,GMD,Dalasi
+373,Robert Peachman,WND,WND Wind DUO 2300,Feature phone,0,43063-088,"LightPath Technologies, Inc.",$1.27,$64.15M,6/28/2020,5546941954568593,IDR,Rupiah
+374,Wolfy Paike,Samsung,Samsung Galaxy Mini S5570,"Android 2.2, up to 2.3, TouchWiz UI 3",2011,55319-299,iSectors Post-MPT Growth ETF,$2.81,$11.34M,7/12/2021,5048374741282752,IDR,Rupiah
+375,Trenna Hurche,NEC,NEC N21i,Feature phone,2002,54868-5995,The Community Financial Corporation,$0.95,$181.04M,1/20/2023,3548377390262603,ZAR,Rand
+376,Edmund Balazot,Lava,Lava X50 Plus,"Android 5.1, up to 6.0",2016,29300-118,Timken Steel Corporation,$0.30,$575.53M,10/4/2021,201712236257934,NPR,Rupee
+377,Dominga Forth,Samsung,Samsung E100,Feature phone,2003,16110-260,Eagle Point Credit Company Inc.,$8.93,n/a,5/29/2022,374283065716771,PEN,Sol
+378,Gray Truett,Huawei,Huawei U5510,Feature phone,2011,0573-2868,"Sequential Brands Group, Inc.",$6.23,$237.5M,4/29/2021,3582321776246142,BRL,Real
+379,Haley Metham,LG,LG KF311,Feature phone,2009,63629-1622,"The Herzfeld Caribbean Basin Fund, Inc.",$0.11,$43.73M,9/27/2022,201663026099129,EUR,Euro
+380,Abbe Lazare,LG,LG GW910,Microsoft Windows Phone 7,2011,52125-351,Vident Core US Equity ETF,$6.75,$448.4M,6/6/2023,5610325812059360,PKR,Rupee
+381,Malissia Eates,Samsung,Samsung i560,"Symbian OS 9.1, Series 60 v3.1 UI",2008,0781-3182,"GTx, Inc.",$8.78,$73.95M,6/3/2020,6334948441795386,SEK,Krona
+382,Bertie Musgrave,BLU,BLU C6,Android 8.1 Oreo,2018,10424-155,Modern Media Acquisition Corp.,$1.71,n/a,8/15/2022,3583173252726694,CNY,Yuan Renminbi
+383,Hazel Fawks,Micromax,Micromax A240 Canvas Doodle 2,Android 4.2.1,2013,56062-709,Teva Pharmaceutical Industries Limited,$6.19,$31.41B,9/23/2020,5602210685472900,PLN,Zloty
+384,Horatius Padefield,Celkon,Celkon A99,Android 2.3.5,2012,63629-3337,"Bay Bancorp, Inc.",$4.02,$75.03M,1/29/2020,377743515339869,DOP,Peso
+385,Chester Guise,Xiaomi,Xiaomi Redmi 2 Prime,"Android 4.4.4, up to 5.1.1, MIUI 7.2",2015,48433-347,"Popular, Inc.",$4.20,$294.48M,8/18/2021,4903020978798388157,IDR,Rupiah
+386,Amargo Blackett,Celkon,Celkon C349+,Feature phone,2014,0904-5256,TiVo Corporation,$1.01,$2.25B,5/11/2023,5100175146290257,IDR,Rupiah
+387,Kathryn Cardo,Honor,Honor X10 5G,"Android 10, Magic UI 3.1",2020,0187-5475,MEDIFAST INC,$5.70,$505.59M,11/11/2020,201469920319310,RUB,Ruble
+388,Hobie Guiel,Coolpad,Coolpad Note 3,Android 5.1,2015,62670-4823,"Omega Flex, Inc.",$2.51,$652.54M,6/12/2021,3576064748003948,EUR,Euro
+389,Lula Guinn,Tecno,Tecno Spark 4 Lite,"Android 9.0, HIOS 5.5",2019,36987-2441,Chemours Company (The),$0.80,$6.77B,6/24/2022,564182350270933652,LYD,Dinar
+390,Hardy Dobson,Gigabyte,Gigabyte g-Cam,Feature phone,2005,11528-095,Voya Asia Pacific High Dividend Equity Income Fund,$4.50,$126.72M,12/1/2023,5010121055576624,CNY,Yuan Renminbi
+391,Veradis Girardot,Energizer,Energizer Hardcase H240S,Android 6.0,2018,21695-091,Cabot Corporation,$1.50,$3.38B,10/11/2023,3536736129284135,IDR,Rupiah
+392,Cosimo Valente,Micromax,Micromax GC400,Feature phone,2010,42254-122,"Top Image Systems, Ltd.",$7.94,$22.92M,1/26/2023,3565693343344373,IDR,Rupiah
+393,Lek Grinishin,Samsung,Samsung Ch@t 350,Feature phone,2011,53045-112,"Baldwin & Lyons, Inc.",$9.04,$375.34M,11/28/2023,3529014403420182,PHP,Peso
+394,Derrek Fontin,verykool,verykool RS90,Android 4.0,2013,0013-8303,"Hallmark Financial Services, Inc.",$1.98,$208.13M,5/24/2021,3561204996200732,VEF,Bolivar
+395,Ernestine Doud,LG,LG KF305,Feature phone,2010,59623-003,Criteo S.A.,$7.92,$3.04B,5/12/2021,3572086123014806,TND,Dinar
+396,Ashlee Mayne,verykool,verykool sl5009 Jet,Android 5.1,2015,43353-798,Chevron Corporation,$3.49,$205.28B,8/6/2020,30145825622548,USD,Dollar
+397,Courtnay Anderer,Sony,Sony Ericsson T715,Feature phone,2009,0220-9341,Datawatch Corporation,$7.11,$96.2M,2/12/2023,3554307351648517,IDR,Rupiah
+398,Reagan Weed,Prestigio,Prestigio MultiPad 7.0 Ultra,Android 4.0,2013,21695-150,Citigroup Inc.,$7.11,n/a,5/24/2021,56022338601806060,CLP,Peso
+399,Petr Roobottom,Samsung,Samsung D730,"Symbian, Series 60 UI",2005,67510-0070,"Orion Energy Systems, Inc.",$6.31,$38.19M,6/28/2023,6304287260391068,KZT,Tenge
+400,Evonne Batter,Celkon,Celkon A22,Android 4.0.4,2012,63824-283,Vanguard Russell 2000 Growth ETF,$7.10,$184.64M,4/4/2023,3535862030726377,RUB,Ruble
+401,Gertrude Goghin,Sony,Sony Xperia E3 Dual,"Android 4.4.2, up to Android 4.4.4",2014,47335-938,V.F. Corporation,$5.93,$22.56B,6/5/2023,5100136347919284,EUR,Euro
+402,Chester Chumley,BlackBerry,BlackBerry 8700c,BlackBerry OS,2004,21130-013,Adecoagro S.A.,$4.29,$1.21B,6/5/2023,5100132604737196,MXN,Peso
+403,Betti Cripin,LG,LG KU950,Feature phone,2007,0093-8164,E.I. du Pont de Nemours and Company,$2.79,n/a,11/22/2021,3543243088098581,KRW,Won
+404,Margalo Beevis,Allview,Allview V2 Viper i,Android 5.1,2015,49288-0479,"ChinaNet Online Holdings, Inc.",$5.10,$15.58M,6/7/2022,676153603891807094,DKK,Krone
+405,Araldo Leveret,Honor,Honor 8X Max,"Android 8.1, up to Android 9, EMUI 9",2018,0206-2416,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2,$1.28,$675.47M,2/8/2021,201452903648780,IDR,Rupiah
+406,Jonah Lackham,Icemobile,Icemobile Fuego,Feature phone,2012,41250-630,Lehman ABS Corporation,$1.89,n/a,8/19/2023,374283710122466,CNY,Yuan Renminbi
+407,Philomena Puvia,Gionee,Gionee Gpad G5,Android 4.4.2,2014,36987-1046,Nordic American Offshore Ltd,$4.81,$73.14M,1/30/2022,3572314427853277,CNY,Yuan Renminbi
+408,Fleur Burgess,Micromax,Micromax A57 Ninja 3.0,Android 2.3.5,2012,43419-004,Booz Allen Hamilton Holding Corporation,$3.29,$4.72B,6/14/2023,3587532805274427,VND,Dong
+409,Abran Krelle,LG,LG T315,Feature phone,2011,58118-1396,"M/I Homes, Inc.",$0.17,$681.36M,9/24/2020,560223647089467718,MRO,Ouguiya
+410,Kane Gentle,Nokia,Nokia 6800,Feature phone,2003,50458-389,Gol Linhas Aereas Inteligentes S.A.,$4.96,$6.06B,5/20/2023,3536446087005650,IDR,Rupiah
+411,Haleigh Challes,alcatel,alcatel 1, Android 8.1 Oreo,2018,65841-747,"Medical Transcription Billing, Corp.",$2.74,$7.52M,6/29/2020,5002357905494135,EUR,Euro
+412,Jacinda Preedy,Motorola,Motorola XT760,Android 2.3,2012,65044-9998,"GTY Technology Holdings, Inc.",$8.37,$707.25M,7/20/2020,5602217120433124,RSD,Dinar
+413,Anica Belleny,alcatel,alcatel Pop D3,Android 4.4.2,2014,59672-0532,Invesco Quality Municipal Income Trust,$2.91,$672.68M,6/1/2022,6333601663947541782,IDR,Rupiah
+414,Alonso Bullman,Philips,Philips W8500,Android 4.1,2013,60505-3578,Arbor Realty Trust,$8.99,n/a,4/15/2023,633110659546786276,RUB,Ruble
+415,Elissa Royal,Samsung,Samsung Galaxy C7 (2017),Android 7.1,2017,0074-3779,"Fortune Brands Home & Security, Inc.",$2.26,$9.9B,11/2/2022,3566927871269803,USD,Dollar
+416,Ettie Mongan,Huawei,Huawei P40 Pro+,"Android 10, EMUI 10.1",2020,55312-096,"AMAG Pharmaceuticals, Inc.",$7.00,$574.74M,5/25/2020,4936924416918334,RUB,Ruble
+417,Gibbie Paulon,LG,LG W30,Android 9.0,2019,0904-5666,ZIOPHARM Oncology Inc,$5.31,$763.03M,4/28/2022,5452979556704275,CNY,Yuan Renminbi
+418,Northrup Coote,Nokia,Nokia 130 Dual SIM,Feature phone,2014,54799-535,Arlington Asset Investment Corp,$6.49,$352.64M,12/14/2020,50208754354578939,EUR,Euro
+419,Crosby Spurriar,Sharp,Sharp TM100,Feature phone,2004,43063-030,iShares MSCI EM ESG Optimized ETF,$3.04,$54.38M,9/20/2021,6706537780684300481,CNY,Yuan Renminbi
+420,Ysabel Boulton,Allview,Allview P9 Energy Lite,Android 6.0,2016,65954-770,Quaker Chemical Corporation,$3.90,$1.92B,3/20/2021,3570436523460897,IDR,Rupiah
+421,Rica Askie,ZTE,ZTE Blade A910,Android 6.0,2016,52125-774,"Intrepid Potash, Inc",$5.64,$281.36M,4/30/2021,3532821258932359,CNY,Yuan Renminbi
+422,Brittani Preskett,verykool,verykool s5528 Cosmo,Android 7.0,2017,42291-707,iShares GNMA Bond ETF,$1.48,$174.89M,1/18/2021,3552813072929955,GHS,Cedi
+423,Lowell Mabee,Motorola,Motorola Motosmart Flip XT611,Android 2.3,2012,63481-812,LPL Financial Holdings Inc.,$0.69,$3.74B,1/9/2021,6709452168399702859,RUB,Ruble
+424,Diann Elacoate,Sony,Sony Ericsson Xperia X1,Microsoft Windows Mobile 6.1 Professional,2008,68428-048,Gol Linhas Aereas Inteligentes S.A.,$8.55,$6.06B,2/13/2023,3587560544631979,SEK,Krona
+425,Janna Royal,vivo,"vivo Y51 (2020, December)","Android 11, Funtouch 11",2020,25373-006,"Colony NorthStar, Inc.",$3.41,n/a,6/4/2021,3537649307112060,RUB,Ruble
+426,Gian Myrick,Nokia,Nokia N85,"Symbian OS 9.3, S60 rel. 3.2",2008,50865-640,RiceBran Technologies,$8.05,n/a,8/31/2021,30400038554586,IDR,Rupiah
+427,Jules Redgrave,LG,LG Nexus 5X,"Android 6.0, up to Android 8.0",2015,0591-0862,"I.D. Systems, Inc.",$5.74,$87.7M,6/8/2020,6334099810347542350,EUR,Euro
+428,Burg Langhorne,ZTE,ZTE Blade Force,Android 7.1.1,2017,0113-0096,Citigroup Inc.,$6.56,n/a,12/29/2021,5602230424390486,THB,Baht
+429,Dilly Pocknoll,Energizer,Energizer Energy E20,Feature phone,2017,0173-0740,Intuit Inc.,$3.65,$35.74B,4/19/2022,560225645843221254,EUR,Euro
+430,Joane Simko,Meizu,Meizu E2,"Android 7, Flyme 6",2017,76439-307,"MVC Capital, Inc.",$1.18,$219.02M,5/13/2020,3568975036898154,CNY,Yuan Renminbi
+431,Jocelin Jellico,Panasonic,Panasonic Eluga Ray X,Android 6.0,2017,35000-846,General Electric Capital Corporation,$0.06,n/a,1/9/2023,201429991336809,EUR,Euro
+432,Pier Callister,LG,LG U8120,Feature phone,2004,52345-3001,ChinaCache International Holdings Ltd.,$4.53,$34.01M,7/29/2020,4905024202360275,PEN,Sol
+433,Haleigh Joska,Siemens,Siemens C35i,Feature phone,2000,66336-907,Vipshop Holdings Limited,$3.02,$6.96B,3/4/2022,30274743263647,IDR,Rupiah
+434,Claudina Logg,Allview,Allview Viva Q8,"Android 4.2, up to 4.4.2",2013,49738-975,"Wilhelmina International, Inc.",$9.93,$38.75M,5/8/2022,3557542964172433,EUR,Euro
+435,Torey Ruzicka,Meizu,Meizu 16s Pro,"Android 9.0, Flyme 8",2019,68258-6095,Bridgford Foods Corporation,$2.06,$130.25M,6/18/2021,3536465339201107,MXN,Peso
+436,Arleta Lammerich,BlackBerry,BlackBerry Aurora,Android 7.0,2017,64942-1231,Novanta Inc.,$4.12,$1.25B,9/20/2021,3533881418287275,ETB,Birr
+437,Stanly Walch,Samsung,Samsung Galaxy J,"Android 4.3, up to 5.0",2013,55316-156,Government Properties Income Trust,$4.51,n/a,10/14/2021,3543379012307571,CNY,Yuan Renminbi
+438,Deb Whitely,Yezz,Yezz Andy 5M LTE,Android 5.1,2016,21695-815,Nano Dimension Ltd.,$4.97,$60.98M,5/26/2022,5243575807564130,EUR,Euro
+439,Barbee Bruce,Samsung,Samsung C170,Feature phone,2007,58668-4001,Telefonica SA,$1.35,$54.41B,12/15/2022,3546420500519181,ARS,Peso
+440,Katerine Obee,Asus,Asus Zenfone 6 A600CG (2014),"Android 4.3, up to 5.0.2",2014,98132-702,CyberOptics Corporation,$1.12,$153.44M,2/29/2024,30509175333602,PEN,Sol
+441,Brit Outridge,Samsung,Samsung Galaxy J6+,"Android 8.1, up to Android 9.0, One UI",2018,33261-335,"PNC Financial Services Group, Inc. (The)",$0.49,n/a,5/15/2020,3536712484993354,IDR,Rupiah
+442,Eveleen Whewill,Micromax,Micromax Funbook Alfa P250,Android 4.0.3,2012,58668-1031,ClearBridge Large Cap Growth ESG ETF,$6.34,n/a,4/10/2024,675987047051766142,RUB,Ruble
+443,Rosmunda Miquelet,Sagem,Sagem my300C,Feature phone,2007,49643-312,Gabelli NextShares Trust,$2.54,n/a,10/8/2020,67626836547619262,IDR,Rupiah
+444,Leicester Longfut,Motorola,Motorola Moto G4,"Android 6.0.1, up to 7.0",2016,59220-1001,"ServiceMaster Global Holdings, Inc.",$5.05,$5.33B,9/5/2020,4175007085786479,NGN,Naira
+445,Selinda Ellen,Nokia,Nokia 6610,Feature phone,2002,54868-1587,"Box, Inc.",$9.99,$2.47B,1/22/2024,3556771097446874,USD,Dollar
+446,Anitra Birkwood,XOLO,XOLO Q800 X-Edition,Android 4.1.2,2013,63629-3348,"Tahoe Resources, Inc.",$7.01,$2.62B,10/5/2020,5602256253752298,PLN,Zloty
+447,Valera Sissot,Qtek,Qtek 8310,Microsoft Windows Mobile 5.0 Smartphone,2005,63629-3291,iStar Financial Inc.,$1.01,$891.94M,1/9/2022,3571751341406388,CNY,Yuan Renminbi
+448,Bryn Yapp,Amoi,Amoi A90,Feature phone,2004,0944-8703,RenaissanceRe Holdings Ltd.,$3.92,n/a,6/30/2021,36694777094101,CNY,Yuan Renminbi
+449,Tiffie Rides,Sagem,Sagem my511X,Feature phone,2007,63739-366,"Xencor, Inc.",$6.29,$934.3M,7/14/2022,6383955087940325,EUR,Euro
+450,Smith Bonifazio,Xiaomi,Xiaomi Mi 8 Lite,"Android 8.1, up to Android 10, MIUI 11",2018,51117-001,"Asta Funding, Inc.",$5.38,$56.44M,5/18/2023,3573498549931696,EUR,Euro
+451,Brande Dane,Huawei,Huawei nova 3,"Android 8.1, up to Android 9.0, EMUI 9.1",2018,63629-4971,"PS Business Parks, Inc.",$6.64,n/a,1/10/2024,3588027903327556,UAH,Hryvnia
+452,Sorcha Ticehurst,Archos,Archos 50 Platinum,Android 4.1.2,2013,21695-686,"WideOpenWest, Inc.",$3.46,$1.49B,8/12/2020,5108754890819941,XOF,Franc
+453,Jarid Ander,Samsung,Samsung E1117,Feature phone,2009,37808-829,Callon Petroleum Company,$3.80,n/a,2/26/2021,3542922429114816,PHP,Peso
+454,Starlin Pritchitt,LG,LG T510,Feature phone,2011,54569-0025,MSG Networks Inc.,$3.25,$4.6B,8/9/2023,6333815234647770,CNY,Yuan Renminbi
+455,Morgun Dabney,Sony,Sony Tablet S,"Android 3.1, up to 4.0.3",2011,11523-0096,Park-Ohio Holdings Corp.,$4.17,$480.35M,3/7/2024,5602214008700005,PEN,Sol
+456,Karlee Whimpenny,Haier,Haier N60,Linux,2005,41520-626,GoDaddy Inc.,$2.96,$7.15B,2/12/2020,5100174461058720,USD,Dollar
+457,Zuzana Tomczykiewicz,Haier,Haier V700,Feature phone,2010,60760-984,CubeSmart,$4.86,$4.42B,8/18/2021,3584744186844966,HRK,Kuna
+458,Opalina Bricket,Spice,Spice Mi-436 Stellar Glamour,Android 4.2,2013,49349-684,AbbVie Inc.,$1.29,$113.08B,3/6/2021,3550329966479967,CNY,Yuan Renminbi
+459,Renaldo Wackly,Allview,Allview P5 AllDro,Android 4.0.4,2012,67751-094,MagnaChip Semiconductor Corporation,$5.10,$305.6M,7/26/2021,5602247709351153520,UAH,Hryvnia
+460,Ali Gladden,Yezz,Yezz Andy 4EI,Android 4.4.2,2014,57520-0399,Constellation Brands Inc,$7.87,n/a,12/16/2023,5199198117026718,IDR,Rupiah
+461,Crista Hasson,Mitac,Mitac MIO Explora K70,Windows Mobile 6.1 Professional,2009,0363-0339,Blackrock New York Municipal Income Quality Trust,$5.90,$87.89M,4/26/2021,374288086150603,CNY,Yuan Renminbi
+462,Cathee Jansky,Celkon,Celkon C67+,Feature phone,2013,10191-1717,Axis Capital Holdings Limited,$2.74,n/a,7/10/2023,5100139916183555,PKR,Rupee
+463,Padraic Hurles,LG,LG GD550 Pure,Feature phone,2010,57520-0063,Pacific Special Acquisition Corp.,$1.58,n/a,7/20/2022,374622822672050,RUB,Ruble
+464,Alyss Fellon,Samsung,Samsung I9506 Galaxy S4,"Android 4.2.2, up to 5.0.1, TouchWiz UI",2013,0378-0445,"XO Group, Inc.",$7.88,$431.87M,12/23/2020,3548271726973084,USD,Dollar
+465,Pansy Perrycost,Energizer,Energizer Energy E520 LTE,Android 6.0,2017,59788-002,"Galena Biopharma, Inc.",$2.63,$20.66M,11/5/2023,67598725867219395,PHP,Peso
+466,Cate Aggis,HTC,HTC A12,"Android 4.4.4, Sense UI",0,24236-583,"Eaton Corporation, PLC",$5.66,$34.35B,4/14/2023,4936296018070559451,RUB,Ruble
+467,Nicholle MacKeeg,iNQ,iNQ Cloud Touch,Android 2.2,2011,0363-0055,"Celsius Holdings, Inc.",$8.02,$180.82M,1/28/2021,4905192497110562,THB,Baht
+468,Ginger Lamcken,Honor,Honor Magic 2,"Android 9.0, EMUI 9 or Magic UI 2",2018,67046-113,First Trust TCW Opportunistic Fixed Income ETF,$9.73,$51.15M,1/31/2020,564182115985397992,SYP,Pound
+469,Alphonso Drillingcourt,Tecno,Tecno Pop 1,Android 7.0,2018,45963-303,CRH PLC,$7.74,$30.09B,4/28/2022,5002351170602019,EUR,Euro
+470,Corbet Seldon,Motorola,Motorola V70,Feature phone,2002,49999-334,McGrath RentCorp,$1.28,$818.25M,11/12/2022,5602244068260277,CNY,Yuan Renminbi
+471,Carny Clacson,Pantech,Pantech G700,Feature phone,2004,60432-830,Public Storage,$0.96,n/a,6/15/2022,3532232271098931,CNY,Yuan Renminbi
+472,Raimondo Golt,O2,O2 Cosmo,Microsoft Windows Mobile 5.0 Smartphone,2006,24385-386,"Blackrock MuniHoldings New Jersey Insured Fund, Inc.",$5.14,$438.74M,5/5/2023,3588557448029325,NGN,Naira
+473,Emlyn Bowmer,Maxwest,Maxwest Astro 5s,Android 5.1,2016,59779-414,John Hancock Tax-Advantaged Global Shareholder Yield Fund,$9.91,$107.03M,3/16/2020,201802124998630,PHP,Peso
+474,Philly Morling,LG,LG GB220,Feature phone,2009,0781-5782,WashingtonFirst Bankshares Inc,$9.06,$445.08M,9/9/2020,56022325726884213,USD,Dollar
+475,Kiley Logue,Nokia,Nokia 2.3,"Android 9.0, up to Android 11, Android One",2019,63240-5001,Merus N.V.,$9.49,$276.34M,3/11/2020,4175000132538175,NGN,Naira
+476,Corenda Howat,Nokia,Nokia 5110,Feature phone,1998,0268-0275,"TTM Technologies, Inc.",$9.17,$1.84B,2/12/2022,3584275364225116,IDR,Rupiah
+477,Edithe Bremmell,Lenovo,Lenovo A7-30 A3300,Android 4.2.2,2014,75857-1203,Great Ajax Corp.,$6.83,n/a,2/3/2023,30501879248731,PLN,Zloty
+478,Bree Chastey,NEC,NEC c616v,Feature phone,2003,54868-4159,Xunlei Limited,$8.23,$219.73M,9/8/2021,5641820495690401,MGA,Ariary
+479,Ario Hercock,Spice,Spice Mi-300,"Android 1.6, up to 2.1",2010,54575-465,"Tilly's, Inc.",$4.49,$288.73M,3/25/2020,3576227737323896,NAD,Dollar
+480,Ermanno Beeken,Siemens,Siemens M50,Feature phone,2002,0363-3450,Murphy USA Inc.,$6.82,$2.62B,3/31/2020,374283716511548,AMD,Dram
+481,Orbadiah Sumsion,Samsung,Samsung Galaxy S5,"Android 4.4.2, up to 6.0, TouchWiz UI",2014,0185-0720,Entegra Financial Corp.,$7.26,$153.96M,1/28/2020,4936277846942584,CLP,Peso
+482,Roldan McBrearty,Samsung,Samsung Galaxy Note5,"Android 5.1.1, up to 7.0",2015,41250-763,ABM Industries Incorporated,$2.74,$2.33B,8/22/2021,30010258722803,BRL,Real
+483,Obidiah Birrane,alcatel,alcatel One Touch Evo 8HD,Android 4.2,2014,65044-2633,ClearBridge Energy MLP Opportunity Fund Inc.,$4.45,$389.01M,4/2/2024,3583240393779435,CNY,Yuan Renminbi
+484,Edmund Debold,BLU,BLU Bold N1,"Android 9.0, planned upgrade to Android 10",2019,67544-511,"Atlantic Capital Bancshares, Inc.",$6.47,$482.16M,8/20/2020,30419113053363,PHP,Peso
+485,Dreddy Camell,Lava,Lava Iris 404 Flair,Android 4.4.2,2014,60505-3952,"Preferred Apartment Communities, Inc.",$3.68,$497.06M,7/13/2023,5602252965713108,NGN,Naira
+486,Iosep Michele,Pantech,Pantech G600,Feature phone,2004,52125-902,Zoetis Inc.,$7.87,$30.7B,3/12/2020,30587378669121,IDR,Rupiah
+487,Zeb Yaakov,Samsung,Samsung Omnia M S7530,Microsoft Windows Phone 7.5 Mango,2012,21695-950,Genie Energy Ltd.,$0.51,n/a,7/17/2020,374288726015794,PHP,Peso
+488,Winifield Dillingston,LG,LG K61,Android 9.0,2020,0597-0124,Wells Fargo & Company,$3.54,n/a,7/27/2023,374288724410617,BRL,Real
+489,Meredeth Courtliff,Lenovo,Lenovo M10 Plus,Android 9.0,2020,76204-600,"Life Storage, Inc.",$8.74,$3.5B,3/22/2021,5248511111100274,CNY,Yuan Renminbi
+490,Rosabel Bellwood,Celkon,Celkon C9,Feature phone,2010,43406-0043,Viacom Inc.,$7.99,$15.55B,3/17/2020,5388536612935720,SEK,Krona
+491,Bengt Vasyukhnov,XOLO,XOLO Q1000,"Android 4.2, up to 4.4.2",2013,61727-306,TD Ameritrade Holding Corporation,$5.53,$21.48B,10/31/2022,5538110339778455,USD,Dollar
+492,Darbie O'Mahoney,Dell,Dell Mini 3i,OPhone OS,2009,53104-0105,Embraer-Empresa Brasileira de Aeronautica,$7.40,$3.45B,1/17/2023,3565047245671849,EUR,Euro
+493,Horton Ackerley,Celkon,Celkon C54,Feature phone,2013,49781-022,Nuveen Short Duration Credit Opportunities Fund,$4.94,$179.29M,10/11/2021,4844986847231182,PLN,Zloty
+494,Roselia Birtchnell,Ericsson,Ericsson T66,Feature phone,2001,55648-947,"Dicerna Pharmaceuticals, Inc.",$8.23,$124.4M,6/8/2022,5010128042337424,BWP,Pula
+495,Lionello Rumming,ZTE,ZTE Blade V8 Pro,Android 6.0.1,2017,50436-3840,Kinross Gold Corporation,$5.60,$5.1B,11/14/2023,5007667275603650,IDR,Rupiah
+496,Marti Phillps,ZTE,ZTE Axon 7s,"Android 7, MiFavor 4",2017,41190-425,"Atlantic Capital Bancshares, Inc.",$0.19,$482.16M,1/23/2021,5602249621209950,EUR,Euro
+497,Kacie Lasslett,HTC,HTC Evo 4G,"Android 2.1, up to 2.3, Sense UI",2010,55111-476,B Communications Ltd.,$4.87,$636.64M,12/21/2020,3579856307758250,PLN,Zloty
+498,Blisse Fricke,Samsung,Samsung C3510 Genoa,Feature phone,2010,62011-0013,Great Ajax Corp.,$8.05,$273.46M,5/14/2021,4041595489734584,EUR,Euro
+499,Gilberta Handman,Posh,Posh Kick X511,Android 4.4.2,2015,36987-2889,"SiteOne Landscape Supply, Inc.",$4.46,$1.97B,5/5/2022,3558901866511610,AFN,Afghani
+500,Lory Malatalant,Sony,Sony Ericsson Z610,Feature phone,2006,0338-1145,Capitala Finance Corp.,$3.27,n/a,4/13/2020,6372508526576821,CNY,Yuan Renminbi
+501,Leonore Turbern,Acer,Acer Liquid X2,Android 5.1,2016,62802-010,WisdomTree United Kingdom Hedged Equity Fund,$4.48,$18.51M,6/25/2020,3563435554234170,RUB,Ruble
+502,Krystal Skoof,Tecno,Tecno Camon iACE2X,"Android 8.1, HIOS 4.1",2019,55154-5009,Nomad Foods Limited,$8.66,$2.6B,7/5/2020,5206310192245037,PHP,Peso
+503,Janessa Endacott,Sony,Sony Ericsson W800,Feature phone,2005,50114-5325,Adient plc,$0.18,$5.8B,3/11/2022,3546324987563920,EUR,Euro
+504,Chance Brownett,Samsung,Samsung Gear S3 frontier LTE,Tizen OS 4.0,2016,0009-0234,"Popular, Inc.",$8.04,$3.98B,9/15/2022,3571956155352897,IDR,Rupiah
+505,Jody Gallally,QMobile,QMobile Noir Z12,"Android 5.1.1, Amigo OS 3.1",2016,37205-195,Banco Bradesco Sa,$9.02,$49.29B,6/8/2021,30341869909574,NGN,Naira
+506,Herc Doble,Vodafone,Vodafone Smart Turbo 7,Android 6.0,2016,48951-7010,First Trust Nasdaq Pharmaceuticals ETF,$6.10,$2.01M,4/3/2020,5100138335201949,THB,Baht
+507,Maura Gellett,Motorola,Motorola Moto G8 Power Lite,Android 9.0,2020,49288-0778,"Top Image Systems, Ltd.",$9.35,$22.92M,2/15/2023,4936569901098484119,THB,Baht
+508,Winslow Fieldstone,BLU,BLU Studio Touch,Android 6.0,2016,33261-883,"Xerium Technologies, Inc.",$6.13,$113.18M,3/23/2023,633377584358647804,IDR,Rupiah
+509,Horatio Blakeley,Samsung,Samsung Galaxy Tab S6 5G,"Android 10, One UI 2",2020,68540-001,"Bioanalytical Systems, Inc.",$9.68,$13.02M,10/2/2021,3536594347636689,PGK,Kina
+510,Scarface Cosgrove,HTC,HTC Desire 320,Android 4.4.2,2015,55346-0719,"Profire Energy, Inc.",$1.93,$63.6M,6/25/2021,3557722512231564,RUB,Ruble
+511,Buck Toombs,Samsung,Samsung A887 Solstice,Feature phone,2009,0519-8802,SL Green Realty Corporation,$7.69,n/a,3/29/2023,3540548678483503,SEK,Krona
+512,Fawn Leifer,alcatel,alcatel Fire C 2G,Firefox OS 1.3,2014,76439-122,Minerals Technologies Inc.,$1.37,$2.5B,5/6/2020,3537265259338437,CZK,Koruna
+513,Gloriane Duthie,Apple,Apple Watch Series 4 Aluminum,"watchOS 5.0, up to 7.6",2018,0268-0007,Loews Corporation,$3.10,$16.21B,1/4/2020,30318654627355,COP,Peso
+514,Wilt Lascell,Prestigio,Prestigio MultiPhone 4055 Duo,Android 4.0,2013,65044-5137,MFS Government Markets Income Trust,$1.74,$162.35M,10/19/2020,30559864050496,THB,Baht
+515,Kent Basham,HTC,HTC Pure,Microsoft Windows Mobile 6.5 Professional,2009,49404-114,Cooper Tire & Rubber Company,$2.33,$1.9B,9/10/2023,3565986287524202,PHP,Peso
+516,Fonsie Antoniat,Apple,Apple iPad 4 Wi-Fi + Cellular,"iOS 6, up to iOS 10.3",2012,0093-7296,Pitney Bowes Inc.,$8.15,n/a,10/29/2022,6771900827270769463,CNY,Yuan Renminbi
+517,Geraldine Tomas,Asus,Asus Zenpad Z8,Android 6.0,2016,0555-0956,Helios and Matheson Analytics Inc,$9.77,$14.65M,9/2/2020,491107749632287384,PHP,Peso
+518,Deborah Varfolomeev,Motorola,Motorola V150,Feature phone,2003,49415-0002,Sotheby's,$6.67,$2.73B,6/23/2020,30446876910729,USD,Dollar
+519,Dyane Harm,Samsung,Samsung Galaxy A8 (2016),Android 6.0.1,2016,51393-7633,Morgan Stanley,$9.34,n/a,1/13/2021,3532503818168761,CNY,Yuan Renminbi
+520,Kandace Keepe,Spice,Spice S-5010,Feature phone,2010,25021-655,McKesson Corporation,$6.88,$33.71B,4/16/2021,4917822641217394,ZAR,Rand
+521,Olav McCahey,LG,LG K5,Android 5.1.1,2016,68196-143,Gabelli NextShares Trust,$0.67,n/a,2/24/2021,201932209904805,USD,Dollar
+522,Berti Sictornes,Xiaomi,Xiaomi Mi 10i 5G,"Android 10, MIUI 12",2021,0115-5322,"Wheeler Real Estate Investment Trust, Inc.",$4.53,$85.97M,3/9/2024,5010125419099611,NIO,Cordoba
+523,Ardyce Mindenhall,Plum,Plum Gator 4,Android 7.0,2017,63323-317,"Tetraphase Pharmaceuticals, Inc.",$9.98,$275.95M,3/16/2024,372301756344224,XOF,Franc
+524,Miof mela McCutcheon,HTC,HTC Desire 310 dual sim,"Android 4.2.2, Sense UI 5.1",2014,55154-0409,"Leidos Holdings, Inc.",$6.54,$8.15B,11/28/2023,6331108643019231845,EUR,Euro
+525,Cicely Mayall,Sony,Sony Ericsson K500,Feature phone,2004,0065-0397,"GAIN Capital Holdings, Inc.",$1.36,$280.36M,11/5/2022,3581653911892120,XOF,Franc
+526,Elana Meeland,NEC,NEC N331i,Feature phone,2004,0135-0533,PowerShares DWA Healthcare Momentum Portfolio,$1.84,$61.7M,7/10/2021,30396491882839,IDR,Rupiah
+527,Deanna Millis,Samsung,Samsung P510,Feature phone,2004,52123-020,The GDL Fund,$4.73,$186.14M,1/2/2021,30061171245661,EUR,Euro
+528,Dewain Wickwar,Telit,Telit t200,Feature phone,2006,55651-024,Ethan Allen Interiors Inc.,$5.40,$822.58M,4/11/2023,201815506710316,CNY,Yuan Renminbi
+529,Brocky Kenewel,Lava,Lava Iris 325 Style,Android 4.4.2,2015,10056-067,"NI Holdings, Inc.",$7.10,$417.19M,2/18/2021,4903084411992682962,PHP,Peso
+530,Jesse Lunck,Xiaomi,Xiaomi Mi 4,"Android 4.4.3, up to 6.0.1, MIUI 10",2014,54868-2032,Bank of America Corporation,$5.41,n/a,7/3/2022,6706974612807700463,AMD,Dram
+531,Juliann Oganesian,Nokia,Nokia N91,"Symbian 9.1, Series 60 UI 3rd Edition",2005,14783-093,Capitala Finance Corp.,$5.36,n/a,3/14/2022,3550238913361840,CNY,Yuan Renminbi
+532,Carney Faulkner,Sony,Sony Ericsson K660,Feature phone,2008,43063-428,Ameren Corporation,$3.77,$13.85B,12/28/2021,676366945189926976,CZK,Koruna
+533,Sal Bragginton,Realme,Realme 5 Pro,"Android 9.0, up to Android 11, Realme UI 2.0",2019,0037-8110,Texas Instruments Incorporated,$4.57,$79.41B,6/28/2021,50184373819941653,IDR,Rupiah
+534,Connor Wimpenny,Samsung,Samsung Vibrant,"Android 2.1, up to 2.2",2010,55154-6334,Arch Capital Group Ltd.,$7.25,n/a,3/13/2022,5007661703300724,RUB,Ruble
+535,Thorny Chesshire,Philips,Philips Xenium X806,Feature phone,2010,59640-104,"Alon USA Partners, LP",$0.58,$669.59M,9/6/2023,3561791200543816,CNY,Yuan Renminbi
+536,Jeramey Olfert,Maxon,Maxon MX-E10,Feature phone,2003,36987-2228,Deltic Timber Corporation,$6.88,$883.38M,10/25/2023,493638433909077877,PHP,Peso
+537,Gawen Macknish,alcatel,alcatel HC 800,Feature phone,1997,0363-0391,"Pure Storage, Inc. ",$6.50,$2.77B,5/27/2020,3539489057380510,USD,Dollar
+538,Wright Shortan,Philips,Philips 580,Feature phone,0,16714-335,Xactly Corporation,$2.87,$499.79M,1/1/2023,3534824216641334,EUR,Euro
+539,Bibbye Crichton,Asus,Asus Transformer Pad Infinity 700 3G,Android 4.0,2012,23667-002,ZTO Express (Cayman) Inc.,$6.47,$10.32B,1/14/2024,374283954500096,CNY,Yuan Renminbi
+540,Marc Stonham,ZTE,ZTE Grand S Flex,Android 4.1,2013,13537-541,"Dicerna Pharmaceuticals, Inc.",$7.96,$124.4M,6/8/2022,3582985070113230,CNY,Yuan Renminbi
+541,Field Gerkens,Samsung,Samsung Droid Charge I510,Android 2.2,2011,68084-381,"Littelfuse, Inc.",$6.33,$3.69B,4/28/2023,3561652216122328,CNY,Yuan Renminbi
+542,Drud Redparth,verykool,verykool R25,Feature phone,2013,63187-012,"United Parcel Service, Inc.",$9.59,$95.97B,2/13/2024,6771880353161197361,RSD,Dinar
+543,Konstantine Fitch,Samsung,Samsung E1120,Feature phone,2009,51079-762,"Rightside Group, Ltd.",$4.21,$208.04M,7/11/2021,201805887805066,CNY,Yuan Renminbi
+544,Jenn Leyman,Wiko,Wiko Y80,Android 9.0 Pie,2019,55154-4984,Nuveen Quality Municipal Income Fund,$0.99,$2.85B,10/14/2023,3555530632040506,IDR,Rupiah
+545,Brier Yellowlees,Samsung,Samsung Galaxy J Max,Android 5.1,2016,65862-102,"Atara Biotherapeutics, Inc.",$6.12,$371.14M,12/1/2020,50383282567790619,UYU,Peso
+546,Bettina Godspeede,Allview,Allview V2 Viper Xe,Android 6.0,2016,37000-053,Nutraceutical International Corporation,$3.99,$384.67M,3/22/2022,3574718991482222,BRL,Real
+547,Hunt Roughley,Samsung,Samsung C110,Feature phone,2004,36987-3348,Tribune Media Company,$1.25,$3.57B,2/12/2022,3550053217820783,COP,Peso
+548,Cairistiona Milmoe,Samsung,Samsung Galaxy Ace 4 LTE G313,Android 4.4.2,2014,49643-417,Global X FinTech ETF,$6.63,n/a,4/5/2022,5100178415454562,BOB,Boliviano
+549,Kelbee Batrim,Nokia,Nokia 7710,"Symbian 7.0s, Series 90 UI",2004,53040-996,CONMED Corporation,$5.75,$1.42B,4/16/2020,6383113737597083,CNY,Yuan Renminbi
+550,Brandyn Tryme,Yota,Yota YotaPhone,Android 4.2.2,2013,0378-5512,Newell Brands Inc.,$5.91,$26.5B,10/5/2020,5602251760297553276,CNY,Yuan Renminbi
+551,Pauly Geldert,LG,LG K8 (2018),Android 7.1.2,2018,35356-982,Eaton Vance Tax-Advantaged Bond,$9.13,$113.57M,5/21/2021,6762447091762615,XOF,Franc
+552,Wylma Ilson,Celkon,Celkon A40,Android 4.2.2,2014,42002-509,Azure Power Global Limited,$1.26,$408.18M,1/6/2020,6387456132061387,LKR,Rupee
+553,Wheeler Reddings,Vodafone,Vodafone 1240,Feature phone,2009,41520-140,"The Hanover Insurance Group, Inc.",$0.49,n/a,4/17/2022,633300623242334724,CNY,Yuan Renminbi
+554,Binny Cosgriff,Asus,Asus Zenfone 4 ZE554KL,"Android 7.1.1, ZenUI 4",2017,63629-3563,"Aduro Biotech, Inc.",$3.95,$737.59M,6/19/2022,3569516065923692,SDG,Pound
+555,Alvinia Piccop,Sendo,Sendo S1,Feature phone,0,33992-8803,"Vishay Precision Group, Inc.",$0.20,$229.33M,8/10/2022,372301482179415,THB,Baht
+556,Conroy Durker,Micromax,Micromax A36 Bolt,Android 2.3,2014,48951-2099,"Workday, Inc.",$8.10,$20.37B,10/26/2022,6759285864931293096,PHP,Peso
+557,Fawn Huff,Allview,Allview A5 Duo,Android 4.2.2,2013,63691-012,LaSalle Hotel Properties,$9.19,n/a,2/22/2021,3558244940835725,CNY,Yuan Renminbi
+558,Maureen Jacmar,Samsung,Samsung E900,Feature phone,2006,62011-0095,"Entergy New Orleans, Inc.",$8.04,n/a,3/8/2024,3565029974070138,RUB,Ruble
+559,Sam Enrico,verykool,verykool i674,Feature phone,2012,68001-158,"American International Group, Inc.",$5.72,$58.82B,4/16/2020,4917011806532009,IDR,Rupiah
+560,Giorgia Hanbury,Sony,Sony Xperia T2 Ultra,"Android 4.3, up to 5.1",2014,11822-0622,Corporate Asset Backed Corp CABCO,$0.09,n/a,1/13/2021,3532557099794489,CNY,Yuan Renminbi
+561,Caria Adamkiewicz,Xiaomi,Xiaomi Redmi 9 (India),"Android 10, MIUI 12",2020,0093-0199,"United Community Banks, Inc.",$1.44,$2B,4/3/2023,3582351965855353,CNY,Yuan Renminbi
+562,Claresta Nell,Lenovo,Lenovo A316i,Android 4.2.2,2014,0430-0535,Agenus Inc.,$9.52,$342.95M,4/6/2020,3541747999701697,RUB,Ruble
+563,Tobin Pretley,Samsung,Samsung i7410,Feature phone,2009,68180-199,Comerica Incorporated,$7.94,n/a,3/14/2024,4026912741074346,VND,Dong
+564,Mirabella Bullcock,Huawei,Huawei Ascend W2,Microsoft Windows Phone 8,2013,52125-306,"GenVec, Inc.",$7.78,$16.35M,5/12/2020,3575233464619978,BRL,Real
+565,Cristin Ellington,Asus,Asus Transformer Prime TF201,"Android 3.2, up to 4.0",2011,0573-0246,"Regeneron Pharmaceuticals, Inc.",$0.69,$48.88B,2/2/2021,3586185871572694,CNY,Yuan Renminbi
+566,Norene Vasenkov,alcatel,alcatel OT-C652,Feature phone,2005,68001-133,Resource Capital Corp.,$5.82,n/a,3/20/2024,3555262151534913,PLN,Zloty
+567,Lynda Rosier,Sagem,Sagem P9522 Porsche,Feature phone,2008,43063-280,"Navigant Consulting, Inc.",$7.63,$938.83M,9/19/2022,3546706437586859,CNY,Yuan Renminbi
+568,Ted Eglise,Palm,Palm Centro,Palm OS 5.4.9,2008,49738-168,"Morgan Stanley Emerging Markets Fund, Inc.",$6.72,$232.61M,5/15/2020,630419944230271049,MUR,Rupee
+569,Gregorius Keig,Karbonn,Karbonn A1+,Android 2.3.6,2012,68788-9407,Approach Resources Inc.,$9.75,$233.83M,3/10/2021,3575006485132803,IDR,Rupiah
+570,Nadeen Antonchik,Motorola,Motorola Droid Turbo 2,"Android 5.1.1, up to 7.0",2015,65162-762,"Blue Buffalo Pet Products, Inc.",$9.75,$4.74B,4/30/2021,5497006421655529,CZK,Koruna
+571,Leslie Nuzzti,BLU,BLU Life View,Android 4.2,2013,0025-1720,Vornado Realty Trust,$5.79,n/a,4/6/2021,3541355820132833,CZK,Koruna
+572,Christabel Kidds,Celkon,Celkon C720,Android 4.2.2,2014,0074-3333,WNS (Holdings) Limited,$8.31,$1.63B,11/29/2020,6709025636950956,PHP,Peso
+573,Udell Subhan,Celkon,Celkon C20,Feature phone,2011,58232-0212,"JA Solar Holdings, Co., Ltd.",$2.99,$301.6M,3/28/2023,3568416399949227,BRL,Real
+574,Annamarie Richings,Karbonn,Karbonn K102+ Flair,Feature phone,2012,68391-352,NASDAQ TEST STOCK,$0.29,n/a,5/16/2022,3579375835764243,SEK,Krona
+575,Leonard Shackle,Samsung,Samsung W259 Duos,Feature phone,2009,49035-532,"Penumbra, Inc.",$1.38,$2.84B,9/8/2021,30047548657191,MNT,Tugrik
+576,Marwin Leavold,ZTE,ZTE Light Tab 3 V9S,Android 3.2,2012,65734-000,BlackRock Credit Allocation Income Trust,$6.14,$1.45B,10/25/2021,63048164463325668,IDR,Rupiah
+577,Arlee Castro,Motorola,Motorola XT301,Android 2.1,2011,67046-426,FORM Holdings Corp.,$5.99,$32.87M,6/26/2020,3539449499639642,BGN,Lev
+578,Gerry Shinton,BlackBerry,BlackBerry Pearl 3G 9100,BlackBerry OS,2010,52670-552,"Uranium Resources, Inc.",$8.10,$34.59M,3/3/2023,6762029840280352,BRL,Real
+579,Wally Jakoviljevic,Haier,Haier M1200,Feature phone,2005,0179-0111,Vanguard Short-Term Corporate Bond ETF,$8.72,$19.14B,12/9/2022,3540398519285422,IDR,Rupiah
+580,Burg Terrelly,Lenovo,Lenovo Vibe Z2,Android 4.4,2014,21695-463,"Union Bankshares, Inc.",$0.99,$207.26M,12/24/2021,503830933692346704,CZK,Koruna
+581,Binny Skipworth,BLU,BLU Life Play X,Android 4.2,2014,41250-063,Acco Brands Corporation,$2.72,$1.24B,8/27/2021,5610045535969659559,HNL,Lempira
+582,Arnoldo Karolczyk,Karbonn,Karbonn A111,Android 4.0,2013,11344-697,"NVR, Inc.",$9.78,$9.16B,7/18/2020,3550561184638392,BRL,Real
+583,Saraann Cosgriff,Wiko,Wiko Tommy,Android 6.0.1,2016,63187-013,ENSCO plc,$2.24,$1.74B,7/6/2020,3554038752598692,CNY,Yuan Renminbi
+584,Sauveur Hail,Oppo,Oppo R7,"Android 4.4.2, ColorOS 2.1",2015,0615-7523,"Cohen & Steers Total Return Realty Fund, Inc.",$8.08,$337.67M,2/19/2020,4844732772633558,IDR,Rupiah
+585,Dale Coales,HTC,HTC U11+,"Android 8.0, up to Android 9.0, Sense UI",2017,0574-4005,"Kona Grill, Inc.",$7.42,$33.83M,3/28/2021,3546406359687740,CNY,Yuan Renminbi
+586,Kitty MacRirie,BenQ-Siemens,BenQ-Siemens EF71,Feature phone,2006,0268-2002,Deutsche Bank AG,$9.09,$34.76B,11/1/2023,6394961611107859,MXN,Peso
+587,Giuseppe Coxall,Asus,Asus Zenfone Max (M2) ZB633KL,"Android 8.1, up to Android 9.0",2018,0615-6557,"Chuy's Holdings, Inc.",$6.30,$414.14M,9/27/2020,6771740548929251,MXN,Peso
+588,Gaultiero Jankin,HTC,HTC Butterfly 3,"Android 5.0, up to 6.0, Sence 7",2015,68788-9546,"Cytokinetics, Incorporated",$0.36,$614.08M,5/7/2020,30484480127257,CNY,Yuan Renminbi
+589,Van Farnie,LG,LG KG810,Feature phone,2006,36987-2833,MSA Safety Incorporporated,$7.32,$3.16B,4/6/2020,3553792590805765,PHP,Peso
+590,Doug Grinaugh,Samsung,Samsung Galaxy S Blaze 4G T769,Android 2.3.6,2012,51861-010,Wells Fargo & Company,$9.09,n/a,3/31/2022,4844713900166547,RUB,Ruble
+591,William Langdon,HTC,HTC Desire 10 Lifestyle,Android 6.0,2016,24236-217,"James River Group Holdings, Ltd.",$8.18,$1.18B,10/29/2020,67712219302491216,SYP,Pound
+592,Madlin McKeevers,Motorola,Motorola Moto C,Android 7.0,2017,21695-357,Navient Corporation,$0.92,n/a,9/23/2020,3558445997654444,PHP,Peso
+593,Sayre Townshend,Gigabyte,Gigabyte GSmart i300,Microsoft Windows Mobile 5.0 for &hellip;,2006,16590-269,John Hancock Pfd Income Fund II,$3.25,$465.13M,8/25/2020,30210206600396,PHP,Peso
+594,Vernor Stanford,Nokia,Nokia 7900 Prism,Feature phone,2007,63629-5308,"LM Funding America, Inc.",$5.54,$13.56M,10/1/2023,3586484622294603,IRR,Rial
+595,Denni Tesche,Gionee,Gionee Steel 2,"Android 6.0, Amigo 3.5",2017,50988-230,"Luby's, Inc.",$4.74,$88.73M,12/11/2022,5018799806716839,CNY,Yuan Renminbi
+596,Mile Wadelin,alcatel,alcatel Pixi 3 (3.5) Firefox,Firefox 2.0,2015,69017-204,"Ply Gem Holdings, Inc.",$6.20,$1.18B,5/28/2020,5559271789680395,EUR,Euro
+597,Alexa Degoix,alcatel,alcatel Idol 4,Android 6.0.1,2016,14550-517,Kaman Corporation,$6.83,$1.38B,2/17/2021,633468294695461915,KRW,Won
+598,Faustine Normanvill,Qtek,Qtek 8020,Microsoft Windows Mobile 2003 SE Smartphone,2004,64762-864,DTE Energy Company,$5.94,n/a,9/6/2022,5396999901848956,PLN,Zloty
+599,Enrica Rennebach,Wiko,Wiko Upulse lite,Android 7.0,2017,59875-1005,"Portola Pharmaceuticals, Inc.",$2.69,$2B,6/25/2021,3574251324140754,COP,Peso
+600,Wallie Hemphrey,Motorola,Motorola Moto G Power (2021),Android 10,2021,63851-612,Magic Software Enterprises Ltd.,$6.56,$349.22M,5/19/2022,201951283084334,UAH,Hryvnia
+601,Shina Brabham,Orange,Orange Sydney,Feature phone,2011,25000-115,"Stanley Furniture Company, Inc.",$8.16,$18.34M,5/15/2023,3556022669355543,EUR,Euro
+602,Johnna Jopke,ZTE,ZTE F951,Feature phone,2010,68788-9021,Territorial Bancorp Inc.,$2.73,$309.27M,3/5/2021,4041596423475,IRR,Rial
+603,Quent Suero,Micromax,Micromax X274,Feature phone,2012,49741-1004,Vista Outdoor Inc.,$0.06,$1.35B,4/7/2024,3571159470661874,USD,Dollar
+604,Winston Ratke,Samsung,Samsung X520,Feature phone,2006,57955-5142,Eaton Vance Short Diversified Income Fund,$5.98,$252.83M,6/5/2020,343435610393807,EUR,Euro
+605,Mel Baress,Samsung,Samsung S5150 Diva folder,Feature phone,2010,35356-638,Toro Company (The),$6.27,$7.81B,2/17/2020,3568581768221019,CZK,Koruna
+606,Merill Eyrl,Samsung,Samsung Q300,Feature phone,2002,58517-360,Third Point Reinsurance Ltd.,$2.46,$1.45B,12/5/2023,3550486698812582,NGN,Naira
+607,Lethia Dionisio,iNQ,iNQ Chat 3G,Feature phone,2009,55154-2077,"Bay Bancorp, Inc.",$8.39,$75.03M,7/18/2022,3551545006718960,BRL,Real
+608,Marie-ann Pogson,Yezz,Yezz Classic C21A,Feature phone,2013,48951-2045,Arbutus Biopharma Corporation,$8.56,$198.09M,7/23/2021,3548008085765986,EUR,Euro
+609,Chryste Gilpin,Oppo,Oppo A92s,"Android 10, ColorOS 7.1",2020,49980-001,First Internet Bancorp,$9.38,$177.71M,6/23/2023,3577512948398913,BGN,Lev
+610,Kerstin Fludder,HTC,HTC Desire 601,"Android 4.2.2, up to 4.4.2, Sense UI 5",2013,54162-221,Valero Energy Corporation,$3.63,$29.43B,12/19/2022,5010125697799908,CNY,Yuan Renminbi
+611,Cristen Heinemann,LG,LG KF700,Feature phone,2008,66949-994,"AMC Entertainment Holdings, Inc.",$9.69,$3.23B,9/25/2023,6304685279943014755,VND,Dong
+612,Alasteir McQuode,Samsung,Samsung B7722,Feature phone,2010,49288-0489,"Cullen/Frost Bankers, Inc.",$0.25,$6.19B,10/3/2022,374288317889722,SEK,Krona
+613,Guy Friett,Motorola,Motorola Moto C Plus,Android 7.0,2017,45802-562,"Applied Industrial Technologies, Inc.",$4.52,$2.35B,9/26/2022,3544996219370505,IRR,Rial
+614,Daisy Searchfield,ZTE,ZTE nubia Z18,"Android 8.1, nubia UI 6",2018,55154-0837,"Greenbrier Companies, Inc. (The)",$1.38,$1.35B,11/17/2022,3533196368754202,EUR,Euro
+615,Alyce Bernaldo,BLU,BLU Bar Q,Feature phone,2011,0440-7605,"WPX Energy, Inc.",$8.45,$3.64B,8/5/2021,3583570408986835,XAF,Franc
+616,Issiah Kasper,Nokia,Nokia C1-01,Feature phone,2010,36987-2405,Pure Cycle Corporation,$4.17,$188.85M,6/7/2021,3542196085207798,EUR,Euro
+617,Jimmie Coulthard,Samsung,Samsung L770,Feature phone,2008,54575-167,Lockheed Martin Corporation,$4.87,$81.37B,10/1/2022,3578870108615990,AOA,Kwanza
+618,Ruthi Joseph,Asus,Asus Fonepad 7,"Android 4.2, up to 4.4.2",2013,54868-5950,Vident International Equity Fund,$1.61,n/a,7/19/2020,3562463365095938,CRC,Colon
+619,Richmond Flowith,Unnecto,Unnecto Pro,Feature phone,2012,55111-593,"Super Micro Computer, Inc.",$2.08,$1.21B,7/8/2020,3536147610182624,ARS,Peso
+620,Jan Woodroffe,Samsung,Samsung i7410,Feature phone,2009,35000-700,"Cohen & Steers Infrastructure Fund, Inc",$3.85,$2.03B,12/10/2020,30125513845635,IDR,Rupiah
+621,Odilia Getch,AT&T,AT&T Quickfire,Feature phone,2008,33261-134,Dominion Diamond Corporation,$9.35,$1.03B,1/17/2020,344357656473864,AFN,Afghani
+622,Sandra Sokell,i-mate,i-mate SP4m,Microsoft Windows Mobile 5.0 Smartphone,2005,49999-984,Novadaq Technologies Inc,$6.95,$346.82M,10/27/2023,374263996318707,CNY,Yuan Renminbi
+623,Myca Dannel,Honor,Honor 8,"Android 6.0, up to Android 8.0, EMUI 8",2016,13537-173,SeaSpine Holdings Corporation,$7.55,$116.58M,1/28/2021,3550014801363747,RUB,Ruble
+624,De Fried,Samsung,Samsung Z620,Feature phone,2006,43269-736,"Aberdeen Singapore Fund, Inc.",$7.20,$84.33M,12/29/2021,5602243288671727,CNY,Yuan Renminbi
+625,Kathe McCreary,BlackBerry,BlackBerry Bold Touch 9900,BlackBerry OS 7.0,2011,16714-683,GSV Capital Corp,$8.71,$100.04M,5/16/2021,4905400201985906540,EUR,Euro
+626,Vladimir Southorn,Samsung,Samsung S3600,Feature phone,2009,37000-834,"NewStar Financial, Inc.",$1.85,$438.82M,1/28/2022,5602239032102043,CNY,Yuan Renminbi
+627,Staci Byk,NEC,NEC N341i,Feature phone,2003,55319-805,"Shiloh Industries, Inc.",$9.63,$243.62M,4/29/2022,5602239996056144,MAD,Dirham
+628,Cristen Sansome,Panasonic,Panasonic Eluga A,Android 4.3,2014,55154-1113,"Blackrock MuniYield Fund, Inc.",$8.73,$703.23M,11/19/2023,3544179448082452,EUR,Euro
+629,Nester Gatchel,alcatel,alcatel One Touch Scribe HD,Android 4.1,2013,54235-205,"Amkor Technology, Inc.",$4.12,$2.52B,1/13/2023,3556506223574623,RUB,Ruble
+630,Wandis Matten,Yezz,Yezz Billy 5S LTE,"Microsoft Windows 10
+Microsoft&hellip;",2015,59779-146,Western Asset Global High Income Fund Inc,$0.05,$462.37M,8/8/2022,3548675541402105,EUR,Euro
+631,Bradley Ruffler,Sony,Sony Ericsson S710,Feature phone,2004,60429-058,Mylan N.V.,$9.87,$19.68B,9/2/2020,5602230778585061,CNY,Yuan Renminbi
+632,Prisca Mattosoff,alcatel,alcatel Fire C,Firefox OS 1.3,2014,54868-0818,FelCor Lodging Trust Incorporated,$4.18,n/a,8/2/2023,6706757391500658400,CNY,Yuan Renminbi
+633,Alistair Daubeny,alcatel,alcatel Flash Plus,Android 4.4.4,2015,60258-521,"America First Multifamily Investors, L.P.",$7.50,$358.5M,3/31/2023,5038107747246409828,CNY,Yuan Renminbi
+634,Bari Matyushkin,HTC,HTC One (M8i),"Android 5.1, Sense UI 7",0,51386-737,"Forterra, Inc.",$5.42,$411.13M,1/26/2024,633324415926725612,UAH,Hryvnia
+635,Tymon Killshaw,Micromax,Micromax X118,Feature phone,2010,63629-3566,"Greene County Bancorp, Inc.",$5.98,$228.72M,1/15/2021,374283255398778,CNY,Yuan Renminbi
+636,Ailis Bragge,Samsung,Samsung Galaxy View2,Android 8.1,2019,57520-0769,Eaton Vance Senior Income Trust,$7.65,$255.6M,4/6/2020,3582665191842434,PLN,Zloty
+637,Mariellen Christofides,Motorola,Motorola Moto G Turbo,"Android 5.1.1, up to 6.0",2015,66969-6014,"WageWorks, Inc.",$8.71,$2.67B,5/14/2022,374288984527365,THB,Baht
+638,Sinclare Penkethman,BenQ,BenQ M350,Feature phone,2005,36987-2628,Barings Participation Investors,$3.55,$146.29M,5/1/2023,67066531484910454,NGN,Naira
+639,Shoshanna Golston,Nokia,Nokia 6303 classic,Feature phone,2009,55714-4428,FlexShares STOXX US ESG Impact Index Fund,$5.17,$8.61M,9/13/2021,3548725081470796,JPY,Yen
+640,Faustina Georgiev,vivo,vivo iQOO 5 5G,"Android 10, IQOO UI 1.5",2020,43063-458,Federal Agricultural Mortgage Corporation,$9.70,n/a,2/12/2023,3576881444106802,VEF,Bolivar
+641,Hyacinthia Skerm,Samsung,Samsung Z4,Tizen 3.0,2017,54575-318,Liberty Interactive Corporation,$7.01,$10.92B,1/10/2023,5602256747667631,RUB,Ruble
+642,Merrily Schwant,Orange,Orange Hiro,Android 4.1,2013,23155-064,Lipocine Inc.,$4.96,$74.57M,10/30/2023,5100149929411737,CNY,Yuan Renminbi
+643,Niki Paulsen,BLU,BLU Studio Mega 2019,Android 9.0,2019,41520-445,"Reata Pharmaceuticals, Inc.",$6.72,n/a,1/5/2023,3533871596577613,CNY,Yuan Renminbi
+644,Michel Putt,alcatel,alcatel OT-318D,Feature phone,2012,51452-010,"Innophos Holdings, Inc.",$9.44,$854.42M,7/10/2021,3567178858188066,XOF,Franc
+645,Megan Goutcher,Amoi,Amoi A102,Feature phone,2007,0338-6308,"U.S. Auto Parts Network, Inc.",$7.98,$107.35M,5/23/2020,4026787441282435,IDR,Rupiah
+646,Romain Grishkov,Huawei,Huawei G6608,Feature phone,2011,43742-0236,"Champions Oncology, Inc.",$4.58,$27.34M,10/30/2022,5048375668669640,THB,Baht
+647,Cornie Kleinholz,Samsung,Samsung Dart T499,Android 2.2,2011,0591-2466,"Woodward, Inc.",$0.20,$4.24B,3/24/2022,3556936650663781,UAH,Hryvnia
+648,Mona Fairburn,Nokia,Nokia 7360,Feature phone,2005,65862-656,"Silver Spring Networks, Inc.",$9.22,$559.9M,1/25/2024,5048377515571094,CNY,Yuan Renminbi
+649,Charmaine Warin,Samsung,Samsung Galaxy Tab CDMA P100,Android 2.2,2010,11822-0503,Natural Resource Partners LP,$9.82,$336.38M,6/8/2021,6763512579322787525,IDR,Rupiah
+650,Annabel Zanotti,Samsung,Samsung C3730C,Feature phone,2012,68400-353,SVB Financial Group,$3.47,n/a,4/28/2020,5602231434083456152,CNY,Yuan Renminbi
+651,Janet Lambertazzi,Lenovo,Lenovo A185,Feature phone,2011,55714-4440,"QuinStreet, Inc.",$7.75,$181.85M,8/6/2021,3554972433520933,IDR,Rupiah
+652,Lolly Thexton,Bird,Bird S668,Feature phone,2007,57896-785,IZEA Inc.,$8.50,$12.38M,2/24/2021,3564769099151120,PLN,Zloty
+653,Brennen Clemintoni,Yezz,Yezz Andy A3.5EP,Android 4.2,2013,0062-0475,"KalVista Pharmaceuticals, Inc.",$8.59,$73.43M,8/12/2021,4913874854012065,ZAR,Rand
+654,Roobbie Easton,Oppo,Oppo R9 Plus,"Android 5.1, up to 6, ColorOS 3",2016,42508-256,"Southern National Bancorp of Virginia, Inc.",$0.01,$211.4M,10/14/2020,3538518189083765,TND,Dinar
+655,Billie Jurgenson,Lava,Lava Iris 250,Android 4.4.2,2014,66993-877,"AvalonBay Communities, Inc.",$3.24,$27.02B,10/16/2022,5641823535148288505,NGN,Naira
+656,Bronnie Josephy,Huawei,Huawei Y7p,"Android 9.0, EMUI 9, no Google Play Services",2020,10812-203,R.R. Donnelley & Sons Company,$0.25,$864.5M,11/27/2022,6304672498105531,SEK,Krona
+657,Wyatt Shelper,i-mate,i-mate Ultimate 6150,Microsoft Windows Mobile 6.0 Professional,2008,58268-013,Korn/Ferry International,$4.66,$1.88B,12/23/2021,3584016030092815,CNY,Yuan Renminbi
+658,Sarah Keneford,Tecno,Tecno Spark 6 Air,"Android 10, HiOS 6.2",2020,0781-5208,Royal Bank Of Canada,$0.61,n/a,2/27/2020,633355961915021085,CNY,Yuan Renminbi
+659,Annamaria Learoyd,verykool,verykool s5510 Juno,Android 4.4.2,2014,50844-352,"China Biologic Products, Inc.",$7.00,$3B,5/27/2022,3580083209430741,IDR,Rupiah
+660,Agustin Mouth,Acer,Acer Liquid Z200,Android 4.4.2,2014,68745-2019,Commercial Metals Company,$3.59,$2.17B,3/28/2024,3586923168716032,CNY,Yuan Renminbi
+661,Haily Halbord,Motorola,Motorola WX295,Feature phone,2010,49349-182,Ophthotech Corporation,$6.95,$93.93M,3/11/2022,6759503164846777853,THB,Baht
+662,Andrey Risso,Philips,Philips 659,Feature phone,2004,53645-1141,Thomson Reuters Corp,$7.02,$32.96B,7/17/2021,201673975509937,EUR,Euro
+663,Grazia Basterfield,Samsung,Samsung X100,Feature phone,2003,36987-2730,UTStarcom Holdings Corp,$8.01,$84.95M,11/1/2021,4026205908529842,CNY,Yuan Renminbi
+664,Hilario Choak,Tecno,Tecno Camon iACE2,"Android 8.1, HIOS 4.1",2019,0378-5410,"NRG Yield, Inc.",$3.22,$3.22B,4/28/2020,30507929997961,IDR,Rupiah
+665,Pammie Hearne,Nokia,Nokia 1.3,"Android 10, up to Android 11, Android One",2020,10096-0226,Allstate Corporation (The),$6.70,n/a,7/8/2023,30156670022619,PEN,Sol
+666,Orel Stanislaw,Motorola,Motorola C200,Feature phone,2003,50114-1190,"Baldwin & Lyons, Inc.",$5.52,$375.34M,5/27/2023,630420902642521663,BGN,Lev
+667,Linda Pomroy,ZTE,ZTE PF112 HD,Android 4.0,0,10733-130,"Safe Bulkers, Inc",$2.11,n/a,2/7/2021,5100134696194096,CNY,Yuan Renminbi
+668,Nicole Ivimy,LG,LG Quantum,Microsoft Windows Phone 7,2010,17856-5721,ChannelAdvisor Corporation,$4.56,$305.43M,5/18/2022,5002353686170614,DOP,Peso
+669,Cyrill Preece,Samsung,Samsung Z240,Feature phone,2007,59351-0319,Teekay LNG Partners L.P.,$3.90,$1.17B,8/24/2020,3560539174371917,EUR,Euro
+670,Davon Lates,Samsung,Samsung U960 Rogue,Feature phone,2009,25021-109,BioShares Biotechnology Clinical Trials Fund,$0.90,$23.35M,9/21/2022,4508527805267615,IDR,Rupiah
+671,Charmain Deverson,Archos,Archos Diamond Gamma,"Android 7, nubia UI 4",2017,64760-219,New Age Beverages Corporation,$4.87,$195.98M,2/28/2024,3580942996752270,COP,Peso
+672,Thedrick Jiruch,Realme,Realme 3i,"Android 9.0, up to Android 10, Realme UI",2019,62011-0168,KraneShares CSI China Internet ETF,$1.29,$160.58M,7/4/2022,3565111422662623,IDR,Rupiah
+673,Konstantin Dederich,LG,LG L Bello,"Android 4.4.2, LG UI 3",2014,55154-4991,Purefunds Solactive FinTech ETF,$7.13,n/a,6/28/2022,3548124331938200,IDR,Rupiah
+674,Leslie Weatherhead,XOLO,XOLO A500,Android 4.0,2013,0071-2418,"Heritage Insurance Holdings, Inc.",$1.72,$389.62M,7/8/2020,337941040348004,CNY,Yuan Renminbi
+675,Hillier Clemente,Samsung,Samsung Galaxy W I8150,Android 2.3.5,2011,68788-0169,"Express, Inc.",$6.05,$540.53M,4/17/2022,3584860745368550,EGP,Pound
+676,Nike Piegrome,Parla,Parla Gala,Feature phone,2012,68472-138,"Owens & Minor, Inc.",$3.18,$1.93B,11/6/2022,4508171045198122,EUR,Euro
+677,Lindie Kuhlmey,Vodafone,Vodafone Smart N9,Android 8.1,2018,33342-046,"Equity Bancshares, Inc.",$7.23,$386.51M,7/10/2021,6759620878797690,CNY,Yuan Renminbi
+678,Agosto Hatter,vivo,vivo iQOO Z1x,"Android 10, iQOO UI 1.0",2020,0168-0381,Avenue Income Credit Strategies Fund,$9.26,$185.39M,8/11/2020,5048375529955451,CZK,Koruna
+679,Edgard Smorfit,QMobile,QMobile Noir X350,Android 4.4.2,2015,50730-1016,"Cable One, Inc.",$6.72,$4.14B,4/30/2022,3533319615842311,IDR,Rupiah
+680,Faber Tipton,Modu,Modu Mini jacket,Feature phone,2009,0093-8739,Marcus Corporation (The),$2.99,$909.47M,1/6/2020,3569644654190083,ARS,Peso
+681,Gawain Woollends,Nokia,Nokia 3310 4G,Feature phone,2018,0074-9189,Virtus Global Dividend & Income Fund Inc.,$1.54,$320.21M,4/25/2020,6304336905839479354,CNY,Yuan Renminbi
+682,Roby McGuffie,ZTE,ZTE Axon 9 Pro,Android 8.1,2018,61727-337,Genie Energy Ltd.,$9.66,$194.94M,12/16/2020,3541144275798821,HRK,Kuna
+683,Ethelda Willetts,Ericsson,Ericsson GH 388,Feature phone,1995,36987-1486,"Genomic Health, Inc.",$9.37,$1.08B,1/2/2020,5007662165845669,THB,Baht
+684,Tedra Ponte,Motorola,Motorola C332,Feature phone,2002,0615-7539,First American Corporation (The),$2.90,$4.93B,2/9/2021,4903820230433469,IDR,Rupiah
+685,Aubrette Baiyle,LG,LG KS500,Feature phone,2009,51257-644,Rand Capital Corporation,$1.05,$17.83M,6/5/2020,3565420384905932,SAR,Rial
+686,Carce Goulstone,Gionee,Gionee M2,Android 4.2,2014,49349-652,"Lydall, Inc.",$9.72,$907.09M,3/31/2022,201577604045371,SEK,Krona
+687,Emmaline Girogetti,Pantech,Pantech G900,Feature phone,2004,49035-901,CarMax Inc,$1.26,$11.24B,7/25/2023,3536712914487530,RUB,Ruble
+688,Junie Bonwell,HP,HP TouchPad 4G,HP webOS 3.0,0,55312-277,Actua Corporation,$3.08,$468.65M,11/15/2022,3535001862987266,CAD,Dollar
+689,Gerri Jantot,BLU,BLU Studio G4,Android 8.1 Oreo,2018,0185-0140,Royal Bank Scotland plc (The),$6.59,n/a,3/11/2020,3533353520067946,IDR,Rupiah
+690,Jennine Blythe,Gionee,Gionee S10C,"Android 7.1.1, Amigo 5",2017,62011-0076,Old Point Financial Corporation,$5.73,$150.3M,8/5/2022,58937963712169536,EUR,Euro
+691,Norine Moat,Yezz,Yezz Andy 4EI2,Android 4.4,2015,48951-1123,Bel Fuse Inc.,$0.71,$252.29M,8/3/2022,63045799700543939,KPW,Won
+692,Wat Armall,Celkon,Celkon C63,Feature phone,2013,76439-130,"Intevac, Inc.",$3.63,$253.97M,1/9/2022,3578877033739647,IDR,Rupiah
+693,Man Lugton,alcatel,alcatel OT-380,Feature phone,2010,53808-0347,"T-Mobile US, Inc.",$1.23,$52.45B,2/19/2022,4913374197691451,PHP,Peso
+694,Barnaby MacKonochie,Micromax,Micromax X278,Feature phone,2013,0268-1607,Principal U.S. Small Cap Index ETF,$1.72,$277.12M,10/16/2021,5007669803406481,CNY,Yuan Renminbi
+695,Joelle Triplow,Nokia,Nokia 7 plus,"Android 8.1, up to Android 10, Android One",2018,65862-667,Encore Capital Group Inc,$7.81,$996.04M,9/13/2021,5602221245297463640,LTL,Litas
+696,Aubry Allonby,Bird,Bird S668,Feature phone,2007,54868-6045,iShares 20+ Year Treasury Bond ETF,$3.69,$7.54B,4/20/2021,5007662126884567,CZK,Koruna
+697,Sherie Bernot,LG,LG Q Stylus,Android 8.1,2018,0259-1139,"LifePoint Health, Inc.",$8.60,$2.59B,2/15/2022,3575874865371683,VEF,Bolivar
+698,Brigg Roycroft,Ericsson,Ericsson T39,Feature phone,2001,51345-061,"Gartner, Inc.",$2.72,$11.06B,1/17/2024,4041599308269,PEN,Sol
+699,Walliw Lyness,Yezz,Yezz Art 1,Android 10,2020,0078-0414,"Goldman Sachs Group, Inc. (The)",$7.04,n/a,10/8/2021,5460795639976106,EUR,Euro
+700,Kesley Musk,Celkon,Celkon C201,Feature phone,2011,0113-8365,Ashford Hospitality Trust Inc,$4.34,n/a,8/24/2021,3537492115136397,IDR,Rupiah
+701,Iolande Benthall,Samsung,Samsung i505,Palm 5.2.1,0,63010-027,"National Oilwell Varco, Inc.",$8.59,$12.79B,11/21/2022,3571113538781166,IDR,Rupiah
+702,Stace Ivanchenkov,HTC,HTC Desire 700 dual sim,"Android 4.1.2, Sense UI 5",2014,0517-8880,"Richardson Electronics, Ltd.",$5.37,$75.94M,10/6/2022,201494651691216,PLN,Zloty
+703,Delcina Piola,Spice,Spice Mi-506 Stellar Mettle Icon,Android 4.2,2014,50972-273,Wabash National Corporation,$6.02,$1.26B,12/23/2021,3581892567596995,UYU,Peso
+704,Alastair Dorken,Eten,Eten P700,Microsoft Windows Mobile 2003 PocketPC,2004,42291-238,AGCO Corporation,$0.43,$5.35B,7/22/2022,50388142698495535,EUR,Euro
+705,Marion Vala,Realme,Realme C3 (3 cameras),"Android 10, Realme UI",2020,42291-226,"Hologic, Inc.",$3.49,$12.41B,12/4/2023,201721334532825,EUR,Euro
+706,Catina Hast,Sony,Sony Ericsson W830,Feature phone,2006,61509-105,PIMCO New York Municipal Income Fund,$4.70,$99.42M,1/15/2023,3533045072245926,RUB,Ruble
+707,Von Tomblin,Amazon,Amazon Fire HD 10 (2019),"Android 9.0, Fire OS 7",2019,63146-112,"VBI Vaccines, Inc.",$3.70,$180.27M,12/9/2022,3556882908785879,IDR,Rupiah
+708,Pepi Maton,Samsung,Samsung i900 Omnia,Microsoft Windows Mobile 6.1 Professional,2008,55301-852,"Guess?, Inc.",$6.04,$974.73M,10/25/2023,30225319277148,PEN,Sol
+709,Jehu Kilbee,Gionee,Gionee S10,"Android 7, Amigo 4",2017,57520-0367,"Upland Software, Inc.",$4.94,$437.47M,11/14/2021,5038278455537966,USD,Dollar
+710,Sullivan Habeshaw,Karbonn,Karbonn K11+,Feature phone,2012,61543-1758,Lincoln National Corporation,$1.15,n/a,9/23/2023,5100149181268643,IDR,Rupiah
+711,Ahmad Hawes,LG,LG Cosmos 2,Feature phone,2011,36987-3362,Accenture plc,$1.93,$81.78B,4/9/2023,4466898341978,EUR,Euro
+712,Derick Heaysman,Oppo,Oppo Ace2,"Android 10, ColorOS 7.1",2020,0115-1152,Cone Midstream Partners LP,$9.26,$1.17B,2/29/2024,670981809461699909,BRL,Real
+713,Antonina Pelman,Siemens,Siemens U10,Feature phone,2003,10356-110,"M.D.C. Holdings, Inc.",$2.90,$1.77B,3/30/2020,5552566954740107,PEN,Sol
+714,Anders Fromant,Coolpad,Coolpad Note 6,Android 7.1,2018,67751-094,"Lands' End, Inc.",$6.98,$520.48M,6/14/2020,06042549616507003,CNY,Yuan Renminbi
+715,Barbi Pavier,Allview,Allview P5 Life,Android 5.0,2014,67345-0518,"CBRE Group, Inc.",$0.00,$11.84B,2/1/2022,344608133008982,USD,Dollar
+716,Mollie Elegood,Philips,Philips W8578,Android 4.2,2014,14789-400,Highway Holdings Limited,$1.71,$12.9M,10/13/2021,374622684736167,EUR,Euro
+717,Berty Maplesden,Allview,Allview AX501Q,Android 5.1,2016,56062-332,"Tahoe Resources, Inc.",$6.10,$2.62B,10/15/2023,3548308132099094,PHP,Peso
+718,Westley Massimo,Parla,Parla Mist,Feature phone,2012,50988-232,"TrovaGene, Inc.",$3.06,$29.24M,6/22/2021,5602256770966858372,EUR,Euro
+719,Joanna Fossitt,Samsung,Samsung Ch@t 350,Feature phone,2011,66993-417,Synalloy Corporation,$2.07,$96.77M,2/29/2020,589379073590726057,ARS,Peso
+720,Leoine Haill,Samsung,Samsung E2210B,Feature phone,2009,43742-0132,"Interactive Brokers Group, Inc.",$9.17,$14.98B,12/3/2022,201665840204728,HNL,Lempira
+721,Rica Thor,Asus,Asus Zenpad S 8.0 Z580CA,Android 5.0,2015,57687-241,"Entellus Medical, Inc.",$8.99,$311.65M,10/8/2021,5602232389544438,MYR,Ringgit
+722,Jerrine Lushey,Motorola,Motorola W510,Feature phone,2007,68084-506,"Xencor, Inc.",$6.86,$934.3M,5/18/2022,3545361729724338,COP,Peso
+723,Travus Hewlings,Nokia,Nokia 7600,Feature phone,2003,48951-6050,Heritage Financial Corporation,$4.52,$781.49M,7/23/2021,6762763891910000,IDR,Rupiah
+724,Parker Swires,Energizer,Energizer Energy E10+,Feature phone,2018,0185-1111,Resonant Inc.,$1.96,$57.73M,3/4/2023,3581551359882308,EUR,Euro
+725,Chariot O' Faherty,Philips,Philips W715,Feature phone,2011,37000-674,Celgene Corporation,$7.84,$95.54B,6/22/2020,6706352953917290,UAH,Hryvnia
+726,Thedrick Lile,QMobile,QMobile King Kong Max,Android 6.0,2017,60512-1039,"Stericycle, Inc.",$5.63,n/a,3/6/2022,3530109961837525,SEK,Krona
+727,Benny Goldby,Mitac,Mitac MIO A501,Windows Mobile 5 AKU3.3,0,0002-8730,Corporate Office Properties Trust,$6.66,n/a,2/24/2021,3585423232409822,EUR,Euro
+728,Kirsti Charte,Honor,Honor Magic 2,"Android 9.0, EMUI 9 or Magic UI 2",2018,68084-262,Southern Company (The),$5.10,n/a,7/3/2021,3580938678095020,CNY,Yuan Renminbi
+729,Dedie Athelstan,Samsung,Samsung M3200 Beat s,Feature phone,2008,68196-321,Adtalem Global Education Inc.,$9.21,$2.32B,7/2/2022,4911130234634364964,CNY,Yuan Renminbi
+730,Gerianna Reddecliffe,Sony,Sony Ericsson W910,Feature phone,2007,16590-693,"W.W. Grainger, Inc.",$5.78,$10.53B,7/20/2023,346082898176020,EUR,Euro
+731,Samuele Sprade,Motorola,Motorola ZN200,Linux / Java-based MOTOMAGX,2008,43353-657,Scudder Multi-Market Income Trust,$3.31,$198.85M,10/1/2021,490369021417887696,COP,Peso
+732,Alisha Pettet,BLU,BLU Deejay II,Feature phone,2011,24794-102,"Hawaiian Holdings, Inc.",$6.62,$2.49B,12/24/2020,3565350890876311,IDR,Rupiah
+733,Sly Calleja,Celkon,Celkon AR40,Android 4.2.2,2013,55621-003,Paylocity Holding Corporation,$5.29,$2.43B,3/4/2022,3575519066349166,EUR,Euro
+734,Stefano Facher,Motorola,Motorola A1890,Linux,2009,49215-0005,MER Telemanagement Solutions Ltd.,$9.00,$5.27M,11/26/2022,677131799546811104,CNY,Yuan Renminbi
+735,Kore Carwardine,Nokia,Nokia 6820,Feature phone,2003,76401-1001,Baytex Energy Corp,$2.09,$592.54M,2/20/2020,6304676993913778,MNT,Tugrik
+736,Cathlene Kennagh,Samsung,Samsung Corby TV F339,Feature phone,2010,43596-0006,Anheuser-Busch Inbev SA,$9.35,$183.18B,2/5/2024,3535509950739597,BRL,Real
+737,Reeta Weigh,LG,LG Optimus LTE2,Android 4.0,2012,50436-6733,"CDK Global, Inc.",$4.69,$8.96B,4/28/2022,58938993159078394,CNY,Yuan Renminbi
+738,Pattie Planks,Philips,Philips X703,Feature phone,2010,0220-0508,"iKang Healthcare Group, Inc.",$5.53,$980.68M,9/29/2023,5038094879437149338,CNY,Yuan Renminbi
+739,Maxy Clubley,Sony,Sony Xperia XZ,"Android 6.0.1, up to Android 8.0",2016,52125-588,Seanergy Maritime Holdings Corp,$9.72,$25.18M,10/5/2020,3535243126907827,ALL,Lek
+740,Alfred Coffin,NEC,NEC N401i,Feature phone,2005,21695-766,"Argan, Inc.",$6.90,$947.48M,9/21/2022,3560608112078700,PHP,Peso
+741,Iorgos Boaler,Yezz,Yezz ZC20,Feature phone,2015,33261-112,ICICI Bank Limited,$5.83,$28.43B,9/14/2023,5450823449440824,CNY,Yuan Renminbi
+742,Whitney Hysom,Samsung,Samsung Galaxy C7 (2017),Android 7.1,2017,49999-042,"HFF, Inc.",$4.39,$1.28B,3/30/2022,5108752247142447,CNY,Yuan Renminbi
+743,Gianni Nancarrow,ZTE,ZTE Xiang,Microsoft Windows Mobile 6.1 Professional,2009,60977-016,Highland/iBoxx Senior Loan ETF,$3.88,$481.23M,1/27/2020,6397203166216216,IDR,Rupiah
+744,Alberto Andries,ZTE,ZTE U880E,Android 2.3,2012,0904-6113,Hess Corporation,$3.40,$13.87B,5/8/2021,3543648154555720,RUB,Ruble
+745,Corina Harriss,LG,LG GD880 Mini,Feature phone,2010,60505-0249,VictoryShares US Small Cap Volatility Wtd ETF,$9.64,$2.17B,8/21/2022,30029119534504,USD,Dollar
+746,Bat Formigli,Nokia,Nokia Lumia 810,"Microsoft Windows Phone 8, up to 8.1",2012,50474-804,"Rennova Health, Inc.",$3.85,n/a,10/24/2021,3541375560862282,VEF,Bolivar
+747,Tricia Carrington,Celkon,Celkon C303,Feature phone,2011,10812-537,TransAct Technologies Incorporated,$4.22,$63.93M,3/31/2024,3529474890839486,RUB,Ruble
+748,Dallas Hansemann,Acer,Acer Liquid Z500,Android 4.4.2,2014,59417-102,Perry Ellis International Inc.,$1.91,$288.6M,10/6/2021,560225978242958261,EUR,Euro
+749,Hannah Curme,Sony,Sony SmartWatch 3 SWR50,Android Wear OS,2014,55154-3951,WGL Holdings Inc,$3.79,$4.32B,4/15/2023,4091565461872818,IDR,Rupiah
+750,Ester Bottrill,Samsung,Samsung Galaxy Tab S7+,"Android 10, up to Android 11, One UI 3.1",2020,0054-0166,Macro Bank Inc.,$9.64,$5.07B,3/26/2021,50381221331307666,CNY,Yuan Renminbi
+751,Hannah Raveau,Xiaomi,Xiaomi Mi 5s,"Android 6.0, up to 7.0, MIUI 10",2016,51655-581,OMNOVA Solutions Inc.,$1.61,$393.18M,3/18/2023,3547903090506113,PHP,Peso
+752,Randal Piffe,Archos,Archos 55b Cobalt,Android 6.0,2017,37205-627,Coca Cola Femsa S.A.B. de C.V.,$7.05,$17.31B,3/21/2021,3560226064023457,TZS,Shilling
+753,Caressa Takkos,Energizer,Energizer Energy E500S,Android 8.0,2018,55154-5625,Puma Biotechnology Inc,$5.91,$2.88B,5/11/2022,5100146275365913,IDR,Rupiah
+754,Fawnia Veronique,Philips,Philips S337,Android 5.1,2015,0378-4201,Salient Midstream & MLP Fund,$5.85,$199.02M,2/3/2021,4026010144928232,EUR,Euro
+755,Kristofer Baron,Asus,Asus Z801,Feature phone,0,0310-0131,"Alnylam Pharmaceuticals, Inc.",$3.70,$6.56B,6/9/2021,201813049441374,CNY,Yuan Renminbi
+756,Pammy Portwain,Philips,Philips 162,Feature phone,2005,56062-153,Travelport Worldwide Limited,$2.35,$1.69B,6/21/2020,3548224399257129,EUR,Euro
+757,Mariel Bradder,alcatel,alcatel OT-E100,Feature phone,2006,54458-890,"EOG Resources, Inc.",$4.15,$51.1B,1/2/2023,5100144772109223,CAD,Dollar
+758,Abagail Ferrers,Motorola,Motorola DROID X,"Android 2.1, up to 2.3",2010,24236-994,Stone Harbor Emerging Markets Total Income Fund,$1.70,$155.93M,4/6/2024,4508685156266543,PEN,Sol
+759,Lindy Goodredge,BenQ-Siemens,BenQ-Siemens E61,Feature phone,2006,0378-6611,DXC Technology Company,$3.05,$21.19B,12/6/2020,36765922183559,JPY,Yen
+760,Taite Maccrea,Coolpad,Coolpad Legacy 5G,Android 10,0,68400-705,WisdomTree Interest Rate Hedged High Yield Bond Fund,$8.32,$58.01M,10/14/2023,3554665077029043,PLN,Zloty
+761,Gates Eggins,Plum,Plum Trigger Plus,Android 4.2.2,2014,68987-004,Mechel PAO,$2.07,n/a,1/3/2024,5570650251253549,BRL,Real
+762,Ban Baiss,TCL,TCL MoveTime,Proprietary OS,2021,0904-5304,iShares Morningstar Mid-Cap ETF,$5.34,$380.3M,6/28/2020,3577962957178443,MAD,Dirham
+763,Kellie Chancellor,Asus,Asus Zenpad 3S 10 Z500M,"Android 6.0, up to 7.0",2016,10096-0243,"Atlas Financial Holdings, Inc.",$7.47,$188.28M,12/31/2023,30438954026056,CNY,Yuan Renminbi
+764,Kathe Dunstall,Samsung,Samsung Galaxy Tab 3 Lite 7.0,Android 4.2,2014,52257-1003,PennyMac Mortgage Investment Trust,$2.93,$1.19B,12/21/2022,4508315732976254,IDR,Rupiah
+765,Tabbie Camillo,Oppo,Oppo Reno4 Lite,"Android 10, ColorOS 7.2",2020,54569-1036,Saban Capital Acquisition Corp.,$8.29,$315.63M,7/8/2020,3580560030150200,ZWL,Dollar
+766,Danny Pulteneye,Motorola,Motorola W396,Feature phone,2008,59995-003,"Cohu, Inc.",$3.12,$474.73M,3/27/2023,4844528420353775,PHP,Peso
+767,Rena Ghest,Samsung,Samsung A877 Impression,Feature phone,2009,60505-2544,NOW Inc.,$8.67,$1.86B,12/31/2021,6709285756685283,PKR,Rupee
+768,Gwenneth Dymott,BLU,BLU Vivo 4.65 HD,Android 4.0,2013,33261-826,Peabody Energy Corporation,$1.38,$2.28B,3/9/2021,6706948697408734,IDR,Rupiah
+769,Scot Croxon,Nvidia,Nvidia Shield,"Android 4.4.2, up to 7.0",2014,0641-6043,"Baldwin & Lyons, Inc.",$9.59,$355.85M,1/15/2023,5156522751302732,MWK,Kwacha
+770,Lovell Chittock,Huawei,Huawei Y560,"Android 5.1, EMUI Lite 3.1",2015,68472-077,"ONE Gas, Inc.",$7.00,$3.79B,6/21/2020,3538887681238973,CNY,Yuan Renminbi
+771,Silas Armin,Samsung,Samsung Galaxy Ace 4,Android 4.4.2,2014,57955-5077,IQ Chaikin U.S. Small Cap ETF,$4.90,$74.69M,6/24/2023,5416765630169311,CNY,Yuan Renminbi
+772,Roley Jeeves,Huawei,Huawei MatePad 5G,"Android 10, EMUI 10.1",2020,35356-472,"Prudential Financial, Inc.",$5.69,$46.21B,7/18/2020,3587901801672514,NGN,Naira
+773,Ammamaria Waight,Celkon,Celkon A107,Android 4.0,2013,54569-0025,Wells Fargo & Company,$1.22,n/a,4/2/2024,3544817070275817,RUB,Ruble
+774,Rhett Forsyde,Pantech,Pantech Laser P9050,Feature phone,2010,65044-1789,Oasmia Pharmaceutical AB,$9.07,$38.24M,11/27/2021,3538601856027388,RUB,Ruble
+775,Daven McGarvey,alcatel,alcatel OT-E221,Feature phone,2007,62839-1103,First Trust RiverFront Dynamic Developed International ETF,$1.99,$199.67M,7/11/2022,3541473777334805,CNY,Yuan Renminbi
+776,Maegan Erdes,Mitac,Mitac MIO A702,Microsoft Windows Mobile 6.0 Professional,2007,55910-988,Bel Fuse Inc.,$3.69,$252.29M,3/27/2021,5602255650039402203,IDR,Rupiah
+777,Harland Henker,Spice,Spice M-6868,Feature phone,2011,41250-527,"Eagle Bancorp Montana, Inc.",$5.56,$68.03M,8/10/2022,3562766315908327,PLN,Zloty
+778,Dode Spender,LG,LG Quantum,Microsoft Windows Phone 7,2010,61699-3182,"Cedar Fair, L.P.",$0.78,$3.97B,2/20/2024,3576265936436507,JPY,Yen
+779,Britteny Krishtopaittis,Huawei,Huawei nova 7 SE 5G Youth,"Android 10, EMUI 10.1",2020,48951-4056,First Trust Eurozone AlphaDEX ETF,$3.34,$9.76M,9/2/2020,6706302452165864160,RSD,Dinar
+780,Timothea Toler,Huawei,Huawei Ascend D quad XL,Android 4.0,2012,68084-256,American Water Works,$8.59,$14.72B,2/2/2020,3569913621506279,IDR,Rupiah
+781,Prudence Hrycek,verykool,verykool s5036 Apollo,Android 7.0,2018,49288-0573,Vicor Corporation,$7.08,$756.67M,7/9/2023,4041376062134561,PHP,Peso
+782,Zechariah Grinaugh,Samsung,Samsung Metro 360,Feature phone,2015,49288-0589,Farmland Partners Inc.,$2.61,$295.28M,8/2/2020,6759944475087562722,PHP,Peso
+783,Julian Babar,Toshiba,Toshiba Excite 13 AT335,Android 4.0,2012,55111-264,Federal Signal Corporation,$5.31,$1.02B,12/14/2023,3574279641322029,ZAR,Rand
+784,Pierson Ropert,Micromax,Micromax A90,Android 4.0.3,2012,54868-4066,"Westell Technologies, Inc.",$3.64,$10.72M,4/15/2021,3533710577345915,XAF,Franc
+785,Cosette Aimer,Motorola,Motorola V186,Feature phone,2005,55910-445,Turkcell Iletisim Hizmetleri AS,$8.43,$7.2B,6/1/2020,3576282025155393,AZN,Manat
+786,Urbanus Lyddyard,Infinix,Infinix Hot 7 Pro,Android 9.0,2019,0378-2920,Xerox Corporation,$9.82,$1.81B,11/27/2020,6761710891045895368,EUR,Euro
+787,Marianne Poulsom,Sony,Sony Ericsson G900,"Symbian, UIQ",2008,10812-934,"ZAIS Group Holdings, Inc.",$9.23,$31.27M,11/25/2022,5602211295278422,AMD,Dram
+788,Winifield Grishanov,Ulefone,Ulefone Armor 7,Android 9.0,2019,68462-388,DarioHealth Corp.,$9.20,$21.78M,11/19/2020,5602255428957642,UAH,Hryvnia
+789,Rudd Ciciari,Samsung,Samsung I9070 Galaxy S Advance,"Android 2.3.6, up to 4.1.2, TouchWiz UI 4",2012,36800-306,"Workday, Inc.",$6.33,$20.37B,8/31/2023,4041596693853,BRL,Real
+790,Noach Livard,Energizer,Energizer Energy E401,Android 8.0 Oreo,0,36987-2987,"SolarEdge Technologies, Inc.",$5.72,$808.23M,1/1/2022,63041641360745129,IDR,Rupiah
+791,Sebastiano Wurz,Samsung,Samsung E740,Feature phone,2007,53208-372,National Instruments Corporation,$10.00,$5.07B,9/25/2021,0604255091994265940,EUR,Euro
+792,Sansone Coole,Samsung,Samsung L770,Feature phone,2008,0781-5720,"Forum Energy Technologies, Inc.",$5.54,$1.66B,1/7/2020,374288672166732,IDR,Rupiah
+793,Eyde Botting,Samsung,Samsung Galaxy S21 Ultra 5G,"Android 11, One UI 3.1",2021,62032-415,Inphi Corporation,$8.43,$1.54B,2/11/2024,5020243679275728,CNY,Yuan Renminbi
+794,Giacobo Craythorn,Tel.Me.,Tel.Me. T909,Feature phone,0,0781-5226,"Analog Devices, Inc.",$0.77,$29.38B,10/18/2021,3564617587286538,KRW,Won
+795,Elmo O'Cahill,Allview,Allview Viva D8,Android 4.2,2014,43853-0005,Oconee Federal Financial Corp.,$6.62,$161.77M,9/9/2022,4917984925153164,IDR,Rupiah
+796,Bridget McCloy,Orange,Orange Barcelona,Android 2.2,2011,13537-219,Hyatt Hotels Corporation,$5.46,$7.26B,4/24/2023,6709825401281739857,TND,Dinar
+797,Cortney MacCosty,Motorola,Motorola One (P30 Play),"Android 8.1, up to Android 10, Android One",2018,55154-5732,"Donegal Group, Inc.",$8.69,$436.92M,1/26/2020,3585059232540024,CNY,Yuan Renminbi
+798,Maddi Parfett,Samsung,Samsung Galaxy A42 5G,"Android 10, up to Android 11, One UI 3.1",2020,67544-401,Bank Of Montreal,$1.18,n/a,2/10/2023,3545376634039077,PHP,Peso
+799,Cherye Tuminini,alcatel,alcatel OT 155,Feature phone,2004,0067-6171,Chimera Investment Corporation,$9.43,n/a,12/16/2022,3556046620741806,BRL,Real
+800,Trudey Toplin,Yezz,Yezz Andy A4.5,Android 4.2,2013,50458-542,PacWest Bancorp,$7.90,$5.87B,2/13/2021,5602259295416567,RSD,Dinar
+801,Fowler Reicherz,Honor,Honor 3X G750,"Android 4.2.2, EMUI 2",2013,16714-225,Regency Centers Corporation,$6.32,n/a,9/25/2020,3558766455263695,CNY,Yuan Renminbi
+802,Hanan Dowers,Huawei,Huawei MediaPad T1 7.0 Plus,"Android 4.4.2, EMUI 3",2016,66184-100,Assured Guaranty Ltd.,$0.87,$5.11B,8/26/2023,5020347413924560238,EUR,Euro
+803,Ragnar Minci,Micromax,Micromax Canvas Juice 4 Q382,Android 5.1,2015,67046-590,Celanese Corporation,$7.20,$12.76B,10/5/2023,3587644298017963,RUB,Ruble
+804,Leland Hegel,Samsung,Samsung S3030 Tobi,Feature phone,2008,68788-9023,Adobe Systems Incorporated,$1.74,$68.19B,9/5/2023,4017958487065304,CNY,Yuan Renminbi
+805,Heloise Craigmile,Siemens,Siemens CX75,Feature phone,2005,67226-2620,Pendrell Corporation,$4.28,$157.8M,4/30/2023,560221244260320445,MXN,Peso
+806,Janella Ragsdall,Micromax,Micromax Canvas Spark Q380,Android 5.0,2015,50268-101,SPDR Dorsey Wright Fixed Income Allocation ETF,$8.58,$58.13M,9/7/2022,3578155403810490,CNY,Yuan Renminbi
+807,Madison Murricanes,LG,LG V20,"Android 7.0, up to Android 9.0",2016,0143-9724,Qwest Corporation,$0.91,n/a,6/4/2022,378854321061545,CNY,Yuan Renminbi
+808,Hettie Ramelot,Karbonn,Karbonn A16,Android 4.2,2014,58668-2821,"Southcross Energy Partners, L.P.",$4.67,$266.52M,2/28/2020,3548004165627683,PHP,Peso
+809,Dominique Simeon,NEC,NEC N500,Feature phone,2004,55154-5456,RenaissanceRe Holdings Ltd.,$3.62,$5.77B,11/3/2021,5100146818565664,THB,Baht
+810,Saree Bennion,vivo,vivo Y95,"Android 8.1, Funtouch 4.5",2018,13668-034,Invesco California Value Municipal Income Trust,$5.45,$609.33M,1/2/2024,3582271626973900,CZK,Koruna
+811,Colline Yewdale,Gionee,Gionee Marathon M5 Plus,"Android 5.1, Amigo 3.1",2015,63629-1249,Zions Bancorporation,$5.59,$8.73B,11/27/2020,5100140605880956,USD,Dollar
+812,Franky Scourge,Samsung,Samsung W169 Duos,Feature phone,2010,52125-156,Eagle Bulk Shipping Inc.,$6.71,$332.73M,8/9/2023,4844365555928158,CNY,Yuan Renminbi
+813,Konstanze Djordjevic,Siemens,Siemens ME75,Feature phone,2005,0378-8889,Harmony Merger Corp.,$9.06,n/a,7/21/2022,36853367616000,CNY,Yuan Renminbi
+814,Karly Blees,Motorola,Motorola E895,"Linux, JUIX UI",2005,67544-127,PowerShares KBW Property & Casualty Insurance Portfolio,$2.69,$105.89M,6/22/2023,4903148513278543133,ILS,Shekel
+815,Marchelle Lymer,Samsung,Samsung T700,Feature phone,0,51138-076,Nuveen High Income November 2021 Target Term Fund,$3.35,$568.21M,7/20/2022,5048370024099111,CNY,Yuan Renminbi
+816,Tomas Leaman,LG,LG Leon,Android 5.0.1,2015,25225-021,Convergys Corporation,$1.69,$2.28B,7/10/2021,3534536944061094,CNY,Yuan Renminbi
+817,Orson Beeho,Microsoft,Microsoft Lumia 1330,Microsoft Windows Phone 8.1,0,11822-5161,"Regeneron Pharmaceuticals, Inc.",$0.19,$48.88B,7/31/2022,633383080202768757,IDR,Rupiah
+818,Dirk Andrei,Plum,Plum Switch,Feature phone,2012,63629-1585,BlackRock Multi-Sector Income Trust,$0.34,$685.06M,2/21/2023,5100170835164095,EUR,Euro
+819,Lorinda O'Crevy,Samsung,Samsung Galaxy Tab Pro 12.2 3G,"Android 4.4, TouchWiz UI",2014,65862-200,"Rush Enterprises, Inc.",$0.11,$1.41B,7/12/2021,6709270172760736165,CNY,Yuan Renminbi
+820,Dav Gonin,vivo,vivo Y3 Standard,"Android 9.0, Funtouch 9.1",2019,64942-1214,"Monster Digital, Inc.",$0.37,$4.11M,11/30/2021,5048377018215447,CNY,Yuan Renminbi
+821,Conney Lackney,Panasonic,Panasonic SC3,Feature phone,2005,68462-224,"Natera, Inc.",$8.23,$552.62M,2/1/2021,4903433442041544224,PHP,Peso
+822,Elyse Juanico,LG,LG GW550,Microsoft Windows Mobile 6.5 Standard,2009,66116-444,"ProPhase Labs, Inc.",$9.93,$32.94M,3/29/2023,63043595465612113,USD,Dollar
+823,Prissie Mogey,LG,LG KU311,Feature phone,2007,68604-238,First Trust NASDAQ-100 Ex-Technology Sector Index Fund,$4.79,$101.07M,10/9/2020,3578982131821725,RUB,Ruble
+824,Skippie Slemming,BLU,BLU Vivo XL5,Android 9.0,2019,49825-133,XTL Biopharmaceuticals Ltd.,$4.05,$13.78M,10/7/2023,677165991971276304,ETB,Birr
+825,Jilli Ferrierio,Ulefone,Ulefone Armor 8,Android 10,2020,55289-376,"Maui Land & Pineapple Company, Inc.",$3.35,$386.9M,11/27/2021,5602245037684042,BRL,Real
+826,Jesse Kinforth,Sharp,Sharp 550SH,Feature phone,2006,51672-2030,"Kindred Healthcare, Inc.",$7.88,$907.72M,3/24/2024,3563409659138503,IDR,Rupiah
+827,Sydelle Bosch,ZTE,ZTE T98,Android 4.0,2012,59779-969,Anchor Bancorp,$1.69,$62.74M,9/29/2021,6709823493985012410,PYG,Guarani
+828,Elvera Scammonden,Orange,Orange San Francisco II,Android 2.3,2011,0049-4120,Polaris Industries Inc.,$1.85,$5.46B,4/4/2022,3546439185194961,MXN,Peso
+829,Morgen Philippet,ZTE,ZTE Nova 4 V8000,Android 4.0,2014,67345-0001,Applied Genetic Technologies Corporation,$5.67,$91.32M,1/5/2020,56022125663910819,AZN,Manat
+830,Amelia Scini,Samsung,Samsung Galaxy Xcover FieldPro,Android 8.0,2020,53033-005,Gladstone Investment Corporation,$9.50,n/a,5/12/2021,3581270409999240,SZL,Lilangeni
+831,Edwin Heaton,Motorola,Motorola V557,Feature phone,2005,50436-4234,"Protagonist Therapeutics, Inc.",$5.41,$177.84M,3/6/2022,3559937267095992,IDR,Rupiah
+832,Theobald Dykins,Sony,Sony Ericsson W715,Feature phone,2009,67544-883,Altisource Portfolio Solutions S.A.,$0.20,$403.3M,12/15/2023,677150573010364627,IDR,Rupiah
+833,Moria Anthonies,Nokia,Nokia 8810,Feature phone,1998,0904-6286,Biogen Inc.,$7.58,$53.4B,4/10/2021,3534892585002156,PHP,Peso
+834,Micheal Newark,XOLO,XOLO LT900,Android 4.2,2013,0904-0430,Gladstone Investment Corporation,$7.74,n/a,2/27/2023,3537823877299850,IDR,Rupiah
+835,Edithe Bulbeck,Ericsson,Ericsson R310s,Feature phone,2000,48871-005,Vina Concha Y Toro,$4.67,$1.16B,3/12/2020,4508738339748653,JPY,Yen
+836,Nanette Crasswell,Bird,Bird S299,Feature phone,2005,0025-1381,Old National Bancorp,$6.44,$2.34B,6/25/2023,676145452932831072,EUR,Euro
+837,Nanice Blandford,HP,HP iPAQ Voice Messenger,Microsoft Windows Mobile 6.1 Standard,2009,50458-536,Sensient Technologies Corporation,$0.95,$3.62B,5/9/2022,3534117586479009,CNY,Yuan Renminbi
+838,Kala Warstall,Sagem,Sagem my511X,Feature phone,2007,0113-0310,"Computer Task Group, Incorporated",$7.76,$84.39M,6/26/2021,5602258808292298992,SEK,Krona
+839,Kris Dearing,Micromax,Micromax Selfie 2 Note Q4601,Android 7.0,2017,55648-661,EPR Properties,$1.19,n/a,6/27/2021,3574017921500934,CNY,Yuan Renminbi
+840,Mead Goulding,Oppo,Oppo Reno Z,"Android 9.0, planned upgrade to 10",2019,55390-310,"PCM, Inc.",$4.38,$228.16M,12/16/2023,201880788867986,BRL,Real
+841,Dorelle Haggith,Nokia,Nokia 1202,Feature phone,2009,55319-535,"Cobalt International Energy, Inc.",$0.21,$93.34M,2/16/2024,6373115588877540,EUR,Euro
+842,Kelby Brumby,Asus,Asus Zenpad 8.0 Z380C,Android 5.0,2015,49035-541,"Mirna Therapeutics, Inc.",$7.37,$31.07M,9/30/2023,30026655098357,CNY,Yuan Renminbi
+843,Anette Whapham,Samsung,Samsung Galaxy A40,Android 9.0,2019,37808-964,"Equity Lifestyle Properties, Inc.",$8.69,$7.49B,1/21/2022,670984914463706269,SEK,Krona
+844,Mick Slane,verykool,verykool s505,Android 4.2,2014,52316-190,Immune Design Corp.,$6.97,$184.11M,10/11/2021,3561966593562033,PHP,Peso
+845,Carl Jendrach,Pantech,Pantech PG-1900,Feature phone,0,51346-070,"Gabelli Equity Trust, Inc. (The)",$9.66,n/a,8/3/2021,4026253868497030,HNL,Lempira
+846,Raffaello Bissiker,Allview,Allview P9 Energy Lite (2017),Android 7.0,2017,35356-896,iStar Financial Inc.,$4.76,n/a,8/28/2021,201590357131462,CNY,Yuan Renminbi
+847,Lotti Heartfield,Ericsson,Ericsson T20s,Feature phone,2000,0378-4430,Aegon NV,$7.88,n/a,11/25/2023,5048377174730775,SAR,Rial
+848,Victoria Gonnel,Samsung,Samsung M2520 Beat Techno,Feature phone,2010,55910-294,Evercore Partners Inc,$4.70,$2.95B,1/4/2021,56022564133201740,IDR,Rupiah
+849,Appolonia Capin,Pantech,Pantech Link,Feature phone,2010,10157-4645,Aflac Incorporated,$9.58,n/a,8/23/2021,201508034113893,CRC,Colon
+850,Osbourn Commuzzo,Samsung,Samsung Galaxy A8 (2016),Android 6.0.1,2016,56136-004,Rosetta Stone,$2.69,$234.41M,6/28/2021,374622548341501,EUR,Euro
+851,Lanae Croasdale,Sony,Sony Ericsson K800,Feature phone,2006,68647-197,"Pretium Resources, Inc.",$7.50,$1.61B,12/24/2023,30154124531632,MDL,Leu
+852,Gretchen Semerad,Motorola,Motorola DROID X,"Android 2.1, up to 2.3",2010,50436-6859,"Gaia, Inc.",$2.56,$167.44M,7/10/2023,5521042906125944,THB,Baht
+853,Pete Pedley,Sewon,Sewon SGD-1050,Feature phone,2004,0378-1450,"Aberdeen Greater China Fund, Inc.",$1.49,$96.58M,3/30/2024,5397762437376523,NZD,Dollar
+854,Celisse Woollam,Samsung,Samsung Gravity SMART,Android 2.2,2011,55154-3387,"Manitowoc Company, Inc. (The)",$8.59,$836.2M,11/23/2021,3550729179929023,PLN,Zloty
+855,Zackariah Pettinger,TCL,TCL 10 5G UW,Android 10,2020,55154-2706,TriCo Bancshares,$2.27,$821.61M,7/3/2022,5018006530705736426,NGN,Naira
+856,Christabella Ramlot,vivo,vivo Y55L (vivo 1603),"Android 6, Funtouch 2.6",2016,53057-001,Robert Half International Inc.,$8.27,$6.07B,8/31/2023,3536369966031268,EGP,Pound
+857,Trudy Darnborough,verykool,verykool s732,Android 2.3.7,2013,0904-5851,Bank of America Corporation,$4.19,n/a,12/29/2023,3587445387160411,ERN,Nakfa
+858,Mirna McCracken,HTC,HTC U11,"Android 7.1, up to Android 9.0, Sense UI",2017,52685-430,Oxford Immunotec Global PLC,$9.15,$344.13M,6/12/2021,560225255915177432,KRW,Won
+859,Karleen Franzettoini,Energizer,Energizer Power Max P550S,Android 7.0,2017,68308-250,"Sajan, Inc.",$9.49,$27.68M,8/18/2022,3550004906286505,CNY,Yuan Renminbi
+860,Augustin Guite,Apple,Apple iPhone 12 Pro Max,"iOS 14.1, up to iOS 14.7",2020,61715-050,"Galena Biopharma, Inc.",$1.39,$20.66M,5/27/2021,201638815832807,EUR,Euro
+861,Deeanne Furzey,Samsung,Samsung D720,"Symbian OS 7.0, Series 60 UI",2005,0283-0871,"Avid Technology, Inc.",$1.28,$205.59M,10/5/2022,4508536159783796,COP,Peso
+862,Kacie Mellhuish,Motorola,Motorola ROKR E6,Linux,2006,36800-852,Colonial Intermediate High Income Fund,$2.09,$58.2M,12/26/2023,3555147679385049,IDR,Rupiah
+863,Catharina Tabor,Philips,Philips Xenium K600,Feature phone,2010,59900-114,"Plantronics, Inc.",$0.00,$1.8B,11/29/2022,6759968424424190863,BRL,Real
+864,Sheelah Poulter,alcatel,alcatel 1s,Android 9.0,2019,68151-2298,Global X Millennials Thematic ETF,$2.74,$4.36M,2/2/2023,3548711597699748,RUB,Ruble
+865,Georgianna Whiteford,Palm,Palm Treo 750,Microsoft Windows Mobile 5.0 PocketPC,2007,59011-261,"AveXis, Inc.",$6.93,$1.97B,2/15/2023,5610704975618180,BRL,Real
+866,Monah Edgler,BLU,BLU Brooklyn,Feature phone,2013,0363-0310,"Steel Dynamics, Inc.",$8.78,$8.02B,6/3/2020,3580363026926901,USD,Dollar
+867,Agretha Dressell,Huawei,Huawei nova 4,"Android 9.0, EMUI 9",2018,0299-5765,"Del Taco Restaurants, Inc.",$7.86,$524.24M,8/8/2020,493683113408476820,EUR,Euro
+868,Melinda Furphy,BLU,BLU Studio C Super Camera,Android 5.0,2015,25021-115,TrustCo Bank Corp NY,$4.56,$748.78M,10/25/2023,5602223805423208,NPR,Rupee
+869,Billie Duffrie,Samsung,Samsung Galaxy A8s,"Android 9.0, One UI",2018,0573-1934,"Niagara Mohawk Holdings, Inc.",$2.66,n/a,12/8/2021,3543927397278674,NIO,Cordoba
+870,Padgett Garey,Maxwest,Maxwest Orbit 3000,Android 4.2,2013,49371-025,"Digital Realty Trust, Inc.",$6.10,n/a,11/21/2023,06045115717778880,IDR,Rupiah
+871,Kenon Silbert,Oppo,Oppo A33 (2020),"Android 10, ColorOS 7.2",2020,50458-388,Tocagen Inc.,$0.85,$296.12M,4/6/2022,4917032846858386,USD,Dollar
+872,Pandora Brydie,Kyocera,Kyocera E2500,Feature phone,2008,0268-0606,First Trust RBA Quality Income ETF,$1.77,$28.13M,6/20/2021,5602240557629501,CNY,Yuan Renminbi
+873,Constantine Barttrum,LG,LG X335,Feature phone,2011,57520-0614,"American Realty Investors, Inc.",$4.29,$137.3M,10/3/2020,4508273078858570,RUB,Ruble
+874,Kissiah Crottagh,Infinix,Infinix Smart 2 Pro,Android 8.1,2018,63354-452,TIM Participacoes S.A.,$6.35,$6.97B,2/22/2020,4844604918827594,CNY,Yuan Renminbi
+875,Winslow Burberry,i-mate,i-mate SP3i,Microsoft Windows Mobile 2003 SE Smartphone,2004,10812-332,"PS Business Parks, Inc.",$9.65,n/a,7/7/2020,3545185591167247,PHP,Peso
+876,Christel Rougier,Xiaomi,Xiaomi Mi Note 10 Pro,"Android 9.0, up to Android 10, MIUI 12",2019,76014-002,"Marrone Bio Innovations, Inc.",$0.68,$32.29M,1/23/2021,3542243919206883,CNY,Yuan Renminbi
+877,Christa Hayth,ZTE,ZTE F870,Feature phone,2009,51386-726,PBF Energy Inc.,$5.54,$2.39B,1/10/2022,3561798320592367,THB,Baht
+878,Hermina Molyneaux,Nokia,Nokia E66,"Symbian OS 9.2, Series 60 v3.1 UI",2008,55714-1501,"Northwest Bancshares, Inc.",$7.23,$1.65B,12/3/2023,5602224125808136,PHP,Peso
+879,Ludovika Cronkshaw,Panasonic,Panasonic Eluga Mark 2,Android 6.0,2016,13668-002,Trillium Therapeutics Inc.,$8.30,$49M,8/23/2021,63048719696004263,CNY,Yuan Renminbi
+880,Talia MacGahy,ZTE,ZTE S302,Feature phone,2009,36987-3248,"EOG Resources, Inc.",$4.43,$51.1B,9/18/2023,3565104959684144,MUR,Rupee
+881,Chrisy Wimbush,Samsung,Samsung Galaxy Tab 4 8.0,Android 4.4.2,2014,54868-0988,HealthSouth Corporation,$8.31,$4.24B,5/25/2021,3551570071714934,IDR,Rupiah
+882,Athena Sadd,vivo,vivo iQOO U3,"Android 10, IQOO UI 1.5",2020,55154-3278,Infinity Property and Casualty Corporation,$0.89,$1.05B,5/11/2020,5038195912454014768,BDT,Taka
+883,Venus Cobbold,BlackBerry,BlackBerry Pearl 8110,BlackBerry OS,2008,60429-247,"Genocea Biosciences, Inc.",$6.38,$155.64M,12/13/2022,560223912858250251,PHP,Peso
+884,Valene Test,Motorola,Motorola One Hyper,"Android 10, up to Android 11",2020,49230-209,"United Community Banks, Inc.",$7.14,$2B,9/22/2020,3582257882392422,THB,Baht
+885,Evelyn Helstrip,Motorola,Motorola C350,Feature phone,2003,68151-0329,Gaming Partners International Corporation,$5.66,$87.17M,7/9/2021,3562170955593541,USD,Dollar
+886,Winifred Honsch,Motorola,Motorola V300,Feature phone,2003,10812-100,"Nike, Inc.",$4.11,$84.35B,2/25/2021,5018006627264006181,PHP,Peso
+887,Loleta Viveash,Siemens,Siemens C28,Feature phone,2000,54569-0793,Lennar Corporation,$5.01,$12.41B,1/26/2022,564182258361785859,RUB,Ruble
+888,Sheelagh Kid,Micromax,Micromax Canvas Win W092,Microsoft Windows Phone 8.1,2014,0363-0917,"Cellcom Israel, Ltd.",$3.68,$933.63M,8/14/2020,3556185238308846,CNY,Yuan Renminbi
+889,Milzie Montrose,Sony,Sony Ericsson W888,Feature phone,2007,50114-1034,"Hawthorn Bancshares, Inc.",$4.66,$116.77M,7/26/2023,3557985501009057,DOP,Peso
+890,Alvan Standage,Yezz,Yezz Andy A3.5EP,Android 4.2,2013,55714-2204,Tupperware Brands Corporation,$5.06,$3.6B,11/5/2021,3557915307971531,CNY,Yuan Renminbi
+891,Desiree Stenett,Allview,Allview X4 Soul Infinity N,Android 7.0,2017,47593-473,"CVR Refining, LP",$4.95,$1.39B,2/27/2021,3568679735258039,RUB,Ruble
+892,Lindsay Callender,BLU,BLU Samba W,Feature phone,2013,54868-5820,Mallinckrodt plc,$6.25,$4.14B,6/5/2022,5565268531108776,GBP,Pound
+893,Kelsey Aizkovitch,Lenovo,Lenovo Yoga Tablet 10 HD+,"Android 4.3, up to 4.4",2014,18860-104,"CapStar Financial Holdings, Inc.",$5.53,$196.97M,8/21/2020,5477869549404425,MAD,Dirham
+894,Vally Collisson,Samsung,Samsung U750 Zeal,Feature phone,2010,50021-305,Caesars Acquisition Company,$8.49,$2.72B,11/9/2023,5641829605085667369,PHP,Peso
+895,Pammy Sidwick,Wiko,Wiko Pulp Fab,Android 5.1,2015,49999-392,"Midland States Bancorp, Inc.",$6.20,$655.78M,10/7/2020,5596228032404119,RUB,Ruble
+896,Hertha Mandeville,Motorola,Motorola DROID RAZR M,"Android 4.0.4, up to 4.4",2012,53217-015,El Paso Corporation,$6.24,n/a,3/22/2024,5602227708322789,BRL,Real
+897,Armin Baff,alcatel,alcatel OT-807,Feature phone,2011,55910-946,"The Travelers Companies, Inc.",$8.51,$36.17B,7/24/2023,3575032307087793,CLP,Peso
+898,Lock Laurence,ZTE,ZTE nubia Z9 mini,"Android 5.0.2, nubia UI 2.8",2015,50458-178,Ralph Lauren Corporation,$6.05,$5.84B,2/28/2023,5484194779767339,CNY,Yuan Renminbi
+899,Jarid Kaesmans,Nokia,Nokia 2720 fold,Feature phone,2009,51672-4110,Arbor Realty Trust,$4.21,n/a,4/1/2021,5602247453402362,IDR,Rupiah
+900,Kacy Yearron,alcatel,alcatel OT-252,Feature phone,2010,68788-9018,Stellar Acquisition III Inc.,$0.54,n/a,1/30/2021,4175009343655322,CNY,Yuan Renminbi
+901,Alexei Thebeaud,Philips,Philips 550,Feature phone,2004,49348-686,ProPetro Holding Corp.,$6.09,$1.12B,8/9/2023,56022472552045921,PHP,Peso
+902,Herbie Bycraft,Micromax,Micromax X360,Feature phone,2009,50436-5022,JMU Limited,$5.97,$178.72M,3/13/2024,3542703424979118,CNY,Yuan Renminbi
+903,Ingeborg Rosenbloom,LG,LG Q51,Android 10,2020,45156-5605,"Freeport-McMoran, Inc.",$2.84,$16.52B,9/17/2020,3538864372290480,CNY,Yuan Renminbi
+904,King Keer,Motorola,Motorola M3188,Feature phone,1999,37000-068,Air Lease Corporation,$8.24,$3.92B,5/12/2020,5610188373165491,PLN,Zloty
+905,Iver Wissby,ZTE,ZTE nubia Z9 Max,"Android 5.0.2, nubia UI 2.8",2015,25373-104,Berkshire Hathaway Inc.,$5.87,n/a,6/10/2021,5516641607602254,EUR,Euro
+906,Duane Landa,Tecno,Tecno Pouvoir 4 Pro,"Android 10, HIOS 6.0",2020,51442-531,"CryoPort, Inc.",$5.63,n/a,3/24/2020,201908065626880,PAB,Balboa
+907,Polly Elliott,NEC,NEC N100,Feature phone,2004,36987-3348,PowerShares S&P SmallCap Consumer Discretionary Portfolio,$2.95,$61.54M,2/15/2022,374622522596187,NOK,Krone
+908,Kiel Gorbell,Honor,Honor 4X,"Android 4.4.2, up to 6, EMUI 3",2014,68462-383,"Catalent, Inc.",$1.21,$4.61B,4/26/2021,3560320882484734,PKR,Rupee
+909,Flossie Toyer,ZTE,ZTE Blade V10,"Android 9.0, MiFavor 9.0",2019,49035-281,NetSol Technologies Inc.,$9.56,$45.09M,11/8/2020,5599182850592140,IDR,Rupiah
+910,Tabina Honack,Oppo,Oppo A57,"Android 6, ColorOS 3",2016,0338-1075,"Colony NorthStar, Inc.",$1.21,n/a,3/16/2023,3589577424681476,CNY,Yuan Renminbi
+911,Culley Milliere,Acer,Acer Liquid Z6,Android 6.0,2016,43861-1066,"TriNet Group, Inc.",$3.34,$2.17B,6/15/2021,56022554636367338,CNY,Yuan Renminbi
+912,Theodosia Cramphorn,LG,LG KG290,Feature phone,2008,50556-003,"Pathfinder Bancorp, Inc.",$8.97,$63.94M,5/14/2021,201423826429954,CNY,Yuan Renminbi
+913,Mariam Bromidge,HTC,HTC Desire 20 Pro,Android 10,2020,0395-0467,"Donegal Group, Inc.",$5.90,$395.71M,7/29/2021,675918470258977110,CNY,Yuan Renminbi
+914,Darla Labrom,Celkon,Celkon C20,Feature phone,2011,49999-318,Kimbell Royalty Partners,$3.97,$273.57M,4/4/2020,3529090675696659,IDR,Rupiah
+915,Cheryl Whittington,Nokia,Nokia N76,"Symbian OS 9.2, S60 rel. 3.1",2007,75978-3048,"Boston Private Financial Holdings, Inc.",$8.44,n/a,11/11/2022,3532611225422059,USD,Dollar
+916,Rene Hamblin,Oppo,Oppo K3,"Android 9.0, ColorOS 6",2019,75848-0300,iShares MSCI EAFE ESG Optimized ETF,$1.61,$127.9M,11/4/2021,4026410339433073,EUR,Euro
+917,Farris Spir,Microsoft,Microsoft Lumia 640 XL LTE,Microsoft Windows Phone 8.1,2015,68788-9508,"PhaseRx, Inc.",$3.33,$12.16M,1/23/2022,3582771367476245,CNY,Yuan Renminbi
+918,Chaddy Beston,Gionee,Gionee M6s Plus,"Android 6.0, Amigo 3.5",2017,0378-6040,"Brocade Communications Systems, Inc.",$2.65,$5.18B,11/1/2021,5108759712646943,KZT,Tenge
+919,Lin Orrick,BLU,BLU Grand XL LTE,Android 7.0,2017,0023-0312,Appian Corporation,$1.70,$1.07B,10/12/2021,560222545184699311,NGN,Naira
+920,Idelle Gouny,Micromax,Micromax X490,Feature phone,2012,55346-0718,Univest Corporation of Pennsylvania,$9.05,$793.18M,2/18/2022,201589430635234,EUR,Euro
+921,Redd Greenstreet,alcatel,alcatel One Touch Tab 8 HD,Android 4.1,2013,0093-8344,"Werner Enterprises, Inc.",$7.95,$2.09B,4/4/2021,3562252317363415,PLN,Zloty
+922,Mikkel Crommett,Samsung,Samsung Galaxy Tab 4 10.1 LTE,"Android 4.4.2, TouchWiz UX UI",2014,15304-4681,Bank of America Corporation,$9.33,n/a,2/17/2021,5602256038704127,CNY,Yuan Renminbi
+923,Benny Stanborough,Haier,Haier M180,Feature phone,2010,13537-123,Trillium Therapeutics Inc.,$0.99,$49M,3/29/2021,30179085673891,CNY,Yuan Renminbi
+924,Lian Wabb,LG,LG KG320,Feature phone,2006,37012-384,Entergy Texas Inc,$2.84,n/a,11/21/2022,3549861571664249,ARS,Peso
+925,Jannel Collyer,Oppo,Oppo A72,"Android 10, ColorOS 7.1",2020,54973-3093,"The Michaels Companies, Inc.",$0.76,$3.53B,8/13/2022,3544280858064525,CNY,Yuan Renminbi
+926,Jonell Orrah,vivo,vivo Y20A,"Android 10, Funtouch 11",2021,13630-0038,Blackrock Municipal 2020 Term Trust,$2.44,$320.35M,5/18/2022,560222984116054651,MAD,Dirham
+927,Ailina Balderston,Samsung,Samsung E1207T,Feature phone,2013,50436-7285,"AmTrust Financial Services, Inc.",$6.70,n/a,9/15/2022,670902715479799753,RUB,Ruble
+928,Rani Soots,Plum,Plum Link Plus,Android 4.4.2,2014,43063-265,Stryker Corporation,$3.59,$53.16B,3/4/2020,3574848860624743,CNY,Yuan Renminbi
+929,Madel Stempe,Asus,Asus Zenfone 2 Laser ZE550KL,"Android 5.0, up to 6.0, ZenUI",2015,37000-655,Geopark Ltd,$6.70,$449.75M,4/29/2021,30320288395862,USD,Dollar
+930,Brewster Finkle,Acer,Acer Iconia Tab A3,Android 4.2.2,2013,21695-075,Eaton Vance Municipal Income Trust,$0.91,$308.22M,1/6/2023,5100141077032191,KPW,Won
+931,Zorana Lambswood,Motorola,Motorola A1680,Android 1.6,2010,37205-122,"Forest City Realty Trust, Inc.",$7.91,n/a,10/31/2020,201503359572880,RUB,Ruble
+932,Osgood Bussetti,Sony,Sony Xperia V,"Android 4.0.4, up to 4.3",2012,46122-219,"Hyster-Yale Materials Handling, Inc.",$0.40,$1.23B,6/25/2020,374622623585253,CNY,Yuan Renminbi
+933,Josy Allen,Xiaomi,Xiaomi Redmi Watch,Proprietary OS,2020,0409-3379,TD Ameritrade Holding Corporation,$5.62,$21.48B,10/3/2022,5010129464915143,CNY,Yuan Renminbi
+934,Seamus Jude,LG,LG X3,Android 4.0,0,69139-101,"Community Health Systems, Inc.",$8.31,$1.03B,5/4/2020,201706011860136,CNY,Yuan Renminbi
+935,Tad Stimpson,LG,LG T510,Feature phone,2011,66854-004,"DXP Enterprises, Inc.",$9.78,$630.7M,2/8/2020,201662634377612,CNY,Yuan Renminbi
+936,Tisha Percifull,Gigabyte,Gigabyte GSmart Akta A4,Android 4.4.2,2014,48951-2042,"Templeton Global Income Fund, Inc.",$4.26,$896.08M,11/30/2021,372301456725169,IDR,Rupiah
+937,Deirdre Charleston,Oppo,Oppo A31 (2015),Android 4.4,2015,54218-600,"First Midwest Bancorp, Inc.",$6.47,$2.64B,2/7/2023,4175006411345851,XAF,Franc
+938,Ara Courage,Vertu,Vertu Constellation 2013,Android 4.2.2,2013,53808-0595,"PRA Group, Inc.",$2.21,$1.67B,9/19/2022,4107132848518341,SEK,Krona
+939,Jerome Collings,Eten,Eten glofiish V900,Microsoft Windows Mobile 6.1 Professional,2008,65044-5233,Leju Holdings Limited,$0.29,$346.48M,10/10/2022,201764350023345,USD,Dollar
+940,Esra Crippin,T-Mobile,T-Mobile Arizona,Android OS,2011,44567-882,M III Acquisition Corp.,$1.20,n/a,6/30/2022,3529245037574628,TMT,Manat
+941,Johnette Jacquemet,Nokia,Nokia 6021,Feature phone,2005,49348-778,"Era Group, Inc.",$4.10,$187.18M,8/14/2023,6334719254550097,PHP,Peso
+942,Kenyon Rattry,Sagem,Sagem my411X,Feature phone,2007,53499-5144,CF Corporation,$7.16,$966M,1/23/2022,3551238553919013,TJS,Somoni
+943,Eugen Cribbins,Spice,Spice M-5161,Feature phone,2010,0169-5176,Quaker Chemical Corporation,$6.48,$1.92B,11/22/2022,30502308354470,CNY,Yuan Renminbi
+944,Eddie O'Cassidy,Plum,Plum Trion,Feature phone,2011,11673-120,"Baldwin & Lyons, Inc.",$5.87,$375.34M,6/18/2022,3565115943605425,KYD,Dollar
+945,Rafaellle Deverille,Samsung,Samsung E2550 Monte Slider,Feature phone,2010,50458-625,"Entergy Arkansas, Inc.",$8.74,n/a,4/1/2023,374288137749841,PEN,Sol
+946,Chrysler Du Pre,ZTE,ZTE Grand X View 2,Android 7.1.1,2017,64009-333,PowerShares DWA Technology Momenum Portfolio,$2.87,$122.88M,11/10/2023,30329349836608,THB,Baht
+947,Brook Barrar,Xiaomi,Xiaomi Redmi Note 4,"Android 6.0, up to 7.0, MIUI 11",2017,68428-093,BlackRock Income Trust Inc. (The),$8.41,$402.84M,4/11/2023,3567518798319851,IDR,Rupiah
+948,Cullie Deniskevich,Celkon,Celkon C7 Jumbo,Feature phone,2014,53808-0349,"Micron Technology, Inc.",$5.41,$33.03B,3/6/2024,3565186479294751,XAF,Franc
+949,Giffie Splevings,Samsung,Samsung T659 Scarlet,Feature phone,2009,48951-3004,"Assembly Biosciences, Inc.",$0.63,$377.45M,11/15/2021,5602247955278294,EUR,Euro
+950,Trudie Mattam,Xiaomi,Xiaomi Mi 9 Pro 5G,"Android 10, MIUI 11",2019,59088-771,Janus Henderson Small/Mid Cap Growth Alpha ETF,$5.70,$12M,4/12/2024,3531235058585781,AFN,Afghani
+951,Harper Moodycliffe,Samsung,Samsung E720,Feature phone,2005,64679-765,"Goldman Sachs Group, Inc. (The)",$8.09,n/a,2/23/2023,4903599266125678065,RUB,Ruble
+952,Theresina Bartholin,Xiaomi,Xiaomi Redmi Note 9T,"Android 10, MIUI 12",2021,68788-9716,Viper Energy Partners LP,$2.37,$1.59B,2/19/2021,5020360852553988842,PAB,Balboa
+953,Carny Godlip,Sony,Sony Xperia 10 III,Android 11,2021,49967-899,Avista Corporation,$6.20,$2.86B,11/6/2021,67618643203413927,EUR,Euro
+954,Jesus Gason,Micromax,Micromax Q6,Feature phone,2010,54868-0268,iSectors Post-MPT Growth ETF,$3.07,$11.34M,10/23/2022,5602247502378761,RUB,Ruble
+955,Shannah Merrikin,Prestigio,Prestigio MultiPad 7.0 Ultra,Android 4.0,2013,63824-234,"CEVA, Inc.",$1.29,$979.59M,4/4/2021,3555877836783567,GTQ,Quetzal
+956,Stuart Luxon,vivo,vivo X9s Plus,"Android 7.1, up to Android 8.0, Funtouch 3.1",2017,33992-1413,"Alaska Air Group, Inc.",$2.94,$10.97B,2/24/2022,4017950595022145,YER,Rial
+957,August Leavold,Samsung,Samsung Galaxy Alpha,"Android 4.4.4, up to 5.0.2",2014,52125-787,Rogers Corporation,$0.55,$1.92B,3/7/2021,201901189516095,NGN,Naira
+958,Shay Huckett,NIU,NIU C21A,Feature phone,2013,53808-0922,Fabrinet,$2.09,$1.4B,1/9/2021,5010129579391354,EUR,Euro
+959,Bud Rabbatts,Samsung,Samsung T339,Feature phone,2008,50436-3922,MGM Growth Properties LLC,$8.59,$1.68B,3/5/2021,3552602937331568,RSD,Dinar
+960,Shantee Heys,Meizu,Meizu Pro 6,"Android 6.0, Flyme 8",2016,51257-640,Bank of America Corporation,$2.88,n/a,8/15/2023,3577606344553277,IDR,Rupiah
+961,Leticia Yakebowitch,T-Mobile,T-Mobile Sidekick 4G,Android 2.2,2011,53808-0210,"Automatic Data Processing, Inc.",$4.77,$46.3B,1/13/2024,30203253051092,USD,Dollar
+962,Adora Fox,BlackBerry,BlackBerry Torch 9800,BlackBerry OS 6.0,2010,24236-364,Oxford Lane Capital Corp.,$3.00,$229.56M,2/19/2021,50183694436899201,CAD,Dollar
+963,Elisabetta Cosby,Samsung,Samsung Galaxy J2 Prime,Android 6.0,2016,55910-915,Kemper Corporation,$7.10,n/a,3/25/2022,490570936760150365,IDR,Rupiah
+964,Babs Felix,LG,LG KS660,Feature phone,2009,66129-031,"Colony Bankcorp, Inc.",$9.12,$115.2M,12/24/2022,3580360819581794,CAD,Dollar
+965,Micky Cains,Bird,Bird S288,Feature phone,2003,54868-1616,RXi Pharmaceuticals Corporation,$8.94,n/a,10/22/2021,5100174383571669,UAH,Hryvnia
+966,Corena Bretelle,Huawei,Huawei MatePad T 10s,"Android 10, EMUI 10.1",2020,67405-577,"Interface, Inc.",$9.32,$1.22B,4/30/2020,374283663273845,CNY,Yuan Renminbi
+967,Corrine Blackaby,Honor,Honor 7X,"Android 7.0, up to Android 8.0, EMUI 5.1",2017,0135-0230,"XPO Logistics, Inc.",$6.47,$6.87B,3/14/2020,3540855082497916,CNY,Yuan Renminbi
+968,Cordy Buffy,Philips,Philips S309,Android 5.1,2015,10163-0202,"Trinity Industries, Inc.",$2.59,$4.07B,11/23/2023,3550814497557035,ARS,Peso
+969,Alva Andrejs,Samsung,Samsung X500,Feature phone,2006,58668-0701,Brookfield Real Assets Income Fund Inc.,$1.94,$858.04M,7/29/2021,6333585706809633500,EUR,Euro
+970,Kass Atcheson,Innostream,Innostream INNO 36,Feature phone,0,63783-015,"Rollins, Inc.",$4.23,$9.44B,4/14/2020,4017955907148884,EUR,Euro
+971,Felicio Lissemore,alcatel,alcatel Tetra,Android 8.1,2018,45963-346,"PB Bancorp, Inc.",$0.64,$81.84M,3/23/2020,5157075904459577,GNF,Franc
+972,Chico Greenhall,vivo,vivo Y11 (2019),"Android 9.0, Funtouch 9.1",2019,30142-191,"Beazer Homes USA, Inc.",$1.70,$428.38M,7/28/2021,3556372309728454,THB,Baht
+973,Drusie Desesquelle,Karbonn,Karbonn S5 Titanium,Android 4.1,2013,0904-5018,"PetMed Express, Inc.",$1.10,$785.51M,2/4/2023,3571391857043455,CNY,Yuan Renminbi
+974,Daisey McCaughan,Panasonic,Panasonic VS6,Feature phone,2005,55111-609,"Lilis Energy, Inc.",$5.46,$267.73M,6/26/2023,3589800235957863,BRL,Real
+975,Dennis Copper,LG,LG C710 Aloha,Android 2.1,0,0187-3100,"Bridge Bancorp, Inc.",$0.11,$662.05M,1/15/2020,3544897405262755,YER,Rial
+976,Reagen Shercliff,Micromax,Micromax A121 Canvas Elanza 2,Android 4.3,2014,55154-1877,EnteroMedics Inc.,$0.56,$33.43M,6/4/2020,3538046994758579,CAD,Dollar
+977,Edeline Judge,Spice,Spice QT-65,Feature phone,2010,64092-020,VelocityShares 3x Long Gold ETN,$5.92,$97.38M,1/29/2021,3577501753262702,ZWL,Dollar
+978,Edeline Groome,Maxon,Maxon MX-V30,Feature phone,2004,0904-5657,Nuveen Dow 30SM Dynamic Overwrite Fund,$2.81,$592.88M,11/27/2022,201485833292469,NGN,Naira
+979,Ermengarde Mc Gorley,Celkon,Celkon C619,Feature phone,2014,52125-597,Resource Capital Corp.,$0.67,n/a,3/8/2021,5122618521350471,CNY,Yuan Renminbi
+980,Scott Twentyman,ZTE,ZTE nubia M2 lite,"Android 6, nubia UI 4",2017,68994-4001,Ivy High Income Opportunities Fund,$4.74,$257.12M,11/3/2020,3535816628617802,CNY,Yuan Renminbi
+981,Kinny Phillipps,Huawei,Huawei MediaPad S7-301w,"Android 3.2, up to 4.0",2011,0615-2579,Jensyn Acquistion Corp.,$7.81,$52.88M,2/3/2023,374283633449376,IDR,Rupiah
+982,Petey Vashchenko,Panasonic,Panasonic Eluga Pulse X,Android 6.0,2017,70253-519,"Home BancShares, Inc.",$4.81,$3.66B,3/22/2020,3537201888490893,NGN,Naira
+983,Genia Guillon,Vodafone,Vodafone 527,Feature phone,2008,0338-0803,"BroadSoft, Inc.",$6.60,$1.28B,9/20/2022,589314044307214032,CDF,Franc
+984,Eleanore Brogden,Xiaomi,Xiaomi Mi Watch,Proprietary OS,2020,0615-7730,"Intercept Pharmaceuticals, Inc.",$3.31,$2.96B,4/19/2020,3534190161989684,EUR,Euro
+985,Donalt Dust,Samsung,Samsung C5030,Feature phone,0,63187-078,"Natural Grocers by Vitamin Cottage, Inc.",$8.85,$196.12M,2/13/2023,3584225053931128,IDR,Rupiah
+986,Yvette Shipway,Micromax,Micromax X225,Feature phone,2008,65121-010,Gol Linhas Aereas Inteligentes S.A.,$8.10,$6.06B,4/6/2022,3537965475561163,PHP,Peso
+987,Gena Boar,Samsung,Samsung Galaxy A60,"Android 9.0, up to Android 11, One UI 3.0",2019,68180-103,Vornado Realty Trust,$4.86,n/a,1/27/2023,6761515932207635,BRL,Real
+988,Anabelle Chilton,Celkon,Celkon C607,Feature phone,2012,58118-5683,"Hannon Armstrong Sustainable Infrastructure Capital, Inc.",$5.58,$1.21B,12/11/2023,633436658486262089,EUR,Euro
+989,Rhetta McConnulty,alcatel,alcatel OT-383,Feature phone,2009,37808-923,Avista Corporation,$8.40,$2.86B,5/31/2023,374288932266447,YER,Rial
+990,Hortense Ardling,LG,LG KE260,Feature phone,2006,60429-297,ArcelorMittal,$3.24,$20.56B,3/17/2020,3565757940095082,VEF,Bolivar
+991,Conrad Deveraux,Philips,Philips 580,Feature phone,0,63323-659,Credit Acceptance Corporation,$6.88,$4.64B,7/15/2023,3548197968907318,NIO,Cordoba
+992,Chuck Gummery,ZTE,ZTE Axon 7s,"Android 7, MiFavor 4",2017,48951-3104,"Dicerna Pharmaceuticals, Inc.",$1.66,$124.4M,3/30/2022,3535792305492092,GBP,Pound
+993,Ruy Duignan,Amoi,Amoi A10,Feature phone,2007,52125-577,Urstadt Biddle Properties Inc.,$6.40,n/a,4/19/2020,564182466630435798,PLN,Zloty
+994,Lurette Enns,Siemens,Siemens SL45,Feature phone,2000,62756-200,Verso Corporation,$3.23,$130.34M,11/29/2020,5602233864470599727,BRL,Real
+995,Robbyn Nias,HTC,HTC Desire 620,"Android 4.4.4, Sense UI",2014,68814-489,"Bloomin' Brands, Inc.",$1.45,$2.12B,7/31/2023,6762561559025108478,ZAR,Rand
+996,Ahmed Dickerline,LG,LG L70 Dual D325,"Android 4.4.2, LG UI 3",2014,76331-900,"Athersys, Inc.",$9.02,$158.07M,10/4/2020,50388884251869487,NOK,Krone
+997,Celinka Blacklawe,NEC,NEC N900iG,Feature phone,2004,21695-417,C&F Financial Corporation,$8.03,$167.21M,7/24/2020,5602235050219925,IDR,Rupiah
+998,Derrick Battams,Samsung,Samsung C3590,Feature phone,2013,0032-1708,Videocon d2h Limited,$4.91,$1.05B,6/28/2020,3570288342209751,IDR,Rupiah
+999,Jessey Conville,alcatel,alcatel OT-986,Android 4.0,2012,65342-1394,Phibro Animal Health Corporation,$8.12,$1.43B,10/9/2022,30483083139909,PLN,Zloty
+1000,Bryant Maken,Motorola,Motorola MOTOTV EX245,Feature phone,2010,64543-111,"Groupon, Inc.",$6.22,$1.81B,3/15/2023,3582140058798491,CNY,Yuan Renminbi

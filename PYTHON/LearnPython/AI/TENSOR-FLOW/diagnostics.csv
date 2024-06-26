@@ -1,0 +1,1001 @@
+id,nome,idade,resultado,tipo,orgão,codigo,estado_cancer,tratamento,estado,medicação,data_diagnostico,hospital,total_cirurgias,tempo_de_vida
+1,Thedrick Henkens,57,positivo,lymphoma,pele,C20.9,avancado,quimioterapia,estavel,TRICLOSAN,3/28/2012,Hospital A,4,51
+2,Allie Lappin,12,negativo,melanoma,ossos,C61,avancado,terapia alvo,grave,"Zincum Aceticum, Zincum Gluconicum",2/25/2006,Hospital C,9,51
+3,Cchaddie Levermore,36,negativo,sarcoma,pele,C61,inicial,Cirurgia,estavel,GLYCERIN,4/9/2003,Hospital C,7,76
+4,Antonius Rosensaft,43,positivo,adenocarcinoma,pele,C61.9,inicial,imunoterapia,em remissao,"Aconitum Napellus, Anthracinum, Arnica Montana, Baptisa Tinctoria, Capsicum Annuum, Chamomilla, Chenopodium Anthelminticum,",8/15/2009,Hospital C,0,82
+5,Hertha Tace,70,positivo,leukemia,cérebro,C61,inicial,imunoterapia,estavel,Enalapril Maleate,6/1/2008,Hospital A,1,79
+6,Dredi Ernke,70,inconclusivo,melanoma,intestino,C61.9,avancado,terapia alvo,em remissao,Salicylic Acid,3/11/2001,Hospital B,0,28
+7,Enrichetta Roscamps,67,positivo,leukemia,rim,C34.9,inicial,Cirurgia,em remissao,Aspirin,10/11/2018,Hospital B,4,4
+8,Marlena Slarke,9,inconclusivo,sarcoma,pele,C61.9,avancado,Radioterapia,grave,"DEXTROSE, SODIUM CHLORIDE, and POTASSIUM CHLORIDE",9/25/2018,Hospital C,4,92
+9,Emily Kroon,42,inconclusivo,glioblastoma,rim,C34.9,avancado,Radioterapia,em remissao,"Homosalate, Octinoxate, Octisalate, Oxybenzone, Titanium Dioxide, and Zinc Oxide",8/9/2013,Hospital B,6,92
+10,Asia Lavielle,62,inconclusivo,sarcoma,rim,C20.9,avancado,quimioterapia,em remissao,Quetiapine fumarate,5/3/2013,Hospital A,4,67
+11,Kimberley Manthorpe,81,positivo,sarcoma,músculos,C20.9,metastatico,Quimioterapia,grave,Tetrahydrozoline HCl,10/12/2014,Hospital C,3,5
+12,Adelind Aldhous,59,negativo,adenocarcinoma,pele,C50.9,avancado,quimioterapia,em remissao,Zolpidem Tartrate,5/25/2017,Hospital A,2,52
+13,Doe Patrie,67,negativo,neuroblastoma,rim,C20.9,avancado,Radioterapia,grave,Allergenic Extracts Alum Precipitated,2/8/2006,Hospital B,1,20
+14,Reeta Bernaldo,71,negativo,osteosarcoma,ossos,C50.9,avancado,hormonioterapia,estavel,Glipizide,6/12/2005,Hospital B,6,72
+15,Aldus Standell,95,inconclusivo,glioblastoma,estômago,C61,avancado,terapia alvo,estavel,pioglitazone hydrochloride,1/12/2015,Hospital B,4,73
+16,Savina Huegett,36,inconclusivo,adenocarcinoma,coração,C61,metastatico,terapia alvo,em remissao,"Agaricus musc., Arsenicum alb., Aur. met., Berber. aqui., Caladium seguinum, Candida albicans, Cantharis, Conium, Graphites, Helonias dioica, Hydrastis, Kali carb., Kreosotum, Lycopodium, Merc. viv., Murex purpurea, Nat. mur., Nitricum ac., Pulsatilla, Rhus toxicodendron, Sepia, Sulphur, Tarentula hispana, Thuja occ., Zinc. met., Apis mel., Hamamelis",2/15/2019,Hospital C,0,32
+17,Padget Aylmore,71,negativo,melanoma,cérebro,C20.9,avancado,Quimioterapia,estavel,Latrodectus mactans,11/27/2014,Hospital C,1,77
+18,Aguie Greated,62,positivo,glioblastoma,coração,C50.9,avancado,quimioterapia,grave,Valsartan and Hydrochlorothiazide,8/21/2019,Hospital B,7,42
+19,Merrili Kobus,37,inconclusivo,lymphoma,pele,C20.9,avancado,radioterapia,em remissao,Benztropine Mesylate,7/14/2019,Hospital B,9,48
+20,Dalston Labet,39,negativo,carcinoma,rim,C61,avancado,Cirurgia,em remissao,Acetaminophen,6/21/2018,Hospital B,0,31
+21,Lia Brandi,59,positivo,glioblastoma,ossos,C34.9,avancado,Cirurgia,estavel,OCTINOXATE,10/25/2013,Hospital A,5,83
+22,Heida Probetts,44,negativo,mesothelioma,músculos,C61.9,metastatico,hormonioterapia,em remissao,Amlodipine Besylate,10/30/2020,Hospital B,2,56
+23,Jeno Duckitt,76,positivo,lymphoma,músculos,C61,avancado,radioterapia,estavel,Rivastigmine Tartrate,3/2/2003,Hospital B,2,79
+24,Egan Castleton,18,inconclusivo,leukemia,músculos,C61,metastatico,Cirurgia,em remissao,OXYGEN,5/11/2012,Hospital A,5,76
+25,Bartolemo Marczyk,52,inconclusivo,neuroblastoma,cérebro,C61,avancado,imunoterapia,grave,Loperamide Hydrochloride,5/27/2020,Hospital A,8,7
+26,Nickie Pellman,44,positivo,adenocarcinoma,ossos,C61.9,metastatico,imunoterapia,em remissao,Ethyl Alcohol,3/17/2005,Hospital C,4,87
+27,Tabbatha Lugard,32,inconclusivo,glioblastoma,pulmão,C61.9,metastatico,terapia alvo,estavel,Lidocaine HCl,11/7/2009,Hospital A,10,81
+28,Alexandrina O' Kelleher,66,inconclusivo,leukemia,músculos,C61,metastatico,Radioterapia,estavel,BENZALKONIUM CHLORIDE,11/27/2008,Hospital A,6,69
+29,Eada Yendle,31,inconclusivo,osteosarcoma,músculos,C50.9,inicial,Radioterapia,em remissao,KETOROLAC TROMETHAMINE,6/10/2001,Hospital B,3,1
+30,Beale Robic,85,inconclusivo,osteosarcoma,cérebro,C61,avancado,Cirurgia,em remissao,Hyaluronidase Recombinant Human,4/14/2021,Hospital A,5,55
+31,Baxie Scothorne,36,inconclusivo,neuroblastoma,pulmão,C61,inicial,Radioterapia,em remissao,Amoxicillin,2/9/2017,Hospital C,2,60
+32,Kelila O'Henecan,22,negativo,sarcoma,pele,C61.9,metastatico,Radioterapia,grave,warfarin sodium,10/14/2018,Hospital C,2,81
+33,Gwynne Baldrey,43,negativo,glioblastoma,cérebro,C34.9,avancado,radioterapia,em remissao,Miconazole Nitrate,10/15/2018,Hospital C,9,74
+34,Fayette Hartlebury,32,positivo,melanoma,ossos,C61,inicial,Cirurgia,grave,OCTINOXATE,10/28/2014,Hospital C,6,84
+35,Cullie Etteridge,5,negativo,osteosarcoma,músculos,C34.9,inicial,Quimioterapia,grave,GLYCERIN,1/9/2016,Hospital A,6,71
+36,Addi Exter,7,positivo,melanoma,coração,C61,avancado,quimioterapia,estavel,"Sagebrush, Mugwort Artemisia vulgaris",1/10/2020,Hospital C,7,47
+37,Amabel Denver,55,negativo,lymphoma,músculos,C20.9,metastatico,radioterapia,grave,Omeprazole,3/28/2005,Hospital B,1,60
+38,Tommy Bodham,41,positivo,glioblastoma,rim,C20.9,avancado,radioterapia,estavel,Metaproterenol Sulfate,11/6/2008,Hospital C,5,13
+39,Lianne Bandey,71,positivo,glioblastoma,rim,C61.9,inicial,terapia alvo,em remissao,Treatment Set TS334947,7/28/2005,Hospital B,4,81
+40,Gwendolen Cook,55,inconclusivo,adenocarcinoma,fígado,C50.9,inicial,Cirurgia,grave,Duloxetine Hydrochloride,10/23/2021,Hospital C,3,18
+41,Gui Brinkman,85,negativo,osteosarcoma,coração,C61.9,metastatico,Cirurgia,estavel,Divalproex Sodium,5/12/2005,Hospital C,0,70
+42,Kat Reggiani,92,inconclusivo,adenocarcinoma,rim,C50.9,inicial,hormonioterapia,em remissao,Argatroban,5/9/2012,Hospital C,10,3
+43,Sibley Childes,38,negativo,sarcoma,pele,C20.9,metastatico,Cirurgia,grave,Gabapentin,4/12/2006,Hospital B,8,48
+44,Lindsey Straughan,56,positivo,mesothelioma,intestino,C61,inicial,hormonioterapia,grave,VALSARTAN,8/24/2018,Hospital A,8,16
+45,Hanson Keppy,80,positivo,glioblastoma,rim,C61,metastatico,Quimioterapia,estavel,SIMETHICONE,10/20/2014,Hospital B,4,86
+46,Wallace Eliassen,81,negativo,osteosarcoma,coração,C61,metastatico,hormonioterapia,grave,benzalkonium chloride,5/28/2004,Hospital C,6,91
+47,Hakim Broyd,93,negativo,leukemia,fígado,C61.9,metastatico,Quimioterapia,em remissao,Salicylic Acid,2/25/2013,Hospital A,4,35
+48,Wilhelmina Rentoll,14,positivo,osteosarcoma,pulmão,C61.9,metastatico,quimioterapia,grave,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,4/3/2001,Hospital C,3,7
+49,Christoper Philp,84,inconclusivo,mesothelioma,rim,C20.9,avancado,quimioterapia,grave,Aspirin,2/18/2007,Hospital C,1,66
+50,Marilyn Baudesson,50,positivo,adenocarcinoma,músculos,C61.9,inicial,quimioterapia,em remissao,"Titanium Dioxide, Octinoxate",5/19/2000,Hospital B,2,31
+51,Edy Abramovitz,93,inconclusivo,lymphoma,músculos,C61.9,inicial,Cirurgia,grave,beclomethasone dipropionate,2/15/2012,Hospital A,9,52
+52,Susann Duchesne,30,positivo,neuroblastoma,músculos,C50.9,metastatico,terapia alvo,grave,Benzocaine,8/24/2011,Hospital B,3,70
+53,Margaretta Grouer,69,inconclusivo,adenocarcinoma,pele,C34.9,avancado,imunoterapia,grave,Triclosan,9/7/2010,Hospital B,4,58
+54,Rhianon Eytel,63,negativo,mesothelioma,intestino,C61.9,metastatico,terapia alvo,grave,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",10/7/2000,Hospital C,5,18
+55,Vinson Siemianowicz,12,inconclusivo,glioblastoma,pulmão,C61.9,avancado,imunoterapia,estavel,Ketotifen Fumarate,9/13/2007,Hospital C,0,74
+56,Rhianon Mantle,69,positivo,melanoma,intestino,C20.9,avancado,Radioterapia,estavel,methylprednisolone sodium succinate,8/22/2003,Hospital B,10,80
+57,Chicky Tryhorn,62,inconclusivo,lymphoma,fígado,C61.9,metastatico,Quimioterapia,em remissao,Allergenic Extracts Alum Precipitated,1/19/2001,Hospital A,2,16
+58,Aline Ruckert,3,negativo,melanoma,pulmão,C61.9,avancado,radioterapia,estavel,Povidone Iodine,11/29/2021,Hospital A,8,67
+59,Josias Gleed,3,inconclusivo,leukemia,pulmão,C50.9,metastatico,quimioterapia,estavel,Titanium Dioxide,5/28/2022,Hospital A,2,19
+60,Jacklin Kleuer,72,inconclusivo,osteosarcoma,pulmão,C20.9,avancado,terapia alvo,grave,"OCTINOXATE, TITANIUM DIOXIDE",7/5/2002,Hospital B,9,30
+61,Heywood Imlach,94,inconclusivo,lymphoma,coração,C34.9,inicial,Radioterapia,grave,Promethazine Hydrochloride,5/28/2003,Hospital C,1,40
+62,Egor Siehard,27,positivo,melanoma,cérebro,C61.9,avancado,quimioterapia,em remissao,Secale Quartz,2/3/2009,Hospital B,9,49
+63,Ber Manicom,38,negativo,sarcoma,coração,C61.9,inicial,imunoterapia,em remissao,Octinoxate,5/30/2010,Hospital A,7,45
+64,Denna LLelweln,44,positivo,sarcoma,músculos,C61.9,avancado,Radioterapia,grave,Pramoxine Hydrochloride,3/2/2014,Hospital B,2,46
+65,Corby Freeborn,11,positivo,sarcoma,músculos,C34.9,avancado,Quimioterapia,em remissao,Allopurinol,5/17/2003,Hospital B,2,0
+66,Pall Colafate,86,inconclusivo,leukemia,estômago,C61,inicial,quimioterapia,em remissao,Tretinoin,5/24/2001,Hospital A,6,18
+67,Dmitri Essberger,4,positivo,osteosarcoma,fígado,C34.9,inicial,Radioterapia,grave,Valsartan and Hydrochlorothiazide,1/23/2011,Hospital B,5,80
+68,Flin Brumbie,82,negativo,adenocarcinoma,pele,C50.9,inicial,hormonioterapia,grave,Haloperidol,10/9/2001,Hospital C,3,75
+69,Baxie Sherville,95,inconclusivo,carcinoma,ossos,C34.9,metastatico,Quimioterapia,estavel,Etodolac,2/26/2003,Hospital C,8,76
+70,Morganica Clacson,4,positivo,lymphoma,coração,C61,inicial,Cirurgia,grave,pantoprazole sodium,5/30/2015,Hospital B,8,0
+71,Nancie Rolf,98,negativo,glioblastoma,pele,C50.9,metastatico,Radioterapia,grave,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,5/24/2004,Hospital C,1,82
+72,Christy Arthy,35,inconclusivo,lymphoma,pele,C34.9,metastatico,radioterapia,em remissao,Ropinirole,1/18/2021,Hospital C,10,79
+73,Paulita Watting,81,positivo,adenocarcinoma,ossos,C50.9,inicial,imunoterapia,grave,Hydrocortisone,10/13/2016,Hospital C,7,21
+74,Georgianne Gettings,100,positivo,neuroblastoma,ossos,C61.9,metastatico,Radioterapia,em remissao,Potassium Chloride,12/15/2016,Hospital C,3,92
+75,Helen Dobbing,28,inconclusivo,mesothelioma,fígado,C20.9,avancado,imunoterapia,em remissao,American Elm,3/23/2014,Hospital A,1,24
+76,Timotheus Chrystal,2,positivo,sarcoma,músculos,C34.9,metastatico,quimioterapia,estavel,POTASSIUM CHLORIDE,11/1/2001,Hospital C,7,41
+77,Helyn Deakin,82,negativo,melanoma,estômago,C20.9,metastatico,terapia alvo,em remissao,Chick Pea,3/15/2008,Hospital C,5,57
+78,Humfried Astin,14,negativo,melanoma,cérebro,C61,inicial,hormonioterapia,em remissao,Tacrolimus,10/26/2003,Hospital A,0,59
+79,Omero Blaksley,84,inconclusivo,adenocarcinoma,rim,C20.9,metastatico,Quimioterapia,em remissao,Alcohol,7/27/2018,Hospital A,4,33
+80,Hugo Janson,48,positivo,carcinoma,fígado,C20.9,inicial,Radioterapia,grave,salicylic acid,4/1/2019,Hospital A,4,25
+81,Cristina Jeakins,82,inconclusivo,adenocarcinoma,cérebro,C20.9,metastatico,terapia alvo,grave,Megestrol Acetate,1/29/2010,Hospital B,9,2
+82,Sile Mossbee,98,negativo,osteosarcoma,ossos,C50.9,metastatico,terapia alvo,em remissao,"Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil",7/21/2017,Hospital B,3,36
+83,Nicol McQuirter,92,negativo,carcinoma,rim,C20.9,inicial,Quimioterapia,estavel,fexofenadine hcl,12/28/2001,Hospital C,3,65
+84,Kittie Quan,37,positivo,leukemia,rim,C61.9,metastatico,quimioterapia,grave,"Baptisia tinctoria, Borax, Candida albicans, Candida parapsilosis, Echinacea, Kreosotum, Mercurius cyanatus, Mercurius sulphuratus ruber, Nitricum acidum,",4/29/2003,Hospital C,6,62
+85,Maxy Easman,22,inconclusivo,osteosarcoma,rim,C61,avancado,Quimioterapia,estavel,"Aluminum Hydroxide, Magnesium Hydroxide, Dimethicone",6/1/2004,Hospital B,8,10
+86,Sapphira O'Hederscoll,32,inconclusivo,glioblastoma,fígado,C20.9,inicial,imunoterapia,em remissao,bimatoprost,5/6/2018,Hospital B,3,9
+87,Clovis Hertwell,50,negativo,osteosarcoma,pulmão,C61,inicial,Quimioterapia,grave,PredniSONE,1/23/2005,Hospital B,1,87
+88,Maurice Dumini,54,negativo,melanoma,cérebro,C20.9,metastatico,quimioterapia,estavel,Childrens Mucinex Cough,6/5/2015,Hospital B,9,29
+89,Dannie Rambaut,49,positivo,leukemia,cérebro,C20.9,inicial,Quimioterapia,estavel,Nitrofurantoin Macrocrystals,11/27/2002,Hospital B,0,33
+90,Anabel Carbry,67,inconclusivo,sarcoma,ossos,C50.9,avancado,radioterapia,em remissao,ETHYL ALCOHOL,9/20/2019,Hospital C,4,73
+91,Rebecca Eul,64,inconclusivo,glioblastoma,estômago,C50.9,avancado,radioterapia,grave,Haloperidol Decanoate,11/28/2017,Hospital A,10,60
+92,Bernadine Sprouls,24,positivo,carcinoma,estômago,C61.9,metastatico,Radioterapia,em remissao,Oxygen,9/11/2001,Hospital C,9,78
+93,Joy Jurries,84,positivo,glioblastoma,cérebro,C61.9,avancado,Radioterapia,grave,Minoxidil,11/25/2017,Hospital B,9,11
+94,Gipsy Puckham,99,positivo,mesothelioma,músculos,C34.9,inicial,quimioterapia,grave,PredniSONE,8/2/2000,Hospital C,5,6
+95,Tabbie Bentick,41,negativo,adenocarcinoma,estômago,C50.9,inicial,terapia alvo,grave,Labetalol HCl,5/5/2015,Hospital C,0,28
+96,Terencio Jephson,23,negativo,mesothelioma,rim,C50.9,inicial,terapia alvo,grave,Triclosan,6/18/2011,Hospital C,6,32
+97,Meredith Bushaway,11,inconclusivo,osteosarcoma,músculos,C61,metastatico,quimioterapia,estavel,"Camphor, Methyl Salicylate, Menthol",5/19/2000,Hospital B,9,81
+98,Noland Golling,6,positivo,melanoma,pulmão,C61,avancado,radioterapia,grave,Water,9/29/2010,Hospital C,8,83
+99,Lynelle Baddow,35,inconclusivo,glioblastoma,cérebro,C34.9,inicial,quimioterapia,estavel,Cetirizine Hydrochloride,7/22/2020,Hospital A,5,27
+100,Gisele D'Alesio,82,positivo,carcinoma,cérebro,C34.9,inicial,Radioterapia,grave,zolpidem tartrate,10/12/2021,Hospital B,6,10
+101,Chick Pailin,97,inconclusivo,leukemia,rim,C50.9,metastatico,imunoterapia,grave,Gabapentin,9/3/2019,Hospital B,7,80
+102,Benjamen Hopkins,45,positivo,sarcoma,intestino,C50.9,metastatico,terapia alvo,grave,BENZALKONIUM CHLORIDE,4/27/2010,Hospital A,0,5
+103,Ethan Bassett,35,inconclusivo,neuroblastoma,estômago,C20.9,inicial,hormonioterapia,em remissao,DOCUSATE SODIUM,11/22/2007,Hospital A,5,19
+104,Teressa Tompkin,77,inconclusivo,leukemia,estômago,C20.9,inicial,Radioterapia,em remissao,OXYGEN,9/21/2018,Hospital B,8,21
+105,Ryann Mavin,22,positivo,leukemia,estômago,C61.9,inicial,hormonioterapia,estavel,White Petroleum,2/5/2016,Hospital B,2,12
+106,Gaby Gregore,76,negativo,neuroblastoma,cérebro,C61,metastatico,quimioterapia,grave,Phentermine Hydrochloride,9/10/2007,Hospital C,5,6
+107,Evanne Orleton,89,positivo,carcinoma,fígado,C50.9,inicial,quimioterapia,em remissao,White Petrolatum,2/15/2005,Hospital B,8,66
+108,Fidelia Swinerd,32,inconclusivo,mesothelioma,pele,C20.9,inicial,Radioterapia,estavel,ALCOHOL,6/28/2008,Hospital B,9,1
+109,Fin Swiffan,87,negativo,carcinoma,pele,C50.9,inicial,Radioterapia,estavel,HYDROCODONE BITARTRATE,9/19/2022,Hospital A,1,19
+110,Morissa Ringrose,48,inconclusivo,mesothelioma,intestino,C20.9,metastatico,Radioterapia,em remissao,Octinoxate,9/29/2019,Hospital A,0,63
+111,Alanson O'Duggan,20,positivo,mesothelioma,rim,C20.9,inicial,hormonioterapia,em remissao,Omeprazole,10/16/2004,Hospital A,5,0
+112,Cleveland Barling,37,positivo,melanoma,estômago,C61.9,avancado,terapia alvo,grave,zolpidem tartrate,4/1/2010,Hospital A,7,78
+113,Danette McCamish,90,negativo,neuroblastoma,cérebro,C50.9,inicial,Quimioterapia,estavel,SULFACETAMIDE SODIUM and SULFUR,3/5/2002,Hospital C,9,64
+114,Melisse Challen,25,negativo,leukemia,músculos,C20.9,metastatico,hormonioterapia,estavel,famciclovir,11/23/2008,Hospital B,6,25
+115,Ronnie Danielkiewicz,35,negativo,osteosarcoma,coração,C61,avancado,Radioterapia,em remissao,"IODIUM,BADIAGA,FUCUS VESICULOSUS,CALCAREAARSENICUM IODATUM, THYROIDINUM,CARBONICA,PULSATILLA,BARYTA CARBONICA,",8/17/2004,Hospital A,7,47
+116,Ashlie Haughin,5,positivo,melanoma,estômago,C50.9,avancado,hormonioterapia,em remissao,rotigotine,8/26/2002,Hospital C,1,29
+117,Colly Likely,16,positivo,carcinoma,músculos,C34.9,metastatico,terapia alvo,grave,"CAMPHOR, MENTHOL",9/20/2010,Hospital C,8,85
+118,Chrissy Dykas,21,positivo,adenocarcinoma,fígado,C61,inicial,quimioterapia,estavel,CHLOROQUINE PHOSPHATE,8/15/2012,Hospital B,8,57
+119,Bethena Girone,4,positivo,adenocarcinoma,pele,C34.9,avancado,imunoterapia,grave,diazepam,7/25/2011,Hospital A,4,74
+120,Corrie Wippermann,95,positivo,glioblastoma,fígado,C20.9,inicial,hormonioterapia,grave,"Eucalyptol, Menthol, Methyl Salicylate, and Thymol",9/18/2011,Hospital C,10,45
+121,Delora Oxbrow,84,inconclusivo,glioblastoma,estômago,C34.9,inicial,Cirurgia,estavel,Amitriptyline Hydrochloride,8/18/2022,Hospital C,4,50
+122,Jonathan Yanyushkin,8,inconclusivo,neuroblastoma,estômago,C34.9,metastatico,imunoterapia,estavel,Losartan potassium,5/18/2014,Hospital C,5,96
+123,Nancee Salery,95,negativo,sarcoma,coração,C20.9,avancado,Quimioterapia,grave,Benzalkonium Chloride,9/1/2015,Hospital C,3,30
+124,Malorie Fernyhough,50,inconclusivo,glioblastoma,ossos,C61,inicial,Cirurgia,em remissao,"OCTINOXATE, TITANIUM DIOXIDE",2/20/2008,Hospital C,7,89
+125,Ailina Floris,16,negativo,glioblastoma,ossos,C50.9,inicial,radioterapia,em remissao,sodium phosphate,7/16/2011,Hospital B,2,38
+126,Marys Starton,91,negativo,melanoma,intestino,C61,avancado,terapia alvo,estavel,"Dextromethorphan HBr, Guaifenesin",3/11/2022,Hospital B,6,54
+127,Phaidra Heims,75,negativo,melanoma,intestino,C61,metastatico,radioterapia,estavel,LIDOCAINE HYDROCHLORIDE ANHYDROUS,11/25/2014,Hospital C,5,48
+128,Hilde Service,1,inconclusivo,adenocarcinoma,pele,C61.9,metastatico,hormonioterapia,estavel,Cyclophosphamide,11/16/2011,Hospital B,10,14
+129,Kimberlee Prattin,66,inconclusivo,carcinoma,músculos,C61.9,avancado,imunoterapia,estavel,Bupropion hydrochloride,6/10/2010,Hospital B,4,4
+130,Roarke Keller,68,negativo,adenocarcinoma,coração,C34.9,inicial,hormonioterapia,em remissao,"Kali gluconicum, Glandula suprarenalis suis, Hepar suis, Arsenicum album, Iridium metallicum, Phosphorus, Selenium metallicum, Sulphur, Histaminum hydrochloricum, Hyaluronidase, Interferon, Serotonin,",12/1/2017,Hospital A,9,15
+131,Waite Alderwick,49,negativo,adenocarcinoma,músculos,C20.9,metastatico,terapia alvo,grave,acyclovir,2/18/2008,Hospital C,10,72
+132,Tyrus Bygrave,88,positivo,lymphoma,rim,C61.9,avancado,Cirurgia,grave,Temozolomide,1/21/2019,Hospital B,9,6
+133,Jacquenette Lambird,96,negativo,glioblastoma,pulmão,C20.9,inicial,Quimioterapia,grave,California Valley White Oak,6/10/2007,Hospital B,1,85
+134,Zita Malter,22,inconclusivo,melanoma,estômago,C20.9,inicial,hormonioterapia,estavel,SODIUM FLUORIDE,6/28/2018,Hospital C,6,5
+135,Duke Elvins,34,negativo,melanoma,rim,C61,inicial,imunoterapia,grave,Cefuroxime Axetil,12/24/2011,Hospital C,2,63
+136,Bevon Plumstead,19,negativo,glioblastoma,cérebro,C34.9,metastatico,Cirurgia,em remissao,Triamterene and Hydrochlorothiazide,10/7/2001,Hospital C,1,58
+137,Blane Luscott,55,inconclusivo,melanoma,cérebro,C61,inicial,hormonioterapia,em remissao,BUPROPION HYDROCHLORIDE,6/20/2003,Hospital B,0,81
+138,Cherie Lively,84,negativo,leukemia,fígado,C34.9,inicial,radioterapia,em remissao,Paricalcitol,11/10/2011,Hospital C,8,87
+139,Kleon Brimner,10,negativo,glioblastoma,cérebro,C61,avancado,radioterapia,grave,Hydrocodone Bitatrate and Acetaminophen,12/13/2013,Hospital A,3,89
+140,Jane Deacon,9,negativo,neuroblastoma,intestino,C61,inicial,imunoterapia,em remissao,Alcohol,6/16/2015,Hospital C,8,38
+141,Briggs Stitt,1,positivo,adenocarcinoma,cérebro,C61.9,metastatico,imunoterapia,grave,"Bacitracin Zinc, Neomycin Sulfate, Polymyxin B",1/15/2002,Hospital B,9,6
+142,Dorrie Lindsley,5,inconclusivo,lymphoma,rim,C20.9,avancado,terapia alvo,grave,"Cimicifuga racemosa, Gelsemium sempervirens, Rhus toxicodendron,",2/8/2013,Hospital C,1,60
+143,Margaret Marking,78,inconclusivo,sarcoma,intestino,C34.9,metastatico,quimioterapia,grave,Prednisone,10/4/2009,Hospital A,4,32
+144,Laird Cattlow,30,positivo,carcinoma,rim,C50.9,metastatico,terapia alvo,estavel,TRICLOSAN,1/31/2013,Hospital B,8,93
+145,Kacie Pettigree,22,inconclusivo,carcinoma,coração,C20.9,metastatico,Radioterapia,estavel,acebutolol hydrochloride,1/25/2011,Hospital A,5,87
+146,Garwood Secretan,83,positivo,lymphoma,estômago,C20.9,avancado,hormonioterapia,estavel,Torsemide,4/1/2008,Hospital C,1,84
+147,Hatti Hixson,13,negativo,osteosarcoma,estômago,C34.9,inicial,Quimioterapia,grave,White Ash,2/2/2021,Hospital C,2,75
+148,Vanya Staples,96,negativo,sarcoma,rim,C34.9,inicial,Quimioterapia,estavel,Morphine Sulfate,2/18/2005,Hospital C,6,8
+149,Camala Haggard,21,inconclusivo,carcinoma,pulmão,C61.9,avancado,Quimioterapia,grave,Amitriptyline Hydrochloride,2/27/2013,Hospital C,2,84
+150,Cecilio Reddoch,99,negativo,sarcoma,pele,C20.9,avancado,Quimioterapia,em remissao,Levetiracetam,3/16/2017,Hospital B,8,61
+151,Zak Berling,47,positivo,carcinoma,intestino,C34.9,avancado,imunoterapia,grave,"Guaifenesin, Phenylephrine Hydrochloride",9/1/2013,Hospital B,0,41
+152,Alvie Kilgallon,78,positivo,leukemia,pele,C50.9,avancado,radioterapia,estavel,Oxymorphone hydrochloride,2/12/2008,Hospital A,2,98
+153,Allister felip,84,positivo,carcinoma,coração,C20.9,metastatico,hormonioterapia,em remissao,fenofibrate,2/25/2003,Hospital C,2,47
+154,Van Tarzey,67,inconclusivo,osteosarcoma,rim,C61,metastatico,hormonioterapia,grave,Stannum Metallicum,4/20/2000,Hospital A,2,20
+155,Andrew Kovacs,50,positivo,neuroblastoma,ossos,C61,metastatico,Quimioterapia,em remissao,Amlodipine Besylate,9/7/2000,Hospital C,6,45
+156,Nolly Kerwick,79,negativo,melanoma,ossos,C50.9,inicial,Quimioterapia,estavel,"benzethonium chloride, benzocaine, and menthol",9/21/2015,Hospital A,4,2
+157,Leola O'Duane,22,inconclusivo,osteosarcoma,músculos,C20.9,inicial,imunoterapia,em remissao,methyldopa,8/28/2001,Hospital A,10,48
+158,Allis Mc Ilory,47,inconclusivo,adenocarcinoma,rim,C20.9,avancado,Quimioterapia,em remissao,Allopurinol,9/29/2012,Hospital C,3,11
+159,Marion Itzkovich,34,positivo,glioblastoma,músculos,C20.9,avancado,Cirurgia,grave,"cocoa butter, phenylephrine hcl",5/31/2017,Hospital B,10,5
+160,Aldridge Docherty,64,positivo,leukemia,ossos,C50.9,inicial,terapia alvo,em remissao,"Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine succinate",10/21/2016,Hospital B,6,73
+161,Kelly Dredge,19,negativo,sarcoma,rim,C20.9,metastatico,radioterapia,grave,Norepinephrine Bitartrate,5/1/2006,Hospital C,4,86
+162,Chet Kellough,22,inconclusivo,carcinoma,pulmão,C61.9,inicial,terapia alvo,grave,Aluminum Zirconium Tetrachlorohydrex Gly,2/18/2013,Hospital C,4,74
+163,Ed Butchart,57,negativo,glioblastoma,pulmão,C34.9,metastatico,quimioterapia,estavel,Metoprolol succinate,4/22/2010,Hospital A,4,93
+164,Aldus Drakes,62,negativo,lymphoma,pulmão,C20.9,metastatico,Quimioterapia,estavel,Gabapentin,4/29/2006,Hospital C,0,65
+165,Fransisco Dimitriou,86,negativo,adenocarcinoma,cérebro,C50.9,metastatico,imunoterapia,em remissao,House Fly,6/16/2005,Hospital B,9,62
+166,Anita Wooler,93,positivo,osteosarcoma,estômago,C61,avancado,hormonioterapia,grave,Phentermine Hydrochloride,9/22/2016,Hospital B,0,13
+167,Antoni Knowlys,14,negativo,neuroblastoma,estômago,C50.9,avancado,hormonioterapia,em remissao,Pseudoephedrine hydrochloride,9/21/2008,Hospital A,5,86
+168,Lyndsey Covington,88,inconclusivo,osteosarcoma,pulmão,C61,avancado,terapia alvo,em remissao,Mirtazapine,10/18/2008,Hospital B,5,59
+169,Gib Beneyto,84,positivo,glioblastoma,pele,C34.9,avancado,hormonioterapia,estavel,Amlodipine besylate and Atorvastatin calcium,3/25/2012,Hospital B,2,85
+170,Lind Nannizzi,1,negativo,lymphoma,fígado,C61,inicial,Quimioterapia,em remissao,Fluconazole,9/6/2012,Hospital C,7,71
+171,Sandy Jaggli,18,positivo,lymphoma,estômago,C34.9,inicial,hormonioterapia,em remissao,"Echinacea, Hydrastis Canadensis, Lomatium Dissectum, Myrrha, Nasturtium Aquaticum, Tabebuia Impetiginosa, Spleen, Thymus",12/16/2007,Hospital A,5,89
+172,Antonio Vsanelli,4,inconclusivo,neuroblastoma,pele,C61.9,avancado,hormonioterapia,estavel,Daphne mezereum 4,6/13/2019,Hospital C,8,96
+173,Kahaleel Sowersby,11,negativo,sarcoma,músculos,C61,metastatico,imunoterapia,estavel,silodosin,5/21/2007,Hospital C,0,12
+174,Jon Stockhill,76,inconclusivo,neuroblastoma,pulmão,C50.9,avancado,quimioterapia,em remissao,mucor racemosus,5/5/2005,Hospital A,6,50
+175,Leonerd Londesborough,72,inconclusivo,neuroblastoma,rim,C61,avancado,imunoterapia,grave,Promethazine hydrochloride,6/17/2005,Hospital B,6,87
+176,Max Mewhirter,29,positivo,lymphoma,coração,C61.9,inicial,radioterapia,grave,CEFPROZIL,11/13/2008,Hospital B,0,73
+177,Kerry Fosdike,65,inconclusivo,sarcoma,pulmão,C34.9,metastatico,hormonioterapia,em remissao,Temozolomide,10/24/2011,Hospital C,1,97
+178,Aluin Macconachy,26,negativo,sarcoma,estômago,C20.9,avancado,radioterapia,estavel,Standardized Orchard Grass Pollen,9/19/2009,Hospital C,1,95
+179,Bondie Halloway,42,positivo,glioblastoma,pulmão,C34.9,inicial,hormonioterapia,em remissao,temazepam,12/11/2019,Hospital C,5,30
+180,Blancha Osgood,54,negativo,sarcoma,rim,C20.9,avancado,radioterapia,grave,Mannitol,12/13/2004,Hospital C,8,32
+181,Jilli Guiton,7,negativo,sarcoma,estômago,C61.9,inicial,terapia alvo,grave,Bisacodyl,11/18/2018,Hospital B,2,34
+182,Iggy Winks,41,negativo,mesothelioma,coração,C20.9,avancado,hormonioterapia,grave,Cyproheptadine Hydrochloride,3/15/2008,Hospital C,2,49
+183,Clementia Garrad,79,inconclusivo,neuroblastoma,músculos,C20.9,metastatico,Quimioterapia,em remissao,Morphine Sulfate,8/19/2006,Hospital B,7,62
+184,Judas Cornelisse,27,inconclusivo,osteosarcoma,rim,C34.9,metastatico,terapia alvo,em remissao,NITROGEN,3/5/2002,Hospital C,3,8
+185,Gabie Carstairs,14,negativo,osteosarcoma,ossos,C34.9,inicial,terapia alvo,grave,Octinoxate and Titanium dioxide,5/2/2000,Hospital A,10,93
+186,Clio Landsbury,79,inconclusivo,osteosarcoma,ossos,C61,metastatico,Quimioterapia,grave,Magnesium citrate,4/30/2021,Hospital C,4,10
+187,Nisse Ottosen,28,inconclusivo,lymphoma,cérebro,C50.9,inicial,Quimioterapia,estavel,Quinapril Hydrochloride and Hydrochlorothiazide,4/20/2016,Hospital C,2,68
+188,Rahal Etchingham,79,negativo,adenocarcinoma,pulmão,C61.9,metastatico,radioterapia,grave,permethrin,9/26/2003,Hospital B,0,31
+189,Nowell Gurnee,34,negativo,mesothelioma,músculos,C34.9,inicial,terapia alvo,grave,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",11/23/2017,Hospital C,2,94
+190,Owen Ingliss,1,negativo,melanoma,estômago,C50.9,metastatico,quimioterapia,em remissao,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",3/5/2001,Hospital B,10,25
+191,Kellia Darlow,76,positivo,melanoma,pulmão,C20.9,metastatico,quimioterapia,em remissao,"Norethindrone Acetate and Ethinyl Estradiol, and Ferrous Fumarate",3/30/2021,Hospital C,1,20
+192,Consalve Ibanez,65,negativo,melanoma,pulmão,C50.9,inicial,radioterapia,estavel,white petrolatum mineral oil,9/17/2012,Hospital C,8,29
+193,Frankie Mapledorum,26,positivo,sarcoma,pele,C61.9,metastatico,hormonioterapia,em remissao,Potassium Iodide,9/2/2004,Hospital C,2,48
+194,Gregorio Scoles,27,inconclusivo,lymphoma,estômago,C61,inicial,Radioterapia,estavel,Potassium Chloride,12/20/2002,Hospital C,9,95
+195,Miof mela Burtwistle,12,inconclusivo,lymphoma,pele,C20.9,metastatico,terapia alvo,estavel,Menthol,4/11/2013,Hospital C,10,16
+196,Latrena Bachman,2,positivo,osteosarcoma,fígado,C61.9,inicial,imunoterapia,em remissao,Oregon Ash,8/3/2011,Hospital A,10,30
+197,Rea Rickerd,53,inconclusivo,melanoma,pulmão,C61,metastatico,quimioterapia,estavel,Russian Olive Elaeagnus angustifolia,3/28/2009,Hospital A,3,76
+198,Evey Gallant,88,inconclusivo,leukemia,intestino,C34.9,inicial,Cirurgia,em remissao,GABAPENTIN,9/26/2010,Hospital A,6,36
+199,Ermin Gregoriou,67,negativo,lymphoma,estômago,C34.9,inicial,terapia alvo,grave,Oxygen,10/20/2004,Hospital C,10,16
+200,Murielle Willimont,19,negativo,carcinoma,estômago,C20.9,inicial,hormonioterapia,estavel,OCTINOXATE,3/27/2009,Hospital A,4,85
+201,Judah Jann,29,negativo,neuroblastoma,rim,C34.9,metastatico,quimioterapia,em remissao,Bisacodyl,2/4/2012,Hospital A,4,93
+202,Ferrell Buckler,68,positivo,lymphoma,ossos,C61.9,avancado,imunoterapia,estavel,"Aluminum Hydroxide, Magnesium Hydroxide,Simethicone",12/29/2003,Hospital A,10,52
+203,Xenos Hanfrey,2,inconclusivo,neuroblastoma,estômago,C50.9,avancado,quimioterapia,estavel,glyburide,5/27/2007,Hospital B,5,85
+204,Marie-ann McCotter,96,negativo,glioblastoma,coração,C34.9,metastatico,terapia alvo,em remissao,"Antimon. crud., Bryonia, Calc.carb., Causticum, Dulcamara, Graphites, Lycopodium, Merc. sulph. rub., Nat. carb., Nitricum ac., Nux vom., Rhus toxicodendron, Sabina, Sepia, Silicea, Staphysag., Sulphur, Thuja occ., Taraxacum",8/7/2021,Hospital B,10,49
+205,Binky Bonefant,16,inconclusivo,osteosarcoma,pulmão,C34.9,inicial,hormonioterapia,estavel,OXYGEN,12/1/2017,Hospital B,10,20
+206,Gerri Kimbury,14,negativo,carcinoma,músculos,C34.9,metastatico,radioterapia,grave,MORPHINE SULFATE and NALTREXONE HYDROCHLORIDE,1/28/2020,Hospital C,0,19
+207,Amandy Crenage,31,inconclusivo,glioblastoma,rim,C61.9,avancado,Cirurgia,grave,"OCTINOXATE, OCTOCRYLENE, AVOBENZONE",10/1/2003,Hospital A,6,10
+208,Phillida Wilmington,87,inconclusivo,glioblastoma,cérebro,C20.9,avancado,Cirurgia,em remissao,Enalapril Maleate,6/17/2014,Hospital A,6,38
+209,Alejoa Sills,48,positivo,osteosarcoma,fígado,C34.9,metastatico,imunoterapia,estavel,Witch Hazel,1/6/2010,Hospital C,7,8
+210,Laughton Warrillow,35,inconclusivo,glioblastoma,intestino,C20.9,inicial,Cirurgia,em remissao,risperidone,1/9/2005,Hospital A,8,35
+211,Lowell Elstone,98,negativo,glioblastoma,cérebro,C34.9,avancado,quimioterapia,em remissao,ARNICA MONTANA,2/15/2008,Hospital A,7,31
+212,Mortimer Colvill,36,inconclusivo,leukemia,pulmão,C50.9,inicial,Quimioterapia,em remissao,riluzole,11/23/2013,Hospital C,4,51
+213,Bert Newgrosh,41,positivo,lymphoma,cérebro,C20.9,metastatico,imunoterapia,estavel,OXYGEN,3/8/2020,Hospital C,10,97
+214,Melva Phripp,56,inconclusivo,neuroblastoma,rim,C20.9,metastatico,imunoterapia,estavel,sertraline hydrochloride,3/16/2015,Hospital C,1,76
+215,Meredithe Vernham,95,negativo,sarcoma,coração,C20.9,inicial,hormonioterapia,em remissao,Ibuprofen,4/7/2009,Hospital C,7,94
+216,Philbert Malcolmson,52,positivo,neuroblastoma,fígado,C61.9,metastatico,imunoterapia,grave,OCTINOXATE,3/13/2004,Hospital A,10,45
+217,Nert Atlee,77,positivo,osteosarcoma,pulmão,C50.9,avancado,quimioterapia,grave,Trihexyphenidyl hydrochloride,9/4/2014,Hospital B,3,18
+218,Ronny Ferney,38,positivo,leukemia,ossos,C50.9,metastatico,Quimioterapia,grave,"Asafoetida, Astragalus Menziesii, Illicium Anisatum, Lonicera Zylosteum",1/8/2003,Hospital B,6,3
+219,Ruggiero Le Fleming,73,positivo,mesothelioma,rim,C50.9,metastatico,hormonioterapia,em remissao,estradiol,11/13/2003,Hospital A,10,84
+220,Micheil Petrashkov,32,inconclusivo,sarcoma,músculos,C20.9,inicial,hormonioterapia,grave,clopidogrel,2/17/2011,Hospital A,7,28
+221,Franny Martina,93,inconclusivo,leukemia,cérebro,C50.9,metastatico,Cirurgia,grave,DOCUSATE SODIUM -SENNOSIDES,1/28/2007,Hospital A,8,21
+222,Willamina Rouby,100,positivo,osteosarcoma,intestino,C61,inicial,hormonioterapia,estavel,Trazodone Hydrochloride,4/20/2022,Hospital B,6,94
+223,Merrile Berecloth,97,negativo,leukemia,intestino,C20.9,inicial,hormonioterapia,em remissao,ampicillin sodium and sulbactam sodium,6/26/2001,Hospital C,7,72
+224,Torrie O'Keaveny,41,negativo,adenocarcinoma,cérebro,C61,avancado,Quimioterapia,grave,glipizide,3/11/2006,Hospital C,2,96
+225,Roma Leggitt,97,positivo,leukemia,cérebro,C61.9,avancado,imunoterapia,estavel,Neurospora intermedia,6/18/2015,Hospital C,10,47
+226,Shanda Brecknall,39,inconclusivo,sarcoma,ossos,C34.9,metastatico,terapia alvo,em remissao,"Piperacillin Sodium, Tazobactam Sodium",5/15/2002,Hospital C,0,76
+227,Marguerite Bernette,76,positivo,melanoma,intestino,C50.9,avancado,hormonioterapia,em remissao,METFORMIN HYDROCHLORIDE,6/3/2019,Hospital A,10,42
+228,Judah McCarly,8,negativo,carcinoma,pele,C20.9,inicial,Cirurgia,em remissao,Penicilium chrysogenum,7/2/2012,Hospital A,9,83
+229,Jackquelin Abrahami,37,positivo,sarcoma,ossos,C61,metastatico,terapia alvo,em remissao,Aspirin,1/17/2010,Hospital A,4,14
+230,Penny Shuker,47,negativo,neuroblastoma,estômago,C61.9,avancado,Cirurgia,em remissao,Pentoxifylline,8/14/2004,Hospital B,2,98
+231,Chrissy Casey,76,inconclusivo,glioblastoma,estômago,C20.9,avancado,Quimioterapia,em remissao,OCTINOXATE and TITANIUM DIOXIDE,11/13/2012,Hospital C,10,89
+232,Shaun Dye,55,inconclusivo,mesothelioma,pele,C61.9,inicial,imunoterapia,em remissao,AVOBENZONE,5/22/2007,Hospital A,2,79
+233,Herby Dodman,10,negativo,osteosarcoma,músculos,C61,inicial,hormonioterapia,em remissao,IRON,7/24/2018,Hospital C,5,20
+234,Tabbatha Goldbourn,15,inconclusivo,mesothelioma,estômago,C34.9,metastatico,radioterapia,estavel,OCTINOXATE and TITANIUM DIOXIDE,1/18/2019,Hospital B,3,41
+235,Caroljean Lewzey,64,negativo,carcinoma,intestino,C61.9,metastatico,quimioterapia,em remissao,Bupropion Hydrochloride,4/5/2019,Hospital A,5,78
+236,Raddy Upstell,87,negativo,osteosarcoma,coração,C61,inicial,Radioterapia,estavel,HYDROMORPHONE HYDROCHLORIDE,4/20/2016,Hospital A,7,77
+237,Donnie Vernazza,71,positivo,adenocarcinoma,fígado,C61,metastatico,radioterapia,estavel,Diazepam,3/28/2020,Hospital B,2,52
+238,Ervin Pagen,82,positivo,neuroblastoma,músculos,C20.9,avancado,quimioterapia,estavel,Cedar Red,4/7/2018,Hospital B,3,25
+239,Vinny Miner,67,negativo,neuroblastoma,intestino,C61,inicial,quimioterapia,estavel,DOXYLAMINE SUCCINATE,4/7/2015,Hospital A,5,92
+240,Ardene Kelberman,13,negativo,melanoma,músculos,C61.9,metastatico,terapia alvo,em remissao,amoxicillin and clavulanate potassium,1/1/2016,Hospital C,0,78
+241,Pooh Lulham,59,positivo,osteosarcoma,fígado,C50.9,metastatico,hormonioterapia,em remissao,Famotidine,11/10/2017,Hospital A,4,86
+242,Brena Ricardin,59,inconclusivo,mesothelioma,pele,C50.9,inicial,radioterapia,estavel,Levothyroxine sodium,10/6/2007,Hospital B,2,7
+243,Odele Ayliff,58,inconclusivo,carcinoma,rim,C50.9,metastatico,terapia alvo,grave,azithromycin monohydrate,6/23/2011,Hospital C,5,18
+244,Codi Toyne,68,negativo,melanoma,pulmão,C61,metastatico,Quimioterapia,estavel,venlafaxine hydrochloride,11/16/2006,Hospital A,1,16
+245,Jamie Petruk,38,negativo,sarcoma,intestino,C61,avancado,hormonioterapia,grave,PULLULARIA PULLULANS,3/29/2000,Hospital C,5,81
+246,Brody Kabos,62,negativo,lymphoma,pulmão,C50.9,metastatico,Cirurgia,estavel,Triamterene and Hydrochlorothiazide,5/7/2001,Hospital A,5,49
+247,Courtney Demangeon,47,positivo,glioblastoma,estômago,C61,inicial,Cirurgia,estavel,RANCID BEEF,7/10/2015,Hospital C,4,56
+248,Nanete Deerness,84,positivo,neuroblastoma,pulmão,C61.9,inicial,Radioterapia,grave,FOSINOPRIL Sodium,11/13/2002,Hospital B,5,38
+249,Matelda Ragg,53,negativo,adenocarcinoma,músculos,C61,metastatico,hormonioterapia,em remissao,Terbinafine Hydrochloride,12/3/2021,Hospital C,9,73
+250,Jenn Puddefoot,66,negativo,carcinoma,músculos,C61.9,avancado,terapia alvo,grave,Glipizide,2/1/2008,Hospital C,5,95
+251,Atlante Robbeke,47,negativo,osteosarcoma,fígado,C50.9,metastatico,terapia alvo,estavel,Promethazine hydrochloride,7/14/2019,Hospital B,8,29
+252,Ethelda Bartholomaus,57,negativo,carcinoma,fígado,C61.9,metastatico,hormonioterapia,estavel,ranitidine hydrochloride,11/1/2012,Hospital B,1,41
+253,Eamon Adrian,46,positivo,leukemia,pele,C50.9,inicial,Quimioterapia,estavel,Capsaicin,6/28/2000,Hospital A,7,60
+254,Lynnea Batcock,35,positivo,melanoma,estômago,C61.9,avancado,imunoterapia,estavel,methocarbamol,2/26/2005,Hospital A,5,18
+255,Orbadiah Cranidge,6,positivo,neuroblastoma,ossos,C61,inicial,terapia alvo,estavel,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",9/12/2015,Hospital C,4,39
+256,Aguie Hymas,79,negativo,carcinoma,ossos,C61.9,metastatico,terapia alvo,grave,"Dextromethorphan HBr, Doxylamine succinate",7/10/2000,Hospital C,8,17
+257,Nissie Bonnyson,24,inconclusivo,leukemia,coração,C34.9,inicial,radioterapia,grave,Lithium Carbonate,4/20/2003,Hospital C,10,18
+258,Corena Arckoll,12,inconclusivo,sarcoma,músculos,C34.9,inicial,quimioterapia,estavel,oxycodone hydrochloride and acetaminophen,5/21/2014,Hospital A,7,2
+259,Blake Verdon,4,inconclusivo,neuroblastoma,estômago,C50.9,metastatico,imunoterapia,grave,HYPROMELLOSE,2/12/2018,Hospital A,8,35
+260,Joella Brownsett,39,inconclusivo,sarcoma,ossos,C20.9,avancado,Quimioterapia,estavel,Treatment Set TS351201,8/13/2008,Hospital B,8,16
+261,Matthaeus Whight,22,inconclusivo,osteosarcoma,intestino,C34.9,inicial,quimioterapia,estavel,"Polyethylene glycol, Propylene glycol",3/27/2000,Hospital A,6,36
+262,Jesus Negri,41,positivo,leukemia,pulmão,C50.9,avancado,radioterapia,estavel,Ethyl Alcohol,9/20/2016,Hospital B,1,7
+263,Abeu Le Surf,95,negativo,neuroblastoma,fígado,C61,inicial,radioterapia,estavel,droxidopa,7/22/2011,Hospital B,2,21
+264,Cherice Corradini,17,inconclusivo,sarcoma,músculos,C61,metastatico,hormonioterapia,estavel,Salicylic acid,7/19/2008,Hospital A,9,89
+265,Clarey Gravett,98,negativo,glioblastoma,coração,C20.9,inicial,quimioterapia,grave,Tretinoin,9/18/2007,Hospital A,5,41
+266,Afton Twiddy,12,negativo,glioblastoma,estômago,C61.9,inicial,quimioterapia,grave,Malt,5/2/2016,Hospital A,6,32
+267,Onofredo Chrippes,72,negativo,lymphoma,ossos,C61,avancado,hormonioterapia,estavel,doxycycline hyclate,12/31/2003,Hospital A,8,41
+268,Gabie McGettrick,99,positivo,lymphoma,cérebro,C50.9,metastatico,Quimioterapia,estavel,warfarin sodium,11/2/2011,Hospital B,8,100
+269,Lia Oakenfull,27,inconclusivo,osteosarcoma,ossos,C20.9,inicial,hormonioterapia,em remissao,Aspirin,1/25/2009,Hospital A,5,27
+270,Maximilian Grimestone,62,negativo,mesothelioma,intestino,C50.9,inicial,Cirurgia,grave,linezolid,1/22/2010,Hospital B,6,30
+271,Kerry Novotni,57,positivo,sarcoma,músculos,C34.9,inicial,radioterapia,estavel,SULFUR,4/19/2012,Hospital C,4,92
+272,Ado Chipman,38,negativo,adenocarcinoma,estômago,C61.9,metastatico,Quimioterapia,em remissao,Acetaminophen and Diphenhydramine HCl,7/13/2005,Hospital B,6,71
+273,Yetty Hulburd,28,negativo,adenocarcinoma,pulmão,C34.9,inicial,Quimioterapia,estavel,turkey,6/11/2017,Hospital C,4,41
+274,Hercules Steggals,8,positivo,mesothelioma,ossos,C61,inicial,imunoterapia,estavel,diphenhydramine hydrochloride,1/26/2010,Hospital A,7,42
+275,Stephenie Lambis,41,inconclusivo,neuroblastoma,coração,C50.9,inicial,Radioterapia,grave,California (Coastal) Live Oak,10/9/2017,Hospital A,1,79
+276,Melany Didsbury,63,positivo,leukemia,coração,C20.9,inicial,hormonioterapia,em remissao,Captopril,1/29/2012,Hospital A,6,93
+277,Missy Lawland,84,negativo,mesothelioma,coração,C20.9,inicial,radioterapia,grave,"Gelsemium sempervirens, Iris versicolor, Kali carbonicum, Niccolum metallicum, Nux vomica, Sanguinaria canadensis, Spigelia anthelmia and Sulphur",10/20/2003,Hospital A,10,6
+278,Darren Buggy,99,negativo,adenocarcinoma,rim,C61,inicial,Radioterapia,estavel,PredniSONE,12/5/2004,Hospital B,5,97
+279,Faye Engel,59,inconclusivo,osteosarcoma,pele,C61.9,metastatico,Radioterapia,estavel,Mertiatide,9/8/2008,Hospital C,2,95
+280,Marianna Drugan,80,inconclusivo,osteosarcoma,ossos,C61,avancado,hormonioterapia,estavel,Annual Blue Grass,4/18/2010,Hospital C,9,15
+281,Olia Dagworthy,22,negativo,mesothelioma,pulmão,C61,inicial,hormonioterapia,estavel,"Octinoxate, Octisalate, Oxybenzone",7/12/2008,Hospital C,2,44
+282,Cristiano Jarlmann,35,inconclusivo,lymphoma,ossos,C61.9,avancado,Cirurgia,estavel,nifedipine,3/1/2003,Hospital C,5,97
+283,Juli Cavie,80,inconclusivo,carcinoma,intestino,C20.9,avancado,radioterapia,grave,Loperamide Hydrochloride,2/16/2004,Hospital C,2,37
+284,Morlee Franzolini,23,negativo,neuroblastoma,ossos,C20.9,avancado,Quimioterapia,grave,propranolol hydrochloride,12/12/2020,Hospital C,0,95
+285,Sondra Farrans,53,negativo,melanoma,estômago,C34.9,inicial,radioterapia,em remissao,Dantrolene Sodium,10/28/2005,Hospital A,6,8
+286,Sena Masserel,79,negativo,carcinoma,músculos,C61,metastatico,Quimioterapia,grave,Hepatitis A Vaccine,11/20/2017,Hospital C,2,56
+287,Nikkie Jeandot,69,negativo,osteosarcoma,músculos,C50.9,avancado,Radioterapia,em remissao,Benzocaine,10/16/2008,Hospital C,10,3
+288,Rebe Kolodziejski,51,negativo,adenocarcinoma,estômago,C34.9,avancado,quimioterapia,em remissao,"DIPHENHYDRAMINE HYDROCHLORIDE, ZINC ACETATE",5/25/2006,Hospital C,7,75
+289,Dawn Vaudin,70,negativo,mesothelioma,cérebro,C50.9,inicial,Quimioterapia,grave,"Avobenzone, Homosalate, Octinocate, Octocrylene, Oxybenzone",7/9/2001,Hospital B,3,98
+290,Leona Scarce,78,negativo,leukemia,pulmão,C50.9,inicial,quimioterapia,grave,Isopropyl Alcohol,11/17/2015,Hospital C,1,83
+291,Davis Daouze,92,negativo,mesothelioma,coração,C50.9,metastatico,imunoterapia,estavel,Escitalopram,7/17/2000,Hospital A,8,76
+292,Gav Bouch,98,positivo,sarcoma,pele,C61,inicial,terapia alvo,em remissao,Nitrous Oxide,10/11/2019,Hospital A,5,17
+293,Salaidh Chaffe,52,inconclusivo,lymphoma,ossos,C20.9,metastatico,imunoterapia,grave,Acetaminophen,8/29/2013,Hospital A,6,43
+294,Sarena Blockwell,50,inconclusivo,leukemia,pele,C61.9,avancado,imunoterapia,em remissao,nitroglycerin,4/16/2010,Hospital C,6,79
+295,Willabella Beange,42,positivo,adenocarcinoma,coração,C61.9,avancado,Radioterapia,grave,Zinc Oxide,6/10/2022,Hospital C,8,67
+296,Elnora Canet,95,negativo,mesothelioma,coração,C61.9,metastatico,terapia alvo,em remissao,Glycerin,8/12/2020,Hospital B,0,28
+297,Kimberli McGaw,100,negativo,melanoma,cérebro,C61,avancado,quimioterapia,estavel,Benzalkonium Chloride,2/20/2011,Hospital A,3,71
+298,Karie Wiggam,82,negativo,sarcoma,fígado,C50.9,metastatico,Cirurgia,estavel,Levothyroxine Sodium,1/30/2008,Hospital B,6,82
+299,Wye Twydell,12,inconclusivo,adenocarcinoma,pulmão,C20.9,inicial,Quimioterapia,grave,Finasteride,3/18/2019,Hospital B,4,90
+300,Angie Gilbard,95,negativo,glioblastoma,pulmão,C61.9,inicial,quimioterapia,grave,SALICYLIC ACID,5/7/2005,Hospital B,7,74
+301,Pavlov Tafani,22,positivo,neuroblastoma,fígado,C61.9,avancado,imunoterapia,em remissao,Titanium dioxide,4/11/2016,Hospital A,9,67
+302,Jesse Broadway,16,negativo,melanoma,ossos,C34.9,avancado,Quimioterapia,grave,NITROGEN,6/18/2016,Hospital A,2,40
+303,Rowen Dightham,2,negativo,lymphoma,coração,C34.9,avancado,radioterapia,em remissao,Isosorbide Dinitrate,9/12/2004,Hospital B,5,74
+304,Forster Hill,97,negativo,glioblastoma,músculos,C61,inicial,imunoterapia,estavel,Olanzapine,4/11/2016,Hospital B,10,87
+305,Abrahan O'Henery,18,inconclusivo,leukemia,pulmão,C61.9,inicial,hormonioterapia,estavel,"Octinoxate, Avobenzone, Oxybenzone",11/5/2008,Hospital C,0,47
+306,Paulo Whillock,39,positivo,lymphoma,estômago,C20.9,inicial,Radioterapia,em remissao,Telmisartan and Amlodipine,9/28/2003,Hospital C,7,28
+307,Rurik Bradmore,32,inconclusivo,sarcoma,pulmão,C61.9,metastatico,Cirurgia,estavel,Polyethylene Glycol-3350 and Electrolytes,5/14/2000,Hospital A,0,4
+308,Charlean Vannuccini,89,inconclusivo,neuroblastoma,coração,C50.9,metastatico,radioterapia,estavel,"Agnus castus, Ambra grisea, Nux vomica, Phosphoricum acidum, Zincum metallicum",11/2/2016,Hospital A,8,74
+309,Rosemaria Loddon,79,positivo,neuroblastoma,ossos,C34.9,metastatico,Cirurgia,estavel,Loratadine,11/21/2010,Hospital B,4,37
+310,Leonhard Klaessen,75,negativo,neuroblastoma,músculos,C20.9,avancado,Radioterapia,grave,metoclopramide,4/3/2006,Hospital B,5,50
+311,Carlota Warry,42,inconclusivo,neuroblastoma,cérebro,C61,avancado,quimioterapia,estavel,Carisoprodol,6/12/2005,Hospital C,3,90
+312,Doralia Quaintance,8,negativo,osteosarcoma,intestino,C20.9,metastatico,terapia alvo,estavel,"ATP (Adenosine triphosphate disodium), Coenzyme A, Co-enzyme Q-10, Pineal gland (suis), Sarcolacticum acidum, Melatonin, Pyrrole, Tryptophan,",11/26/2021,Hospital A,5,97
+313,Ricca Dougal,65,inconclusivo,adenocarcinoma,fígado,C61,inicial,terapia alvo,em remissao,"Camphor, Menthol, Methyl Salicylate",3/13/2005,Hospital A,4,66
+314,Lindsay Barnshaw,79,inconclusivo,mesothelioma,intestino,C20.9,metastatico,radioterapia,grave,AZELASTINE HYDROCHLORIDE,6/27/2016,Hospital A,8,55
+315,Molli Prout,18,negativo,leukemia,músculos,C20.9,avancado,hormonioterapia,grave,OXYGEN,2/7/2000,Hospital A,3,60
+316,Michele Capner,52,negativo,carcinoma,pele,C20.9,avancado,radioterapia,grave,Simethicone,1/12/2018,Hospital A,6,58
+317,Ruttger Prozescky,27,negativo,melanoma,intestino,C34.9,inicial,hormonioterapia,em remissao,Oxycodone Hydrochloride and Aspirin,1/3/2016,Hospital B,0,32
+318,Mendie Boulton,62,positivo,carcinoma,fígado,C61.9,metastatico,terapia alvo,em remissao,Stannous Fluoride,5/5/2006,Hospital A,1,99
+319,Arluene Hugin,11,negativo,leukemia,coração,C61.9,metastatico,terapia alvo,em remissao,Ibuprofen,5/5/2010,Hospital C,10,4
+320,Melony Eisold,40,positivo,leukemia,pele,C20.9,inicial,terapia alvo,estavel,Lisinopril,7/30/2017,Hospital C,2,39
+321,Wayland Bitterton,5,inconclusivo,carcinoma,fígado,C50.9,inicial,Radioterapia,estavel,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",5/21/2005,Hospital C,7,11
+322,Theo Grain,26,negativo,neuroblastoma,coração,C20.9,metastatico,hormonioterapia,em remissao,Tolmetin Sodium,1/13/2006,Hospital A,5,6
+323,Udale Ditchfield,80,positivo,carcinoma,estômago,C50.9,inicial,terapia alvo,em remissao,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",6/6/2006,Hospital B,7,82
+324,Lowrance Schulter,66,inconclusivo,sarcoma,intestino,C20.9,metastatico,terapia alvo,em remissao,Sodium Fluoride,5/20/2010,Hospital C,2,43
+325,Che Hinrichsen,29,inconclusivo,carcinoma,intestino,C20.9,inicial,Cirurgia,em remissao,RALTEGRAVIR,9/10/2015,Hospital A,1,57
+326,Enrico Freschini,33,inconclusivo,mesothelioma,pele,C20.9,inicial,quimioterapia,em remissao,"Avobenzone, Octinoxate, Octisalate, and Oxybenzone",4/12/2017,Hospital C,9,50
+327,Trisha Menilove,8,negativo,melanoma,fígado,C61,avancado,radioterapia,estavel,fluvoxamine maleate,8/27/2010,Hospital C,0,24
+328,Adrea Mussettini,93,positivo,glioblastoma,pele,C20.9,avancado,Quimioterapia,em remissao,"Avobenzone, Octocrylene and Oxybenzone",5/23/2011,Hospital B,2,8
+329,Werner Kilkenny,21,negativo,carcinoma,pulmão,C61,inicial,imunoterapia,em remissao,Lisinopril,10/21/2000,Hospital A,10,35
+330,Giacomo Rissen,60,negativo,lymphoma,pulmão,C50.9,inicial,radioterapia,estavel,Bupropion Hydrochloride,10/7/2017,Hospital A,8,69
+331,Isac Broadbear,9,inconclusivo,mesothelioma,ossos,C34.9,avancado,hormonioterapia,em remissao,Docetaxel,7/31/2011,Hospital B,5,38
+332,Hugh Lock,19,positivo,lymphoma,ossos,C20.9,avancado,hormonioterapia,em remissao,lamotrigine,11/4/2014,Hospital A,2,63
+333,Kacey Ferraron,1,inconclusivo,lymphoma,ossos,C50.9,inicial,quimioterapia,grave,Adenosine 0.04%,4/22/2013,Hospital B,7,15
+334,Corine Kinforth,91,positivo,neuroblastoma,pulmão,C61,inicial,hormonioterapia,grave,"Iodium, Phytolacca decandra, Adrenalinum, Adrenocorticotrophin, Belladonna, Thyroidinum, Natrum muriaticum,",2/24/2020,Hospital C,6,53
+335,Jessa Wernham,45,negativo,mesothelioma,cérebro,C61,metastatico,imunoterapia,estavel,White Poplar,8/5/2006,Hospital C,8,75
+336,Costanza Gilyatt,20,positivo,mesothelioma,coração,C50.9,metastatico,terapia alvo,em remissao,Terbinafine Hydrochloride,3/21/2014,Hospital B,6,75
+337,Fredrick Swinn,74,positivo,osteosarcoma,estômago,C20.9,inicial,Cirurgia,estavel,carvedilol phosphate,8/3/2015,Hospital B,9,93
+338,Clari Pomroy,43,inconclusivo,osteosarcoma,estômago,C61.9,avancado,quimioterapia,em remissao,Indapamide,3/26/2003,Hospital B,3,5
+339,Cynthia Harradence,54,positivo,mesothelioma,pulmão,C20.9,inicial,imunoterapia,estavel,isosorbide dinitrate,10/29/2010,Hospital C,6,90
+340,Alano Strewthers,99,inconclusivo,leukemia,ossos,C61,avancado,terapia alvo,grave,Quetiapine Fumarate,6/21/2017,Hospital B,3,57
+341,Shandra Traviss,92,positivo,neuroblastoma,fígado,C34.9,metastatico,hormonioterapia,grave,"AVOBENZONE, HOMOSALATE, OCTOCRYLENE",12/22/2008,Hospital C,7,6
+342,Carroll Priestland,71,inconclusivo,melanoma,coração,C61.9,metastatico,quimioterapia,estavel,cyclobenzaprine hydrochloride,5/7/2006,Hospital C,7,61
+343,Ophelia Ca,60,negativo,leukemia,pele,C61,metastatico,imunoterapia,grave,WHITE PETROLATUM,1/20/2016,Hospital B,0,55
+344,Joby Clearie,53,positivo,carcinoma,fígado,C34.9,avancado,Radioterapia,grave,amoxicillin and clavulanate potassium,12/16/2000,Hospital C,9,74
+345,Vick Swadlinge,44,negativo,melanoma,rim,C61.9,avancado,Cirurgia,grave,atorvastatin calcium,6/27/2019,Hospital A,9,26
+346,Antonino Duplock,53,positivo,adenocarcinoma,rim,C50.9,inicial,Quimioterapia,estavel,Magnesium hydroxide,7/28/2000,Hospital B,3,82
+347,Von Mee,51,negativo,mesothelioma,pele,C20.9,avancado,radioterapia,grave,"Avobenzone, Octisalate, Octocrylene and Oxybenzone",5/19/2010,Hospital A,5,61
+348,Evey Nell,72,positivo,leukemia,cérebro,C61.9,inicial,terapia alvo,grave,TRICLOSAN,8/20/2022,Hospital A,8,37
+349,Adda Brabender,99,inconclusivo,sarcoma,rim,C50.9,avancado,hormonioterapia,grave,Triclosan,3/2/2020,Hospital B,2,85
+350,Dorothee Isakov,96,negativo,mesothelioma,pulmão,C20.9,metastatico,Radioterapia,grave,Anticoagulant Citrate Phosphate Dextrose Adenine,6/12/2003,Hospital B,5,53
+351,Ogdan Ruthven,17,inconclusivo,melanoma,pele,C61,metastatico,radioterapia,grave,Ensulizole,10/9/2005,Hospital A,4,36
+352,Enid Vinnick,82,inconclusivo,osteosarcoma,ossos,C34.9,inicial,radioterapia,grave,chlorhexidine gluconate and isopropyl alcohol,1/14/2019,Hospital C,10,90
+353,Hamlen Macvain,28,positivo,glioblastoma,rim,C61.9,inicial,quimioterapia,grave,Sodium Fluoride,2/18/2007,Hospital C,3,17
+354,Enid Baudet,69,negativo,carcinoma,coração,C61,metastatico,radioterapia,grave,"Acetaminophen, Aspirin (NSAID), and Caffeine",5/8/2021,Hospital A,7,95
+355,Helenelizabeth Zielinski,95,inconclusivo,glioblastoma,cérebro,C34.9,avancado,quimioterapia,grave,QUETIAPINE FUMARATE,8/10/2008,Hospital B,0,29
+356,Bridget Kidstone,10,negativo,neuroblastoma,estômago,C50.9,avancado,Radioterapia,estavel,benzalkonium chloride,1/1/2012,Hospital B,10,65
+357,Gwenette Pulman,79,positivo,carcinoma,intestino,C61.9,avancado,imunoterapia,estavel,Etomidate,3/17/2013,Hospital C,3,55
+358,Tad Lauchlan,79,positivo,glioblastoma,pele,C61,metastatico,Quimioterapia,grave,Diphenhydramine Hydrochloride,1/14/2002,Hospital C,1,21
+359,Charmane Duckfield,60,inconclusivo,sarcoma,fígado,C61.9,metastatico,terapia alvo,grave,Aluminum Chlorohydrate,3/3/2010,Hospital A,4,67
+360,Korrie Kenforth,48,inconclusivo,lymphoma,coração,C20.9,metastatico,hormonioterapia,estavel,Black Pollen Walnut,9/25/2019,Hospital B,6,55
+361,Keefer Goult,39,positivo,adenocarcinoma,rim,C20.9,metastatico,Radioterapia,estavel,Octinoxate,5/16/2001,Hospital A,5,60
+362,Valenka Stare,89,inconclusivo,adenocarcinoma,intestino,C50.9,metastatico,terapia alvo,em remissao,"Berberis vulgaris, Cochlearia armoracia, Echinacea, Hydrastis canadensis, Lomatium dissectum, Myrrha, Tabebuia impetiginosa, Propolis, Glandula suprarenalis suis, Thymus (suis), Ferrum metallicum, Iridium metallicum Lycopodium clavatum, Phosphoricum acidum,",6/16/2018,Hospital C,6,61
+363,Roselle Marling,17,positivo,osteosarcoma,intestino,C61,inicial,Quimioterapia,grave,Clotrimazole,11/30/2000,Hospital A,8,78
+364,Bertine Haselhurst,58,negativo,glioblastoma,fígado,C61.9,metastatico,imunoterapia,em remissao,Clotrimazole,6/22/2008,Hospital C,7,86
+365,Jory Tucknott,7,negativo,lymphoma,cérebro,C61,inicial,Quimioterapia,em remissao,ropinirole hydrochloride,8/10/2019,Hospital C,8,23
+366,Cece Duchesne,43,inconclusivo,osteosarcoma,fígado,C20.9,avancado,imunoterapia,em remissao,Amitriptyline Hydrochloride,10/30/2009,Hospital C,1,7
+367,Sibylla Gerner,12,inconclusivo,neuroblastoma,estômago,C34.9,avancado,radioterapia,em remissao,CEFUROXIME AND DEXTROSE,8/8/2004,Hospital C,8,70
+368,Dorelle Shawell,91,negativo,lymphoma,fígado,C61.9,inicial,hormonioterapia,estavel,"Dextroamphetamine saccharate, amphetamine aspartate monohydrate, dextroamphetamine sulfate, amphetamine sulfate",8/31/2022,Hospital A,7,88
+369,Brose Handley,75,inconclusivo,glioblastoma,pulmão,C50.9,avancado,hormonioterapia,em remissao,Phenytoin Sodium,1/5/2004,Hospital A,0,86
+370,Doretta Wormleighton,15,inconclusivo,neuroblastoma,intestino,C61.9,inicial,Radioterapia,em remissao,almotriptan malate,6/16/2002,Hospital C,8,93
+371,Bobinette Grolle,27,negativo,neuroblastoma,coração,C34.9,avancado,hormonioterapia,em remissao,Valacyclovir Hydrochloride,2/8/2000,Hospital B,10,50
+372,Verine Dudgeon,12,negativo,carcinoma,estômago,C20.9,inicial,Cirurgia,estavel,"Standardized Mite, Dermatophagoides farinae",9/26/2006,Hospital A,1,14
+373,Mella Toal,74,positivo,melanoma,coração,C61,inicial,Radioterapia,estavel,progesterone,4/19/2002,Hospital B,8,22
+374,Willi Spleving,76,inconclusivo,osteosarcoma,rim,C61.9,avancado,Cirurgia,grave,"OCTINOXATE, TITANIUM DIOXIDE",11/8/2016,Hospital C,7,2
+375,Alic Rowat,77,positivo,lymphoma,coração,C61,inicial,Quimioterapia,grave,SODIUM FLUORIDE,7/23/2010,Hospital C,10,27
+376,Wright Basnett,60,negativo,adenocarcinoma,intestino,C34.9,metastatico,terapia alvo,em remissao,Gabapentin,5/3/2011,Hospital B,2,5
+377,Quent Tough,12,inconclusivo,lymphoma,músculos,C34.9,metastatico,imunoterapia,em remissao,Ranitidine,5/12/2019,Hospital B,8,81
+378,Zachary Pitone,7,positivo,adenocarcinoma,ossos,C34.9,metastatico,radioterapia,grave,Mouse Epithelia,11/18/2014,Hospital A,9,69
+379,Ethelyn MacDuff,67,inconclusivo,melanoma,pele,C50.9,inicial,hormonioterapia,estavel,Sulfur,8/25/2011,Hospital B,8,13
+380,Thorny Dovington,41,negativo,carcinoma,pele,C34.9,inicial,Radioterapia,estavel,"Alchemilla Vulgaris, Asperula Odorata, Chamomilla, Viola Odorata, Cinchona Officinalis, Mentha Piperita, Rosmarinus Officinalis, Valeriana Officinalis, Helonia Dioica, Agnus Castus, Ambra Grisea, Cimi",1/14/2004,Hospital B,0,81
+381,Farica Lipsett,29,negativo,carcinoma,cérebro,C61,avancado,Quimioterapia,estavel,Hydroxyzine Hydrochloride,11/19/2018,Hospital B,5,78
+382,Lona Tweede,24,negativo,carcinoma,fígado,C20.9,inicial,Cirurgia,em remissao,Nitrofurantoin Macrocrystals,8/31/2012,Hospital A,9,4
+383,Siusan Fereday,99,negativo,mesothelioma,músculos,C61,avancado,quimioterapia,estavel,Paricalcitol,12/8/2012,Hospital C,1,97
+384,Quint Girvan,3,inconclusivo,adenocarcinoma,fígado,C50.9,metastatico,hormonioterapia,grave,Hyoscyamine Sulfate,4/5/2015,Hospital C,5,73
+385,Kenny Jolley,60,negativo,mesothelioma,fígado,C20.9,avancado,quimioterapia,em remissao,Naratriptan,9/21/2006,Hospital B,8,10
+386,Saundra Cully,21,inconclusivo,osteosarcoma,cérebro,C50.9,metastatico,Cirurgia,estavel,witch hazel,11/3/2008,Hospital A,2,4
+387,Barde Bailes,54,positivo,osteosarcoma,coração,C34.9,inicial,Cirurgia,grave,Pyrithione Zinc,1/30/2018,Hospital C,7,3
+388,Lisabeth Hambright,52,inconclusivo,osteosarcoma,cérebro,C61,avancado,terapia alvo,em remissao,Cranberry,8/20/2012,Hospital C,9,39
+389,Elmore Cale,32,inconclusivo,leukemia,intestino,C20.9,avancado,Radioterapia,estavel,thioridazine hydrochloride,7/25/2020,Hospital B,8,66
+390,Rikki Clayfield,3,negativo,glioblastoma,rim,C20.9,avancado,Cirurgia,em remissao,Duloxetine,12/9/2002,Hospital C,7,32
+391,Fredia Lambdon,32,positivo,carcinoma,rim,C61.9,metastatico,terapia alvo,grave,"Titanium Dioxide, Octinoxate",2/7/2015,Hospital B,4,75
+392,Pam Rumbelow,78,negativo,leukemia,intestino,C50.9,avancado,Quimioterapia,grave,Spinach,7/4/2013,Hospital C,3,83
+393,Dania Blandamore,96,inconclusivo,melanoma,ossos,C50.9,inicial,radioterapia,grave,ISOPROTERENOL HYDROCHLORIDE,10/18/2013,Hospital C,3,45
+394,Myrilla Darrach,20,negativo,carcinoma,ossos,C61.9,avancado,Radioterapia,grave,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",6/23/2019,Hospital B,4,56
+395,Tripp Tizard,80,inconclusivo,sarcoma,intestino,C50.9,avancado,terapia alvo,estavel,"Zinc Oxide, Octinoxate, Octisalate",9/1/2021,Hospital B,8,82
+396,Rosene Pilkinton,79,negativo,glioblastoma,estômago,C20.9,avancado,Quimioterapia,em remissao,meclofenamate sodium,1/1/2011,Hospital A,3,87
+397,Pincus Gillard,5,negativo,carcinoma,fígado,C61,avancado,Radioterapia,grave,Pseudoephedrine hydrochloride,10/19/2010,Hospital B,4,35
+398,Opalina Gallemore,2,inconclusivo,lymphoma,estômago,C61,metastatico,imunoterapia,grave,conjugated estrogens,12/14/2015,Hospital A,0,35
+399,Paddie Bosse,56,positivo,mesothelioma,cérebro,C20.9,avancado,quimioterapia,grave,ACD Solution Modified,11/23/2008,Hospital A,1,91
+400,Bond Maciocia,53,negativo,carcinoma,músculos,C20.9,metastatico,imunoterapia,em remissao,Warfarin Sodium,12/11/2005,Hospital B,0,89
+401,Panchito Alen,41,inconclusivo,mesothelioma,estômago,C34.9,avancado,Radioterapia,em remissao,salicylic acid,7/16/2004,Hospital B,0,22
+402,Charlotte Cosham,15,positivo,osteosarcoma,coração,C20.9,avancado,Radioterapia,estavel,"Cimicifuga 30c, Coffea Cruda 30c, Causticum 30c, Kali Carb 30c, Nux Vomica 30c Petroleum 30c, Sepia 30c",5/9/2013,Hospital B,6,68
+403,Ferrel Salery,25,inconclusivo,neuroblastoma,rim,C61,inicial,radioterapia,estavel,Titanium Dioxide,6/15/2014,Hospital B,10,19
+404,Fonzie Kunz,12,negativo,neuroblastoma,músculos,C61,avancado,Cirurgia,em remissao,Escitalopram,6/6/2013,Hospital B,7,7
+405,Nicolea Hartfleet,71,negativo,adenocarcinoma,cérebro,C20.9,avancado,Quimioterapia,estavel,Cefazolin,11/2/2008,Hospital A,10,73
+406,Cornall Busfield,90,inconclusivo,mesothelioma,ossos,C61,inicial,quimioterapia,estavel,"Leucine, Phenylalanine, Lysine, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Serine, Tyrosine, Dextrose",11/16/2014,Hospital B,9,28
+407,Carver Leyzell,17,inconclusivo,sarcoma,ossos,C61.9,avancado,quimioterapia,grave,TITANIUM DIOXIDE,2/15/2002,Hospital B,8,64
+408,Alleen Windrum,75,negativo,adenocarcinoma,pele,C34.9,metastatico,Quimioterapia,grave,Phentermine hydrochloride,7/10/2019,Hospital B,7,76
+409,Kitti Areles,15,positivo,lymphoma,músculos,C20.9,avancado,imunoterapia,em remissao,LIDOCAINE HYDROCHLORIDE,3/21/2011,Hospital A,3,78
+410,Shae Keaysell,14,inconclusivo,leukemia,intestino,C61.9,avancado,terapia alvo,estavel,Promethazine Hydrochloride and Codeine Phosphate,2/6/2018,Hospital C,0,67
+411,Rory Seacombe,23,negativo,adenocarcinoma,coração,C61.9,avancado,quimioterapia,em remissao,pea,9/13/2012,Hospital C,2,77
+412,Charla Stalf,90,negativo,neuroblastoma,pele,C50.9,metastatico,quimioterapia,em remissao,"Borax 30c, Calc Carb 30c, Capsicum 30c, Chamomilla 30c, Cina 30c, Lac Can 30c, Kali Bromatum 30c, Stramonium 30c",1/17/2017,Hospital C,5,22
+413,Tad Jellard,94,inconclusivo,glioblastoma,músculos,C61,metastatico,quimioterapia,grave,Titanium Dioxide and Zinc Oxide,2/17/2011,Hospital A,8,59
+414,Trip Rutty,97,inconclusivo,mesothelioma,músculos,C50.9,avancado,radioterapia,estavel,Zinc Oxide,3/26/2015,Hospital C,3,73
+415,Lucina Andras,66,negativo,adenocarcinoma,ossos,C61,avancado,quimioterapia,estavel,betamethasone valerate,8/9/2017,Hospital A,9,30
+416,Wenona Huntingford,97,negativo,carcinoma,ossos,C20.9,inicial,Quimioterapia,estavel,Aluminum Zirconium Tetrachlorohydrex GLY,6/15/2011,Hospital A,7,33
+417,Clevie Chrstine,40,negativo,osteosarcoma,ossos,C61.9,inicial,Quimioterapia,grave,"OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE",1/22/2010,Hospital B,10,33
+418,Raffaello Ledeker,61,inconclusivo,osteosarcoma,cérebro,C50.9,inicial,radioterapia,em remissao,Triclosan,1/9/2000,Hospital B,5,32
+419,Morten Bartalini,76,positivo,leukemia,rim,C20.9,metastatico,quimioterapia,em remissao,drospirenone and estradiol,4/24/2020,Hospital B,2,31
+420,Rad Stutely,66,inconclusivo,glioblastoma,rim,C50.9,metastatico,terapia alvo,estavel,Potassium nitrate and Sodium Fluoride,5/31/2007,Hospital B,6,100
+421,Elli Garretson,28,negativo,mesothelioma,rim,C61.9,avancado,Cirurgia,grave,Clonidine Hydrochloride,1/8/2005,Hospital B,5,16
+422,Alaric Giberd,96,positivo,sarcoma,coração,C20.9,inicial,Cirurgia,estavel,Breatheze,3/14/2005,Hospital A,3,24
+423,Wylma Carwithim,11,negativo,adenocarcinoma,rim,C34.9,metastatico,Quimioterapia,estavel,nitroglycerin,3/19/2014,Hospital A,10,44
+424,Valina Ruzic,44,negativo,carcinoma,rim,C61,avancado,radioterapia,em remissao,Amiodarone Hydrochloride,4/30/2015,Hospital A,3,56
+425,Cacilie Poynzer,35,positivo,lymphoma,estômago,C34.9,avancado,Quimioterapia,grave,Cefprozil,6/13/2015,Hospital A,10,1
+426,Brennen Hylden,100,negativo,lymphoma,músculos,C61,avancado,Cirurgia,grave,eflornithine hydrochloride,8/19/2001,Hospital C,1,28
+427,Adaline Troman,75,inconclusivo,glioblastoma,rim,C50.9,avancado,terapia alvo,grave,midazolam hydrochloride,12/2/2012,Hospital C,3,42
+428,Freddi Mintoft,33,positivo,mesothelioma,intestino,C34.9,inicial,hormonioterapia,estavel,Fibrinogen human Thrombin human,10/22/2021,Hospital B,9,75
+429,Stacia Collabine,47,positivo,neuroblastoma,estômago,C20.9,avancado,terapia alvo,em remissao,Aluminum Zirconium Tetrachlorohydrex GLY,8/6/2021,Hospital B,9,97
+430,Neila Pearson,69,negativo,osteosarcoma,estômago,C34.9,metastatico,radioterapia,grave,Lorazepam,2/12/2022,Hospital A,9,10
+431,Weston Leyburn,49,inconclusivo,carcinoma,pele,C20.9,metastatico,terapia alvo,em remissao,"Carduus marianus, Chelidonium majus, Cinchona officinalis, Lycopodium clavatum, Taraxacum officinale, Veratrum album, Avena sativa, Cynara scolymus, Methylcobalamin, Menadione, a-Lipoicum acidum, Hepar suis,",5/19/2017,Hospital C,0,28
+432,Drusy Fellgatt,54,inconclusivo,mesothelioma,coração,C50.9,avancado,quimioterapia,em remissao,levetiracetam,1/29/2005,Hospital C,4,35
+433,Mignonne Dudmarsh,44,inconclusivo,melanoma,músculos,C61,metastatico,Cirurgia,grave,"Acetaminophen, Diphenhydramine HCl",5/28/2020,Hospital C,10,53
+434,Otes Prue,15,inconclusivo,adenocarcinoma,intestino,C50.9,metastatico,radioterapia,estavel,Parsnip,7/26/2008,Hospital A,4,49
+435,Dirk Haryngton,94,negativo,lymphoma,pulmão,C20.9,inicial,hormonioterapia,estavel,Magnesium Citrate,9/4/2005,Hospital A,6,100
+436,Saunderson Ticic,1,positivo,neuroblastoma,rim,C34.9,metastatico,terapia alvo,estavel,Naphazoline hydrochloride and Pheniramine Maleate,11/16/2011,Hospital C,2,32
+437,Millisent Barwis,6,negativo,melanoma,estômago,C61.9,inicial,Radioterapia,grave,"TITANIUM DIOXIDE, OCTINOXATE, ZINC OXIDE",11/19/2019,Hospital B,1,28
+438,Fernande Scarborough,89,inconclusivo,lymphoma,ossos,C61,inicial,Cirurgia,grave,Argentum Nitricum 6x,9/24/2020,Hospital B,10,31
+439,Gerald Worsfield,60,inconclusivo,adenocarcinoma,intestino,C61,avancado,Cirurgia,em remissao,SIMETHICONE,3/1/2016,Hospital A,8,61
+440,Reuben Maciocia,81,positivo,mesothelioma,pele,C20.9,inicial,quimioterapia,em remissao,SAXAGLIPTIN,8/23/2002,Hospital A,1,91
+441,Gerald Brunsden,47,inconclusivo,lymphoma,ossos,C34.9,avancado,Cirurgia,estavel,metyrosine,4/9/2005,Hospital A,4,0
+442,Rey McKinie,93,positivo,mesothelioma,ossos,C61.9,inicial,quimioterapia,em remissao,OCTINOXATE,6/20/2006,Hospital C,9,38
+443,Frederique McCory,11,negativo,glioblastoma,cérebro,C20.9,avancado,imunoterapia,em remissao,ATORVASTATIN CALCIUM,6/5/2010,Hospital C,8,91
+444,Daile Niessen,72,inconclusivo,mesothelioma,pele,C50.9,avancado,imunoterapia,em remissao,WARFARIN SODIUM,3/21/2002,Hospital B,9,80
+445,Laney Hansemann,23,positivo,glioblastoma,intestino,C61,inicial,imunoterapia,em remissao,RISPERIDONE,11/2/2015,Hospital A,2,1
+446,Jayme Castagnet,39,negativo,mesothelioma,estômago,C61,metastatico,quimioterapia,estavel,Azithromycin,7/25/2005,Hospital C,8,21
+447,Michael Treacy,96,inconclusivo,glioblastoma,cérebro,C20.9,avancado,Quimioterapia,em remissao,GABAPENTIN,1/23/2014,Hospital B,7,25
+448,Camala Print,88,negativo,lymphoma,músculos,C61,inicial,Radioterapia,estavel,CIPROFLOXACIN HYDROCHLORIDE,11/12/2005,Hospital A,7,72
+449,Rufus Defraine,48,positivo,melanoma,estômago,C34.9,metastatico,Cirurgia,grave,"Alfalfa, Avena sativa, Chelidonium majus, Aralia quinquefolia, Beta vulgaris, Calendula officinalis, Cuprum aceticum, Echinacea, natrum muriaticum, Oxalis acetosella Paloondo,",7/13/2007,Hospital B,2,23
+450,Roselia Handrok,61,negativo,neuroblastoma,cérebro,C34.9,inicial,imunoterapia,grave,HYDROQUINONE,1/5/2014,Hospital A,7,99
+451,Mickie Novello,50,positivo,carcinoma,fígado,C61,inicial,radioterapia,em remissao,Sulfamethoxazole and Trimethoprim,11/3/2000,Hospital B,9,48
+452,Linn Seeger,23,positivo,osteosarcoma,pele,C34.9,metastatico,imunoterapia,em remissao,Nitrogen,2/27/2016,Hospital A,5,19
+453,Gunar Entreis,81,inconclusivo,sarcoma,coração,C61.9,avancado,Radioterapia,grave,Oxcarbazepine,3/22/2010,Hospital C,3,73
+454,Jerrie Legister,79,inconclusivo,osteosarcoma,ossos,C20.9,avancado,Quimioterapia,grave,"GLYCERIN, DIMETHICONE",4/7/2022,Hospital A,4,19
+455,Vallie Breitling,100,inconclusivo,sarcoma,cérebro,C50.9,metastatico,terapia alvo,grave,Titanium Dioxide,12/12/2001,Hospital A,4,19
+456,Dulcinea Cocci,7,negativo,neuroblastoma,intestino,C61,inicial,imunoterapia,grave,"omeprazole, sodium bicarbonate",12/16/2007,Hospital A,1,47
+457,Ramona Allsep,56,positivo,leukemia,pele,C61,inicial,Quimioterapia,em remissao,Buspirone hydrochloride,2/15/2000,Hospital C,5,4
+458,Clarinda Tyson,95,positivo,adenocarcinoma,pulmão,C61,inicial,Cirurgia,estavel,TITANIUM DIOXIDE,8/17/2012,Hospital B,7,49
+459,Kora Whieldon,82,inconclusivo,carcinoma,coração,C61.9,inicial,Quimioterapia,em remissao,Diphenhydramine HCl,4/24/2020,Hospital B,3,13
+460,Charyl Breem,79,positivo,adenocarcinoma,cérebro,C34.9,inicial,quimioterapia,estavel,"octinoxate, octisalate, avobenzone",10/26/2001,Hospital A,2,30
+461,Berty Huggard,2,positivo,carcinoma,músculos,C20.9,inicial,radioterapia,grave,"Eucalyptol, menthol, methyl salicylate, thymol",8/15/2003,Hospital B,0,95
+462,Jeffie Brigstock,17,positivo,lymphoma,cérebro,C34.9,inicial,quimioterapia,grave,DOCUSATE SODIUM,3/7/2014,Hospital B,10,30
+463,Staffard Del Dello,1,negativo,mesothelioma,cérebro,C61.9,avancado,Cirurgia,estavel,ibuprofen,4/21/2000,Hospital C,7,6
+464,Odelle Gorstidge,79,negativo,adenocarcinoma,intestino,C34.9,avancado,radioterapia,grave,"TITANIUM DIOXIDE, ZINC OXIDE",12/21/2012,Hospital A,4,61
+465,Edan Crookes,74,negativo,glioblastoma,coração,C61,inicial,imunoterapia,estavel,Ethyl Alcohol,9/5/2002,Hospital A,6,34
+466,Geri Mazin,85,negativo,melanoma,intestino,C61.9,avancado,Cirurgia,grave,TRAMADOL HYDROCHLORIDE,7/20/2022,Hospital B,1,17
+467,Emmett Mumm,84,positivo,osteosarcoma,cérebro,C20.9,avancado,radioterapia,grave,Pyrazinamide,3/4/2006,Hospital C,9,82
+468,Keefer Jeschner,81,inconclusivo,adenocarcinoma,ossos,C61.9,inicial,terapia alvo,em remissao,Ethyl Alcohol,11/18/2020,Hospital C,6,24
+469,Hugh Purcer,35,positivo,adenocarcinoma,fígado,C34.9,metastatico,Quimioterapia,estavel,Salicylic Acid,2/21/2004,Hospital B,8,7
+470,Agathe Broggio,60,positivo,neuroblastoma,rim,C61.9,metastatico,terapia alvo,grave,CARBAMAZEPINE,7/25/2022,Hospital C,5,4
+471,Brooks Preuvost,36,inconclusivo,osteosarcoma,cérebro,C61,inicial,hormonioterapia,estavel,Treatment Set TS347335,2/17/2010,Hospital B,4,50
+472,Brandice Forrestill,21,inconclusivo,glioblastoma,pulmão,C34.9,avancado,terapia alvo,em remissao,"Titanium Dioxide, Octinoxate, Zinc Oxide",5/31/2009,Hospital A,3,76
+473,Ibby Kitchingman,45,inconclusivo,lymphoma,pele,C20.9,inicial,quimioterapia,grave,Nitrous Oxide,12/5/2019,Hospital A,5,74
+474,Aaron Votier,66,inconclusivo,melanoma,ossos,C34.9,avancado,Radioterapia,em remissao,"hard fat, phenylephrine HCl",5/20/2015,Hospital A,8,45
+475,Abdel Perago,18,inconclusivo,neuroblastoma,intestino,C50.9,inicial,Cirurgia,em remissao,"glycerin, phenylephrine HCl, pramoxine HCl, white petrolatum",9/1/2022,Hospital B,4,0
+476,Laurella des Remedios,41,positivo,leukemia,estômago,C61.9,metastatico,hormonioterapia,em remissao,Privet,7/9/2020,Hospital A,4,99
+477,Terrance Paoli,84,negativo,lymphoma,coração,C34.9,metastatico,quimioterapia,em remissao,"Acetaminophen, Dextromethorphan Hydrobromide, Guaifenesin, and Phenylephrine hydrochloride",7/23/2009,Hospital A,1,24
+478,Alice Diviney,33,positivo,glioblastoma,fígado,C61,inicial,hormonioterapia,em remissao,testosterone cypionate,8/15/2009,Hospital C,9,18
+479,Glynis Mattioli,16,inconclusivo,carcinoma,intestino,C20.9,inicial,Radioterapia,estavel,Fluvoxamine Maleate,9/30/2020,Hospital A,3,95
+480,Alwin Klaessen,99,negativo,melanoma,pele,C61.9,metastatico,quimioterapia,em remissao,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",8/10/2013,Hospital B,6,64
+481,Calhoun Dikelin,76,inconclusivo,melanoma,pele,C20.9,avancado,terapia alvo,em remissao,Dopamine Hydrochloride,7/6/2011,Hospital C,8,36
+482,Tamera MacCurley,99,inconclusivo,glioblastoma,intestino,C20.9,metastatico,terapia alvo,estavel,AP and Deo,7/20/2018,Hospital A,5,36
+483,Trixi Rochester,48,inconclusivo,neuroblastoma,músculos,C61,avancado,Cirurgia,em remissao,Benzalkonium Chloride,7/1/2015,Hospital C,9,44
+484,Roslyn Abson,88,inconclusivo,neuroblastoma,cérebro,C61.9,metastatico,imunoterapia,em remissao,Phentermine Hydrochloride,4/25/2006,Hospital C,8,79
+485,Eugenie Bifield,78,negativo,osteosarcoma,coração,C20.9,inicial,terapia alvo,grave,oxycodone hydrochloride,12/21/2001,Hospital B,10,53
+486,Justine Sutherden,44,inconclusivo,mesothelioma,estômago,C61.9,inicial,quimioterapia,grave,fluocinolone acetonide,1/6/2019,Hospital A,0,71
+487,Dino Rotlauf,32,negativo,carcinoma,intestino,C20.9,avancado,radioterapia,em remissao,Bisoprolol Fumarate and Hydrochlorothiazide,10/24/2011,Hospital B,0,46
+488,Lucy Messager,35,positivo,leukemia,estômago,C50.9,inicial,hormonioterapia,estavel,Meclizine Hydrochloride,8/12/2006,Hospital B,6,69
+489,Symon Wroath,45,negativo,glioblastoma,intestino,C61.9,inicial,radioterapia,estavel,"activated charcoal, ageratina aromatica root, ferrous iodide, gelsemium sempervirens root, calcium sulfide, histamine, interleukin-12 human, interferon gamma-1a, iodine, potassium gluconate, lycopodium clavatum spore, cajuput oil, black currant, rosa canina fruit, serotonin, xanthine, almond, apple, banana, barley, bean, beef, cashew, casein, emmental cultured, casein, lactococcus lactis cultured, casein, lactococcus lactis cultured aged, casein, lactococcus lactis cultured",2/20/2008,Hospital C,3,73
+490,Anatol Kildea,70,negativo,osteosarcoma,cérebro,C61,avancado,radioterapia,estavel,Valsartan and Hydrochlorothiazide,9/19/2007,Hospital A,10,56
+491,Milty Voff,12,inconclusivo,osteosarcoma,cérebro,C61.9,inicial,radioterapia,em remissao,Eprosartan Mesylate,3/18/2009,Hospital C,10,50
+492,Frants Ogborne,38,positivo,adenocarcinoma,estômago,C61,inicial,hormonioterapia,estavel,Date,12/19/2017,Hospital C,8,14
+493,Kimble Putson,53,inconclusivo,mesothelioma,coração,C34.9,inicial,hormonioterapia,grave,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",7/17/2009,Hospital A,1,71
+494,Valery Mathew,35,inconclusivo,lymphoma,rim,C61.9,avancado,Cirurgia,em remissao,Losartan Potassium,2/26/2014,Hospital C,9,76
+495,Vlad Euels,51,inconclusivo,glioblastoma,pulmão,C61.9,metastatico,quimioterapia,em remissao,cimetidine,7/8/2009,Hospital B,2,52
+496,Katherina Hully,47,positivo,osteosarcoma,músculos,C34.9,inicial,quimioterapia,estavel,fondaparinux sodium,6/5/2002,Hospital A,8,6
+497,Phil Jeremaes,1,inconclusivo,lymphoma,pele,C34.9,avancado,quimioterapia,grave,THIAMINE HYDROCHLORIDE,5/29/2005,Hospital A,9,91
+498,Rubetta Lavrinov,18,positivo,glioblastoma,intestino,C61.9,inicial,Cirurgia,estavel,Hydroquinone,9/2/2005,Hospital C,0,9
+499,Leta Newcomb,11,inconclusivo,osteosarcoma,músculos,C34.9,metastatico,quimioterapia,grave,oxcarbazepine,6/10/2002,Hospital C,3,38
+500,Reube Solway,48,positivo,lymphoma,pele,C20.9,inicial,imunoterapia,em remissao,Nifedipine,6/24/2011,Hospital C,9,77
+501,Shani Lemmon,77,positivo,melanoma,ossos,C50.9,avancado,quimioterapia,grave,OCTOCRYLENE OXYBENZONE ZINC OXIDE,9/20/2004,Hospital A,0,100
+502,Orelle Tennant,89,negativo,sarcoma,fígado,C20.9,avancado,radioterapia,grave,Doxylamine succinate,5/12/2003,Hospital B,10,17
+503,Bordy Fulk,94,inconclusivo,sarcoma,cérebro,C50.9,avancado,Radioterapia,grave,acetaminophen and codeine phosphate,6/2/2018,Hospital B,4,48
+504,Cory Menis,74,inconclusivo,leukemia,rim,C61,inicial,imunoterapia,estavel,PETROLATUM,10/27/2016,Hospital C,3,37
+505,Hobey Matiasek,29,inconclusivo,osteosarcoma,cérebro,C61.9,metastatico,Quimioterapia,grave,"Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate, Scopolamine Hydrobromide",2/9/2015,Hospital A,0,70
+506,Shelley Ivanyushin,62,positivo,neuroblastoma,intestino,C50.9,avancado,Cirurgia,grave,AMITRIPTYLINE HYDROCHLORIDE,6/14/2019,Hospital A,0,10
+507,Jennifer Buxcey,26,positivo,osteosarcoma,ossos,C61.9,avancado,quimioterapia,em remissao,bethanechol chloride,7/18/2011,Hospital B,6,56
+508,Carlyn Klampt,1,negativo,leukemia,ossos,C61.9,metastatico,terapia alvo,em remissao,Guaifenesin,8/18/2004,Hospital B,4,100
+509,Barron Hunn,56,positivo,leukemia,fígado,C61,metastatico,terapia alvo,grave,Bryophyllum Argentum,7/20/2010,Hospital B,5,37
+510,Sula Kneaphsey,23,negativo,glioblastoma,músculos,C20.9,avancado,imunoterapia,estavel,"Loratadine, Pseudoephedrine Sulfate",10/3/2020,Hospital C,9,32
+511,Annecorinne McKellar,27,positivo,adenocarcinoma,pulmão,C61,metastatico,quimioterapia,grave,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",7/8/2005,Hospital C,1,79
+512,Tobin Oxton,30,positivo,neuroblastoma,músculos,C34.9,avancado,terapia alvo,em remissao,Acetaminophen and Phenylephrine HCl,12/15/2015,Hospital A,1,45
+513,Noreen Ridge,48,positivo,neuroblastoma,estômago,C34.9,metastatico,imunoterapia,em remissao,ISOPROPYL ALCOHOL,7/24/2016,Hospital C,1,35
+514,Portia Fort,17,negativo,melanoma,músculos,C50.9,metastatico,hormonioterapia,em remissao,SEVELAMER CARBONATE,9/13/2014,Hospital B,9,86
+515,Farris Masdin,21,inconclusivo,carcinoma,intestino,C34.9,avancado,quimioterapia,grave,DOCUSATE SODIUM,1/11/2013,Hospital C,8,22
+516,Bjorn Goudy,37,positivo,adenocarcinoma,cérebro,C61.9,metastatico,Cirurgia,em remissao,Ibuprofen,12/8/2015,Hospital A,2,85
+517,Dagny Trasler,25,inconclusivo,leukemia,ossos,C34.9,inicial,Radioterapia,grave,Acetaminophen and Codeine Phosphate,5/16/2013,Hospital A,7,31
+518,Doti Delafont,56,inconclusivo,lymphoma,coração,C50.9,metastatico,radioterapia,em remissao,"Avobenzone, Homosalate, Octinoxate, Octisalate, Octocrylene, and Oxybenzone",2/11/2019,Hospital B,6,6
+519,Daron Campey,41,inconclusivo,neuroblastoma,estômago,C34.9,inicial,Radioterapia,grave,BuPROPion Hydrochloride,2/24/2015,Hospital C,2,74
+520,Dot Ruusa,37,inconclusivo,adenocarcinoma,estômago,C61.9,inicial,hormonioterapia,estavel,desonide,10/28/2022,Hospital C,10,89
+521,Conny Draxford,5,negativo,osteosarcoma,rim,C61,inicial,terapia alvo,em remissao,AMLODIPINE BESYLATE,7/10/2017,Hospital C,1,80
+522,Dianna Lafford,57,positivo,adenocarcinoma,rim,C61.9,inicial,terapia alvo,estavel,ISOPROPYL ALCOHOL,6/29/2018,Hospital B,4,96
+523,Amara McGlashan,47,positivo,lymphoma,pele,C50.9,avancado,Cirurgia,grave,TOPIRAMATE,2/26/2000,Hospital B,6,81
+524,Daniella Kleinhaut,39,inconclusivo,adenocarcinoma,fígado,C50.9,metastatico,Radioterapia,grave,risperidone,11/28/2011,Hospital B,7,40
+525,Shirleen Comelini,17,positivo,glioblastoma,rim,C61.9,metastatico,Cirurgia,em remissao,Glycerin,7/27/2018,Hospital A,3,63
+526,Alena Rosenau,32,positivo,adenocarcinoma,cérebro,C50.9,inicial,hormonioterapia,em remissao,Losartan Potassium and Hydrochlorothiazide,6/2/2018,Hospital C,10,54
+527,Franky Eva,6,positivo,adenocarcinoma,coração,C34.9,avancado,Cirurgia,grave,Anticoagulant Citrate Phosphate Dextrose (CPD) Solution and ADSOL Preservation Solution,4/27/2000,Hospital B,4,78
+528,Chanda Ferbrache,99,negativo,glioblastoma,pele,C61,metastatico,Radioterapia,estavel,Greasewood,8/31/2014,Hospital A,6,18
+529,Rosita Signe,44,positivo,mesothelioma,pele,C34.9,avancado,Cirurgia,em remissao,Nifedipine,8/29/2006,Hospital B,10,33
+530,Carlotta Marchiso,51,negativo,mesothelioma,intestino,C61.9,inicial,quimioterapia,grave,Dextromethorphan Hydrobromide and Guaifenesin,7/19/2013,Hospital B,2,53
+531,Nelle Bastock,11,positivo,adenocarcinoma,fígado,C20.9,avancado,terapia alvo,grave,Lamotrigine,4/11/2013,Hospital A,4,20
+532,Lorna Studdal,15,inconclusivo,melanoma,rim,C61.9,avancado,Quimioterapia,em remissao,"Adrenal, Allium cepa, Ambrosia artemisiaefolia",2/1/2005,Hospital B,6,85
+533,Shayla Ovid,16,inconclusivo,sarcoma,fígado,C61.9,inicial,imunoterapia,estavel,"Echinacea, Uva-Ursi, Baptisia Tinctoria, Convallaria Majalis, Kali Muriaticum, Pinus Sylvetris, Thuja Occidentalis, Bryonia, Condurango",7/11/2022,Hospital A,1,29
+534,Amity Scotchford,32,negativo,mesothelioma,rim,C20.9,avancado,imunoterapia,grave,SODIUM SULFACETAMIDE,2/20/2022,Hospital A,6,7
+535,Roana Boerder,8,positivo,mesothelioma,músculos,C61.9,avancado,imunoterapia,estavel,"BENZALKONIUM CHLORIDE, LIDOCAINE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, WATER, ISOPROPYL ALCOHOL, BENZOCAINE, ASPIRIN, ETHYL ALCOHOL",9/5/2003,Hospital C,10,45
+536,Trent Mouatt,50,positivo,leukemia,coração,C61,inicial,terapia alvo,grave,Ethyl Alcohol,1/19/2021,Hospital C,6,50
+537,Timmie Bengtsen,40,positivo,melanoma,músculos,C50.9,inicial,hormonioterapia,em remissao,ARIPIPRAZOLE,12/16/2016,Hospital C,3,38
+538,Augusta Bosden,33,negativo,glioblastoma,estômago,C61.9,metastatico,radioterapia,grave,fluticasone propionate,6/29/2012,Hospital B,9,35
+539,Casi Kaasmann,41,inconclusivo,mesothelioma,intestino,C20.9,avancado,radioterapia,em remissao,"Human Chorionic Gonadotropin (HCG), Garcinia Cambogia, Hypothalamus",3/3/2018,Hospital C,8,4
+540,Daisi Apdell,12,positivo,mesothelioma,ossos,C61,avancado,terapia alvo,em remissao,menthol,6/16/2018,Hospital B,4,5
+541,Amie Batts,90,positivo,glioblastoma,intestino,C61,avancado,radioterapia,em remissao,Petrolatum Dimethicone,10/13/2015,Hospital C,3,44
+542,Raimund Cloy,70,negativo,osteosarcoma,cérebro,C61.9,inicial,quimioterapia,grave,Levofloxacin,9/9/2002,Hospital C,0,67
+543,Issiah Gossart,67,inconclusivo,glioblastoma,pele,C20.9,avancado,hormonioterapia,estavel,"OCTINOXATE, OCTISALATE, OCTOCRYLENE, ENSULIZOLE, TITANIUM DIOXIDE, OXYBENZONE",12/26/2004,Hospital C,8,1
+544,Melinda Elsmor,74,inconclusivo,neuroblastoma,fígado,C50.9,avancado,Cirurgia,grave,Fluticasone Propionate,2/22/2018,Hospital B,8,8
+545,Virge Lansly,45,inconclusivo,osteosarcoma,cérebro,C20.9,inicial,quimioterapia,em remissao,"Mineral oil, petrolatum, phenylephrine hcl",10/16/2015,Hospital B,4,69
+546,Shanna Brecknock,67,positivo,neuroblastoma,músculos,C34.9,avancado,Cirurgia,estavel,Titanium dioxide,9/16/2006,Hospital B,2,43
+547,Paulie Stawell,9,positivo,melanoma,ossos,C61,avancado,quimioterapia,em remissao,FEXOFENADINE HYDROCHLORIDE,8/13/2003,Hospital A,10,100
+548,Giavani Timewell,44,negativo,osteosarcoma,coração,C50.9,inicial,hormonioterapia,em remissao,"Sodium Ascorbate, Cholecalciferol, di-alpha-Tocopheryl Acetate, Thiamine Mononitrate, Riboflavin, Niacinamide, Pyridoxine HCL, Folic Acid, Cyanocobalamin, Calcium Formate, Calcium Carbonate, Ferrous (",10/25/2021,Hospital B,4,6
+549,Bea Bednall,13,positivo,melanoma,fígado,C34.9,avancado,quimioterapia,grave,Oxygen,1/5/2010,Hospital B,1,57
+550,Skippy Chicotti,54,inconclusivo,glioblastoma,fígado,C61,inicial,radioterapia,estavel,"Aconitum nap., Arg. nit., Arsenicum alb., Belladonna, Benzoicum acidum, Berber. vulg., Bryonia, Cantharis, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Coffea cruda, Conium, Gelsemium, Ignatia, Iris versicolor, Mezereum, Nux vom., Passiflora, Pulsatilla, Rhus toxicodendron, Scutellaria lateriflora, Staphysag., Chamomilla, Taraxacum, Valeriana",6/8/2017,Hospital B,4,10
+551,Shanda Sturt,65,inconclusivo,sarcoma,rim,C61,avancado,quimioterapia,em remissao,Adapalene,2/26/2001,Hospital C,7,11
+552,Marla Pleass,97,positivo,osteosarcoma,ossos,C61.9,avancado,terapia alvo,estavel,"Starch, Corn",3/14/2016,Hospital C,7,47
+553,Auberta Covotto,37,inconclusivo,melanoma,coração,C61.9,inicial,Quimioterapia,em remissao,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl",12/3/2001,Hospital A,6,31
+554,Delila Rillstone,66,negativo,adenocarcinoma,cérebro,C34.9,metastatico,hormonioterapia,estavel,Octinoxate,5/18/2013,Hospital B,10,90
+555,Berni Twinn,66,inconclusivo,osteosarcoma,estômago,C50.9,avancado,terapia alvo,em remissao,BENZALKONIUM CHLORIDE,8/13/2002,Hospital A,5,91
+556,Salomi Haliburn,75,positivo,neuroblastoma,cérebro,C61,metastatico,radioterapia,grave,Sulfamethoxazole and Trimethoprim,7/12/2017,Hospital C,0,27
+557,Desirae Pickston,62,negativo,neuroblastoma,cérebro,C50.9,avancado,imunoterapia,em remissao,HYDROCORTISONE,5/5/2006,Hospital C,10,31
+558,Saw Chessman,48,positivo,sarcoma,pulmão,C20.9,inicial,imunoterapia,em remissao,ETHYL ALCOHOL,5/12/2015,Hospital A,1,59
+559,Melessa Gostling,83,positivo,neuroblastoma,estômago,C50.9,metastatico,Cirurgia,em remissao,House Dust,4/6/2018,Hospital C,8,88
+560,Cayla Bratten,25,inconclusivo,adenocarcinoma,fígado,C50.9,inicial,imunoterapia,em remissao,imiquimod,2/5/2020,Hospital A,4,85
+561,Jarret Twizell,39,inconclusivo,adenocarcinoma,fígado,C61,metastatico,Radioterapia,grave,Hyoscyamine Sulfate,1/18/2010,Hospital C,9,27
+562,Eleen Hyde-Chambers,35,negativo,neuroblastoma,coração,C34.9,metastatico,quimioterapia,grave,Trazodone Hydrochloride,11/4/2001,Hospital A,4,12
+563,Joseito Daly,16,negativo,sarcoma,estômago,C61,metastatico,Cirurgia,estavel,hydromorphone hydrochloride,7/15/2022,Hospital A,1,44
+564,Leonelle Citrine,29,negativo,leukemia,coração,C50.9,inicial,Cirurgia,estavel,MIDAZOLAM HYDROCHLORIDE,4/30/2022,Hospital A,2,10
+565,Izzy Willavoys,91,positivo,adenocarcinoma,pulmão,C34.9,metastatico,quimioterapia,grave,HUMAN IMMUNOGLOBULIN G,5/28/2022,Hospital B,1,63
+566,Willie Frontczak,65,negativo,melanoma,pele,C61,metastatico,Quimioterapia,grave,Corticorelin ovine triflutate,6/27/2020,Hospital A,2,91
+567,Lyndy Elphinstone,47,negativo,mesothelioma,pele,C34.9,inicial,quimioterapia,em remissao,DIVALPROEX SODIUM,4/11/2003,Hospital A,5,70
+568,Reider Rabjohn,61,positivo,glioblastoma,intestino,C61.9,avancado,quimioterapia,estavel,Salicylic Acid,9/23/2008,Hospital A,4,3
+569,Hettie Hamer,74,inconclusivo,adenocarcinoma,músculos,C61,inicial,Cirurgia,estavel,phenylephrine hydrochloride,12/20/2005,Hospital C,5,64
+570,Carolin Jordine,9,inconclusivo,osteosarcoma,estômago,C34.9,avancado,terapia alvo,em remissao,Tadalafil,4/16/2005,Hospital B,5,19
+571,Raoul Gregore,61,inconclusivo,melanoma,pulmão,C50.9,avancado,radioterapia,em remissao,cefixime,1/1/2015,Hospital B,1,11
+572,June McIlwraith,99,negativo,adenocarcinoma,ossos,C50.9,inicial,Radioterapia,grave,Ethyl Alcohol,1/8/2007,Hospital A,4,25
+573,Gran Rubinow,42,positivo,sarcoma,pele,C61,metastatico,Cirurgia,grave,Flounder,8/11/2005,Hospital C,2,74
+574,Beatriz Gladdor,61,negativo,lymphoma,pele,C34.9,metastatico,Cirurgia,em remissao,"ARNICA MONTANA ROOT, TOXICODENDRON PUBESCENS LEAF, SOLANUM DULCAMARA TOP, COMFREY ROOT, SULFUR, SANGUINARIA CANADENSIS ROOT, SUS SCROFA CARTILAGE, SUS SCROFA EMBRYO, SUS SCROFA UMBILICAL CORD, SUS SCROFA PLACENTA, .ALPHA.-LIPOIC ACID, COENZYME A, NADIDE and SODIUM DIETHYL OXALACETATE",6/4/2007,Hospital B,2,98
+575,Filmer Zanotti,100,positivo,neuroblastoma,cérebro,C61,inicial,hormonioterapia,em remissao,Gabapentin,1/16/2017,Hospital B,5,29
+576,Arabele Ninnis,91,positivo,adenocarcinoma,pele,C20.9,avancado,Cirurgia,grave,Gabapentin,2/9/2012,Hospital C,6,94
+577,Pepita Whiteoak,77,positivo,osteosarcoma,pele,C20.9,inicial,hormonioterapia,em remissao,OXYMETAZOLINE HYDROCHLORIDE,2/28/2021,Hospital A,3,80
+578,Zonda McWhin,64,inconclusivo,osteosarcoma,músculos,C61.9,avancado,Radioterapia,em remissao,"IBUPROFEN, DIPHENHYDRAMINE HCL",3/2/2002,Hospital A,3,60
+579,Jens Petegrew,22,negativo,carcinoma,cérebro,C61,avancado,hormonioterapia,grave,Carrot,8/8/2016,Hospital B,0,16
+580,Valaree Gostling,84,negativo,leukemia,rim,C34.9,inicial,hormonioterapia,em remissao,Losartan Potassium,9/26/2002,Hospital B,6,52
+581,Vitoria Wheeliker,49,negativo,neuroblastoma,músculos,C50.9,metastatico,terapia alvo,estavel,OCTINOXATE and TITANIUM DIOXIDE,7/9/2001,Hospital A,1,86
+582,Vonni Eyre,14,positivo,lymphoma,ossos,C34.9,metastatico,Quimioterapia,estavel,Ethyl Alcohol,3/14/2001,Hospital B,5,37
+583,Goldy Langtry,71,inconclusivo,mesothelioma,intestino,C61,metastatico,Cirurgia,grave,Benazepril Hydrochloride,3/21/2016,Hospital A,3,57
+584,Raul holmes,43,negativo,leukemia,cérebro,C50.9,metastatico,hormonioterapia,em remissao,desvenlafaxine,10/20/2018,Hospital A,3,90
+585,Herve Cloy,57,positivo,sarcoma,pulmão,C34.9,avancado,terapia alvo,estavel,PAROXETINE HYDROCHLORIDE,12/4/2018,Hospital A,3,63
+586,Velvet Baude,61,positivo,carcinoma,intestino,C50.9,avancado,hormonioterapia,estavel,NITROGEN,4/17/2013,Hospital B,10,75
+587,Fernanda Booler,76,negativo,mesothelioma,coração,C61,avancado,hormonioterapia,estavel,Acetaminophen and Diphenhydramine HCl,3/14/2006,Hospital B,8,5
+588,Silvan Birchwood,9,negativo,glioblastoma,intestino,C61,avancado,Radioterapia,estavel,bacitracin zinc,5/21/2008,Hospital A,5,4
+589,Ree Arrandale,43,negativo,mesothelioma,ossos,C61.9,metastatico,terapia alvo,estavel,finasteride,1/10/2020,Hospital C,0,48
+590,Jerad Discombe,97,negativo,neuroblastoma,intestino,C20.9,inicial,radioterapia,grave,lisdexamfetamine dimesylate,10/30/2002,Hospital B,10,66
+591,Gillan Sturmey,65,inconclusivo,melanoma,estômago,C61.9,avancado,Radioterapia,em remissao,Hydrocodone Polistirex and Chlorpheniramine Polistirex,6/21/2016,Hospital C,4,28
+592,Heriberto Fulkes,26,negativo,sarcoma,pulmão,C50.9,avancado,terapia alvo,grave,Diphenhydramine,6/3/2010,Hospital C,6,100
+593,Danice Sadler,47,positivo,sarcoma,cérebro,C61.9,metastatico,Quimioterapia,grave,"Apis mellifica, Carbo vegetabilis, Carduus marianus, Cocculus indicus, Ignatia amara, Nux vomica, Passiflora incarnata, Tabacum",1/8/2015,Hospital B,1,80
+594,Jeremie Chapling,16,inconclusivo,adenocarcinoma,rim,C20.9,avancado,imunoterapia,em remissao,capsaicin,10/10/2011,Hospital A,9,95
+595,Tiebout McCarver,52,inconclusivo,adenocarcinoma,cérebro,C61,inicial,hormonioterapia,estavel,Hydralazine Hydrochloride,5/2/2014,Hospital B,2,95
+596,Donovan Lambole,9,inconclusivo,sarcoma,pulmão,C61,inicial,terapia alvo,em remissao,COAL TAR,6/23/2021,Hospital B,5,83
+597,Efrem Cayzer,10,positivo,melanoma,músculos,C20.9,metastatico,imunoterapia,estavel,"Chamomilla, Coffea cruda, Arsenicum album, Ignatia amara, Lycopodium clavatum, Natrum muriaticum, Nux vomica, Gelsemium sempervirens, Valeriana officinalis,",5/9/2014,Hospital C,7,0
+598,Reinold Langmaid,97,negativo,mesothelioma,fígado,C61,avancado,hormonioterapia,em remissao,"Antiocoagulant Citrate Dextrose Solution, Formula A",12/14/2022,Hospital B,6,58
+599,Una Poulter,61,positivo,leukemia,rim,C20.9,avancado,Cirurgia,estavel,Lamotrigine,3/5/2002,Hospital A,8,13
+600,Bill Dougharty,60,inconclusivo,adenocarcinoma,pele,C50.9,metastatico,Cirurgia,estavel,Rhizopus spp,12/26/2018,Hospital B,3,80
+601,Lizette Gunthorpe,55,positivo,adenocarcinoma,coração,C61,metastatico,Quimioterapia,grave,ATORVASTATIN CALCIUM,8/1/2005,Hospital A,4,9
+602,Sansone Blakiston,64,negativo,glioblastoma,intestino,C34.9,avancado,imunoterapia,estavel,mineral oil,4/24/2011,Hospital A,4,21
+603,Corrine Thornebarrow,26,negativo,lymphoma,intestino,C20.9,metastatico,Radioterapia,grave,PREGABALIN,3/7/2003,Hospital A,8,30
+604,Orsola Peek,52,inconclusivo,mesothelioma,ossos,C20.9,inicial,Cirurgia,em remissao,dexamethasone,4/6/2005,Hospital B,9,69
+605,Paulie Pigney,39,positivo,adenocarcinoma,músculos,C34.9,inicial,Radioterapia,em remissao,Acetaminophen,4/4/2010,Hospital B,0,27
+606,Stanford Rosbotham,11,positivo,carcinoma,coração,C61,metastatico,imunoterapia,grave,Proparacaine Hydrochloride,1/4/2000,Hospital C,1,11
+607,Rosana Boorer,30,positivo,carcinoma,cérebro,C61.9,inicial,terapia alvo,estavel,Phenazopyridine,5/30/2016,Hospital A,10,5
+608,Sylvester Rush,9,positivo,carcinoma,pulmão,C61,metastatico,imunoterapia,em remissao,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",7/31/2011,Hospital A,3,82
+609,Irma Joslow,53,negativo,leukemia,estômago,C50.9,inicial,quimioterapia,em remissao,Lorazepam,1/28/2003,Hospital B,8,12
+610,Liv Growden,83,inconclusivo,glioblastoma,músculos,C61.9,avancado,radioterapia,em remissao,"acetaminophen, chlorpheniramine maleate, dextromethorphan HBr, phenylephrine HCl",10/26/2001,Hospital B,5,16
+611,Ferne Swinnard,13,inconclusivo,sarcoma,estômago,C50.9,metastatico,Quimioterapia,estavel,amlodipine besylate and valsartan,11/27/2002,Hospital C,3,84
+612,Shell Strangward,50,positivo,mesothelioma,coração,C34.9,inicial,Radioterapia,grave,ALCOHOL,9/17/2022,Hospital A,8,97
+613,Rodger Kernley,19,positivo,leukemia,pele,C34.9,avancado,imunoterapia,estavel,"Octinoxate, Octisalate, Oxybenzone, and Titanium dioxide",5/13/2011,Hospital B,10,56
+614,Evelyn MacKilroe,84,positivo,neuroblastoma,rim,C61,inicial,hormonioterapia,em remissao,DOCUSATE SODIUM,1/20/2010,Hospital A,6,49
+615,Klement Kopje,76,inconclusivo,osteosarcoma,pulmão,C34.9,inicial,quimioterapia,em remissao,"Cedron, Mezereum, Phytolacca, Sempervivum, Croton, Mentha pip, Rhus tox, Dulcamara, Ranunc bulb, Grindelia, Salicylicum ac",10/16/2011,Hospital C,6,69
+616,Benedick Learoid,78,inconclusivo,glioblastoma,coração,C50.9,inicial,Quimioterapia,em remissao,Tretinoin,5/18/2000,Hospital A,5,13
+617,Xenos Chansonnau,42,negativo,melanoma,músculos,C61,inicial,terapia alvo,estavel,Metoclopramide Hydrochloride,7/9/2011,Hospital B,8,2
+618,Harp Smithson,16,positivo,melanoma,rim,C61,inicial,hormonioterapia,grave,misoprostol,10/3/2015,Hospital C,3,21
+619,Lennard Lafrentz,26,inconclusivo,mesothelioma,estômago,C50.9,inicial,imunoterapia,grave,Clonidine,8/12/2007,Hospital C,9,35
+620,Lyell McSherry,79,positivo,sarcoma,cérebro,C61,inicial,radioterapia,estavel,Enalapril Maleate,5/31/2022,Hospital C,6,45
+621,Townsend Wythill,55,negativo,neuroblastoma,cérebro,C34.9,metastatico,Radioterapia,grave,clotrimazole,8/22/2022,Hospital C,2,93
+622,Arri Dolman,71,inconclusivo,osteosarcoma,estômago,C61,avancado,terapia alvo,grave,"Sarsaparilla, Ferrum phos, Apis mel, Equisetum arv, Cantharis",9/28/2001,Hospital B,4,73
+623,Lonny Matitiaho,34,inconclusivo,leukemia,coração,C20.9,metastatico,imunoterapia,estavel,ketoconazole,4/11/2009,Hospital B,10,72
+624,Elisabet McDuffy,24,negativo,sarcoma,cérebro,C34.9,avancado,Quimioterapia,em remissao,Octinoxate and Oxybenzone,4/4/2014,Hospital B,10,30
+625,Fan Harkess,55,inconclusivo,adenocarcinoma,rim,C20.9,avancado,Radioterapia,grave,Diphenhydramine HCl,5/2/2008,Hospital B,0,11
+626,Barbee Buttrey,21,inconclusivo,glioblastoma,ossos,C61,inicial,Cirurgia,em remissao,"Aesculus hipp, flos, Ambra, Avena, Baryta carb, Camphora, Cinchona, Cocculus, Coffea cruda, Cypripedium, Gelsemium, Hyoscyamus, Ignatia, Kali brom, Kali phos, Mag carb, Muriaticum ac, Nat phos, Passiflora, Pulsatilla, Scutellaria, Sulphur, Valeriana, Zinc met",12/3/2007,Hospital B,2,78
+627,Selina Spain-Gower,17,inconclusivo,osteosarcoma,rim,C61,avancado,radioterapia,grave,Irbesartan,8/25/2002,Hospital C,2,69
+628,Karlen Thayre,22,negativo,mesothelioma,intestino,C61,metastatico,Cirurgia,estavel,Nicotine Polacrilex,2/26/2000,Hospital C,7,43
+629,Mil Beavington,21,positivo,neuroblastoma,estômago,C34.9,metastatico,terapia alvo,grave,"DEXTROMETHORPHAN HYDROBROMIDE, GUAIFENESIN, PHENYLEPHRINE HYDROCHLORIDE",2/14/2015,Hospital B,8,93
+630,Evelyn Ziem,61,inconclusivo,neuroblastoma,fígado,C50.9,avancado,quimioterapia,grave,Gentian Violet 2%,6/10/2012,Hospital B,1,58
+631,Colene Kausche,32,positivo,osteosarcoma,pele,C61,avancado,Quimioterapia,em remissao,ACETAMINOPHEN,6/18/2001,Hospital C,10,31
+632,Sophia Muffen,24,negativo,sarcoma,músculos,C61.9,avancado,Cirurgia,em remissao,cefuroxime,3/21/2018,Hospital C,10,35
+633,Shelley Petican,78,positivo,sarcoma,cérebro,C50.9,avancado,Cirurgia,grave,LISINOPRIL,5/11/2016,Hospital A,9,25
+634,Antin Craigheid,85,inconclusivo,mesothelioma,estômago,C50.9,inicial,Radioterapia,estavel,tapentadol hydrochloride,6/27/2016,Hospital C,5,1
+635,Reeba Libby,68,positivo,carcinoma,coração,C34.9,inicial,imunoterapia,grave,Sulfamethoxazole and Trimethoprim,4/2/2014,Hospital A,2,93
+636,Corny Hirth,35,positivo,carcinoma,estômago,C61,avancado,radioterapia,estavel,"OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE",3/10/2021,Hospital C,10,64
+637,Jordana Dorsett,87,negativo,melanoma,cérebro,C34.9,inicial,Cirurgia,em remissao,montelukast sodium,10/1/2002,Hospital B,8,14
+638,Jacklin Pryce,79,inconclusivo,carcinoma,cérebro,C20.9,inicial,Radioterapia,estavel,Benzoyl Peroxide,3/16/2015,Hospital A,10,88
+639,Heidi Kubu,50,negativo,osteosarcoma,cérebro,C20.9,avancado,imunoterapia,grave,topiramate,11/19/2001,Hospital A,2,40
+640,Olenolin Syddon,100,positivo,adenocarcinoma,pulmão,C61.9,metastatico,imunoterapia,estavel,"Acetaminophen, Diphenhydramine HCl",8/26/2003,Hospital B,1,47
+641,Theo Fraschetti,47,positivo,mesothelioma,fígado,C50.9,inicial,imunoterapia,em remissao,Dexamethasone Sodium Phosphate,3/1/2022,Hospital B,4,40
+642,Marrilee Dumblton,33,positivo,osteosarcoma,músculos,C34.9,inicial,Quimioterapia,em remissao,methylphenidate hydrochloride,2/1/2009,Hospital A,7,35
+643,Marline Hamments,33,positivo,neuroblastoma,pele,C34.9,inicial,imunoterapia,em remissao,"Echinacea, Uva-Ursi, Baptisia Tinctoria, Convallaria Majalis, Kali Muriaticum, Pinus Sylvetris, Thuja Occidentalis, Bryonia, Condurango",2/25/2019,Hospital A,3,68
+644,Candace Carlo,49,positivo,osteosarcoma,estômago,C34.9,avancado,hormonioterapia,em remissao,Cefuroxime axetil,10/14/2018,Hospital A,9,52
+645,Sherie Cockitt,73,negativo,carcinoma,músculos,C20.9,metastatico,quimioterapia,grave,diltiazem hydrochloride,7/31/2000,Hospital A,10,0
+646,Dulciana Mayou,40,negativo,carcinoma,estômago,C50.9,avancado,Quimioterapia,grave,Titanium Dioxide,11/23/2007,Hospital B,7,45
+647,Sibbie Cline,66,positivo,carcinoma,pulmão,C61.9,avancado,hormonioterapia,em remissao,Avobenzone and Octinoxate,8/16/2014,Hospital A,0,87
+648,Kain Ferfulle,44,positivo,leukemia,fígado,C20.9,inicial,Quimioterapia,estavel,carvedilol,4/25/2016,Hospital C,10,46
+649,Ciel Lanchester,52,positivo,glioblastoma,coração,C34.9,inicial,Radioterapia,em remissao,Acetaminophen,5/7/2021,Hospital A,9,3
+650,Vannie Hallgate,18,inconclusivo,glioblastoma,estômago,C50.9,avancado,imunoterapia,em remissao,"acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",10/28/2014,Hospital B,10,65
+651,Sari Elizabeth,60,inconclusivo,melanoma,rim,C61,avancado,hormonioterapia,grave,Diltiazem Hydrochloride,10/5/2000,Hospital A,0,62
+652,Devy Allport,91,positivo,osteosarcoma,cérebro,C20.9,inicial,Cirurgia,grave,Amoxicillin,9/1/2019,Hospital B,8,69
+653,Tad Whitwham,61,inconclusivo,carcinoma,rim,C61,inicial,quimioterapia,em remissao,ALCOHOL,4/12/2002,Hospital B,8,30
+654,Marnie Tatlock,73,positivo,sarcoma,estômago,C50.9,avancado,Quimioterapia,grave,Simvastatin,11/20/2006,Hospital A,2,95
+655,Cosimo Canet,94,negativo,leukemia,pulmão,C61,inicial,terapia alvo,grave,"AESCULUS HIPPOCASTANUM BARK,ANTIMONY TRISULFIDE,SILVER NITRATE,ARNICA MONTANA,BERBERIS VULGARIS WHOLE,ACTIVATED CHARCOAL,CEANOTHUS AMERICANUS WHOLE,CHOLESTEROL,CINCHONA BARK,CYNARA SCOLYMUS LEAF,EQUISETUM ARVENSE TOP,CONYZA CANADENSIS,FUCUS VESICULOSUS,GINKGO,HAMAMELIS VIRGINIANA LEAF,CHAMAELIRIUM LUTEUM ROOT,GOLDENSEAL,ARCTIUM LAPPA ROOT,LESPEDEZA CAPITATA FLOWERING TOP,RANUNCULUS BULBOSUS,DAIKON,ROBINIA PSEUDOACACIA BARK,TARAXACUM PALUSTRE ROOT,VIBURNUM PRUNIFOLIUM BARK,VITIS VINIFERA WHOLE.",7/9/2004,Hospital C,7,47
+656,Milty Glaum,10,negativo,lymphoma,músculos,C61,inicial,hormonioterapia,grave,Cyclophosphamide,2/5/2011,Hospital A,9,74
+657,Rahel Caston,13,inconclusivo,neuroblastoma,cérebro,C61,avancado,terapia alvo,grave,White Petrolatum,7/11/2006,Hospital C,3,64
+658,Bennie Pinkie,99,positivo,leukemia,rim,C61,metastatico,Cirurgia,estavel,"Dextromethorphan, Guaifenesin, Phenylephrine",10/21/2003,Hospital A,6,18
+659,Kimberly Del Dello,71,positivo,neuroblastoma,coração,C61.9,avancado,Radioterapia,grave,Methocarbamol,11/9/2006,Hospital B,3,89
+660,Forrester Serjent,56,negativo,carcinoma,cérebro,C50.9,inicial,radioterapia,grave,Flecainide Acetate,5/9/2009,Hospital B,7,89
+661,Dallon Cogar,49,positivo,melanoma,cérebro,C50.9,metastatico,terapia alvo,estavel,Nortriptyline Hydrochloride,11/7/2021,Hospital A,4,19
+662,Marita Cobb,15,negativo,sarcoma,rim,C61.9,avancado,quimioterapia,grave,Ear Drops,12/2/2001,Hospital B,2,4
+663,Hurley Wapplington,21,negativo,carcinoma,intestino,C20.9,metastatico,Radioterapia,estavel,"OCTINOXATE, OCTISALATE, OCTOCRYLENE, and TITANIUM DIOXIDE",12/7/2000,Hospital A,6,50
+664,Micky Cockcroft,20,inconclusivo,melanoma,estômago,C34.9,metastatico,imunoterapia,em remissao,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",6/5/2000,Hospital C,4,7
+665,Myranda Lidgett,4,positivo,neuroblastoma,intestino,C61.9,inicial,terapia alvo,em remissao,ALCOHOL,1/3/2005,Hospital C,4,7
+666,Quintus Tran,49,negativo,osteosarcoma,pulmão,C61,inicial,Quimioterapia,em remissao,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",2/21/2006,Hospital C,3,6
+667,Zarla Stepney,100,negativo,neuroblastoma,intestino,C34.9,avancado,hormonioterapia,em remissao,Morphine Sulfate,7/26/2006,Hospital A,4,80
+668,Winslow Durkin,34,inconclusivo,neuroblastoma,músculos,C61.9,avancado,Quimioterapia,grave,salicylic acid,12/13/2003,Hospital B,1,91
+669,Edee Sarah,55,positivo,melanoma,músculos,C34.9,metastatico,terapia alvo,grave,petrolatum,3/11/2007,Hospital C,3,35
+670,Aland Boyton,10,positivo,carcinoma,intestino,C20.9,inicial,quimioterapia,em remissao,Hydrocortisone,12/26/2014,Hospital A,4,15
+671,Whitby Blenkensop,97,negativo,leukemia,estômago,C61.9,metastatico,hormonioterapia,em remissao,MAGNESIUM HYDROXIDE,10/20/2021,Hospital B,9,18
+672,Harold Sturgess,56,positivo,osteosarcoma,rim,C61,metastatico,terapia alvo,em remissao,Pyrithione Zinc,7/29/2017,Hospital A,4,51
+673,Uriah Swyne,92,positivo,mesothelioma,músculos,C34.9,avancado,Cirurgia,grave,dextromethorphan polistirex,8/17/2010,Hospital C,9,52
+674,Linzy Passo,80,negativo,mesothelioma,fígado,C61,metastatico,hormonioterapia,estavel,DIGITALIS PURPUREA,3/7/2011,Hospital B,8,42
+675,Sly Keymer,23,positivo,sarcoma,coração,C61,inicial,terapia alvo,grave,Fluoxetine Hydrochloride,4/25/2015,Hospital B,2,81
+676,Mathe McFaell,47,inconclusivo,osteosarcoma,fígado,C50.9,avancado,terapia alvo,em remissao,nitroglycerin,9/24/2008,Hospital B,10,85
+677,Blondie Baudacci,2,positivo,adenocarcinoma,rim,C20.9,metastatico,terapia alvo,estavel,METOPROLOL TARTRATE,6/2/2007,Hospital C,9,88
+678,Laraine Scowen,37,inconclusivo,leukemia,ossos,C34.9,avancado,Radioterapia,em remissao,Naproxen,6/9/2004,Hospital A,4,97
+679,Dre Wallicker,91,negativo,osteosarcoma,intestino,C34.9,avancado,Radioterapia,estavel,"OCTSALATE, AVOBENZONE",7/5/2011,Hospital C,3,42
+680,Minerva Kornilyev,15,inconclusivo,mesothelioma,coração,C61,avancado,radioterapia,em remissao,candida parapsilosis,12/14/2017,Hospital A,4,57
+681,Roshelle Penrith,82,negativo,neuroblastoma,fígado,C61.9,inicial,Quimioterapia,em remissao,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",7/11/2014,Hospital C,3,10
+682,Renato Crommett,30,inconclusivo,glioblastoma,pele,C50.9,inicial,Radioterapia,grave,Aspirin,7/31/2007,Hospital C,1,35
+683,Ingrid Forrestall,40,inconclusivo,neuroblastoma,ossos,C34.9,avancado,imunoterapia,estavel,PREGABALIN,3/27/2010,Hospital A,7,48
+684,Chantal Juares,60,positivo,carcinoma,ossos,C20.9,inicial,Radioterapia,estavel,Albuterol Sulfate,5/9/2006,Hospital B,8,13
+685,Morton Hawkett,58,inconclusivo,sarcoma,estômago,C50.9,inicial,Quimioterapia,estavel,"Avobenzone,Homosalate,Octisalate,Octocrylene",11/24/2004,Hospital A,2,2
+686,Katuscha Schoroder,80,positivo,osteosarcoma,fígado,C34.9,avancado,terapia alvo,grave,Acetaminophen,8/24/2020,Hospital A,0,57
+687,Flor Langton,66,negativo,osteosarcoma,ossos,C20.9,avancado,hormonioterapia,grave,PULSATILLA VULGARIS - SILICON DIOXIDE - SULFUR,4/6/2005,Hospital A,9,76
+688,Nonah De Brett,77,positivo,lymphoma,coração,C61,avancado,hormonioterapia,estavel,"Baptisia tinctoria, Echinacea, Phytolacca decandra, Aconitum napellus, Arsenicum album, Belladonna, Ferrum phosphoricum, Lachesis mutus, Phosphorus,",2/5/2018,Hospital C,5,79
+689,Biddy Hatrick,45,inconclusivo,neuroblastoma,músculos,C34.9,metastatico,terapia alvo,em remissao,METHYLPREDNISOLONE SODIUM SUCCINATE,4/29/2019,Hospital A,6,89
+690,Cassey Baptista,60,negativo,lymphoma,intestino,C34.9,avancado,quimioterapia,grave,Cyclophosphamide,5/24/2020,Hospital C,1,37
+691,Smith Steffan,6,inconclusivo,sarcoma,ossos,C34.9,metastatico,Radioterapia,grave,Medicated Lip Balm,9/7/2004,Hospital B,3,21
+692,Braden Trimnell,11,negativo,melanoma,ossos,C61,metastatico,terapia alvo,em remissao,Oxcarbazepine,7/20/2008,Hospital C,4,22
+693,Lotta Itskovitz,74,inconclusivo,glioblastoma,pele,C61.9,metastatico,Radioterapia,em remissao,Gabapentin,1/3/2010,Hospital A,1,4
+694,Filberte Maypother,45,inconclusivo,melanoma,fígado,C61,metastatico,radioterapia,grave,Verapamil hydrochloride,12/25/2001,Hospital A,6,18
+695,Davy Simkin,90,inconclusivo,adenocarcinoma,músculos,C61.9,metastatico,Cirurgia,estavel,Sulfamethoxazole and Trimethoprim,5/7/2019,Hospital B,6,59
+696,Kerk Furzey,74,inconclusivo,adenocarcinoma,ossos,C20.9,avancado,Quimioterapia,em remissao,"Echinacea, Hydrastis canadensis, Phytolacca decandra, Sabal serrulata, Sarsaparilla, Solidago virgaurea, Zincum sulphuricum,",4/15/2001,Hospital B,6,8
+697,Lyndy Wragg,9,inconclusivo,neuroblastoma,fígado,C50.9,avancado,terapia alvo,estavel,Sardine,4/26/2019,Hospital C,9,82
+698,Mile Freire,3,positivo,mesothelioma,pulmão,C20.9,metastatico,Quimioterapia,estavel,"Salicylic Acid, Niacinamide, Menthol",6/19/2006,Hospital A,9,58
+699,Wilona Harrington,94,positivo,mesothelioma,fígado,C61.9,inicial,radioterapia,grave,Olanzapine,5/9/2022,Hospital B,1,70
+700,Jenn Bridgeman,62,negativo,glioblastoma,rim,C61.9,avancado,quimioterapia,grave,ISOPROPYL ALCOHOL,6/13/2020,Hospital A,2,18
+701,Delbert McKeag,51,inconclusivo,melanoma,ossos,C61,avancado,hormonioterapia,estavel,Nizatidine,10/13/2007,Hospital A,8,35
+702,Kristopher Harrald,97,positivo,osteosarcoma,músculos,C34.9,avancado,radioterapia,estavel,Octinoxate,5/17/2009,Hospital C,10,40
+703,Hilde Cleveland,29,inconclusivo,leukemia,intestino,C34.9,avancado,hormonioterapia,grave,pseudoephedrine HCL,6/9/2000,Hospital B,5,38
+704,Emilee Dossetter,100,positivo,leukemia,músculos,C50.9,avancado,terapia alvo,em remissao,Gabapentin,8/3/2004,Hospital C,7,37
+705,Gina Bullick,54,inconclusivo,mesothelioma,intestino,C50.9,avancado,imunoterapia,grave,White Oak,8/2/2010,Hospital A,9,22
+706,Pollyanna Duncan,17,positivo,osteosarcoma,coração,C50.9,avancado,Radioterapia,grave,ciprofloxacin hydrochloride,12/2/2005,Hospital B,1,82
+707,Modesty Gainseford,6,positivo,sarcoma,rim,C50.9,avancado,radioterapia,grave,Cocklebur,3/22/2009,Hospital A,3,76
+708,Adelina Bigrigg,30,negativo,osteosarcoma,ossos,C61.9,inicial,hormonioterapia,grave,Tetrahydrozoline Hydrochloride,3/22/2012,Hospital B,0,48
+709,Aldric Dolan,91,negativo,glioblastoma,coração,C34.9,metastatico,Cirurgia,estavel,amitriptyline hydrochloride,8/19/2020,Hospital B,7,16
+710,Cordelie Gumly,11,inconclusivo,glioblastoma,rim,C34.9,avancado,hormonioterapia,estavel,Benzalkonium Chloride,12/5/2012,Hospital A,7,18
+711,Morton Exley,73,inconclusivo,glioblastoma,fígado,C50.9,inicial,terapia alvo,grave,CLADOSPORIUM SPHAEROSPERMUM,4/4/2018,Hospital A,5,44
+712,Gunar Boland,83,positivo,osteosarcoma,ossos,C34.9,metastatico,Radioterapia,grave,OXYGEN,12/14/2005,Hospital B,0,3
+713,Bond Helleckas,57,negativo,leukemia,pele,C61.9,metastatico,hormonioterapia,grave,Benzalkonium Chloride,9/22/2011,Hospital A,1,35
+714,Kellen Ioan,59,inconclusivo,melanoma,coração,C61,avancado,Quimioterapia,estavel,NH3N13,6/11/2013,Hospital C,9,34
+715,Frieda Umpleby,85,inconclusivo,leukemia,pele,C50.9,metastatico,Quimioterapia,estavel,ISOPROPYL ALCOHOL,2/26/2009,Hospital B,9,87
+716,Barbi Lapslie,90,inconclusivo,melanoma,estômago,C20.9,metastatico,radioterapia,em remissao,English Plantain,7/25/2001,Hospital C,7,80
+717,Elbert Jeacock,99,inconclusivo,sarcoma,ossos,C61.9,inicial,terapia alvo,grave,Coal Tar,9/9/2019,Hospital C,4,1
+718,Ring Mears,36,positivo,adenocarcinoma,coração,C61.9,metastatico,Quimioterapia,grave,Cetirizine Hydrochloride,10/7/2002,Hospital B,6,1
+719,Yance Stidson,97,inconclusivo,osteosarcoma,estômago,C61,metastatico,Quimioterapia,estavel,"Menthol, Camphor, Eucalyptus Oil",4/9/2015,Hospital B,9,96
+720,Abby Benedick,56,inconclusivo,osteosarcoma,coração,C61.9,inicial,Radioterapia,em remissao,Treatment Set TS349574,6/30/2016,Hospital B,4,28
+721,Ford McNabb,29,negativo,neuroblastoma,músculos,C34.9,avancado,Cirurgia,estavel,Methylphenidate Hydrochloride,8/4/2004,Hospital B,4,68
+722,Elena Niemiec,84,inconclusivo,melanoma,pele,C61,metastatico,quimioterapia,grave,Mucor mucedo,7/18/2009,Hospital C,1,72
+723,Colette Facher,48,inconclusivo,melanoma,coração,C20.9,avancado,Radioterapia,estavel,anastrozole,9/29/2022,Hospital C,10,83
+724,Consalve Buckler,55,positivo,carcinoma,pele,C61.9,metastatico,quimioterapia,estavel,Ceftriaxone,9/16/2017,Hospital B,10,40
+725,Jeana Maiden,46,negativo,carcinoma,pulmão,C61,avancado,imunoterapia,em remissao,Aloe Vera Leaf and Iodoquinol,10/31/2006,Hospital A,5,98
+726,Nellie Jankowski,95,positivo,leukemia,cérebro,C20.9,metastatico,quimioterapia,estavel,Fludeoxyglucose F-18,12/12/2015,Hospital B,8,87
+727,Hurleigh Bartak,44,positivo,leukemia,coração,C20.9,inicial,Radioterapia,em remissao,diclofenac sodium and misoprostol,10/20/2020,Hospital A,10,25
+728,Arabella Billes,99,negativo,adenocarcinoma,rim,C20.9,metastatico,imunoterapia,em remissao,SODIUM MONOFLUOROPHOSPHATE,8/27/2022,Hospital A,7,40
+729,Giorgio Bulmer,5,negativo,leukemia,estômago,C34.9,metastatico,Cirurgia,grave,miconazole nitrate,6/7/2020,Hospital C,9,96
+730,Kermy Gautrey,96,positivo,glioblastoma,coração,C20.9,avancado,radioterapia,em remissao,Gentamicin Sulfate,2/6/2015,Hospital C,7,39
+731,Lionello Basso,12,positivo,carcinoma,músculos,C61,inicial,radioterapia,estavel,Triclosan,3/29/2009,Hospital C,9,25
+732,Melamie Bethell,79,positivo,sarcoma,ossos,C34.9,metastatico,radioterapia,em remissao,Methylene Blue,11/14/2007,Hospital B,9,61
+733,Brena Fleming,17,positivo,melanoma,estômago,C61.9,avancado,quimioterapia,estavel,Nitisinone,12/11/2000,Hospital A,8,11
+734,Bruno Veldens,3,inconclusivo,leukemia,pulmão,C61.9,inicial,Cirurgia,estavel,tizanidine,6/27/2019,Hospital A,10,59
+735,Clara Pearlman,24,positivo,adenocarcinoma,intestino,C34.9,metastatico,hormonioterapia,grave,Methylergonovine Maleate,4/10/2018,Hospital A,2,7
+736,Gabbie Attaway,24,inconclusivo,mesothelioma,intestino,C34.9,metastatico,Radioterapia,estavel,treprostinil,12/31/2000,Hospital B,5,100
+737,Lucille Farmloe,35,negativo,sarcoma,pulmão,C50.9,avancado,radioterapia,em remissao,Coal Tar,9/24/2019,Hospital C,1,13
+738,Tabby Makepeace,60,inconclusivo,osteosarcoma,fígado,C50.9,inicial,hormonioterapia,grave,BUSHMASTER VENOM,5/19/2015,Hospital C,5,88
+739,Berti Semrad,54,inconclusivo,sarcoma,rim,C50.9,metastatico,Quimioterapia,grave,Benazepril Hydrochloride,2/14/2006,Hospital C,10,99
+740,Marietta Armin,54,positivo,lymphoma,intestino,C34.9,metastatico,Quimioterapia,estavel,DEXAMETHASONE SODIUM PHOSPHATE,8/29/2019,Hospital A,0,44
+741,Dania Houlison,91,inconclusivo,leukemia,músculos,C34.9,avancado,quimioterapia,estavel,Oxygen,11/1/2022,Hospital A,1,80
+742,Sayer Croad,73,negativo,osteosarcoma,fígado,C34.9,inicial,quimioterapia,em remissao,Coast Maple,3/20/2019,Hospital A,5,79
+743,Martelle Shillito,72,inconclusivo,carcinoma,pele,C61.9,metastatico,hormonioterapia,em remissao,WITCH HAZEL,12/25/2001,Hospital A,7,97
+744,Franklyn Fibbens,94,positivo,osteosarcoma,fígado,C34.9,metastatico,Radioterapia,em remissao,METOPROLOL TARTRATE,2/6/2010,Hospital C,3,77
+745,Frederique Clemenzo,99,negativo,adenocarcinoma,pulmão,C34.9,metastatico,Quimioterapia,grave,losartan potassium and hydrochlorothiazide,3/2/2006,Hospital C,5,19
+746,Aubrey Rotherham,12,positivo,sarcoma,cérebro,C34.9,inicial,terapia alvo,estavel,Olanzapine,12/13/2009,Hospital A,6,93
+747,Delaney Petherick,81,positivo,leukemia,pulmão,C50.9,inicial,imunoterapia,estavel,"Dimethicone, Octinoxate, and Oxybenzone",7/25/2012,Hospital B,9,63
+748,Kristal Hek,8,positivo,lymphoma,ossos,C20.9,avancado,radioterapia,estavel,TOPICAL STARCH,3/29/2020,Hospital C,4,50
+749,Kayne Nance,67,positivo,glioblastoma,estômago,C61,inicial,Cirurgia,estavel,Zolpidem Tartrate,12/11/2020,Hospital A,6,12
+750,Geordie Trattles,5,inconclusivo,osteosarcoma,músculos,C61.9,metastatico,Radioterapia,em remissao,"Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone",11/12/2005,Hospital A,9,73
+751,Otto Ellaway,98,positivo,leukemia,músculos,C61,avancado,terapia alvo,estavel,Midazolam Hydrochloride,9/7/2020,Hospital B,9,10
+752,Pedro Dummigan,41,negativo,melanoma,estômago,C34.9,inicial,Cirurgia,grave,Chlorpheniramine Maleate,9/10/2003,Hospital B,1,52
+753,Rance Thoday,54,inconclusivo,adenocarcinoma,intestino,C61,metastatico,terapia alvo,estavel,Mulberry,6/12/2007,Hospital A,1,12
+754,Roth Fouldes,11,positivo,sarcoma,estômago,C20.9,metastatico,hormonioterapia,em remissao,Marshelder Rough,1/16/2002,Hospital A,2,77
+755,Erl Gilbertson,8,positivo,carcinoma,fígado,C61,avancado,terapia alvo,grave,ASIAN GINSENG,3/2/2001,Hospital C,5,28
+756,Sydney Sygrove,26,negativo,neuroblastoma,cérebro,C34.9,metastatico,hormonioterapia,grave,HYDROXYZINE PAMOATE,11/5/2014,Hospital A,2,18
+757,Johannah Sperry,55,positivo,neuroblastoma,coração,C61,metastatico,imunoterapia,estavel,dornase alfa,1/9/2021,Hospital C,9,37
+758,Lynnett Ferrea,90,negativo,carcinoma,rim,C61,inicial,hormonioterapia,em remissao,ondansetron,10/11/2006,Hospital C,2,86
+759,Levi Absolon,78,inconclusivo,glioblastoma,ossos,C61,metastatico,terapia alvo,em remissao,Cuprum aceticum Nicotiana,3/28/2021,Hospital A,9,75
+760,Lockwood Petters,32,positivo,melanoma,pele,C20.9,avancado,quimioterapia,em remissao,Simvastatin,2/16/2010,Hospital A,4,48
+761,Natalya Wehden,48,negativo,osteosarcoma,cérebro,C34.9,avancado,Cirurgia,em remissao,diphenhydramine hydrochloride,8/19/2017,Hospital A,7,87
+762,Marybelle Boatman,50,negativo,sarcoma,coração,C61,avancado,quimioterapia,em remissao,Azithromycin,2/20/2012,Hospital B,0,56
+763,Malina Escoffier,93,inconclusivo,sarcoma,intestino,C20.9,avancado,quimioterapia,em remissao,SALICYLIC ACID,5/2/2018,Hospital B,4,96
+764,Ruthe Duncombe,9,positivo,carcinoma,rim,C50.9,metastatico,radioterapia,estavel,OCTINOXATE and TITANIUM DIOXIDE,4/30/2016,Hospital C,10,64
+765,Che Thirtle,42,positivo,lymphoma,rim,C61,metastatico,hormonioterapia,grave,topiramate,2/6/2004,Hospital A,0,91
+766,Nonie Robson,27,inconclusivo,adenocarcinoma,fígado,C50.9,metastatico,radioterapia,estavel,MENTHOL,6/26/2020,Hospital B,6,83
+767,Clari Secretan,6,inconclusivo,sarcoma,rim,C61,inicial,terapia alvo,estavel,Sodium Fluoride and Potassium Nitrate,4/28/2000,Hospital B,5,56
+768,Adeline Mobley,80,positivo,carcinoma,intestino,C61,avancado,imunoterapia,em remissao,METOPROLOL TARTRATE,1/9/2002,Hospital A,1,48
+769,Bernhard Shoebotham,80,positivo,lymphoma,fígado,C50.9,metastatico,imunoterapia,em remissao,Potassium Chloride,7/22/2016,Hospital B,7,45
+770,Gabi Pryer,70,positivo,osteosarcoma,ossos,C20.9,metastatico,Radioterapia,estavel,Isoniazid,4/11/2015,Hospital C,2,31
+771,Suzie Romme,2,negativo,lymphoma,músculos,C34.9,inicial,Quimioterapia,grave,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",12/17/2018,Hospital A,6,15
+772,Mariya Gerlack,58,inconclusivo,lymphoma,cérebro,C20.9,avancado,imunoterapia,grave,menthol topical analgesic,10/19/2009,Hospital A,2,91
+773,Rodolph Incogna,77,inconclusivo,glioblastoma,ossos,C50.9,avancado,Radioterapia,grave,sotalol hydrochloride,2/6/2017,Hospital C,7,70
+774,Leeann Blaby,10,inconclusivo,leukemia,músculos,C61,metastatico,hormonioterapia,em remissao,Ibuprofen,4/14/2018,Hospital C,3,65
+775,Hanni Botly,86,inconclusivo,melanoma,rim,C50.9,metastatico,imunoterapia,em remissao,"Acetaminophen, Guaifenesin, and Phenylephrine Hydrochloride",4/4/2003,Hospital C,1,20
+776,Linnea Haswall,37,positivo,leukemia,coração,C61.9,metastatico,Quimioterapia,em remissao,Triamcinolone Acetonide,5/31/2007,Hospital B,6,27
+777,Rainer Finlan,18,negativo,sarcoma,músculos,C61,inicial,Cirurgia,estavel,Levothyroxine Sodium,11/29/2013,Hospital B,4,60
+778,Maritsa Peealess,32,positivo,osteosarcoma,rim,C20.9,inicial,radioterapia,estavel,"Hydrastis canadensis, Taraxacum officinale, Dopamine, L-dopa, Melatonin, Serotonin,",10/7/2004,Hospital A,3,56
+779,Winny Keyzor,37,negativo,sarcoma,pele,C61,inicial,hormonioterapia,grave,ARNICA MONTANA,6/4/2009,Hospital A,5,56
+780,Marianne Canedo,8,positivo,carcinoma,rim,C61.9,avancado,hormonioterapia,estavel,doxercalciferol,1/27/2004,Hospital A,0,81
+781,Pearla Baelde,22,inconclusivo,lymphoma,pele,C50.9,avancado,radioterapia,estavel,Heart Muscle Aid,12/15/2003,Hospital C,9,4
+782,Meredithe Ambage,77,negativo,melanoma,músculos,C61,avancado,hormonioterapia,em remissao,Olanzapine,8/8/2013,Hospital B,10,31
+783,Burl Hamberston,40,negativo,lymphoma,pele,C20.9,avancado,terapia alvo,em remissao,Tyramine,10/27/2010,Hospital C,9,49
+784,Bryana Donizeau,78,inconclusivo,sarcoma,rim,C50.9,inicial,Quimioterapia,em remissao,NIACIN,12/9/2018,Hospital B,4,52
+785,Quintana Merwood,86,inconclusivo,leukemia,músculos,C50.9,metastatico,hormonioterapia,grave,OCTINOXATE and TITANIUM DIOXIDE,11/1/2022,Hospital B,10,83
+786,Kira Creeboe,29,positivo,mesothelioma,pulmão,C34.9,avancado,Quimioterapia,grave,CHAMOMILLA PLANT,9/9/2017,Hospital B,0,60
+787,Frank Roffe,60,positivo,mesothelioma,cérebro,C61.9,inicial,Quimioterapia,grave,Valproic Acid,10/7/2005,Hospital A,7,69
+788,Fidela Harkess,14,negativo,adenocarcinoma,coração,C61.9,avancado,Cirurgia,em remissao,GUAIFENESIN,8/25/2015,Hospital A,9,53
+789,Warde Fooks,75,negativo,sarcoma,estômago,C61,metastatico,quimioterapia,em remissao,Aspirin,11/19/2013,Hospital B,3,66
+790,Tillie Spirit,24,positivo,melanoma,coração,C61.9,avancado,imunoterapia,estavel,Nateglinide,7/30/2005,Hospital A,6,49
+791,Eldin Phippen,19,inconclusivo,melanoma,intestino,C50.9,inicial,quimioterapia,grave,Phenobarbital Sodium,12/18/2007,Hospital C,3,51
+792,Ulrika Lawton,16,inconclusivo,sarcoma,rim,C61.9,metastatico,quimioterapia,em remissao,Folic Acid,5/14/2018,Hospital A,8,85
+793,Lena Kemwall,79,negativo,lymphoma,pulmão,C20.9,metastatico,Quimioterapia,grave,"Neomycin Sulfate, Polymyxin B Sulfate, and Pramoxine Hydrochloride",9/30/2016,Hospital B,9,44
+794,Tootsie Wybron,2,positivo,carcinoma,músculos,C50.9,avancado,quimioterapia,grave,potassium nitrate and sodium fluoride,7/9/2001,Hospital C,0,43
+795,Murdoch Formilli,26,positivo,glioblastoma,rim,C34.9,inicial,radioterapia,grave,"Arsenic Trioxide, Belladonna Leaf, Ipecac, Potassium Carbonate, Lobelia Inflata, Sodium Sulfate, Silicon Dioxide",4/10/2001,Hospital C,4,82
+796,Glynda Artin,2,inconclusivo,sarcoma,coração,C34.9,avancado,Quimioterapia,estavel,Fluconazole,2/23/2020,Hospital C,7,66
+797,Andromache Prover,5,positivo,melanoma,pulmão,C61,inicial,terapia alvo,estavel,Ampicillin sodium,9/26/2007,Hospital C,2,63
+798,Reidar McInnes,26,positivo,leukemia,fígado,C20.9,metastatico,radioterapia,em remissao,"Acetaminophen, DEXTROMETHORPHAN HYDROBROMIDE, and DOXYLAMINE SUCCINATE",11/17/2004,Hospital B,8,2
+799,Hadrian Rheubottom,4,inconclusivo,melanoma,músculos,C50.9,metastatico,quimioterapia,em remissao,Amitriptyline Hydrochloride,4/11/2019,Hospital B,10,79
+800,Florentia Lashbrook,67,positivo,neuroblastoma,coração,C61,metastatico,Quimioterapia,estavel,Firebush/Burning Bush,11/1/2021,Hospital A,7,18
+801,Maritsa Coppeard,21,inconclusivo,leukemia,coração,C20.9,inicial,radioterapia,estavel,Diazepam,10/10/2014,Hospital B,5,89
+802,Shepperd Janusz,75,inconclusivo,adenocarcinoma,intestino,C61.9,inicial,radioterapia,em remissao,buspirone hydrochloride,11/14/2006,Hospital B,9,78
+803,Collete Kleinerman,4,positivo,glioblastoma,pulmão,C50.9,avancado,hormonioterapia,estavel,Carisoprodol,12/1/2011,Hospital A,8,9
+804,Marten Chazelle,18,positivo,carcinoma,coração,C61.9,inicial,radioterapia,estavel,LIDOCAINE HYDROCHLORIDE ANHYDROUS and EPINEPHRINE,7/7/2010,Hospital C,10,1
+805,Brenda Zannuto,26,inconclusivo,sarcoma,intestino,C34.9,metastatico,hormonioterapia,em remissao,Isosorbide Dinitrate,9/11/2013,Hospital C,2,4
+806,Jan Rosso,74,inconclusivo,lymphoma,ossos,C61,inicial,Quimioterapia,estavel,CARBAMIDE PEROXIDE,10/12/2021,Hospital C,9,54
+807,Joanna Portal,2,inconclusivo,leukemia,estômago,C34.9,avancado,Radioterapia,estavel,Acetaminophen,6/26/2011,Hospital A,8,35
+808,Erminie Mullett,13,negativo,melanoma,pulmão,C61.9,metastatico,Radioterapia,em remissao,Levetiracetam,11/12/2022,Hospital C,1,31
+809,Dionne Rasher,4,inconclusivo,glioblastoma,cérebro,C61,metastatico,quimioterapia,estavel,"Vitamin A, Vitamin C, Vitamin D, Vitamin E, Vitamin B1, Vitamin B2, Vitamin B12, Niacin, Vitamin B6, Flouride",3/18/2022,Hospital C,9,11
+810,Winny Emmett,54,inconclusivo,lymphoma,intestino,C50.9,metastatico,quimioterapia,estavel,METFORMIN HYDROCHLORIDE,6/24/2014,Hospital A,3,57
+811,Hieronymus Battram,97,positivo,neuroblastoma,fígado,C61.9,inicial,terapia alvo,em remissao,Ergocalciferol,5/4/2000,Hospital B,3,74
+812,Whitney Neylon,11,inconclusivo,glioblastoma,intestino,C20.9,metastatico,hormonioterapia,grave,CYCLOBENZAPRINE HYDROCHLORIDE,9/11/2003,Hospital B,8,28
+813,Matti Hogben,67,inconclusivo,melanoma,estômago,C50.9,metastatico,radioterapia,estavel,temazepam,10/21/2022,Hospital C,10,71
+814,Christel Sparshott,88,inconclusivo,glioblastoma,fígado,C20.9,metastatico,Cirurgia,estavel,ropinirole,4/8/2012,Hospital B,2,83
+815,Loreen Titterrell,17,negativo,leukemia,fígado,C34.9,metastatico,Quimioterapia,grave,Nystatin and Triamcinolone Acetonide,5/18/2015,Hospital C,9,78
+816,Antin Hudless,89,negativo,osteosarcoma,intestino,C61,inicial,hormonioterapia,em remissao,Acetaminophen,6/23/2006,Hospital A,6,18
+817,Xavier Bulpitt,69,inconclusivo,leukemia,intestino,C61,avancado,Radioterapia,em remissao,"Aconitum nap., Ammonium benzoicum, Arsenicum alb., Benzoicum acidum, Bryonia, Causticum, Cinchona, Colchicum, Gnaphalium polycephalum, Iris versicolor, Kali iod., Ledum, Lithium carb., Nux vom., Phytolacca, Rhus toxicodendron, Ruta, Sambucus nig., Strychninum, Hypericum, Urtica ur.",4/25/2021,Hospital B,2,21
+818,Elbertina McCathy,35,negativo,osteosarcoma,cérebro,C34.9,inicial,hormonioterapia,estavel,Anticavity Toothpaste,11/7/2006,Hospital A,10,100
+819,Daphna Vogelein,12,negativo,mesothelioma,pele,C34.9,avancado,Cirurgia,em remissao,Flavoxate hydrochloride,9/27/2020,Hospital B,3,47
+820,Vick Wayt,98,negativo,adenocarcinoma,estômago,C61.9,inicial,terapia alvo,em remissao,Metoprolol Tartrate,8/1/2012,Hospital A,5,35
+821,Dieter Firmage,32,negativo,carcinoma,cérebro,C61,avancado,hormonioterapia,grave,"Acetaminophen, Phenylephrine HCl, Chlorpheniramine maleate",7/6/2002,Hospital A,2,44
+822,Ara Platts,72,positivo,mesothelioma,estômago,C34.9,inicial,imunoterapia,em remissao,Carvedilol,2/15/2005,Hospital A,0,82
+823,Aura Blaxton,83,inconclusivo,leukemia,coração,C61.9,metastatico,imunoterapia,em remissao,Miconazole Nitrate,12/20/2021,Hospital B,5,86
+824,Celesta Crummey,35,positivo,osteosarcoma,estômago,C61.9,avancado,Cirurgia,estavel,Valsartan and Hydrochlorothiazide,9/1/2015,Hospital A,4,99
+825,Beryl Howler,84,negativo,melanoma,coração,C34.9,avancado,quimioterapia,grave,Acetaminophen,1/28/2011,Hospital C,8,5
+826,Lezlie Bills,51,negativo,lymphoma,fígado,C61,inicial,radioterapia,em remissao,METFORMIN HYDROCHLORIDE,7/29/2006,Hospital B,9,76
+827,Cristal Olechnowicz,85,negativo,lymphoma,coração,C61.9,metastatico,imunoterapia,em remissao,Annual Blue Grass,10/22/2021,Hospital A,3,83
+828,Reuven Gilardengo,34,positivo,osteosarcoma,ossos,C61.9,avancado,quimioterapia,em remissao,TOPIRAMATE,3/4/2017,Hospital B,5,52
+829,Ethe Robarts,47,negativo,glioblastoma,estômago,C34.9,metastatico,radioterapia,estavel,Griseofulvin,3/20/2009,Hospital C,3,74
+830,Lauri Simonini,94,inconclusivo,adenocarcinoma,ossos,C20.9,avancado,Cirurgia,em remissao,Cefdinir,7/4/2009,Hospital B,2,9
+831,Leonelle Roney,63,negativo,neuroblastoma,rim,C61,avancado,hormonioterapia,em remissao,sodium fluoride,12/19/2006,Hospital C,6,20
+832,Ardeen Ertelt,12,negativo,glioblastoma,pulmão,C20.9,inicial,Radioterapia,em remissao,White Sweet Clover,11/18/2018,Hospital C,3,67
+833,Elton Bachanski,80,positivo,sarcoma,intestino,C20.9,metastatico,imunoterapia,estavel,Naproxen Sodium,3/20/2001,Hospital B,1,96
+834,Enid Powers,4,positivo,sarcoma,estômago,C50.9,inicial,imunoterapia,estavel,Oxygen,2/11/2006,Hospital B,5,65
+835,Erie Hulland,27,negativo,melanoma,pele,C61,metastatico,radioterapia,estavel,zinc oxide and dimethicone,3/31/2022,Hospital B,0,78
+836,Chanda Schubart,89,positivo,adenocarcinoma,estômago,C20.9,avancado,hormonioterapia,grave,Exametazime,10/31/2014,Hospital A,0,50
+837,Giulietta Coda,22,positivo,sarcoma,pulmão,C61,avancado,radioterapia,estavel,ALCOHOL,3/26/2019,Hospital B,6,82
+838,Brana McAreavey,33,positivo,lymphoma,estômago,C50.9,avancado,Quimioterapia,estavel,"CAMPHOR (NATURAL), MENTHOL",6/11/2012,Hospital B,7,82
+839,Bartie Joire,87,positivo,leukemia,pulmão,C20.9,avancado,radioterapia,em remissao,Lisinopril,1/29/2018,Hospital C,2,12
+840,Zacharia Avrahamy,49,negativo,neuroblastoma,rim,C50.9,inicial,terapia alvo,estavel,Privet,11/13/2008,Hospital C,5,73
+841,Rawley Tylor,50,negativo,mesothelioma,estômago,C61.9,avancado,Cirurgia,estavel,ALCOHOL,7/13/2012,Hospital C,9,90
+842,Marja Lucus,26,positivo,osteosarcoma,fígado,C34.9,inicial,terapia alvo,estavel,Cefprozil,1/12/2018,Hospital B,5,86
+843,Jilli Lippiello,24,inconclusivo,mesothelioma,ossos,C61.9,inicial,radioterapia,estavel,Octinoxate and Oxybenzone,2/16/2017,Hospital A,5,29
+844,Jacinthe le Keux,61,negativo,glioblastoma,cérebro,C61,inicial,imunoterapia,em remissao,Doxepin Hydrochloride,1/19/2004,Hospital C,3,98
+845,Matthiew De Ath,45,positivo,adenocarcinoma,intestino,C61.9,inicial,Cirurgia,em remissao,Chinese Elm,1/23/2007,Hospital B,2,53
+846,Robbin Dowbekin,57,inconclusivo,neuroblastoma,coração,C61,metastatico,terapia alvo,grave,letrozole,5/10/2006,Hospital A,10,9
+847,Teresa Brennand,41,positivo,melanoma,coração,C61.9,avancado,hormonioterapia,em remissao,TITANIUM DIOXIDE,10/20/2011,Hospital A,6,47
+848,Morry Megany,46,negativo,melanoma,coração,C34.9,avancado,Cirurgia,grave,Fluoxetine Hydrochloride,3/24/2019,Hospital C,8,13
+849,Ganny Woodcraft,11,inconclusivo,adenocarcinoma,estômago,C61.9,avancado,Cirurgia,grave,Doxycycline hyclate,1/18/2016,Hospital C,1,78
+850,Carmella Lamberth,97,inconclusivo,adenocarcinoma,pulmão,C50.9,inicial,Cirurgia,em remissao,HYDRALAZINE HYDROCHLORIDE,4/10/2010,Hospital C,0,55
+851,Aile Colebeck,72,inconclusivo,carcinoma,ossos,C20.9,inicial,Quimioterapia,em remissao,"Octinoxate, Oxybenzone, Titanium Dioxide",10/21/2016,Hospital A,1,27
+852,Devin Oertzen,74,negativo,glioblastoma,pulmão,C61.9,inicial,quimioterapia,estavel,strawberry,8/1/2007,Hospital B,8,87
+853,Gill Bilbrey,8,negativo,neuroblastoma,ossos,C20.9,metastatico,hormonioterapia,grave,Metronidazole,10/2/2009,Hospital A,0,84
+854,Megan Grumell,81,negativo,adenocarcinoma,estômago,C50.9,inicial,hormonioterapia,estavel,triclosan,1/1/2008,Hospital C,3,37
+855,Gabe Spinella,92,inconclusivo,sarcoma,ossos,C50.9,metastatico,radioterapia,grave,Clomipramine Hydrochloride,2/14/2015,Hospital B,6,81
+856,Ariel Derrington,74,inconclusivo,lymphoma,intestino,C50.9,avancado,radioterapia,em remissao,Lanolin and Petrolatum,7/28/2015,Hospital C,2,87
+857,Joana Spring,84,negativo,mesothelioma,intestino,C34.9,inicial,imunoterapia,grave,Triclosan,5/9/2006,Hospital A,8,17
+858,Perri Pocknoll,6,inconclusivo,adenocarcinoma,ossos,C34.9,metastatico,terapia alvo,grave,LANOLIN,1/8/2022,Hospital C,3,70
+859,Leigha Duly,35,negativo,mesothelioma,rim,C61,metastatico,hormonioterapia,estavel,diphenhydramine hydrochloride,5/22/2005,Hospital C,10,20
+860,Engelbert Brattell,40,negativo,mesothelioma,estômago,C20.9,metastatico,terapia alvo,grave,Colloidal Oatmeal,1/27/2003,Hospital B,2,64
+861,Stepha Lengthorn,99,positivo,leukemia,ossos,C61,metastatico,terapia alvo,grave,Levonorgestrel and Ethinyl Estradiol,1/9/2013,Hospital A,7,42
+862,Tybi Krink,25,positivo,sarcoma,coração,C50.9,avancado,quimioterapia,grave,"Calendula Officinalis Flowering Top, Comfrey Root, Arnica Montana, Bellis Perennis, Bryonia Alba Root, Hypericum Perforatum, Ledum Palustre Twig, Phosphorus, Toxicodendron Pubescens Leaf, Ruta Graveolens Flowering Top, Delphinium Staphisagria Seed, Rancid Beef",1/11/2008,Hospital C,6,78
+863,Isabelita Colquitt,86,positivo,melanoma,intestino,C20.9,metastatico,hormonioterapia,estavel,Warfarin Sodium,4/22/2000,Hospital C,1,41
+864,Tommie Ranscomb,35,inconclusivo,adenocarcinoma,fígado,C50.9,inicial,imunoterapia,estavel,venlafaxine,4/5/2002,Hospital B,2,71
+865,Becka Loughran,35,negativo,sarcoma,cérebro,C61,metastatico,terapia alvo,grave,SULFUR,3/8/2020,Hospital A,0,55
+866,Georgeta Jados,78,positivo,leukemia,músculos,C50.9,metastatico,hormonioterapia,em remissao,Wingscale,5/13/2001,Hospital B,5,36
+867,Elladine Sansom,24,inconclusivo,lymphoma,estômago,C61.9,inicial,quimioterapia,grave,Miconazole Nitrate,3/9/2018,Hospital A,5,9
+868,Pearle Adamek,20,inconclusivo,neuroblastoma,pulmão,C61.9,inicial,Quimioterapia,grave,Menthol Camphor,3/29/2011,Hospital B,6,15
+869,Katerine MattiCCI,63,inconclusivo,osteosarcoma,fígado,C20.9,avancado,imunoterapia,em remissao,Trazodone Hydrochloride,11/10/2021,Hospital A,6,61
+870,Boyce O'Hoey,6,inconclusivo,mesothelioma,intestino,C20.9,avancado,quimioterapia,estavel,AMLODIPINE BESYLATE,1/25/2012,Hospital B,1,60
+871,Reggie Manford,30,inconclusivo,glioblastoma,ossos,C61.9,avancado,radioterapia,em remissao,Atorvastatin Calcium,8/7/2019,Hospital B,1,81
+872,Nicolle Slocket,76,negativo,leukemia,estômago,C50.9,metastatico,Cirurgia,grave,cyclobenzaprine hydrochloride,2/10/2014,Hospital A,5,22
+873,Carrie Fansy,54,negativo,osteosarcoma,cérebro,C50.9,avancado,hormonioterapia,grave,Promethazine Hydrochloride,5/27/2021,Hospital B,5,70
+874,Tobe Guye,87,negativo,leukemia,ossos,C50.9,metastatico,radioterapia,estavel,Fluocinonide,6/19/2020,Hospital B,5,19
+875,Jeramey Ciccottini,9,inconclusivo,lymphoma,intestino,C20.9,inicial,imunoterapia,estavel,LEVOTHYROXINE SODIUM,10/8/2020,Hospital A,6,38
+876,Sigismondo Feore,87,negativo,adenocarcinoma,pulmão,C61.9,inicial,terapia alvo,grave,oxygen,8/16/2015,Hospital C,4,44
+877,Max Kerwick,42,positivo,melanoma,pulmão,C61.9,inicial,Quimioterapia,grave,"SODIUM CHLORIDE, SODIUM GLUCONATE, SODIUM ACETATE, POTASSIUM CHLORIDE, MAGNESIUM CHLORIDE, SODIUM PHOSPHATE, DIBASIC, and POTASSIUM PHOSPHATE",10/22/2002,Hospital B,2,39
+878,Pandora Thorius,45,negativo,leukemia,coração,C50.9,metastatico,hormonioterapia,em remissao,febuxostat,4/23/2007,Hospital B,5,85
+879,Jenni Goude,63,positivo,carcinoma,pele,C50.9,inicial,Cirurgia,grave,Valacyclovir Hydrochloride,12/10/2020,Hospital A,4,3
+880,Demetris MacMechan,38,inconclusivo,osteosarcoma,fígado,C34.9,avancado,terapia alvo,grave,Alcohol,10/11/2009,Hospital A,5,88
+881,Virginie Botton,50,inconclusivo,mesothelioma,rim,C50.9,avancado,imunoterapia,estavel,"Serotonin,",11/26/2002,Hospital B,1,58
+882,Kaitlynn Tabner,43,positivo,carcinoma,pulmão,C20.9,avancado,Cirurgia,estavel,Purified Water 98.3%,10/19/2021,Hospital A,7,22
+883,Armando Eveling,27,positivo,osteosarcoma,pele,C34.9,inicial,quimioterapia,grave,Fentanyl Citrate,11/8/2001,Hospital A,0,82
+884,Wylma Bengal,87,positivo,lymphoma,ossos,C20.9,metastatico,imunoterapia,em remissao,salicylic acid,6/30/2021,Hospital B,5,94
+885,Arlee Rate,61,negativo,carcinoma,ossos,C20.9,metastatico,quimioterapia,estavel,Desipramine Hydrochloride,4/9/2014,Hospital B,3,12
+886,Kippar Peasegod,21,inconclusivo,mesothelioma,cérebro,C50.9,avancado,Cirurgia,grave,oxybutynin chloride,1/17/2021,Hospital C,9,43
+887,Desiri Brunner,43,inconclusivo,adenocarcinoma,fígado,C61.9,avancado,imunoterapia,estavel,Ibuprofen,2/26/2006,Hospital B,2,40
+888,Kizzie Capron,65,inconclusivo,lymphoma,ossos,C61.9,inicial,Quimioterapia,em remissao,Mepivacaine Hydrochloride,2/7/2022,Hospital A,5,74
+889,Olivier Forder,49,negativo,neuroblastoma,coração,C50.9,avancado,Cirurgia,grave,Isoniazid,6/12/2019,Hospital B,2,77
+890,Sim Howling,6,inconclusivo,glioblastoma,ossos,C34.9,avancado,Quimioterapia,estavel,Clonazepam,2/18/2001,Hospital B,5,62
+891,Bernie Butte,2,negativo,leukemia,estômago,C34.9,inicial,terapia alvo,grave,Fluocinonide,12/26/2021,Hospital A,9,1
+892,Crawford Oaten,62,negativo,neuroblastoma,pulmão,C50.9,inicial,imunoterapia,estavel,Sulfamethoxazole and Trimethoprim,2/4/2022,Hospital B,10,87
+893,Elsa Bloy,56,positivo,neuroblastoma,cérebro,C50.9,inicial,hormonioterapia,estavel,Sodium Fluoride,10/1/2006,Hospital A,1,100
+894,Bellanca Shawel,28,inconclusivo,lymphoma,coração,C50.9,metastatico,Radioterapia,em remissao,ALCOHOL,4/29/2006,Hospital B,3,10
+895,Durant Thompsett,71,inconclusivo,adenocarcinoma,intestino,C20.9,inicial,Quimioterapia,estavel,Carisoprodol,3/25/2005,Hospital B,10,54
+896,Terra Filipychev,90,negativo,sarcoma,pele,C61,avancado,Radioterapia,estavel,SALICYLIC ACID,7/26/2022,Hospital A,7,66
+897,Jenni Nicholls,67,positivo,leukemia,intestino,C34.9,avancado,Radioterapia,grave,Hemorrhoidal,3/28/2021,Hospital A,0,54
+898,Sibelle Keble,71,inconclusivo,neuroblastoma,pele,C61,inicial,Quimioterapia,em remissao,Aluminum Chlorohydrate,11/26/2015,Hospital B,10,53
+899,Bailie Attrill,52,negativo,lymphoma,fígado,C61.9,inicial,quimioterapia,em remissao,DIMETHICONE,2/28/2011,Hospital C,4,74
+900,Elvina Cushelly,54,positivo,mesothelioma,pulmão,C34.9,avancado,hormonioterapia,estavel,Ibuprofen,12/21/2006,Hospital B,9,99
+901,Elroy Darben,2,negativo,mesothelioma,coração,C61.9,inicial,Quimioterapia,estavel,Hydrocodone Bitartrate and Acetaminophen,8/11/2001,Hospital A,5,18
+902,Bud Yuryev,15,positivo,neuroblastoma,estômago,C61.9,avancado,Radioterapia,grave,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",3/1/2004,Hospital A,9,15
+903,Bobbee Pettwood,31,negativo,glioblastoma,pele,C61,avancado,hormonioterapia,em remissao,Oxygen,4/21/2018,Hospital C,1,29
+904,Huberto Perren,15,negativo,glioblastoma,ossos,C61.9,metastatico,Quimioterapia,em remissao,ARMODAFINIL,11/2/2002,Hospital A,10,93
+905,Inesita De Meyer,96,inconclusivo,glioblastoma,cérebro,C61.9,avancado,quimioterapia,em remissao,Sulfamethoxazole and Trimethoprim,12/20/2005,Hospital B,3,15
+906,Dodie O'Haire,92,positivo,mesothelioma,pulmão,C61,inicial,Cirurgia,em remissao,Oxygen,4/28/2002,Hospital C,4,32
+907,Cly Garnson,25,positivo,carcinoma,cérebro,C20.9,avancado,Cirurgia,estavel,Cetirizine Hydrochloride,4/15/2020,Hospital B,7,91
+908,Andrea Baugh,48,inconclusivo,melanoma,ossos,C20.9,metastatico,radioterapia,estavel,BENZOYL PEROXIDE,12/9/2001,Hospital C,3,25
+909,Dale Waber,49,negativo,lymphoma,intestino,C50.9,metastatico,Cirurgia,em remissao,brinzolamide,12/14/2007,Hospital C,5,100
+910,Clemente Menloe,70,inconclusivo,melanoma,cérebro,C61,metastatico,radioterapia,grave,benzocaine,5/27/2013,Hospital B,3,4
+911,Shaine Atyeo,35,inconclusivo,neuroblastoma,fígado,C50.9,metastatico,Radioterapia,grave,Isopropyl alcohol,11/2/2010,Hospital A,3,10
+912,Kristel Glew,42,negativo,sarcoma,cérebro,C61,metastatico,hormonioterapia,estavel,Cefotaxime,2/12/2012,Hospital C,10,54
+913,Tanhya Chesnay,68,positivo,mesothelioma,rim,C61.9,avancado,Quimioterapia,estavel,Sertraline Hydrochloride,6/26/2001,Hospital A,9,95
+914,Fredia Foxen,70,positivo,osteosarcoma,pulmão,C20.9,metastatico,hormonioterapia,grave,Divalproex Sodium,10/20/2000,Hospital A,10,53
+915,Jewel Foulgham,56,negativo,osteosarcoma,rim,C61,avancado,terapia alvo,estavel,"ZINC OXIDE, OCTINOXATE, and OCTISALATE",10/1/2015,Hospital B,10,72
+916,Lanie Baudacci,43,negativo,adenocarcinoma,fígado,C61,inicial,Cirurgia,estavel,EQUUS CABALLUS SKIN,12/23/2005,Hospital A,4,10
+917,Dene Ganny,10,inconclusivo,glioblastoma,coração,C20.9,inicial,terapia alvo,em remissao,Levetiracetam,11/24/2022,Hospital C,3,48
+918,Fredrick Stellin,44,inconclusivo,melanoma,rim,C61,avancado,Cirurgia,grave,Morphine Sulfate,11/23/2002,Hospital B,4,49
+919,Jewelle Scoullar,86,inconclusivo,glioblastoma,rim,C50.9,inicial,Cirurgia,em remissao,Aluminum Sesquichlorohydrate,9/29/2008,Hospital A,2,55
+920,Amory Livezley,92,negativo,sarcoma,pulmão,C50.9,metastatico,terapia alvo,grave,Metformin Hydrochloride,6/12/2013,Hospital A,5,72
+921,Antonio Royl,100,positivo,melanoma,cérebro,C61,inicial,imunoterapia,em remissao,Meloxicam,7/23/2005,Hospital C,1,7
+922,Sauveur Brodie,79,negativo,carcinoma,rim,C20.9,inicial,radioterapia,em remissao,Clindamycin Hydrochloride,1/7/2004,Hospital A,10,99
+923,Nydia Thurlbourne,10,inconclusivo,carcinoma,cérebro,C50.9,inicial,radioterapia,em remissao,"Homosalate, Octocrylene, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicilate, Titanium Dioxide",12/2/2013,Hospital A,3,40
+924,Harlin Toland,30,positivo,neuroblastoma,cérebro,C20.9,metastatico,quimioterapia,grave,"Arsenicum album, Baptisia tinctoria, Berberis vulgaris, Bryonia, Carduus marianus, Chelidonium majus, Chionanthus virginica, Cinchona officinalis, Lycopodium clavatum Manganum muriaticum, Natrum sulphuricum, Nux vomica, Phosphorus, Sulphur, Taraxacum officinale",9/30/2004,Hospital A,9,52
+925,Cam Lazonby,95,positivo,carcinoma,intestino,C34.9,avancado,Quimioterapia,em remissao,Pseudoephedrine Hydrochloride,6/2/2006,Hospital A,5,37
+926,Olivie Bernardoni,59,positivo,neuroblastoma,coração,C20.9,avancado,hormonioterapia,estavel,Hydrochlorothiazide,9/2/2013,Hospital B,3,80
+927,Rodie Lawrenceson,85,inconclusivo,neuroblastoma,pulmão,C34.9,inicial,Quimioterapia,grave,ethyl alcohol,10/24/2022,Hospital A,3,80
+928,Natala Killock,46,negativo,leukemia,pele,C61.9,avancado,Radioterapia,em remissao,Anti-bacterial Hand Wash,8/30/2020,Hospital C,7,88
+929,Jasper Corner,80,positivo,osteosarcoma,músculos,C20.9,metastatico,terapia alvo,em remissao,ATORVASTATIN CALCIUM,8/14/2011,Hospital B,7,96
+930,Letti Braznell,61,positivo,adenocarcinoma,ossos,C50.9,avancado,Quimioterapia,em remissao,Treatment Set TS339185,3/16/2001,Hospital C,7,1
+931,Husein Borel,17,inconclusivo,osteosarcoma,pele,C50.9,metastatico,Quimioterapia,estavel,Paroxetine,8/21/2019,Hospital B,6,88
+932,Vinita Reubel,8,negativo,neuroblastoma,ossos,C61,inicial,Radioterapia,grave,STRYCHNOS IGNATII SEED,5/3/2018,Hospital B,8,42
+933,Husein Higgan,80,inconclusivo,lymphoma,pele,C61.9,metastatico,radioterapia,grave,Burr Oak,4/20/2004,Hospital A,3,9
+934,Selby Oganian,30,inconclusivo,leukemia,fígado,C34.9,inicial,Cirurgia,em remissao,URSODIOL,8/8/2003,Hospital A,8,99
+935,Darbee Tythacott,38,negativo,melanoma,pulmão,C50.9,inicial,quimioterapia,estavel,Calcium Acetate,4/19/2008,Hospital A,7,84
+936,Rutger Arno,6,inconclusivo,glioblastoma,cérebro,C61.9,inicial,Quimioterapia,grave,Warfarin Sodium,10/10/2021,Hospital C,10,70
+937,Sharia Tattershall,5,positivo,osteosarcoma,estômago,C50.9,inicial,terapia alvo,estavel,Metoprolol Succinate,12/8/2002,Hospital C,1,73
+938,Fran Akenhead,42,negativo,glioblastoma,intestino,C34.9,inicial,radioterapia,grave,Gabapentin,2/17/2017,Hospital C,8,12
+939,Cornelia Bleackly,11,positivo,osteosarcoma,fígado,C20.9,avancado,quimioterapia,estavel,vecuronium bromide,4/4/2014,Hospital C,3,64
+940,Trent Hughlin,66,inconclusivo,melanoma,cérebro,C61.9,metastatico,Quimioterapia,em remissao,Bupropion hydrochloride,8/22/2011,Hospital C,4,85
+941,Karee Aberkirder,94,negativo,melanoma,coração,C50.9,metastatico,terapia alvo,em remissao,ALCOHOL,4/19/2020,Hospital A,7,82
+942,Brianna Audritt,16,negativo,osteosarcoma,fígado,C50.9,inicial,radioterapia,estavel,"niacinamide, folic acid, zinc oxide and cupric oxide",5/21/2010,Hospital C,9,1
+943,Imojean Thorneley,65,inconclusivo,adenocarcinoma,rim,C61,metastatico,terapia alvo,grave,Triclosan,12/7/2008,Hospital A,0,14
+944,Tabina Kleinstub,79,negativo,leukemia,rim,C61,inicial,hormonioterapia,estavel,Acacia,6/5/2012,Hospital B,8,89
+945,Madlen Ankrett,59,inconclusivo,sarcoma,pele,C61.9,avancado,imunoterapia,em remissao,Metoprolol Tartrate,11/18/2015,Hospital A,3,53
+946,Natka Zecchii,20,inconclusivo,carcinoma,pulmão,C20.9,avancado,imunoterapia,estavel,Alcohol,1/16/2016,Hospital C,8,39
+947,Dinnie Lumbly,3,positivo,melanoma,intestino,C34.9,avancado,terapia alvo,estavel,Treatment Set TS331802,3/9/2003,Hospital C,8,95
+948,Rochette Hutson,28,negativo,neuroblastoma,pulmão,C61.9,avancado,radioterapia,estavel,Miconazole Nitrate,6/26/2009,Hospital B,6,20
+949,Bartolemo Skitt,13,inconclusivo,leukemia,músculos,C61,metastatico,hormonioterapia,em remissao,modafinil,9/7/2020,Hospital A,9,31
+950,Angelico Mac Giany,69,inconclusivo,osteosarcoma,pele,C20.9,metastatico,hormonioterapia,em remissao,Simvastatin,7/4/2005,Hospital A,5,1
+951,Neala Molian,63,positivo,glioblastoma,músculos,C50.9,inicial,hormonioterapia,em remissao,MORPHINE SULFATE,11/8/2007,Hospital A,7,73
+952,Tabby Stive,47,negativo,sarcoma,fígado,C61.9,inicial,Cirurgia,estavel,Smooth Brome,2/27/2020,Hospital A,0,2
+953,Bernetta Pacey,32,negativo,melanoma,ossos,C61,metastatico,Cirurgia,estavel,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",5/6/2003,Hospital C,4,96
+954,Preston Maddicks,39,negativo,carcinoma,pele,C61,avancado,quimioterapia,estavel,SODIUM MONOFLUOROPHOSPHATE,9/30/2020,Hospital B,10,84
+955,Brodie Tinn,74,positivo,mesothelioma,pele,C61,avancado,Cirurgia,estavel,"OCTINOXATE, ZINC OXIDE",11/10/2018,Hospital B,9,64
+956,Brockie Dmtrovic,65,negativo,osteosarcoma,músculos,C61.9,metastatico,Cirurgia,grave,warfarin sodium,10/25/2003,Hospital C,9,23
+957,Lionello Gasken,95,negativo,neuroblastoma,músculos,C34.9,metastatico,Cirurgia,em remissao,"Eucalyptol, menthol, methyl salicylate, thymol",12/14/2004,Hospital A,4,23
+958,Anetta McCart,39,inconclusivo,melanoma,ossos,C34.9,inicial,hormonioterapia,grave,Menthol,3/11/2000,Hospital C,2,39
+959,Gisella McCanny,57,inconclusivo,carcinoma,estômago,C20.9,avancado,hormonioterapia,estavel,paroxetine hydrochloride,9/30/2005,Hospital B,9,7
+960,Rosita Mebes,65,negativo,glioblastoma,estômago,C61,avancado,quimioterapia,grave,Aluminum Zirconium Tetrachlorohydrex GLY,3/1/2012,Hospital C,3,50
+961,Waylon Marwick,53,negativo,leukemia,músculos,C20.9,inicial,terapia alvo,em remissao,DIMENHYDRINATE,8/11/2022,Hospital B,9,74
+962,Gabie Neate,82,inconclusivo,neuroblastoma,pele,C50.9,metastatico,hormonioterapia,grave,BENZALKONIUM CHLORIDE,6/2/2011,Hospital B,7,91
+963,Kira Cullity,39,inconclusivo,melanoma,cérebro,C20.9,inicial,radioterapia,estavel,Doxycycline Hyclate,1/21/2000,Hospital B,10,95
+964,Gerek De Leek,88,inconclusivo,carcinoma,cérebro,C61,inicial,imunoterapia,estavel,repaglinide,3/10/2014,Hospital C,10,60
+965,Chastity Eldershaw,93,negativo,lymphoma,ossos,C61.9,metastatico,radioterapia,grave,Ethyl Alcohol,11/22/2021,Hospital C,4,12
+966,Ario Gloucester,36,negativo,lymphoma,pulmão,C34.9,avancado,terapia alvo,em remissao,Zinc Oxide,3/26/2020,Hospital C,3,7
+967,Graehme Elles,4,positivo,glioblastoma,rim,C61.9,avancado,Quimioterapia,em remissao,Lidocaine Hydrochloride,1/4/2003,Hospital B,3,42
+968,Kippar Crux,8,negativo,sarcoma,rim,C20.9,avancado,quimioterapia,estavel,Escitalopram Oxalate,7/16/2004,Hospital B,4,28
+969,Mame Treleven,45,negativo,mesothelioma,cérebro,C61,avancado,Quimioterapia,estavel,Nystatin,9/7/2012,Hospital B,5,68
+970,Cece Harms,97,positivo,glioblastoma,estômago,C61,inicial,Radioterapia,estavel,"Acetaminophen, Caffeine, Pyrilamine maleate",8/20/2010,Hospital C,9,49
+971,Cathrin Shorrock,98,positivo,lymphoma,intestino,C50.9,inicial,Quimioterapia,grave,DIPYRIDAMOLE,8/16/2021,Hospital C,0,33
+972,Fey Tidmas,72,inconclusivo,osteosarcoma,rim,C61.9,inicial,terapia alvo,estavel,alendronate sodium,1/31/2006,Hospital A,3,83
+973,Dorree Snoad,59,negativo,glioblastoma,músculos,C34.9,inicial,Cirurgia,estavel,Treatment Set TS329162,2/20/2015,Hospital B,9,17
+974,Gayle MacGillreich,43,positivo,sarcoma,intestino,C34.9,avancado,Quimioterapia,grave,Ibuprofen,11/6/2015,Hospital A,2,48
+975,Eliot Reinard,38,positivo,osteosarcoma,cérebro,C20.9,metastatico,terapia alvo,grave,Baclofen,11/30/2011,Hospital B,5,81
+976,Clerissa Kivelhan,100,positivo,melanoma,ossos,C61,avancado,terapia alvo,estavel,"Acetaminophen, Phenylephrine HCl",1/20/2015,Hospital B,7,95
+977,Clair Durbann,33,negativo,mesothelioma,coração,C50.9,metastatico,Cirurgia,em remissao,"GUAIFENESIN, PHENYLEPHRINE HCL,DEXTROMETHORPHAN HYDROBROMIDE",3/21/2021,Hospital C,6,35
+978,Daryl Challicombe,41,inconclusivo,adenocarcinoma,pulmão,C50.9,metastatico,hormonioterapia,estavel,Titanium Dioxide,5/12/2003,Hospital C,9,15
+979,Shanan Curedell,76,inconclusivo,melanoma,pulmão,C34.9,avancado,radioterapia,estavel,"Cedar, Mountain Juniperus ashei",7/16/2000,Hospital B,0,61
+980,Darrell Shadfourth,40,negativo,carcinoma,estômago,C34.9,avancado,radioterapia,grave,camphor and menthol,11/29/2001,Hospital B,7,95
+981,Den Redington,43,inconclusivo,glioblastoma,intestino,C20.9,inicial,Quimioterapia,grave,ATORVASTATIN CALCIUM,6/20/2013,Hospital C,9,75
+982,Christine Chillcot,9,negativo,lymphoma,coração,C61,inicial,Cirurgia,grave,"Calc phos, Kali sulph, Nat sulphuricum",3/4/2019,Hospital B,10,36
+983,Tate Pippin,99,positivo,leukemia,estômago,C34.9,avancado,Cirurgia,em remissao,ZINC OXIDE AND TITANIUM DIOXIDE,1/19/2015,Hospital B,8,29
+984,Brigg Davio,85,negativo,leukemia,estômago,C20.9,inicial,imunoterapia,em remissao,Sevoflurane,10/18/2005,Hospital A,2,57
+985,Alfons Winchester,63,inconclusivo,melanoma,fígado,C20.9,inicial,radioterapia,grave,Tree Mix 6,4/29/2000,Hospital B,2,39
+986,Bentlee Picken,21,negativo,neuroblastoma,intestino,C50.9,avancado,Radioterapia,grave,Triamterene and Hydrochlorothiazide,7/11/2022,Hospital B,4,56
+987,Charley Pendergrast,4,inconclusivo,sarcoma,pulmão,C20.9,inicial,quimioterapia,grave,Hydrocodone Bitartrate and Acetaminophen,12/21/2009,Hospital C,6,50
+988,Hyman Karpeev,23,positivo,mesothelioma,fígado,C50.9,metastatico,quimioterapia,grave,flurbiprofen sodium,3/27/2015,Hospital B,1,87
+989,Andree Croxley,9,inconclusivo,leukemia,coração,C61.9,inicial,Radioterapia,em remissao,Molds - Trichophyton Mix,4/17/2018,Hospital C,9,56
+990,Cindelyn Vousden,41,negativo,sarcoma,fígado,C61,inicial,hormonioterapia,estavel,TECHNETIUM TC-99M SODIUM PERTECHNETATE,6/29/2019,Hospital A,0,16
+991,Carly Hotchkin,31,positivo,sarcoma,ossos,C61,inicial,Cirurgia,em remissao,"TITANIUM DIOXIDE, ZINC OXIDE",12/17/2007,Hospital A,6,81
+992,Carly Brigman,13,negativo,glioblastoma,fígado,C61,metastatico,Quimioterapia,em remissao,ACETAMINOPHEN,7/4/2011,Hospital B,8,75
+993,Dulci De Meis,19,positivo,sarcoma,cérebro,C50.9,avancado,terapia alvo,em remissao,"Citrus Limonum, Echinacea, Scrophularia Nodosa, Teucrium Scorodonia, Baptisia Tinctoria, Lobelia Inflata, Phytolacca Decandra",11/29/2013,Hospital B,2,60
+994,Bridie Millichap,35,inconclusivo,glioblastoma,coração,C61.9,inicial,Cirurgia,grave,"HOMOSALATE, OXYBENZONE, OCTISALATE, and AVOBENZONE",3/24/2017,Hospital C,6,55
+995,Alberta Beadles,9,inconclusivo,sarcoma,fígado,C50.9,inicial,quimioterapia,em remissao,BENZALKONIUM CHLORIDE,9/30/2021,Hospital B,3,81
+996,Dorita Bowe,100,positivo,carcinoma,pele,C20.9,metastatico,Cirurgia,em remissao,phenylephrine hydrochloride,5/7/2004,Hospital A,10,18
+997,Marten Attryde,68,inconclusivo,mesothelioma,coração,C20.9,inicial,quimioterapia,grave,IBANDRONATE SODIUM,12/27/2002,Hospital A,2,72
+998,Lita Freear,4,inconclusivo,glioblastoma,músculos,C34.9,avancado,Cirurgia,em remissao,Aluminum Zirconium Tetrachlorohydrex GLY,5/20/2018,Hospital A,6,70
+999,Robinett Sandon,98,inconclusivo,sarcoma,fígado,C34.9,inicial,terapia alvo,estavel,Camphor and Menthol and Methyl Salicylate,3/9/2011,Hospital B,3,70
+1000,Prentice Meni,3,inconclusivo,lymphoma,cérebro,C20.9,metastatico,Cirurgia,em remissao,Hydrocortisone,6/13/2008,Hospital A,5,46

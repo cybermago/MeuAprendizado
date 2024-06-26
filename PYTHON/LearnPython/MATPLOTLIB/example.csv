@@ -1,0 +1,101 @@
+id,nome,device,device_date,modelo,money,credit,code,moeda
+1,Rolfe Eat,Feature phone,2006,Sony Ericsson K610,$4.73,676736353819285504,EUR,Euro
+2,Catherine Labern,Feature phone,0,Amoi M33,$7.67,3583514052793832,PHP,Peso
+3,Tobe Lethibridge,"Android 10, HIOS 6.0",2020,Tecno Pouvoir 4,$9.12,201796807869698,EUR,Euro
+4,Julianne Bottomore,Feature phone,2003,Mitsubishi M330,$4.51,3554246518414530,COP,Peso
+5,Sigvard Orrett,Feature phone,2005,O2 X7,$2.46,3573704751727254,HRK,Kuna
+6,Dorelle Descroix,Android 9.0,2019,BLU G5 Plus,$3.41,5602240844815830,MYR,Ringgit
+7,Brett Pallesen,Android 6.0,2016,Lenovo Yoga Tab 3 Pro,$7.81,5893687230403419613,BRL,Real
+8,Nessi Gomes,Android 4.0,0,HTC Primo,$3.64,3535993299082655,PHP,Peso
+9,Kaye Portis,"Android 6.0.1, up to 7.1.1",2016,Lenovo Yoga Tab 3 Plus,$2.10,5007668654544309,RUB,Ruble
+10,Ellen Clappison,Android 7.0,2018,Tecno Phantom 8,$1.92,3553739484248834,CAD,Dollar
+11,Benton Fausch,Android 4.2,2013,Gionee Pioneer P2,$9.88,6393867062631621,IDR,Rupiah
+12,Nathanial Cahalan,"Android 4.0.4, upgrad&#1072;ble to 4.3",2012,Sony Xperia T,$1.58,5142293447180000,BRL,Real
+13,Fayette Corneliussen,Android 4.4.2,2015,QMobile Noir X60,$2.31,5159395120054269,MXN,Peso
+14,Larina Radborn,Feature phone,2011,alcatel OT-810,$8.33,6373510025732581,CNY,Yuan Renminbi
+15,Melodie Mallall,Feature phone,2009,ZTE F870,$4.07,3554198635184977,PEN,Sol
+16,Lynea Blakeway,Android 8.1,2018,Yezz Max 1,$7.93,3528752509460864,DOP,Peso
+17,Marla Karim,Microsoft Windows Mobile 6.5 Professional,2009,HTC Touch Diamond2 CDMA,$9.90,3535961192890193,USD,Dollar
+18,Barth McFie,Feature phone,2003,Motorola E365,$1.75,4041594210163,EUR,Euro
+19,Tybie Decker,Feature phone,2005,alcatel OT-S853,$9.26,3544582756117671,EUR,Euro
+20,Kiersten Trapp,Android 2.3.5,2012,Celkon A88,$0.34,3581926335837529,EUR,Euro
+21,Shem Sinnatt,Feature phone,2006,LG U400,$3.17,3588259367598949,THB,Baht
+22,Willa Nelissen,Android 4.2.2,2014,Celkon C720,$5.60,3554086047757433,SEK,Krona
+23,Erminie Nell,Android 6.0.1,2016,Motorola Moto M,$3.40,3561917286673553,SYP,Pound
+24,Launce Utting,Feature phone,2004,Philips 659,$3.55,3569568849407849,EUR,Euro
+25,Constancy Polson,"Android 4.4.4, MIUI 6.0",2015,Xiaomi Redmi 2,$2.73,3589644575046246,PHP,Peso
+26,Brocky Diem,Feature phone,2013,Samsung Rex 80 S5222R,$9.74,201437806548781,RUB,Ruble
+27,Burton Gianilli,Palm webOS,2009,Palm Pre,$2.39,3578953072677194,ZAR,Rand
+28,Dwight Belfit,"Android-based, OMS 2.5",2011,Motorola MOTO MT620,$4.94,3551134555794019,BDT,Taka
+29,Anstice Jewell,"Symbian 9.1, UIQ 3.0",2007,Sony Ericsson W960,$4.79,6304841118251328,CNY,Yuan Renminbi
+30,Katusha Ommanney,"Android 4.4.2, up to 6, Sense UI 7",2014,HTC Desire 816 dual sim,$5.58,201827014943834,IDR,Rupiah
+31,Dickie Guntrip,Android 5.1,2016,Allview P5 Pro,$7.33,5415461374818062,XOF,Franc
+32,Salem Leneve,Feature phone,2004,NEC e101,$5.31,3555079875754217,THB,Baht
+33,Andrej Campes,Android 4.4.2,2015,Maxwest Astro 3.5,$1.91,201432664008903,RUB,Ruble
+34,Nike Teasell,Android 2.3,2011,Motorola MOTO XT882,$8.60,3577796386087977,RUB,Ruble
+35,Carce Durrans,Android 4.0,2012,LG Mach LS860,$8.32,5602237515221108,IDR,Rupiah
+36,Abbe Schrei,Palm 5.4,2004,Palm Treo 650,$1.56,3551411652532066,CNY,Yuan Renminbi
+37,Mellisent Portugal,Feature phone,2005,Samsung X140,$9.88,5610874835249110,EUR,Euro
+38,Mariellen Ales,Feature phone,2005,alcatel OT-E259,$7.17,5108757672167785,MGA,Ariary
+39,Terrill Pavis,Feature phone,2004,Mitsubishi M342i,$0.06,676771952420811842,RUB,Ruble
+40,Eleanora Blazynski,Android 10,2020,Ulefone Armor X7,$9.07,5048375122193377,PLN,Zloty
+41,Catharina Lensch,Feature phone,2006,Sharp 705SH,$3.22,3549127947696863,EUR,Euro
+42,Veronique Gong,"Symbian 9.4, Series 60 rel. 5",2010,Nokia 5233,$2.83,374283309475408,MGA,Ariary
+43,Helaina Stimpson,Android 4.0,2012,Icemobile Prime Plus,$5.38,3562445458322089,CNY,Yuan Renminbi
+44,Drake Kynastone,"Android 2.1, up to 2.2",2010,Samsung Acclaim,$3.59,5602210184347595,PHP,Peso
+45,Emmerich Longstaffe,Feature phone,2018,Plum Flipper 2,$3.99,3578184357417490,RUB,Ruble
+46,Major Gellan,Android 5.1,2015,Allview Viva C701,$3.88,3589635412113082,RUB,Ruble
+47,Vince Klossmann,Proprietary OS,2019,ZTE nubia Alpha,$4.12,677139098337461431,IDR,Rupiah
+48,Lark Brewood,Feature phone,2002,Tel.Me. T910,$8.11,3576192778689995,CNY,Yuan Renminbi
+49,Helen-elizabeth Whissell,"Android 4.4.4, up to 6.0.1",2014,Samsung Galaxy A3,$6.67,3575731253259211,JPY,Yen
+50,Kerwinn Rival,"Android 9.0, up to Android 11, One UI 3.1",2019,Samsung Galaxy A10e,$4.64,67632119398391956,EUR,Euro
+51,Opal Shirland,Android 8.1 Oreo,2019,BLU J4,$6.09,5610470059399416,RUB,Ruble
+52,Cale Pirazzi,"Android 10, ColorOS 7.2",2020,Oppo A93,$4.33,3528810539650209,EUR,Euro
+53,Monika Prisley,Feature phone,2007,LG KP202,$2.61,560223423958280685,USD,Dollar
+54,Nelson Ferney,Android 8.1,2018,Infinix Smart 2 HD,$9.43,30030947909421,CNY,Yuan Renminbi
+55,Benedetta Stenners,Android 4.4.4,2014,Samsung Galaxy Grand Prime,$3.86,4936429332064742,XPF,Franc
+56,Rhianna Cleeton,Microsoft Windows Mobile 6.0 Professional,2008,HTC P6500,$3.93,5002354560529487,PHP,Peso
+57,Chadd Wragg,"iOS 6, up to iOS 10.3",2012,Apple iPad 4 Wi-Fi,$8.02,3580667739442265,EUR,Euro
+58,Hanan Breach,"Android 10, up to Android 11, One UI 3.1",2020,Samsung Galaxy F41,$2.97,3553265518443670,CZK,Koruna
+59,Kaiser Wrotham,Feature phone,2010,Samsung E1252,$1.92,5007664297656436,XOF,Franc
+60,Johnna Dibdin,Feature phone,2005,Samsung P300,$6.44,3563400218201767,RUB,Ruble
+61,Darrin Nertney,"Android 3.2, up to 4.0",2012,Sony Tablet P,$8.88,3542221577533533,USD,Dollar
+62,Skylar Brimley,"Android 10, up to Android 11, Realme UI 2.0",2020,Realme X3 SuperZoom,$7.26,3538363811021796,HRK,Kuna
+63,Nettle Pedel,"Android 11, One UI 3.1",2021,Samsung Galaxy M12 (India),$8.35,3556316550670857,RUB,Ruble
+64,Andrej Fennick,Feature phone,2006,LG S5300,$8.51,3548132624934109,CNY,Yuan Renminbi
+65,Penrod Bampfield,Android 4.3,2014,Oppo R1S,$6.74,379471266333224,MXN,Peso
+66,Leighton Mainland,Feature phone,2009,i-mobile TV550 Touch,$2.47,3586300697488773,RSD,Dinar
+67,Hank Trewartha,Android 2.3,2011,Spice Mi-350,$8.67,3583103726842785,EUR,Euro
+68,Antoinette Enoch,Android 7.0,2017,verykool sl5029 Bolt Pro LTE,$5.21,201802440317275,EUR,Euro
+69,Glyn Leemans,"Android 10, up to Android 11, One UI 3.1",2020,Samsung Galaxy S20 FE 5G,$1.48,3534226828672063,CNY,Yuan Renminbi
+70,Jennilee Murfill,Android 4.2,2014,ZTE Blade Q,$4.69,4026332298020545,JPY,Yen
+71,Giordano Grube,Android 4.0,2012,ZTE V887,$1.62,4913871556224691,HTG,Gourde
+72,Roldan Jacobs,Feature phone,2004,Pantech GF200,$2.01,67093292741007587,IDR,Rupiah
+73,Ilene Rait,"Android 2.3, Sense UI 3.5",2011,HTC Rhyme CDMA,$7.74,30365585750590,BRL,Real
+74,Teddy Langshaw,Android 4.2,2013,Karbonn A12+,$3.52,30534544979463,RUB,Ruble
+75,Joete Minors,Feature phone,2007,Sagem my200C,$8.55,4026522483070384,EUR,Euro
+76,Alicia O' Dornan,"Android 9.0, up to Android 10, MIUI 12",2019,Xiaomi Redmi Note 7 Pro,$6.25,4844528766280343,BTN,Ngultrum
+77,Chrisse Stanway,"iPadOS 13.1, up to iPadOS 14.6",2019,Apple iPad 10.2 (2019),$0.77,5107302769189136,CNY,Yuan Renminbi
+78,Basile Goalley,Android 4.2,2013,Gionee Gpad G3,$8.69,5602242047945935,VND,Dong
+79,Milt Gervaise,"Android 4.4.2, up to 5.0",2015,BLU Life One XL,$0.05,3576142740714645,CAD,Dollar
+80,Tudor Phuprate,"Android 9.0, up to 11, One UI Core 3.1",2019,Samsung Galaxy Tab A 8.0 & S Pen (2019),$8.54,3567961404027593,EUR,Euro
+81,Natty Ciobotaru,"Android 7.1.1, ColorOS 3.2",2017,Oppo F5,$1.01,5308530413659545,RSD,Dinar
+82,Storm Hadcroft,Feature phone,2002,Siemens A50,$5.62,3564525148191883,PHP,Peso
+83,Berti Wroe,Feature phone,1999,Ericsson T18s,$2.53,3530258377651242,EUR,Euro
+84,Aksel Lomond,Android 4.2.1,2013,Lenovo S920,$4.21,3571375229557482,BAM,Marka
+85,Ian Willcocks,Feature phone,2010,Spice D-6666,$9.49,376590232160750,RUB,Ruble
+86,Michelle MacQuaker,Feature phone,2006,Amoi A211,$0.61,3565854540988103,CZK,Koruna
+87,Cassandre Tunn,"Android 5.1, Funtouch 2.1",2015,vivo X6Plus,$8.04,676325910103380403,IDR,Rupiah
+88,Kinnie Brunn,"Android 6.0, Amigo 3.2",2016,Gionee P7 Max,$0.30,3554908844889749,IDR,Rupiah
+89,Arther Leidl,Android 4.0,2012,Samsung Galaxy Nexus LTE L700,$2.50,4844003110292824,HNL,Lempira
+90,Ashien Lorait,Android 7.0,2018,Lenovo K320t,$2.97,490503184785860435,KGS,Som
+91,Marta Dignum,"Android 8.0, EMUI 8",2018,Huawei Y7 Pro (2018),$3.28,3535914419772199,RUB,Ruble
+92,Anna Dadds,"Android 4.2.2, up to 4.4.2",2013,Samsung Galaxy S4 zoom,$3.53,3545722586649019,IDR,Rupiah
+93,Dannie Marvell,"Android 4.4.2, up to 6.0, TouchWiz UI",2014,Samsung Galaxy Tab S 10.5 LTE,$2.10,6387396130415724,ARS,Peso
+94,Christye Grishenkov,Android 2.3,2013,Lenovo A269i,$5.25,3549776836918273,BRL,Real
+95,Bealle Egdal,Feature phone,1999,Panasonic GD30,$1.84,3581790923037037,USD,Dollar
+96,Rozanna Candie,Feature phone,2009,Huawei U1270,$4.62,6334111373403384336,CNY,Yuan Renminbi
+97,Rani Neissen,Feature phone,2005,Pantech GF500,$7.80,3582450942205557,CDF,Franc
+98,Norby Aslott,"Android 9.0, Funtouch 9",2019,vivo Y17,$5.28,3548570906314450,IDR,Rupiah
+99,Lyon Kibel,"Android 9.0, HIOS 5.5",2019,Tecno Pop 3 Plus,$3.75,3584828026864274,JPY,Yen
+100,Catlee Abbotson,"Android 5.1, ColorOS 3",2016,Oppo F1 Plus,$4.88,3568166791995464,EUR,Euro

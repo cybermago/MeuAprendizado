@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="pt-br">
+<head><title>formulario com php</title>
+<style type="text/css">
+
+body{color:black;
+     background-color:#eeeeee;
+     -webkit-background-size:cover;
+     -moz-background-size:cover;
+     -ms-background-size:cover;
+     -o-background-size:cover;
+     margin:0px;
+     padding:0px;
+     font-family:silver
+    }
+
+form{border-top:50px ridge darkblue;
+     width:25%;
+     margin:auto
+    }
+
+fieldset{margin:auto;
+         width:92.9%;
+         height:200px;
+         padding:10px;
+         display:grid;
+         grid-template-columns:auto auto;
+         border:5px solid darkblue;
+         opacity-border:30%;
+        }
+
+input:focus{box-shadow:0px 0px 5px blue}
+
+input{border-radius:0px 2.5px 2.5px 0px;float:left;padding:5px}
+
+.bt1{margin:0px 5% 0px 0%;
+	padding:7px;
+	background-color:darkblue;
+	color:white;
+	width:;
+	height:
+ }
+
+ .bt1,.bt2{cursor:pointer;float:none}
+
+.bt1:focus,.bt2:focus{box-shadow:none}
+
+.bt2{margin:0px 5px 0px 18%;
+	padding:7px;
+	background-color:darkblue;
+	color:white;
+    width:;
+    height:
+   }
+
+fieldset label{float:left;
+               background-color:darkblue;
+               color:white;
+               margin:0px 0px 0px 15%;
+               padding:5px
+             }
+
+fieldset h1{text-shadow:0px 0px 2.5px darkblue,0px 0px 2.5px lightblue }
+
+</style>
+</head>
+
+<body>
+
+<form name="cadrasto" method="post" action="Cadrasto.php">
+<fieldset name="data e nascimento">
+
+<center>
+
+<h1>Cadrasto</h1>
+
+<label>Email:</label>
+<input type="email" name="email" size="20" maxlegth="14" data-mask="example@gmail.com" placeholder="Email" required="required" data-validation-required-message="">
+<br><br>
+
+<label>Senha:</label>
+<input type="password" name="senha" size="20" maxlegth="14" data-mask="01ab.,xz!@#&()/" placeholder="Senha">
+<br><br>
+
+<input class="bt1" type="submit" name="enviar" value="Comfirmar">
+<input class="bt2" type="reset" name="apagar" value="Apagar">
+
+</fieldset>
+</form>
+</body>
+</html>
