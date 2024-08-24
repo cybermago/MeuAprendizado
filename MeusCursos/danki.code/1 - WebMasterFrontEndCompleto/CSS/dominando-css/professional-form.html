@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <style>
+
+        form{
+            width: 96%;
+            max-width:600px;
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        form fieldset{
+            padding: 20px 40px;
+            border: 3px solid #ccc;
+        }
+
+        form legend{
+            font-size:17px;
+            color: rgb(130, 130, 130, 1.0);
+        }
+
+        form input[type=text]{
+            margin-top: 38px;
+            padding: 10px 13px;
+            width: 88%;
+            display: inline-block;
+        }
+
+        form input[type=text]:focus, form select:focus, form textarea:focus{
+            outline: 0;
+            background-color: lightgray;
+            border: 1px solid #ccc;
+        }
+
+        form select{
+            color:rgb(100, 100, 100, 1.0) ;
+            width: calc(88% + 26px);
+            display: inline-block;
+            padding-left: 10px;
+            margin-top: 30px;
+            padding: 18px 13px;
+            border: 1px solid #ccc;
+            -webkit-apperance:none;
+            -moz-apperance:none;
+            background-image: url('../'img/sprite.jpg);
+            background-size: 10px 10px;
+            background-repeat: no-repeat;
+            background-position: right top;
+        }
+
+        select::-ms-expand{
+            display: none;
+        }
+
+        form select option[disabled]{
+            color:orange;
+        }
+
+        form select option:nth-of-type(3){
+            color: red;
+        }
+
+
+        form h2{
+            margin-top: 20px;
+            color: rgb(130, 130, 130, 1.0);
+        }
+        .input{
+            margin-top: 20px;
+            display: inline-block;
+            text-align: left;
+        }
+
+        .input span{
+            margin-left:13px;
+            color:rgb(130, 130, 130, 1.0);
+        }
+
+        form textarea{
+            margin-top: 38px;
+            font-family:tahoma;
+            width: 88%;
+            padding: 18px 13px;
+            resize: none;
+            border: 1px solid #ccc;
+            height: 140px;
+
+        }
+
+        form input[type=submit]{
+            margin-top:30px ;
+            border: 0;
+            font-family: tahoma;
+            width: 140px;
+            height: 40px;
+            cursor:pointer;
+            color:white;
+            font-size:16px;
+            border:2px solid ;
+            background-color: rgb(140, 140, 140, 1.0);
+        }
+
+        input[type=file]{
+            display:none;
+        }
+
+        label{
+            width: 220px;
+            height: 48px;
+            display: inline-block;
+            cursor: pointer;
+            font-size: 37px;
+            margin: 40px auto;
+            background-color: #ccc;
+            color: white;
+            text-align: center;
+            line-height: 40px;
+        }
+
+        input[type=checkbox]{
+            display: none;
+        }
+        input[type=checkbox]:checked + label{
+            width: 30px;
+            height: 30px;
+            background-color: red;
+        }
+
+    </style>
+</head>
+<body>
+    
+<form>
+    <fieldset>
+        <legend>Meu Grupo de  Formulario</legend>
+        <div><input type="text" name="nome" placeholder="digite"></div>
+        <div><input type="text" name="email" placeholder="digite"></div>
+     <div>
+         <select name="lista">
+            <option disabled selected>Qual a sua idade</option>
+            <option value="-18">-18</option>
+            <option value="18+">18+</option>
+            <option value="40+">40+</option>   
+        </select>
+    </div>
+    <h2>Qual a sua cidade</h2>
+    <div class="radio-input">
+    <div>
+        <input type="radio" value="" name="cidade">
+        <span>Sao paulo</span>
+    </div>
+
+        <div>
+        <input type="radio" value="" name="cidade">
+        <span>Sao paulo</span>
+    </div>
+
+        <div>
+        <input type="radio" value="" name="cidade">
+        <span>São luis</span>
+    </div>
+
+        <div>
+        <input type="radio" value="" name="cidade">
+        <span>Goiania</span>
+    </div>
+
+        <div>
+        <input type="radio" value="" name="cidade">
+        <span>Sao paulo</span>
+    </div>
+
+</div>
+
+<h2>o que voce gosta de comer?</h2>
+
+    <div class="input">
+
+    <div>
+        <input type="checkbox" value="fruta" name="cidade[]">
+        <span>fruta</span>
+    </div>
+
+    <div>
+        <input type="checkbox" value="salgado" name="cidade[]">
+        <span>coxinha</span>
+    </div>
+
+</div>
+
+    <div>
+        <textarea name="observacao" placeholder="Observação?"></textarea>
+    </div>
+
+    <div>
+        <input type="submit" value="enviar" name="acao">
+    </div>
+
+    </fieldset>
+</form>
+
+<form>
+    <input id="file" type="file" name="file">
+    <label for="file">clique aqui</label>
+
+    <select>
+        <option>item 1</option>
+        <option>item 2</option>
+    </select>
+
+    <div>
+    <input type="checkbox" id="check1" name="">
+    <label for="check1"></label>
+    </div>
+    <div>
+    <input type="checkbox" id="check2" name="">
+    <label for="check2"></label>
+    </div>
+
+</form>
+
+</body>
+</html>

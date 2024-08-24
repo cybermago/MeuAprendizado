@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html lang="pt-br">
+
+	<head>
+		<title>Meu Site</title>
+		<meta charset="utf-8" />
+		<meta name="description" content="Descrição do meu site." />
+		<meta name="keywords" content="palavras,separadas,por,virgula" />
+		<meta name="author" content="Guilherme">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
+		<link href="css/style.css" rel="stylesheet" />
+		<style type="text/css">
+			*{
+ margin:0;
+ padding:0;
+ box-sizing: border-box;
+}
+
+div.box{
+	width: 300px;
+	height: 300px;
+	position: relative;
+	background-color: green;
+	/*
+	animation-name: animacao_1;
+	animation-duration: 2s;
+	animation-delay: 2s;
+	animation-iteration-count: infinite;
+	*/
+}
+
+div.box:hover{
+	animation: animacao_1 4s 2;
+	animation-delay: 2s;
+}
+
+@keyframes animacao_1{
+	0%{
+		left: 0;
+		top:0px;
+		background-color: green;
+	}
+
+	45%{
+		border:3px solid red;
+		left: 100px;
+		top:10px;
+		background-color: orange;
+	}
+
+	100%{
+		border:0;
+		left: 0;
+		top:0px;
+		background-color: red;
+	}
+
+}
+	</style>
+	</head>
+<body>
+
+	<div class="box"></div><!--box-->
+
+</body>
+</html>

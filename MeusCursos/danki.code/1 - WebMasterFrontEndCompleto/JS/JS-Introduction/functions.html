@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<script>
+    window.onload = function(){
+        /*Functions*/
+
+        var num;
+        var cont = 0;
+
+        function nome(num1,num2){
+            num = prompt("Digite um número:");
+            while(num < 0){
+                alert("Número inválido!");
+                num = prompt("Digite um número:");
+                }
+        }
+        nome(10,20);
+
+        var variavel = function(){
+                alert("");
+        }
+
+        function teste(num1, num2){
+            return num1+num2;
+        }
+
+        var variavel = nome(10,30);
+
+        var obj = {'nome':'Jonata','idade':'23'};
+
+        obj.func = function(){
+            alert("minha fução");
+        }
+        obj.func();
+
+        var variavel = [];
+        variavel[0] = [];
+
+        variavel.obj = {}
+        variavel.obj.nome = 'nome';
+
+    }
+</script>
+</body>
+</html>

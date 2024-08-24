@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="sttylesheet" href="css/reset.css">
+    <link rel="sttylesheet" href="css/style.css">
+</head>
+<style>
+    box{
+        width: 200px;
+        display: inline-block;
+        padding: 30px;
+        margin: 30px;
+        background-color: #ccc;
+    }
+
+    h1.texto{
+        color:red
+    }
+</style>
+<body>
+
+<div class="box"></div>
+<div class="box2"></div>
+
+<form>
+    <input type="text">
+    <input type="button" value="Enviar">
+</form>
+
+<script>
+
+$(function(){
+$('.box div').eq(0).append('<h3>meu elemento adicionado</h3>');
+$('<h3>meu conteudo</h3>').appendTo($('.box'));
+var el = $('<h3> meu conteudo </h3>').appendTo($('.box')).css('color','red');
+el.css('color','red');
+$('.box').prepend('');
+
+var t = 'Meu conteudo apos a div box';
+$('.box').after('');
+
+$('.box').before('');
+
+
+
+setTimeout(function(){
+    $('.box').eq(1).remove('');
+},3000)
+
+$(t).insertAfter($('.box')).css('color','red')
+})
+
+</script>
+<script type="text/javascript" src="js/jquery.js"></script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="sttylesheet" href="css/reset.css">
+    <link rel="sttylesheet" href="css/style.css">
+</head>
+<style>
+    box{
+        width: 200px;
+        display: inline-block;
+        padding: 30px;
+        margin: 30px;
+        background-color: #ccc;
+    }
+</style>
+<body>
+
+<div class="box">
+
+</div>
+
+<script>
+
+$(function(){
+    //largura do elemento
+    $('.box').width();
+    console.log($('.box').width());
+
+    var elWidth = $('.box').width();
+    console.log(elWidth);
+    // largura do elemento
+    $('.box').width('900');
+
+    //Width/Height = Dimesão total calculada com base no padding
+    //innerWidth/innerHeight = Dimensão total calculada incluindo o padding
+    //outerWidth/outerHeght = Dimensão total calculada incluindo o paddong e margin e for true
+
+    console.log("Width"+$('.box').width());
+    console.log("Inner"+$('.box').innerWidth());
+    console.log("Outer Width"+$('.box').outerWidth(true));
+
+    console.log("Height: "+$('.box').height());
+    console.log("Inner Height: "+$('.box').innerHeight());
+    console.log("Outder Height: "+$('.box').outerHeight(true));
+});
+
+</script>
+<script type="text/javascript" src="js/jquery.js"></script>
+</body>
+</html>

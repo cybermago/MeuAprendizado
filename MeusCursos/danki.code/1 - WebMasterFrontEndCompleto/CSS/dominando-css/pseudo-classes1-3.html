@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <style>
+
+        .teste,.teste1,.teste2{
+            width: 300px;
+            height: 300px;
+            display: inline-block;
+            margin-left: 30px;
+            margin-top: 30px;
+            background-color: #ccc;
+        }
+
+        .teste1{
+            background-color: rgb(98, 98, 98, 1.0);
+        }
+
+        .teste2{background-color: rgb(50, 58, 58, 1.0);}
+
+        .teste:hover{
+            position: absolute;
+            left: 98px;
+            top: 50px;
+            background-color: blue;
+        }
+        .teste:hover, .teste1,.test2{
+            vertical-align: top;
+        }
+
+        .teste:active{
+            background-color: black;
+        }
+
+        input[type=text]:focus{
+            background-color: red;
+        }
+
+        .link1:visited{
+            color: purple;
+        }
+
+        .link1:link{
+            color:orange;
+        }
+
+    </style>
+</head>
+<body>
+    
+<div class="teste"></div>
+<div class="teste1"></div>
+<div class="teste2"></div>
+<input type="text" name="">
+<a class="link1" target="_blanck"></a>
+
+</body>
+</html>

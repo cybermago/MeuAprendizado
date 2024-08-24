@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="reset.css">
+    <style>
+
+        /*  TEM QUE SER IGUAL
+
+        a[href="https://www.google.com"]{
+            backgroundo:yellow;
+        }
+
+        [href="https://www.google.com"]{
+            backgound-color: red;
+        }
+
+    */
+        /* PALAVRA GOOGLE EM QUALQUER LUGAR
+        a[attr*="gogle"]{
+            background-color: blue;
+        }
+    */
+        /*procure entre os espaços DO ATTR
+        a[attr~="google"]{
+            background-color: blue;
+        }
+    */
+
+        /*quando começar seguido por um acento
+        a[attr!="google"]{
+        background-color: yellow;
+        }*/
+    
+        /*QUANDO COMEÇAMOS COM A PALAVRA
+        a[attr^="goo"]{
+            background-color: red;
+        }
+    */
+
+        a[attr$="google"]{
+            background-color: darkblue;
+        }
+
+        .text[type=text]{
+            background-color: green;
+        }
+        input[type=submit]{
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    
+  <a attr="google-danki" href="https://www.google.com">meu link</a>
+  <a attr="google" href="https://www.google.com">meu link</a>
+  <a attr="danki-google" href="https://www.google.com">meu link</a>
+  <a attr="googledanki" href="https://www.google.com">meu link</a>
+  <a href="https://danbkicode.com"></a>
+ 
+<form>
+    <input class="text" type="text" name="">
+    <input type="email"  name="">
+</form>
+
+</body>
+</html>

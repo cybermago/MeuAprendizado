@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="sttylesheet" href="css/reset.css">
+    <link rel="sttylesheet" href="css/style.css">
+    <style>
+        .box{
+            width: 30px;
+            height: 300px;
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    
+<div id="test" class="artigo1">
+    <p>ola mundo</p>
+</div>
+
+<div class="artigo2">
+
+</div>
+
+<input type="button">
+
+<select>
+    <option value="1">1</option>
+    <option value="2">2</option>
+</select>
+
+<div class="box" style="height: 3000px;">
+<a href=""www.google.com></a>
+</div>
+
+<script>
+
+    $(function(){
+        //acao quando cliquado
+        $('').click(function(){
+            $('').css('','');
+        });
+
+        //acao quando mouse estiver sobre
+        $('').hover(function(){
+            $('').css('','');
+        }, function(){
+            $('').css('','rgb(100,100,100)');
+        });
+
+        // acao no foco
+        $('').focus(function(){
+            console.log("dentro");
+            alert("dentro");
+        });
+
+        //acao fora do foco
+        $('').blur(function(){
+            console.log("fora");
+            alert("fora");
+        });
+
+        function validacliquemover(){
+            $('.artigo1').click(function(){
+                $('.artigo2').css('background-color','red');
+            });
+
+            $('.artigo1').hover(function(){
+                $('.artigo2').css('background-color','blue');
+            },function(){
+                $('.artigo2').css('background-color','rgb(100,100,100)');
+            })
+        }
+
+        //alterar eventos
+        function valida(){
+        
+            $('').focus(function(){
+
+            }).blur(function(){
+            console.log("Retiramos o foco");
+            })
+        
+            $('').change(function(){
+                console.log("mudou");
+            });
+        }
+        
+        valida();
+
+        $(window).scroll(function(){
+            console.log("rolou");
+            e.preventdefault();
+        })
+
+        $(window).resize(function(){
+            alert("tela redimensionada");
+
+            clearTimeout(timer);
+            timer = setTimeout(function(){
+                location.href = "http//localhost/"
+            },1000);
+        })
+
+        $('a').click(function(){
+            e.preventdefault();
+            return false;
+        })
+
+
+        $().click(function(){
+            $('.box')
+        })
+
+        $('body').click(function(){
+            $('.box').css('opacity','0.1');
+        })
+
+        $('.box').click(function(e){
+            e.stopPropagation();
+        })
+
+    });
+</script>
+<script type="text/javascript" src="js/jquery.js"></script>
+</body>
+</html>

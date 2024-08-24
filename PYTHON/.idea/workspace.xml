@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d9e88e7-6c9e-41e2-bcc7-16b29ecd2184" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/binary_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/dados.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/k-means.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/knn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/linearregresion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/mockdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/mockdatasupercomplete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/mokdatacomplete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/myFile0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/svm_accuracy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/tree_aleatory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/SCKIT-LEARN/tree_decision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/1.keras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/Iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/dados.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/diagnosticos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/diagnostics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/emprestimo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/linear-regresion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/mockdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/mockdatasupercomplete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/mokdatacomplete.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/myFile0.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/TENSOR-FLOW/sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AI/binary.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2f1XYaeeQCGyUa3P07DFegcncYO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.1.keras.executor": "Run",
+    "Python.3.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.binary_data.executor": "Run",
+    "Python.dataframe.executor": "Run",
+    "Python.k-means.executor": "Run",
+    "Python.keras.executor": "Run",
+    "Python.knn.executor": "Run",
+    "Python.linear-regresion.executor": "Run",
+    "Python.linearregresion.executor": "Run",
+    "Python.mnist.executor": "Run",
+    "Python.numpy.executor": "Run",
+    "Python.numpy1.executor": "Run",
+    "Python.panel.executor": "Run",
+    "Python.queue.executor": "Run",
+    "Python.svm.executor": "Run",
+    "Python.svm_accuracy.executor": "Run",
+    "Python.tensorflow1.executor": "Run",
+    "Python.tree_aleatory.executor": "Run",
+    "Python.tree_decision.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/cybermago/PROGRAM/PYTHON/LearnPython2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PROGRAM\PYTHON\LearnPython2\TENSOR-FLOW" />
+      <recent name="C:\PROGRAM\PYTHON\LearnPython2\SCKIT-LEARN" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AI/TENSOR-FLOW" />
+      <recent name="C:\PROGRAM\PYTHON\LearnPython2\AI\TENSOR-FLOW" />
+      <recent name="C:\PROGRAM\PYTHON\LearnPython2\AI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tensorflow1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LearnPython2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/TENSOR-FLOW" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/TENSOR-FLOW/tensorflow1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tensorflow1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d9e88e7-6c9e-41e2-bcc7-16b29ecd2184" name="Changes" comment="" />
+      <created>1712969611876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712969611876</updated>
+    </task>
+    <servers />
+  </component>
+</project>

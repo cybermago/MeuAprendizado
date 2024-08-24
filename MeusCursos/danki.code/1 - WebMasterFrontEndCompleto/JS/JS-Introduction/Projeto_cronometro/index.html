@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container{
+            text-align: center;
+        }
+
+        button{
+            background: #069;
+            color: white;
+            font-size: 32px;
+            padding: 8px 20px;
+            border: 0;
+        }
+    </style>
+</head>
+<body>
+    
+<script>
+
+</script>
+
+<audio id="sound" src="031974_30-seconds-alarm-72117.mp3" style="display: none;"></audio>
+<div class="container">
+    <h2>minutos</h2>
+<select id="minutos" name="minutos"></select>
+
+<h2>segundos</h2>
+<select id="segundos" name="segundos"></select>
+
+<button id="comecar">Começar!</button>
+
+<div id="display">
+    <h3>00:00:00:00</h3>
+</div>
+
+</div>
+
+<script>
+    var display = document.getElementById('display');
+    var display = document.getElementById('minutos');
+    var display = document.getElementById('segundos');
+    var display = document.getElementById('comecar');
+
+    var cronometroSeg;
+    var segundoAtual;
+    var interval;
+
+    for(var i =0; i<= 60; i ++){
+        minutos.innerHTML+='<option value="">'+i+'</option>'
+    }
+
+    for(var i =0; i<= 60; i ++){
+        segundos.innerHTML+='<option value="">'+i+'</option>'
+    }
+
+    comecar.addEventListener('click', function(){
+        minutoAtual = minutos.value;
+        segundoAtual = segundos.value;
+
+        display.childNodes[1].innerHTML = minutoAtual + ":"+segundoAtual;
+
+        interval = setInterval(function(){
+            segundoAtual--;
+            if(segundoAtual <= 0){
+                if(minutoAtual > 0){
+                    minutoAtual--;
+                    segundoAtual = 59;
+                }else{
+                    alert("acabou");
+                    document.getElementById("sound").play();
+                    clearInterval(interval);
+                }
+            }
+            display.childNodes[1].innerHTML = minutoAtual + ":"+segundoAtual;
+        },1000)
+    })
+</script>
+</body>
+</html>

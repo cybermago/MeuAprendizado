@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="sttylesheet" href="css/reset.css">
+    <link rel="sttylesheet" href="css/style.css">
+</head>
+<style>
+    box{
+        width: 200px;
+        display: inline-block;
+        padding: 30px;
+        margin: 30px;
+        background-color: #ccc;
+    }
+
+    h1.texto{
+        color:red
+    }
+</style>
+<body>
+
+<div class="box"></div>
+<div class="box2"></div>
+
+<form>
+    <input type="text">
+    <input type="button" value="Enviar">
+</form>
+
+<script>
+
+$(function(){
+    /*
+ var el = $('.box');
+ el.html('<div class="test"> conteudo</div>');
+ el.html("<div class=\"test\">"+meutexto+"</div>");
+ el.html(el.html() +'<h1 class="texto">Meu texto via javascript</h1>');
+
+ console.log(el.html());
+
+ $('.box2').text("<div></div>");
+ $('box2').text($('.box2').text() + "Ola mundo");
+ console.log(el.text());
+ console.log($('.box2').text());
+
+ $('input[type=text]').val("ola");
+*/
+
+$('input[type=button]').click(function(){
+    var str = $('input[type=text]').val();
+    console.log(v);
+    var var2 = v.split("@");
+    console.log(var2);
+    console.log(str.substr(1,4));
+
+    var splitstr = v.split("@");
+
+    if(splitstr[1] == 'hotmail.com'){
+       $('input[type=text]').css('opacity','0')
+    }else{
+        console.log("a condição não bateu")
+    }
+    console.log(str.trim());
+ })
+})
+
+</script>
+<script type="text/javascript" src="js/jquery.js"></script>
+</body>
+</html>

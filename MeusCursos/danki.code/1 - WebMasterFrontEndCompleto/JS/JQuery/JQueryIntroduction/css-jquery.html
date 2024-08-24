@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="sttylesheet" href="css/reset.css">
+    <link rel="sttylesheet" href="css/style.css">
+</head>
+<body>
+    
+<div id="test" class="artigo1">
+    <p>ola mundo</p>
+</div>
+
+<script>
+
+$(function(){
+    $('#test').css('background-color','#ccc');
+
+    setTimeout(function(){
+        $('.artifo1 > p').css('color','rgba(0,0,0,0.6)');
+        console.log($('.artigo1 > p').css('font-size','14px'));
+    },1000)
+});
+
+</script>
+<script type="text/javascript" src="js/jquery.js"></script>
+</body>
+</html>
