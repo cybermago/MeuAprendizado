@@ -1,7 +1,9 @@
 package one.digitalinnovation.gof.service.impl;
 
 import java.util.Optional;
+import java.util.stream.Collectors;
 
+import one.digitalinnovation.gof.exception.ClientNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -36,6 +38,9 @@ public class ClienteServiceImpl implements ClienteService {
 	@Override
 	public Iterable<Cliente> buscarTodos() {
 		// Buscar todos os Clientes.
+		return clienteRepository.findAll().stream()
+				.filter(cliente -> cliente.getNome() != null) // Exemplo de filtro
+				.collect(Collectors.toList());
 		return clienteRepository.findAll();
 	}
 
@@ -43,8 +48,11 @@ public class ClienteServiceImpl implements ClienteService {
 	public Cliente buscarPorId(Long id) {
 		// Buscar Cliente por ID.
 		Optional<Cliente> cliente = clienteRepository.findById(id);
-		return cliente.get();
+		return clienteRepository.findById(id)
+				.orElseThrow(() -> new ClientNotFoundException("Cliente não encontrado com ID: " + id));
+		//return cliente.get();
 	}
+
 
 	@Override
 	public void inserir(Cliente cliente) {
@@ -65,6 +73,9 @@ public class ClienteServiceImpl implements ClienteService {
 		// Deletar Cliente por ID.
 		clienteRepository.deleteById(id);
 	}
+
+
+
 
 	private void salvarClienteComCep(Cliente cliente) {
 		// Verificar se o Endereco do Cliente já existe (pelo CEP).

@@ -1,11 +1,21 @@
-import br.com.dio.desafio.dominio.*;
-
 import java.io.IOException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 import java.util.Scanner;
+
+import br.com.dio.desafio.dominio.*;
+
+/**
+ * @author: Jonata
+ * @version: 1.0
+ * @since:  
+*/
+/**
+ * @param:
+ * @return:
+*/
 
 public class Main {
     public static void main(String[] args) throws IOException {

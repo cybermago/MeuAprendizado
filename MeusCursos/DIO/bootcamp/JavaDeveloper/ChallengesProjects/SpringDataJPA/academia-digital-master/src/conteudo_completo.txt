@@ -1,0 +1,862 @@
+package me.dio.academia.digital;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AcademiaDigitalApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AcademiaDigitalApplication.class, args);
+	}
+
+}
+package me.dio.academia.digital.controller;
+
+import me.dio.academia.digital.entity.Aluno;
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.form.AlunoForm;
+import me.dio.academia.digital.service.impl.AlunoServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+
+import javax.validation.Valid;
+import java.util.List;
+
+@RestController
+@RequestMapping("/alunos")
+public class AlunoController {
+
+  @Autowired
+  private AlunoServiceImpl service;
+
+  @PostMapping
+  public Aluno create(@Valid @RequestBody AlunoForm form) {
+    return service.create(form);
+  }
+
+  @GetMapping("/avaliacoes/{id}")
+  public List<AvaliacaoFisica> getAllAvaliacaoFisicaId(@PathVariable Long id) {
+    return service.getAllAvaliacaoFisicaId(id);
+  }
+
+  @GetMapping
+  public List<Aluno> getAll(@RequestParam(value = "dataDeNascimento", required = false)
+                                  String dataDeNacimento){
+    return service.getAll(dataDeNacimento);
+  }
+
+
+}
+package me.dio.academia.digital.controller;
+
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.form.AvaliacaoFisicaForm;
+import me.dio.academia.digital.service.impl.AvaliacaoFisicaServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+@RestController
+@RequestMapping("/avaliacoes")
+public class AvaliacaoFisicaController {
+
+  @Autowired
+  private AvaliacaoFisicaServiceImpl service;
+
+  @PostMapping
+  public AvaliacaoFisica create(@RequestBody AvaliacaoFisicaForm form) {
+    return service.create(form);
+  }
+
+  @GetMapping
+  public List<AvaliacaoFisica> getAll(){
+    return service.getAll();
+  }
+
+}
+package me.dio.academia.digital.controller;
+
+import me.dio.academia.digital.entity.Matricula;
+import me.dio.academia.digital.entity.form.MatriculaForm;
+import me.dio.academia.digital.service.impl.MatriculaServiceImpl;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
+
+import javax.validation.Valid;
+import java.util.List;
+
+@RestController
+@RequestMapping("/matriculas")
+public class MatriculaController {
+
+  @Autowired
+  private MatriculaServiceImpl service;
+
+  @PostMapping
+  public Matricula create(@Valid @RequestBody MatriculaForm form) {
+    return service.create(form);
+  }
+
+  @GetMapping
+  public List<Matricula> getAll(@RequestParam(value = "bairro", required = false) String bairro) {
+    return service.getAll(bairro);
+  }
+
+}
+
+package me.dio.academia.digital.entity;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name = "tb_alunos")
+@JsonIgnoreProperties({"hibernateLazyInitializer", "handler"})
+public class Aluno {
+
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
+
+  private String nome;
+
+  @Column(unique = true)
+  private String cpf;
+
+  private String bairro;
+
+  private LocalDate dataDeNascimento;
+
+  @OneToMany(mappedBy = "aluno", cascade = CascadeType.REMOVE , fetch = FetchType.LAZY)
+  @JsonIgnore
+  private List<AvaliacaoFisica> avaliacoes = new ArrayList<>();
+
+}
+package me.dio.academia.digital.entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
+
+import javax.persistence.*;
+import java.time.LocalDateTime;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name = "tb_avaliacoes")
+public class AvaliacaoFisica {
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
+
+  @ManyToOne
+  @JoinColumn(name = "aluno_id")
+  private Aluno aluno;
+
+  private LocalDateTime dataDaAvaliacao = LocalDateTime.now();
+
+  @Column(name="peso_atual")
+  private double peso;
+
+  @Column(name="altura_atual")
+  private double altura;
+
+}
+package me.dio.academia.digital.entity.form;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import org.hibernate.validator.constraints.br.CPF;
+
+import javax.validation.constraints.*;
+import java.time.LocalDate;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class AlunoForm {
+
+  @NotEmpty(message = "Preencha o campo corretamente.")
+  @Size(min = 3, max =50, message = "'${validatedValue}' precisa estar entre {min} e {max} caracteres.")
+  private String nome;
+
+  @NotEmpty(message = "Preencha o campo corretamente.")
+  //@CPF(message = "'${validatedValue}' é inválido!")
+  private String cpf;
+
+  @NotEmpty(message = "Preencha o campo corretamente.")
+  @Size(min = 3, max =50, message = "'${validatedValue}' precisa estar entre {min} e {max} caracteres.")
+  private String bairro;
+
+  @NotNull(message = "Prencha o campo corretamente.")
+  @Past(message = "Data '${validatedValue}' é inválida.")
+  private LocalDate dataDeNascimento;
+}
+package me.dio.academia.digital.entity.form;
+
+import java.time.LocalDate;
+
+public class AlunoUpdateForm {
+
+  private String nome;
+
+  private String bairro;
+
+  private LocalDate dataDeNascimento;
+}
+package me.dio.academia.digital.entity.form;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class AvaliacaoFisicaForm {
+
+  //@Positive(message = "O Id do aluno precisa ser positivo.")
+  private Long alunoId;
+
+  //@NotNull(message = "Preencha o campo corretamente.")
+  //@Positive(message = "${validatedValue}' precisa ser positivo.")
+  private double peso;
+
+  //@NotNull(message = "Preencha o campo corretamente.")
+  //@Positive(message = "${validatedValue}' precisa ser positivo.")
+  //@DecimalMin(value = "150", message = "'${validatedValue}' precisa ser no mínimo {value}.")
+  private double altura;
+}
+package me.dio.academia.digital.entity.form;
+
+public class AvaliacaoFisicaUpdateForm {
+
+  private double peso;
+
+  private double altura;
+}
+package me.dio.academia.digital.entity.form;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Positive;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class MatriculaForm {
+
+  @NotNull(message = "Preencha o campo corretamente.")
+  @Positive(message = "O Id do aluno precisa ser positivo.")
+  private Long alunoId;
+}
+package me.dio.academia.digital.entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+import javax.persistence.*;
+import java.time.LocalDateTime;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@Entity
+@Table(name = "tb_matriculas")
+public class Matricula {
+
+  @Id
+  @GeneratedValue(strategy = GenerationType.IDENTITY)
+  private Long id;
+
+  @OneToOne(cascade = CascadeType.ALL)
+  @JoinColumn(name = "aluno_id")
+  private Aluno aluno;
+
+  private LocalDateTime dataDaMatricula = LocalDateTime.now();
+}
+package me.dio.academia.digital.infra.jackson.deser;
+
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.databind.DeserializationContext;
+import com.fasterxml.jackson.databind.deser.std.StdDeserializer;
+import me.dio.academia.digital.infra.utils.JavaTimeUtils;
+
+import java.io.IOException;
+import java.time.LocalDate;
+
+/**
+ * @author Venilton Falvo Jr
+ */
+public class LocalDateDeserializer extends StdDeserializer<LocalDate> {
+
+	private static final long serialVersionUID = -4589164298310392227L;
+
+	public LocalDateDeserializer() {
+        super(LocalDate.class);
+    }
+
+    @Override
+    public LocalDate deserialize(final JsonParser parser, final DeserializationContext context) throws IOException {
+        return LocalDate.parse(parser.readValueAs(String.class), JavaTimeUtils.LOCAL_DATE_FORMATTER);
+    }
+}
+package me.dio.academia.digital.infra.jackson.deser;
+
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.databind.DeserializationContext;
+import com.fasterxml.jackson.databind.deser.std.StdDeserializer;
+import me.dio.academia.digital.infra.utils.JavaTimeUtils;
+
+import java.io.IOException;
+import java.time.LocalDateTime;
+
+/**
+ * @author Venilton Falvo Jr
+ */
+public class LocalDateTimeDeserializer extends StdDeserializer<LocalDateTime> {
+
+	private static final long serialVersionUID = -7209271947629593913L;
+
+	public LocalDateTimeDeserializer() {
+        super(LocalDateTime.class);
+    }
+
+    @Override
+    public LocalDateTime deserialize(final JsonParser parser, final DeserializationContext context) throws IOException {
+        return LocalDateTime.parse(parser.readValueAs(String.class), JavaTimeUtils.LOCAL_DATE_TIME_FORMATTER);
+    }
+}
+package me.dio.academia.digital.infra.jackson;
+
+import com.fasterxml.jackson.databind.SerializationFeature;
+import me.dio.academia.digital.infra.jackson.deser.LocalDateDeserializer;
+import me.dio.academia.digital.infra.jackson.deser.LocalDateTimeDeserializer;
+import me.dio.academia.digital.infra.jackson.ser.LocalDateSerializer;
+import me.dio.academia.digital.infra.jackson.ser.LocalDateTimeSerializer;
+import org.springframework.boot.autoconfigure.jackson.Jackson2ObjectMapperBuilderCustomizer;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.http.converter.json.Jackson2ObjectMapperBuilder;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+/**
+ * @author Venilton Falvo Jr
+ */
+@Configuration
+public class ObjectMapperConfig implements Jackson2ObjectMapperBuilderCustomizer {
+	
+	@Override
+	public void customize(Jackson2ObjectMapperBuilder jacksonObjectMapperBuilder) {
+		jacksonObjectMapperBuilder.featuresToDisable(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS)
+				.serializerByType(LocalDate.class, new LocalDateSerializer())
+				.serializerByType(LocalDateTime.class, new LocalDateTimeSerializer())
+				.deserializerByType(LocalDate.class, new LocalDateDeserializer())
+				.deserializerByType(LocalDateTime.class, new LocalDateTimeDeserializer());
+	}
+}
+package me.dio.academia.digital.infra.jackson.ser;
+
+import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.databind.SerializerProvider;
+import com.fasterxml.jackson.databind.ser.std.StdSerializer;
+import me.dio.academia.digital.infra.utils.JavaTimeUtils;
+
+import java.io.IOException;
+import java.time.LocalDate;
+
+/**
+ * @author Venilton Falvo Jr
+ */
+public class LocalDateSerializer extends StdSerializer<LocalDate> {
+
+	private static final long serialVersionUID = -2718386750062666481L;
+
+	public LocalDateSerializer() {
+        super(LocalDate.class);
+    }
+
+    @Override
+    public void serialize(final LocalDate value, final JsonGenerator generator, final SerializerProvider provider) throws IOException {
+        generator.writeString(value.format(JavaTimeUtils.LOCAL_DATE_FORMATTER));
+    }
+}
+package me.dio.academia.digital.infra.jackson.ser;
+
+import com.fasterxml.jackson.core.JsonGenerator;
+import com.fasterxml.jackson.databind.SerializerProvider;
+import com.fasterxml.jackson.databind.ser.std.StdSerializer;
+import me.dio.academia.digital.infra.utils.JavaTimeUtils;
+
+import java.io.IOException;
+import java.time.LocalDateTime;
+
+/**
+ * @author Venilton Falvo Jr
+ */
+public class LocalDateTimeSerializer extends StdSerializer<LocalDateTime> {
+
+	private static final long serialVersionUID = -6347158617481757931L;
+
+	public LocalDateTimeSerializer() {
+        super(LocalDateTime.class);
+    }
+
+    @Override
+    public void serialize(final LocalDateTime value, final JsonGenerator generator, final SerializerProvider provider) throws IOException {
+        generator.writeString(value.format(JavaTimeUtils.LOCAL_DATE_TIME_FORMATTER));
+    }
+}
+package me.dio.academia.digital.infra.utils;
+
+import java.time.format.DateTimeFormatter;
+import java.util.Locale;
+
+/**
+ * @author Venilton Falvo Jr
+ */
+public class JavaTimeUtils {
+	
+	private JavaTimeUtils() {}
+	
+	private  static final Locale LOCALE_BR = new Locale("pt", "BR");
+	
+	public static final DateTimeFormatter LOCAL_DATE_TIME_FORMATTER = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss", LOCALE_BR);
+	public static final DateTimeFormatter LOCAL_DATE_FORMATTER = DateTimeFormatter.ofPattern("dd/MM/yyyy", LOCALE_BR);
+
+}
+package me.dio.academia.digital.repository;
+
+import me.dio.academia.digital.entity.Aluno;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.time.LocalDate;
+import java.util.List;
+
+@Repository
+public interface AlunoRepository extends JpaRepository<Aluno, Long> {
+
+  /**
+   *
+   * @param dataDeNascimento: data de nascimento dos alunos
+   * @return lista com todos os alunos com a data de nascimento passada como parâmetro da função
+   */
+  List<Aluno> findByDataDeNascimento(LocalDate dataDeNascimento);
+
+}
+package me.dio.academia.digital.repository;
+
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface AvaliacaoFisicaRepository extends JpaRepository<AvaliacaoFisica, Long> {
+
+}
+package me.dio.academia.digital.repository;
+
+import me.dio.academia.digital.entity.Matricula;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+@Repository
+public interface MatriculaRepository extends JpaRepository<Matricula, Long> {
+
+  /**
+   *
+   * @param bairro bairro referência para o filtro
+   * @return lista de alunos matriculados que residem no bairro passado como parâmetro
+   */
+  @Query(value = "SELECT * FROM tb_matriculas m " +
+      "INNER JOIN tb_alunos a ON m.aluno_id = a.id " +
+      "WHERE a.bairro = :bairro", nativeQuery = true)
+  //@Query("FROM Matricula m WHERE m.aluno.bairro = :bairro ")
+  List<Matricula> findAlunosMatriculadosBairro(String bairro);
+
+  //List<Matricula> findByAlunoBairro(String bairro);
+
+
+}
+package me.dio.academia.digital.service;
+
+import me.dio.academia.digital.entity.Aluno;
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.form.AlunoForm;
+import me.dio.academia.digital.entity.form.AlunoUpdateForm;
+
+import java.time.LocalDate;
+import java.util.List;
+
+public interface IAlunoService {
+  /**
+   * Cria um Aluno e salva no banco de dados.
+   * @param form formulário referente aos dados para criação de um Aluno no banco de dados.
+   * @return Aluno recém-criado.
+   */
+  Aluno create(AlunoForm form);
+
+  /**
+   * Retorna um Aluno que está no banco de dados de acordo com seu Id.
+   * @param id id do Aluno que será exibido.
+   * @return Aluno de acordo com o Id fornecido.
+   */
+  Aluno get(Long id);
+
+  /**
+   * Retorna os Alunos que estão no banco de dados.
+   * @return Uma lista os Alunos que estão salvas no DB.
+   */
+  List<Aluno> getAll(String dataDeNascimento);
+
+  /**
+   * Atualiza o Aluno.
+   * @param id id do Aluno que será atualizado.
+   * @param formUpdate formulário referente aos dados necessários para atualização do Aluno
+   * no banco de dados.
+   * @return Aluno recém-atualizado.
+   */
+  Aluno update(Long id, AlunoUpdateForm formUpdate);
+
+  /**
+   * Deleta um Aluno específico.
+   * @param id id do Aluno que será removido.
+   */
+  void delete(Long id);
+
+  /**
+   *
+   * @param id id do aluno que será recuperada a lista de avaliações
+   * @return uma lista com todas as avaliações do aluno de acordo com o Id
+   */
+  List<AvaliacaoFisica> getAllAvaliacaoFisicaId(Long id);
+
+
+}
+package me.dio.academia.digital.service;
+
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.form.AvaliacaoFisicaForm;
+import me.dio.academia.digital.entity.form.AvaliacaoFisicaUpdateForm;
+
+import java.util.List;
+
+public interface IAvaliacaoFisicaService {
+  /**
+   * Cria uma Avaliação Física e salva no banco de dados.
+   * @param form - formulário referente aos dados para criação da Avaliação Física no banco de dados.
+   * @return - Avaliação Física recém-criada.
+   */
+  AvaliacaoFisica create(AvaliacaoFisicaForm form);
+
+  /**
+   * Retorna uma Avaliação Física que está no banco de dados de acordo com seu Id.
+   * @param id - id da Avaliação Física que será exibida.
+   * @return - Avaliação Física de acordo com o Id fornecido.
+   */
+  AvaliacaoFisica get(Long id);
+
+  /**
+   * Retorna todas as Avaliações Física que estão no banco de dados.
+   * @return - Uma lista com todas as Avaliações Física que estão salvas no DB.
+   */
+  List<AvaliacaoFisica> getAll();
+
+  /**
+   * Atualiza a avaliação física.
+   * @param id - id da Avaliação Física que será atualizada.
+   * @param formUpdate - formulário referente aos dados necessários para atualização da Avaliação
+   * Física no banco de dados.
+   * @return - Avaliação Física recém-atualizada.
+   */
+  AvaliacaoFisica update(Long id, AvaliacaoFisicaUpdateForm formUpdate);
+
+  /**
+   * Deleta uma Avaliação Física específica.
+   * @param id - id da Avaliação Física que será removida.
+   */
+  void delete(Long id);
+}
+package me.dio.academia.digital.service;
+
+import me.dio.academia.digital.entity.Matricula;
+import me.dio.academia.digital.entity.form.MatriculaForm;
+
+import java.util.List;
+
+public interface IMatriculaService {
+  /**
+   * Cria uma Matrícula e salva no banco de dados.
+   * @param form - formulário referente aos dados para criação da Matrícula no banco de dados.
+   * @return - Matrícula recém-criada.
+   */
+  Matricula create(MatriculaForm form);
+
+  /**
+   * Retorna uma Matrícula que está no banco de dados de acordo com seu Id.
+   * @param id - id da Matrícula que será exibida.
+   * @return - Matrícula de acordo com o Id fornecido.
+   */
+  Matricula get(Long id);
+
+  /**
+   * Retorna todas as Matrículas que estão no banco de dados.
+   * @return - uma lista com todas as Matrículas que estão salvas no DB.
+   */
+  List<Matricula> getAll(String bairro);
+
+  /**
+   * Deleta uma Matrícula específica.
+   * @param id - id da Matrícula que será removida.
+   */
+  void delete(Long id);
+
+}
+package me.dio.academia.digital.service.impl;
+
+import me.dio.academia.digital.entity.Aluno;
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.form.AlunoForm;
+import me.dio.academia.digital.entity.form.AlunoUpdateForm;
+import me.dio.academia.digital.infra.utils.JavaTimeUtils;
+import me.dio.academia.digital.repository.AlunoRepository;
+import me.dio.academia.digital.service.IAlunoService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.time.LocalDate;
+import java.util.List;
+
+@Service
+public class AlunoServiceImpl implements IAlunoService {
+
+  @Autowired
+  private AlunoRepository repository;
+
+  @Override
+  public Aluno create(AlunoForm form) {
+    Aluno aluno = new Aluno();
+    aluno.setNome(form.getNome());
+    aluno.setCpf(form.getCpf());
+    aluno.setBairro(form.getBairro());
+    aluno.setDataDeNascimento(form.getDataDeNascimento());
+
+    return repository.save(aluno);
+  }
+
+  @Override
+  public Aluno get(Long id) {
+    return null;
+  }
+
+  @Override
+  public List<Aluno> getAll(String dataDeNascimento) {
+
+    if(dataDeNascimento == null) {
+      return repository.findAll();
+    } else {
+      LocalDate localDate = LocalDate.parse(dataDeNascimento, JavaTimeUtils.LOCAL_DATE_FORMATTER);
+      return repository.findByDataDeNascimento(localDate);
+    }
+
+  }
+
+  @Override
+  public Aluno update(Long id, AlunoUpdateForm formUpdate) {
+    return null;
+  }
+
+  @Override
+  public void delete(Long id) {
+  }
+
+  @Override
+  public List<AvaliacaoFisica> getAllAvaliacaoFisicaId(Long id) {
+
+    Aluno aluno = repository.findById(id).get();
+
+    return aluno.getAvaliacoes();
+
+  }
+
+}
+package me.dio.academia.digital.service.impl;
+
+import me.dio.academia.digital.entity.Aluno;
+import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.form.AvaliacaoFisicaForm;
+import me.dio.academia.digital.entity.form.AvaliacaoFisicaUpdateForm;
+import me.dio.academia.digital.repository.AlunoRepository;
+import me.dio.academia.digital.repository.AvaliacaoFisicaRepository;
+import me.dio.academia.digital.service.IAvaliacaoFisicaService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+@Service
+public class AvaliacaoFisicaServiceImpl implements IAvaliacaoFisicaService {
+
+  @Autowired
+  private AvaliacaoFisicaRepository avaliacaoFisicaRepository;
+
+  @Autowired
+  private AlunoRepository alunoRepository;
+
+  @Override
+  public AvaliacaoFisica create(AvaliacaoFisicaForm form) {
+    AvaliacaoFisica avaliacaoFisica = new AvaliacaoFisica();
+    Aluno aluno = alunoRepository.findById(form.getAlunoId()).get();
+
+    avaliacaoFisica.setAluno(aluno);
+    avaliacaoFisica.setPeso(form.getPeso());
+    avaliacaoFisica.setAltura(form.getAltura());
+
+    return avaliacaoFisicaRepository.save(avaliacaoFisica);
+  }
+
+  @Override
+  public AvaliacaoFisica get(Long id) {
+    return null;
+  }
+
+  @Override
+  public List<AvaliacaoFisica> getAll() {
+
+    return avaliacaoFisicaRepository.findAll();
+  }
+
+  @Override
+  public AvaliacaoFisica update(Long id, AvaliacaoFisicaUpdateForm formUpdate) {
+    return null;
+  }
+
+  @Override
+  public void delete(Long id) {
+
+  }
+}
+package me.dio.academia.digital.service.impl;
+
+import me.dio.academia.digital.entity.Aluno;
+import me.dio.academia.digital.entity.Matricula;
+import me.dio.academia.digital.entity.form.MatriculaForm;
+import me.dio.academia.digital.repository.AlunoRepository;
+import me.dio.academia.digital.repository.MatriculaRepository;
+import me.dio.academia.digital.service.IMatriculaService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import java.util.List;
+
+@Service
+public class MatriculaServiceImpl implements IMatriculaService {
+
+  @Autowired
+  private MatriculaRepository matriculaRepository;
+
+  @Autowired
+  private AlunoRepository alunoRepository;
+
+  @Override
+  public Matricula create(MatriculaForm form) {
+    Matricula matricula = new Matricula();
+    Aluno aluno = alunoRepository.findById(form.getAlunoId()).get();
+
+    matricula.setAluno(aluno);
+
+    return matriculaRepository.save(matricula);
+  }
+
+  @Override
+  public Matricula get(Long id) {
+    return matriculaRepository.findById(id).get();
+  }
+
+  @Override
+  public List<Matricula> getAll(String bairro) {
+
+    if(bairro == null){
+      return matriculaRepository.findAll();
+    }else{
+      return matriculaRepository.findAlunosMatriculadosBairro(bairro);
+    }
+
+  }
+
+  @Override
+  public void delete(Long id) {}
+
+
+
+}
+package me.dio.academia.digital;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AcademiaDigitalApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
+package me.dio.academia.digital;
+
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+public class AlunoController {
+}
+package me.dio.academia.digital;
+
+public class AlunoImplTestes {
+}
+package me.dio.academia.digital;
+
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+public class AlunoRepositoryTestes {
+}
+package me.dio.academia.digital;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+public class AlunoServiceTests {
+
+    @Test
+    public void testar(){
+
+    }
+}

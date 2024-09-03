@@ -1,0 +1,10 @@
+.
+├── estrutura.txt
+├── README.md
+└── src
+    ├── batchmusic.json
+    ├── itemmusic.json
+    └── keyconditions.json
+    |__ music.yml
+
+2 directories, 5 files

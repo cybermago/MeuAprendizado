@@ -1,0 +1,61 @@
+.
+├── estrutura.txt
+├── main
+│   ├── java
+│   │   └── me
+│   │       └── dio
+│   │           └── academia
+│   │               └── digital
+│   │                   ├── AcademiaDigitalApplication.java
+│   │                   ├── controller
+│   │                   │   ├── AlunoController.java
+│   │                   │   ├── AvaliacaoFisicaController.java
+│   │                   │   └── MatriculaController.java
+│   │                   ├── entity
+│   │                   │   ├── Aluno.java
+│   │                   │   ├── AvaliacaoFisica.java
+│   │                   │   ├── form
+│   │                   │   │   ├── AlunoForm.java
+│   │                   │   │   ├── AlunoUpdateForm.java
+│   │                   │   │   ├── AvaliacaoFisicaForm.java
+│   │                   │   │   ├── AvaliacaoFisicaUpdateForm.java
+│   │                   │   │   └── MatriculaForm.java
+│   │                   │   └── Matricula.java
+│   │                   ├── infra
+│   │                   │   ├── jackson
+│   │                   │   │   ├── deser
+│   │                   │   │   │   ├── LocalDateDeserializer.java
+│   │                   │   │   │   └── LocalDateTimeDeserializer.java
+│   │                   │   │   ├── ObjectMapperConfig.java
+│   │                   │   │   └── ser
+│   │                   │   │       ├── LocalDateSerializer.java
+│   │                   │   │       └── LocalDateTimeSerializer.java
+│   │                   │   └── utils
+│   │                   │       └── JavaTimeUtils.java
+│   │                   ├── repository
+│   │                   │   ├── AlunoRepository.java
+│   │                   │   ├── AvaliacaoFisicaRepository.java
+│   │                   │   └── MatriculaRepository.java
+│   │                   └── service
+│   │                       ├── IAlunoService.java
+│   │                       ├── IAvaliacaoFisicaService.java
+│   │                       ├── IMatriculaService.java
+│   │                       └── impl
+│   │                           ├── AlunoServiceImpl.java
+│   │                           ├── AvaliacaoFisicaServiceImpl.java
+│   │                           └── MatriculaServiceImpl.java
+│   └── resources
+│       └── application.yml
+└── test
+    └── java
+        └── me
+            └── dio
+                └── academia
+                    └── digital
+                        ├── AcademiaDigitalApplicationTests.java
+                        ├── AlunoController.java
+                        ├── AlunoImplTestes.java
+                        ├── AlunoRepositoryTestes.java
+                        └── AlunoServiceTests.java
+
+25 directories, 34 files

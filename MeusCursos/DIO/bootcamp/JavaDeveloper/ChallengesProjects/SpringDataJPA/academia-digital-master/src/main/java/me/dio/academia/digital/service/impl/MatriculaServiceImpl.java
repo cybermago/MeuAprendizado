@@ -10,29 +10,48 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class MatriculaServiceImpl implements IMatriculaService {
 
-  @Autowired
-  private MatriculaRepository matriculaRepository;
+  private final MatriculaRepository matriculaRepository;
+  private final AlunoRepository alunoRepository;
 
   @Autowired
-  private AlunoRepository alunoRepository;
+  private MatriculaServiceImpl (MatriculaRepository matriculaRepository, AlunoRepository alunoRepository){
+    this.matriculaRepository = matriculaRepository;
+    this.alunoRepository = alunoRepository;
+  }
 
   @Override
   public Matricula create(MatriculaForm form) {
-    Matricula matricula = new Matricula();
-    Aluno aluno = alunoRepository.findById(form.getAlunoId()).get();
 
-    matricula.setAluno(aluno);
+    //Aluno aluno = alunoRepository.findById(form.getAlunoId()).get();
+    Optional<Aluno> alunoOptional = alunoRepository.findById(form.getAlunoId());
 
+    if(!alunoOptional.isPresent()){
+      throw new IllegalArgumentException("Aluno"+form.getAlunoId()+"não encontrado");
+    }
+
+    Aluno aluno = alunoOptional.get();
+
+    if(matriculaRepository.existsByAluno(aluno)){
+          throw  new IllegalArgumentException("ALuno já matriculado");
+    }
+
+    Matricula matricula = new Matricula(aluno);
     return matriculaRepository.save(matricula);
   }
 
   @Override
   public Matricula get(Long id) {
-    return matriculaRepository.findById(id).get();
+    return null;
+  }
+
+  @Override
+  public List<Matricula> getAll(){
+    return matriculaRepository.findAll();
   }
 
   @Override

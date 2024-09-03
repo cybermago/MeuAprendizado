@@ -1,0 +1,395 @@
+package one.digitalinnovation.gof;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
+
+/**
+ * Projeto Spring Boot gerado via Spring Initializr.
+ * Os seguintes módulos foram selecionados:
+ * - Spring Data JPA
+ * - Spring Web
+ * - H2 Database
+ * - OpenFeign
+ * 
+ * @author jonata
+ */
+@EnableFeignClients
+@SpringBootApplication
+public final class Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+
+}
+package one.digitalinnovation.gof.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import one.digitalinnovation.gof.model.Cliente;
+import one.digitalinnovation.gof.service.ClienteService;
+
+/**
+ * Esse {@link RestController} representa nossa <b>Facade</b>, pois abstrai toda
+ * a complexidade de integrações (Banco de Dados H2 e API do ViaCEP) em uma
+ * interface simples e coesa (API REST).
+ * 
+ * @author falvojr
+ */
+@RestController
+@RequestMapping("clientes")
+public class ClienteRestController {
+
+	@Autowired
+	private ClienteService clienteService;
+
+	@GetMapping
+	public ResponseEntity<Iterable<Cliente>> buscarTodos() {
+		return ResponseEntity.ok(clienteService.buscarTodos());
+	}
+
+	@GetMapping("/{id}")
+	public ResponseEntity<Cliente> buscarPorId(@PathVariable Long id) {
+		return ResponseEntity.ok(clienteService.buscarPorId(id));
+	}
+
+	@PostMapping
+	public ResponseEntity<Cliente> inserir(@RequestBody Cliente cliente) {
+		clienteService.inserir(cliente);
+		return ResponseEntity.ok(cliente);
+	}
+
+	@PutMapping("/{id}")
+	public ResponseEntity<Cliente> atualizar(@PathVariable Long id, @RequestBody Cliente cliente) {
+		clienteService.atualizar(id, cliente);
+		return ResponseEntity.ok(cliente);
+	}
+
+	@DeleteMapping("/{id}")
+	public ResponseEntity<Void> deletar(@PathVariable Long id) {
+		clienteService.deletar(id);
+		return ResponseEntity.ok().build();
+	}
+}
+package one.digitalinnovation.gof.model;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.ManyToOne;
+
+@Entity
+public class Cliente {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long id;
+	private String nome;
+	@ManyToOne
+	private Endereco endereco;
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+
+	public Endereco getEndereco() {
+		return endereco;
+	}
+
+	public void setEndereco(Endereco endereco) {
+		this.endereco = endereco;
+	}
+
+}
+package one.digitalinnovation.gof.model;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface ClienteRepository extends CrudRepository<Cliente, Long> {
+
+}package one.digitalinnovation.gof.model;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+/**
+ * Os atributos desse modelo foram gerados automaticamente pelo site
+ * jsonschema2pojo.org. Para isso, usamos o JSON de retorno da API do ViaCEP.
+ * 
+ * @see <a href="https://www.jsonschema2pojo.org">jsonschema2pojo.org</a>
+ * @see <a href="https://viacep.com.br">ViaCEP</a>
+ * 
+ * @author falvojr
+ */
+@Entity
+public class Endereco {
+
+	@Id
+	private String cep;
+	private String logradouro;
+	private String complemento;
+	private String bairro;
+	private String localidade;
+	private String uf;
+	private String ibge;
+	private String gia;
+	private String ddd;
+	private String siafi;
+
+	public String getCep() {
+		return cep;
+	}
+
+	public void setCep(String cep) {
+		this.cep = cep;
+	}
+
+	public String getLogradouro() {
+		return logradouro;
+	}
+
+	public void setLogradouro(String logradouro) {
+		this.logradouro = logradouro;
+	}
+
+	public String getComplemento() {
+		return complemento;
+	}
+
+	public void setComplemento(String complemento) {
+		this.complemento = complemento;
+	}
+
+	public String getBairro() {
+		return bairro;
+	}
+
+	public void setBairro(String bairro) {
+		this.bairro = bairro;
+	}
+
+	public String getLocalidade() {
+		return localidade;
+	}
+
+	public void setLocalidade(String localidade) {
+		this.localidade = localidade;
+	}
+
+	public String getUf() {
+		return uf;
+	}
+
+	public void setUf(String uf) {
+		this.uf = uf;
+	}
+
+	public String getIbge() {
+		return ibge;
+	}
+
+	public void setIbge(String ibge) {
+		this.ibge = ibge;
+	}
+
+	public String getGia() {
+		return gia;
+	}
+
+	public void setGia(String gia) {
+		this.gia = gia;
+	}
+
+	public String getDdd() {
+		return ddd;
+	}
+
+	public void setDdd(String ddd) {
+		this.ddd = ddd;
+	}
+
+	public String getSiafi() {
+		return siafi;
+	}
+
+	public void setSiafi(String siafi) {
+		this.siafi = siafi;
+	}
+
+}
+package one.digitalinnovation.gof.model;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface EnderecoRepository extends CrudRepository<Endereco, String> {
+
+}package one.digitalinnovation.gof.service;
+
+import one.digitalinnovation.gof.model.Cliente;
+
+/**
+ * Interface que define o padrão <b>Strategy</b> no domínio de cliente. Com
+ * isso, se necessário, podemos ter multiplas implementações dessa mesma
+ * interface.
+ * 
+ * @author falvojr
+ */
+public interface ClienteService {
+
+	Iterable<Cliente> buscarTodos();
+
+	Cliente buscarPorId(Long id);
+
+	void inserir(Cliente cliente);
+
+	void atualizar(Long id, Cliente cliente);
+
+	void deletar(Long id);
+
+}
+package one.digitalinnovation.gof.service.impl;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import one.digitalinnovation.gof.model.Cliente;
+import one.digitalinnovation.gof.model.ClienteRepository;
+import one.digitalinnovation.gof.model.Endereco;
+import one.digitalinnovation.gof.model.EnderecoRepository;
+import one.digitalinnovation.gof.service.ClienteService;
+import one.digitalinnovation.gof.service.ViaCepService;
+
+/**
+ * Implementação da <b>Strategy</b> {@link ClienteService}, a qual pode ser
+ * injetada pelo Spring (via {@link Autowired}). Com isso, como essa classe é um
+ * {@link Service}, ela será tratada como um <b>Singleton</b>.
+ * 
+ * @author falvojr
+ */
+@Service
+public class ClienteServiceImpl implements ClienteService {
+
+	// Singleton: Injetar os componentes do Spring com @Autowired.
+	@Autowired
+	private ClienteRepository clienteRepository;
+	@Autowired
+	private EnderecoRepository enderecoRepository;
+	@Autowired
+	private ViaCepService viaCepService;
+	
+	// Strategy: Implementar os métodos definidos na interface.
+	// Facade: Abstrair integrações com subsistemas, provendo uma interface simples.
+
+	@Override
+	public Iterable<Cliente> buscarTodos() {
+		// Buscar todos os Clientes.
+		return clienteRepository.findAll();
+	}
+
+	@Override
+	public Cliente buscarPorId(Long id) {
+		// Buscar Cliente por ID.
+		Optional<Cliente> cliente = clienteRepository.findById(id);
+		return cliente.get();
+	}
+
+	@Override
+	public void inserir(Cliente cliente) {
+		salvarClienteComCep(cliente);
+	}
+
+	@Override
+	public void atualizar(Long id, Cliente cliente) {
+		// Buscar Cliente por ID, caso exista:
+		Optional<Cliente> clienteBd = clienteRepository.findById(id);
+		if (clienteBd.isPresent()) {
+			salvarClienteComCep(cliente);
+		}
+	}
+
+	@Override
+	public void deletar(Long id) {
+		// Deletar Cliente por ID.
+		clienteRepository.deleteById(id);
+	}
+
+	private void salvarClienteComCep(Cliente cliente) {
+		// Verificar se o Endereco do Cliente já existe (pelo CEP).
+		String cep = cliente.getEndereco().getCep();
+		Endereco endereco = enderecoRepository.findById(cep).orElseGet(() -> {
+			// Caso não exista, integrar com o ViaCEP e persistir o retorno.
+			Endereco novoEndereco = viaCepService.consultarCep(cep);
+			enderecoRepository.save(novoEndereco);
+			return novoEndereco;
+		});
+		cliente.setEndereco(endereco);
+		// Inserir Cliente, vinculando o Endereco (novo ou existente).
+		clienteRepository.save(cliente);
+	}
+
+}
+package one.digitalinnovation.gof.service;
+
+import org.springframework.cloud.openfeign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+
+import one.digitalinnovation.gof.model.Endereco;
+
+/**
+ * Client HTTP, criado via <b>OpenFeign</b>, para o consumo da API do
+ * <b>ViaCEP</b>.
+ * 
+ * @see <a href="https://spring.io/projects/spring-cloud-openfeign">Spring Cloud OpenFeign</a>
+ * @see <a href="https://viacep.com.br">ViaCEP</a>
+ * 
+ * @author falvojr
+ */
+@FeignClient(name = "viacep", url = "https://viacep.com.br/ws")
+public interface ViaCepService {
+
+	@GetMapping("/{cep}/json/")
+	Endereco consultarCep(@PathVariable("cep") String cep);
+}
+package one.digitalinnovation.gof;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LabPadroesProjetoSpringApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

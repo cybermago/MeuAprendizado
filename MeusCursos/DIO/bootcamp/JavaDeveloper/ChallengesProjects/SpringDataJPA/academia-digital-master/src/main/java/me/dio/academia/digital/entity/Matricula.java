@@ -5,6 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotNull;
 import java.time.LocalDateTime;
 
 @Data
@@ -18,9 +19,11 @@ public class Matricula {
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
-  @OneToOne(cascade = CascadeType.ALL)
+  @NotNull(message = "Aluno é obrigatório")
+  @ManyToOne (cascade = CascadeType.ALL)
   @JoinColumn(name = "aluno_id")
   private Aluno aluno;
 
-  private LocalDateTime dataDaMatricula = LocalDateTime.now();
+  @NotNull(message = "Data da matrícula é obrigatória")
+  private final LocalDateTime dataDaMatricula = LocalDateTime.now();
 }

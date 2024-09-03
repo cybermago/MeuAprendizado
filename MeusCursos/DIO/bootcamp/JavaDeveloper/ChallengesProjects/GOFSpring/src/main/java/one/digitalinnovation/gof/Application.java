@@ -12,11 +12,14 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * - H2 Database
  * - OpenFeign
  * 
- * @author falvojr
+ * @author jonata
+ * @version 2.0
+ * 
+ * Novas Alterações Testes com JUNIT e Tratamento de Exceções
  */
 @EnableFeignClients
 @SpringBootApplication
-public class Application {
+public final class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);

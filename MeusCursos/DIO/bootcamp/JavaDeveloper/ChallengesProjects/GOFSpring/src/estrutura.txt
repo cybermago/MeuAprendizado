@@ -1,0 +1,28 @@
+.
+├── estrutura.txt
+├── main
+│   └── java
+│       └── one
+│           └── digitalinnovation
+│               └── gof
+│                   ├── Application.java
+│                   ├── controller
+│                   │   └── ClienteRestController.java
+│                   ├── model
+│                   │   ├── Cliente.java
+│                   │   ├── ClienteRepository.java
+│                   │   ├── Endereco.java
+│                   │   └── EnderecoRepository.java
+│                   └── service
+│                       ├── ClienteService.java
+│                       ├── impl
+│                       │   └── ClienteServiceImpl.java
+│                       └── ViaCepService.java
+└── test
+    └── java
+        └── one
+            └── digitalinnovation
+                └── gof
+                    └── LabPadroesProjetoSpringApplicationTests.java
+
+15 directories, 11 files
